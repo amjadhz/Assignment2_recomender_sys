@@ -51,4 +51,3 @@ st.write("**Fairness:** Maintaining a balanced representation of content.")
 st.write("**Diversity:** Recommending content from multiple categories.")
 st.write("**Autonomy:** Allowing users to refine their preferences dynamically.")
 
-# Run the developer dashboard with: streamlit run developer_dashboard.py

@@ -55,7 +55,7 @@ if "selected_broadcast" not in st.session_state:
 
 categories = data["category"].unique()
 
-# Step 1: User Chooses Preferences
+# User Chooses Preferences
 st.header("Discover BBC Content")
 
 if not st.session_state.recommendations_ready:
@@ -172,5 +172,3 @@ else:
     if st.button("Back to Home"):
         st.session_state.selected_broadcast = None
         st.rerun()
-
-# Run the user app with: streamlit run user_app.py

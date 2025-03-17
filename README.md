@@ -59,3 +59,26 @@ Once you are done, deactivate the virtual environment by running:
 ```sh
 deactivate
 ```
+
+
+
+## User App
+In this application you can see how the app will looklike for user
+
+To run it use command 
+
+```sh
+streamlit run "user_app.py"
+```
+
+## Developer Dashboard 
+
+This is another app can be run in parallel with the user app to see the user interactions.
+
+Here where we put our metrics for the values we choose 
+
+To run it use command 
+
+```sh
+streamlit run "developer_dashboard.py"
+```
