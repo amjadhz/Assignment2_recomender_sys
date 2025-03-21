@@ -8,7 +8,7 @@ def clear_user_data():
         json.dump({"user_preferences": {}, "user_interactions": []}, f)
 
 # Clear JSON file at the start of the app
-clear_user_data()
+clear_user_data() 
 
 # Load dataset
 @st.cache_data
@@ -34,6 +34,14 @@ def load_user_data():
     except FileNotFoundError:
         return {}, []
 
+# Handle view button click - callback function
+def view_broadcast(broadcast):
+    st.session_state.selected_broadcast = broadcast
+
+# Handle back button click
+def go_back_home():
+    st.session_state.selected_broadcast = None
+
 # Initialize session states
 if "user_preferences" not in st.session_state:
     st.session_state.user_preferences, st.session_state.user_interactions = load_user_data()
@@ -58,6 +66,7 @@ categories = data["category"].unique()
 # User Chooses Preferences
 st.header("Discover BBC Content")
 
+# Main app logic
 if not st.session_state.recommendations_ready:
     if st.session_state.category_index < len(categories):
         current_category = categories[st.session_state.category_index]
@@ -74,15 +83,15 @@ if not st.session_state.recommendations_ready:
                 st.write(f"**{row['title']}**")
                 st.write(row["description"])
                 
-                like_key = f"like_{row['title']}"
-                dislike_key = f"dislike_{row['title']}"
+                like_key = f"like_{i}"  
+                dislike_key = f"dislike_{i}" 
                 
                 if like_key not in st.session_state.current_choices:
                     st.session_state.current_choices[like_key] = None
                 
                 col1, col2 = st.columns(2)
                 with col1:
-                    if st.session_state.current_choices[like_key] == 1:
+                    if st.session_state.current_choices.get(like_key) == 1:
                         st.button("👍", key=like_key, disabled=True, help="Liked")
                     elif st.button("👍", key=like_key):
                         st.session_state.current_choices[like_key] = 1
@@ -91,7 +100,7 @@ if not st.session_state.recommendations_ready:
                         st.rerun()
                 
                 with col2:
-                    if st.session_state.current_choices[like_key] == -1:
+                    if st.session_state.current_choices.get(like_key) == -1:
                         st.button("👎", key=dislike_key, disabled=True, help="Disliked")
                     elif st.button("👎", key=dislike_key):
                         st.session_state.current_choices[like_key] = -1
@@ -127,48 +136,60 @@ elif st.session_state.selected_broadcast is None:
         "Trending or Popular": data.sample(10, replace=True)
     }
     
-    for section, content in sections.items():
-        st.subheader(section)
+    for section_name, content in sections.items():
+        st.subheader(section_name)
         cols = st.columns(5)
         
         for i, (_, row) in enumerate(content.iterrows()):
             with cols[i % 5]:
                 st.image(row["image"])
                 st.write(f"**{row['title']}**")
-                if st.button(f"View {row['title']}", key=f"view_{row['title']}"):
-                    st.session_state.selected_broadcast = row.to_dict()
-                    st.rerun()
+                
+                button_key = f"view_{section_name}_{i}"
+                st.button(
+                    "View", 
+                    key=button_key,
+                    on_click=view_broadcast,
+                    args=(row.to_dict(),)
+                )
 
 # Broadcast Page
 else:
-    st.title(st.session_state.selected_broadcast["title"])
-    st.image(st.session_state.selected_broadcast["image"])
-    st.write(st.session_state.selected_broadcast["description"])
-    
-    like_key = f"like_{st.session_state.selected_broadcast['title']}"
-    dislike_key = f"dislike_{st.session_state.selected_broadcast['title']}"
-    
-    col1, col2 = st.columns(2)
-    with col1:
-        if st.button("👍 Like", key=like_key):
-            st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"], "liked"))
-            save_user_data()
-    with col2:
-        if st.button("👎 Dislike", key=dislike_key):
-            st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"], "disliked"))
-            save_user_data()
-    
-    st.subheader("More Recommendations")
-    more_recommendations = data.sample(10, replace=True)
-    cols = st.columns(5)
-    for i, (_, row) in enumerate(more_recommendations.iterrows()):
-        with cols[i % 5]:
-            st.image(row["image"],)
-            st.write(f"**{row['title']}**")
-            if st.button(f"View {row['title']}", key=f"view_more_{row['title']}"):
-                st.session_state.selected_broadcast = row.to_dict()
-                st.rerun()
-    
-    if st.button("Back to Home"):
-        st.session_state.selected_broadcast = None
-        st.rerun()
+    try:
+        st.title(st.session_state.selected_broadcast["title"])
+        st.image(st.session_state.selected_broadcast["image"])
+        st.write(st.session_state.selected_broadcast["description"])
+        
+        like_key = f"like_broadcast"
+        dislike_key = f"dislike_broadcast"
+        
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("👍 Like", key=like_key):
+                st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"], "liked"))
+                save_user_data()
+        with col2:
+            if st.button("👎 Dislike", key=dislike_key):
+                st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"], "disliked"))
+                save_user_data()
+        
+        st.subheader("More Recommendations")
+        more_recommendations = data.sample(5, replace=True)  
+        cols = st.columns(5)
+        for i, (_, row) in enumerate(more_recommendations.iterrows()):
+            with cols[i % 5]:
+                st.image(row["image"])
+                st.write(f"**{row['title']}**")
+                
+                rec_button_key = f"view_more_{i}"
+                st.button(
+                    "View", 
+                    key=rec_button_key,
+                    on_click=view_broadcast,
+                    args=(row.to_dict(),)
+                )
+        
+        st.button("Back to Home", on_click=go_back_home)
+    except Exception as e:
+        st.error(f"Error displaying broadcast: {e}")
+        st.button("Back to Home", on_click=go_back_home)
