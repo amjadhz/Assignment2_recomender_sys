@@ -48,13 +48,12 @@ else:
     st.dataframe(pd.DataFrame(list(st.session_state.user_preferences.items()), columns=["Category", "Preference Score"]))
 
     st.write("### Recent User Interactions")
-    interactions_df = pd.DataFrame(st.session_state.user_interactions, columns=["Title", "Action"])
+    interactions_df = pd.DataFrame(st.session_state.user_interactions, columns=["Title", "Category", "Action"])
     st.dataframe(interactions_df)
 
 # Fairness Analysis Section
 st.header("Fairness Analysis")
 
-# Fairness Score Calculation
 def compute_fairness_score(watch_count):
     return 1 / (1 + watch_count)  # Less-watched content gets a boost
 
@@ -75,7 +74,11 @@ st.subheader("Least-Watched Content (Fairness Boost Candidates)")
 least_watched_df = pd.DataFrame(
     [{"title": title, "watch_count": count, "fairness_score": compute_fairness_score(count)} 
      for title, count in st.session_state.watch_counts.items()]
-).sort_values(by="watch_count", ascending=True).head(10)
+)
+
+if "watch_count" in least_watched_df.columns:
+    least_watched_df = least_watched_df.sort_values(by="watch_count", ascending=True).head(10)
+
 st.dataframe(least_watched_df)
 
 # Fairness Score Distribution

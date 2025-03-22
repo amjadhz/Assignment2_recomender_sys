@@ -7,6 +7,7 @@ import os
 USER_DATA_FILE = "./data/user_interactions.json"
 
 # Function to load or initialize user data (including watch counts)
+
 def load_user_data():
     if os.path.exists(USER_DATA_FILE):
         with open(USER_DATA_FILE, "r") as f:
@@ -67,7 +68,6 @@ def compute_fairness_score(title):
     watch_count = st.session_state.watch_counts.get(title, 0)
     return 1 / (1 + watch_count)  # Less-watched content gets a boost
 
-# Get fairness-adjusted recommendations
 def get_fair_recommendations(data):
     if "relevance_score" not in data.columns:
         data["relevance_score"] = 1  # Default relevance score if missing
@@ -75,6 +75,11 @@ def get_fair_recommendations(data):
     data["fairness_score"] = data["title"].apply(compute_fairness_score)
     data["adjusted_score"] = 0.8 * data["relevance_score"] + 0.2 * data["fairness_score"]
     return data.sort_values(by="adjusted_score", ascending=False)
+
+def get_interest_based_recommendations(data):
+    interested_categories = set([interaction[1] for interaction in st.session_state.user_interactions])
+    interest_recommendations = data[data["category"].isin(interested_categories)].sample(10, replace=True)
+    return interest_recommendations
 
 # User Chooses Preferences
 st.header("Discover BBC Content")
@@ -107,7 +112,7 @@ if not st.session_state.recommendations_ready:
                         st.button("👍", key=like_key, disabled=True, help="Liked")
                     elif st.button("👍", key=like_key):
                         st.session_state.current_choices[like_key] = 1
-                        st.session_state.user_interactions.append((row["title"], "liked"))
+                        st.session_state.user_interactions.append((row["title"], row["category"], "liked"))
                         save_user_data()
                         st.rerun()
                 
@@ -116,7 +121,7 @@ if not st.session_state.recommendations_ready:
                         st.button("👎", key=dislike_key, disabled=True, help="Disliked")
                     elif st.button("👎", key=dislike_key):
                         st.session_state.current_choices[like_key] = -1
-                        st.session_state.user_interactions.append((row["title"], "disliked"))
+                        st.session_state.user_interactions.append((row["title"], row["category"], "disliked"))
                         save_user_data()
                         st.rerun()
         
@@ -160,7 +165,8 @@ elif st.session_state.selected_broadcast is None:
     st.header("Your Recommendations")
 
     sections = {
-        "For You": get_fair_recommendations(data).head(10),
+        "For You": get_fair_recommendations(data).head(10),  # Personalized + Fairness
+        "Interested": get_interest_based_recommendations(data),  # Based on past interactions
         "Trending Now": data.sample(10, replace=True),
         "Most Watched": data.sample(10, replace=True),
     }
@@ -189,11 +195,11 @@ else:
     col1, col2 = st.columns(2)
     with col1:
         if st.button("👍 Like", key=like_key):
-            st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"], "liked"))
+            st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"],st.session_state.selected_broadcast["category"], "liked"))
             save_user_data()
     with col2:
         if st.button("👎 Dislike", key=dislike_key):
-            st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"], "disliked"))
+            st.session_state.user_interactions.append((st.session_state.selected_broadcast["title"],st.session_state.selected_broadcast["category"], "disliked"))
             save_user_data()
 
     # Increment Watch Count
