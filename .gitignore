@@ -1,2 +1,4 @@
 .venv
 *.pkl
+test.py
+test_functions.ipynb
