@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import json
-
+# New comment
 # Function to clear user interactions file
 def clear_user_data():
     with open("./data/user_interactions.json", "w") as f:
