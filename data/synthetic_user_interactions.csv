@@ -1,0 +1,518 @@
+User ID,Persona,Title,Category,Rating,Watched Completely,Device,Timestamp
+user_1,Balanced Viewer,Mistresses - Series 1: Episode 2,From the Archives,2,No,Laptop,2024-12-28 16:36:34
+user_1,Balanced Viewer,Doctor Who - Series 7: 7. The Bells of Saint John,From the Archives,3,No,Laptop,2024-05-03 16:36:34
+user_1,Balanced Viewer,Only Connect - Series 17: Semi-Final 2,Entertainment,3,No,Smartphone,2024-12-11 16:36:34
+user_1,Balanced Viewer,Monty Don's Adriatic Gardens - Series 1: Episode 1,Documentaries,2,No,TV,2024-05-04 16:36:34
+user_1,Balanced Viewer,Shelf Isolation - Series 2: Episode 6,Arts,3,No,Smartphone,2024-05-02 16:36:34
+user_1,Balanced Viewer,Numberblocks - Series 4: Ten's Place,Signed,1,No,Tablet,2024-08-18 16:36:34
+user_1,Balanced Viewer,Last Tango in Halifax - Series 2: Episode 5,From the Archives,2,No,Smartphone,2024-08-09 16:36:34
+user_2,Balanced Viewer,Top Gear - Series 12: Episode 6,Entertainment,1,No,Tablet,2024-12-26 16:36:34
+user_2,Balanced Viewer,The Dengineers - Series 6: 6. Engineering Den,CBBC,3,No,TV,2024-04-23 16:36:34
+user_2,Balanced Viewer,The Train Now Departing - 5. Lines of Industry,Documentaries,2,No,TV,2025-01-19 16:36:34
+user_2,Balanced Viewer,CBeebies Bedtime Stories - 540. Eve Myles - The Dawn Chorus,Signed,4,Yes,TV,2024-09-23 16:36:34
+user_2,Balanced Viewer,My Family - Series 6: 1. Bliss for Idiots,From the Archives,3,No,Laptop,2025-03-08 16:36:34
+user_2,Balanced Viewer,Only Connect - Series 17: 4. Golfers v Wildlifers,Entertainment,1,No,Tablet,2024-11-13 16:36:34
+user_3,Documentary Lover,My Family - Series 2: 2. The Unkindest Cut,From the Archives,1,No,TV,2024-05-21 16:36:34
+user_3,Documentary Lover,Life and Death Row - Love Triangle: Episode 1,Documentaries,4,Yes,TV,2024-06-14 16:36:34
+user_3,Documentary Lover,Bad Education - Series 1: 6. Politics,From the Archives,3,No,TV,2025-03-04 16:36:34
+user_3,Documentary Lover,The Plank,Films,1,No,Smartphone,2024-10-26 16:36:34
+user_4,Entertainment Junkie,The Warwick Uni Rape Chat Scandal,Documentaries,4,Yes,TV,2024-10-11 16:36:34
+user_4,Entertainment Junkie,The Fires that Foretold Grenfell - Signed,Signed,1,No,Smartphone,2025-03-23 16:36:34
+user_4,Entertainment Junkie,Louis Theroux: Docs That Made Me,Documentaries,1,No,Smartphone,2024-12-15 16:36:34
+user_4,Entertainment Junkie,Jamie Johnson - Series 3: 6. The Wrong Path,Signed,3,No,Smartphone,2024-11-25 16:36:34
+user_4,Entertainment Junkie,Na Trads: An Tobar - Series 1: Episode 3,Music,1,No,TV,2024-06-05 16:36:34
+user_5,News Watcher,A City Dreaming,Documentaries,1,No,Smartphone,2024-10-02 16:36:34
+user_5,News Watcher,Rick Stein's Cornwall - Series 1: Episode 2,Food,3,No,Tablet,2024-12-31 16:36:34
+user_5,News Watcher,Got What It Takes? - Series 6: 1. Meet the Singers,CBBC,3,No,TV,2025-01-13 16:36:34
+user_5,News Watcher,Doctor Who - Series 6: 5. The Rebel Flesh,From the Archives,2,No,Tablet,2024-08-14 16:36:34
+user_5,News Watcher,Boy Girl Dog Cat Mouse Cheese - Series 1: 36. Family Photo,CBBC,4,Yes,Smartphone,2025-02-15 16:36:34
+user_5,News Watcher,Strictly Come Dancing - Series 19: Week 11 Results,Entertainment,3,No,Tablet,2024-08-31 16:36:34
+user_5,News Watcher,Rhod Gilbert's Work Experience - Series 3: 1. Teacher,From the Archives,2,No,Smartphone,2025-02-04 16:36:34
+user_6,News Watcher,Northern Irish... - Series 1: Northern Irish Love Stories,Documentaries,3,No,Smartphone,2025-02-16 16:36:34
+user_6,News Watcher,"University Challenge - Christmas 2021: 4. LSE v Hertford, Oxford",Entertainment,2,No,TV,2025-02-16 16:36:34
+user_6,News Watcher,Waterloo Road - Series 8: Episode 24,From the Archives,3,No,Tablet,2024-11-06 16:36:34
+user_6,News Watcher,Death in Paradise - Series 2: Episode 1,From the Archives,3,No,TV,2024-10-21 16:36:34
+user_6,News Watcher,School of Roars - Series 1: 4. I Want the Human - Signed,Signed,2,No,Laptop,2024-07-19 16:36:35
+user_6,News Watcher,ear for eye,Films,1,No,Tablet,2024-09-06 16:36:35
+user_7,Balanced Viewer,A Dangerous Dynasty: House of Assad - Series 1: Episode 2,Documentaries,3,No,Smartphone,2024-05-04 16:36:35
+user_7,Balanced Viewer,"Gunda: Mother, Pig",Documentaries,1,No,Tablet,2024-04-26 16:36:35
+user_7,Balanced Viewer,The Baby Club - Songs: Head Shoulders Knees and Toes,Signed,2,No,TV,2024-12-09 16:36:35
+user_7,Balanced Viewer,My Unique B&B - Series 1: 7. Becky and David's Yurt - Signed,Signed,1,No,Tablet,2024-11-02 16:36:35
+user_7,Balanced Viewer,What We Do in the Shadows - Series 3: 4. The Casino - Signed,Signed,1,No,Laptop,2024-12-03 16:36:35
+user_7,Balanced Viewer,Sicily: The Wonder of the Mediterranean - Series 1: Episode 2,Documentaries,1,No,Tablet,2024-08-08 16:36:35
+user_8,News Watcher,The Next Step - Series 3: 5. The Fallout - Signed,Signed,3,No,TV,2024-07-12 16:36:35
+user_8,News Watcher,The Next Step - Series 1: 1. Get This Party Started - Signed,Signed,3,No,Smartphone,2024-11-15 16:36:35
+user_8,News Watcher,Hospital - Series 7: Episode 3,Documentaries,2,No,Smartphone,2024-09-12 16:36:35
+user_8,News Watcher,Wayfaring Stranger with Phil Cunningham - Series 1: Episode 2,Music,4,Yes,Laptop,2024-11-23 16:36:35
+user_8,News Watcher,Love Monster - Series 3: 10. Fluffytown Swap Day,Signed,5,Yes,TV,2024-08-12 16:36:35
+user_9,Balanced Viewer,Snooker: Welsh Open - 2022: 2. Day One - Part 2,Sports,2,No,Smartphone,2024-04-03 16:36:35
+user_9,Balanced Viewer,Hugh's Wild West - Series 1: Episode 1,Documentaries,2,No,TV,2024-11-08 16:36:35
+user_9,Balanced Viewer,So Awkward - Series 5: 12. Virtue and Virtuality,Signed,2,No,Tablet,2024-09-04 16:36:35
+user_9,Balanced Viewer,RuPaul’s Drag Race UK vs the World - Series 1: Episode 1 - Signed,Signed,2,No,Smartphone,2024-10-20 16:36:35
+user_9,Balanced Viewer,Spooks - Series 7: Episode 4,From the Archives,2,No,TV,2024-05-25 16:36:35
+user_10,News Watcher,Fleabag - Series 2: Episode 5,Comedy,2,No,Laptop,2024-09-01 16:36:35
+user_10,News Watcher,Pointless - Series 26: Episode 30,Entertainment,2,No,Smartphone,2024-11-21 16:36:35
+user_10,News Watcher,"Silent Witness - Series 24: 5. Reputations, Part 1",From the Archives,3,No,Tablet,2024-08-27 16:36:35
+user_10,News Watcher,Coming Oot! A Fabulous History of Gay Scotland,Documentaries,3,No,Smartphone,2025-03-21 16:36:35
+user_11,Entertainment Junkie,The Toddler Club - At Home: 7. Opposites - Signed,Signed,3,No,Laptop,2025-03-09 16:36:35
+user_11,Entertainment Junkie,The Magnificent Ambersons,Films,2,No,TV,2024-11-01 16:36:35
+user_11,Entertainment Junkie,The Graham Norton Show - Series 28: Episode 23,Entertainment,5,Yes,TV,2024-08-05 16:36:35
+user_11,Entertainment Junkie,Ghosts - Series 3: 5. Something to Share?,Comedy,1,No,Laptop,2024-11-06 16:36:35
+user_11,Entertainment Junkie,Loggerheads - Series 1: Episode 3,Entertainment,1,No,TV,2024-04-18 16:36:35
+user_11,Entertainment Junkie,Best Home Cook - Series 2: Episode 5,Entertainment,2,No,TV,2024-08-04 16:36:35
+user_11,Entertainment Junkie,"Silent Witness - Series 5: 1. The World Cruise, Part 1",From the Archives,3,No,Tablet,2024-10-11 16:36:35
+user_12,Documentary Lover,Drugs Map of Britain - 3. Scotland's Valium Crisis,Documentaries,4,Yes,Tablet,2025-03-13 16:36:35
+user_12,Documentary Lover,Olobob Top - Series 2: 9. Bigger Fish,Signed,2,No,Laptop,2024-07-03 16:36:35
+user_12,Documentary Lover,Murder Trial: The Disappearance of Margaret Fleming - Series 1: Episode 2,Documentaries,1,No,Smartphone,2024-10-05 16:36:35
+user_12,Documentary Lover,Different League: The Derry City Story - Signed,Signed,3,No,Smartphone,2024-12-27 16:36:35
+user_12,Documentary Lover,Frozen Planet - 5. Winter,Documentaries,4,Yes,TV,2024-11-15 16:36:35
+user_12,Documentary Lover,Great British Menu - Series 14: 12. North West Judging,Food,2,No,TV,2024-09-07 16:36:35
+user_13,News Watcher,Louis Theroux - Miami Mega-Jail: Part 1,Documentaries,1,No,TV,2025-01-25 16:36:35
+user_13,News Watcher,Landward - 2021: Episode 6,Science & Nature,3,No,Smartphone,2024-03-31 16:36:35
+user_13,News Watcher,Molly and Mack - Series 1: 1. The New Stall,Signed,2,No,Laptop,2024-06-20 16:36:35
+user_13,News Watcher,Naomi's Nightmares of Nature - Series 2: 1. Alaska,CBBC,2,No,Smartphone,2024-11-13 16:36:35
+user_14,Documentary Lover,Britain's Best Young Artist - Series 1: 5. Modern Art - Signed,Signed,2,No,Tablet,2025-02-13 16:36:35
+user_14,Documentary Lover,Vandullz - Series 1: Episode 2,Comedy,2,No,TV,2024-12-15 16:36:35
+user_14,Documentary Lover,Iolo's Pembrokeshire - Series 1: Episode 2 - Signed,Signed,1,No,Laptop,2024-09-03 16:36:35
+user_14,Documentary Lover,Spooks - Series 5: Episode 1,From the Archives,2,No,Laptop,2025-01-21 16:36:35
+user_15,Balanced Viewer,Topsy and Tim - Series 2: 23. School Run,Signed,2,No,Tablet,2025-01-01 16:36:35
+user_15,Balanced Viewer,The Dumping Ground - Series 1: 11. Seriously Funny,Signed,2,No,Tablet,2024-07-11 16:36:35
+user_15,Balanced Viewer,Back to Life - Series 1: Episode 3,Comedy,3,No,Laptop,2024-08-13 16:36:35
+user_15,Balanced Viewer,Strictly Come Dancing - Series 19: Week 6,Entertainment,2,No,Tablet,2024-04-20 16:36:35
+user_15,Balanced Viewer,The Next Step - Series 3: 26. We Are the World - Signed,Signed,4,Yes,Smartphone,2025-01-10 16:36:35
+user_15,Balanced Viewer,The Moment of Proof - Series 2: 5. The Shopping Trolley Trail,Documentaries,2,No,Tablet,2025-02-05 16:36:35
+user_15,Balanced Viewer,Inspector Montalbano - The Sense of Touch,From the Archives,3,No,Laptop,2024-11-18 16:36:35
+user_16,Entertainment Junkie,Pokémon: Black and White - Series 14: 19. A Connoisseur’s Revenge!,CBBC,2,No,Tablet,2024-05-19 16:36:35
+user_16,Entertainment Junkie,Nowhere Boys - Series 2: Episode 1,CBBC,4,Yes,Laptop,2024-09-02 16:36:35
+user_16,Entertainment Junkie,MasterChef - Series 12: Episode 15,Entertainment,5,Yes,TV,2024-05-14 16:36:35
+user_17,Entertainment Junkie,EastEnders 2010 - 26/12/2009,From the Archives,2,No,TV,2025-02-19 16:36:35
+user_17,Entertainment Junkie,Wizards vs Aliens - Series 3: 5. The Daughters of Stone Part One,CBBC,3,No,Laptop,2024-06-19 16:36:35
+user_17,Entertainment Junkie,Atlantis - Series 2: 5. The Day of the Dead,From the Archives,1,No,TV,2024-08-12 16:36:35
+user_17,Entertainment Junkie,"Being British East Asian: Sex, Beauty & Bodies - Series 1: 2. Beauty",Documentaries,3,No,Smartphone,2024-10-13 16:36:35
+user_17,Entertainment Junkie,The Repair Shop - Series 9: Episode 7,Signed,1,No,TV,2024-05-23 16:36:35
+user_18,Sports Fan,Death in Paradise - Series 3: Episode 4,From the Archives,1,No,Tablet,2024-04-05 16:36:35
+user_18,Sports Fan,Love and Hate Crime - Series 2: 1. Killing in the Classroom,Documentaries,3,No,Smartphone,2024-04-21 16:36:35
+user_18,Sports Fan,2 Point 4 Children - Series 7: 4. The Sweet Hereafter,From the Archives,2,No,Laptop,2025-02-18 16:36:35
+user_18,Sports Fan,Rap Trip: Underground Scenes Uncovered - Series 1: 3. The Rise of Asian Rap,Documentaries,1,No,Laptop,2024-07-14 16:36:35
+user_19,News Watcher,My Family - Series 2: 2. The Unkindest Cut,From the Archives,1,No,Tablet,2025-01-18 16:36:35
+user_19,News Watcher,M.I. High - Series 1: 7. Spy Animals,Signed,1,No,TV,2024-05-18 16:36:35
+user_19,News Watcher,The Late Show - Face to Face: Ken Dodd,From the Archives,3,No,Smartphone,2024-11-15 16:36:35
+user_19,News Watcher,All at Sea - Series 2: 9. Horror,CBBC,2,No,Tablet,2024-04-18 16:36:35
+user_19,News Watcher,Face to Face - Adam Faith,From the Archives,2,No,TV,2024-09-30 16:36:35
+user_19,News Watcher,Back to Life - Series 1: Episode 5,Comedy,1,No,Laptop,2024-12-15 16:36:35
+user_19,News Watcher,Spiral - Series 3: The Butcher of La Villette: Episode 10,From the Archives,3,No,TV,2025-02-11 16:36:35
+user_20,News Watcher,Murder Trial: The Disappearance of Margaret Fleming - Series 1: Episode 1 - Signed,Signed,5,Yes,Tablet,2024-10-20 16:36:35
+user_20,News Watcher,What We Do in the Shadows - Series 2: 9. Witches,Comedy,3,No,Tablet,2025-02-02 16:36:35
+user_20,News Watcher,Dragons' Den - Series 19: Episode 7,Entertainment,2,No,Smartphone,2024-09-07 16:36:35
+user_20,News Watcher,State of the Union - Series 1: 4. Plaster Cast,Comedy,3,No,Laptop,2025-02-19 16:36:35
+user_20,News Watcher,Top Gear - Series 19: Episode 1,Entertainment,1,No,Tablet,2024-10-17 16:36:35
+user_20,News Watcher,"The Fresh Prince of Bel-Air - Series 1: 5. Homeboy, Sweet Homeboy",Comedy,3,No,Smartphone,2024-08-24 16:36:35
+user_21,News Watcher,The Pets Factor - Series 8: Episode 2,Signed,1,No,Smartphone,2024-12-21 16:36:35
+user_21,News Watcher,"Pokémon: Black and White - Series 16 - Adventures in Unova and Beyond: 26. Farewell, Unova! Setting Sail for New Adventures!",CBBC,4,Yes,Smartphone,2024-04-09 16:36:35
+user_21,News Watcher,"'Til Kingdom Come: Trump, Faith and Money",Documentaries,1,No,TV,2024-09-11 16:36:35
+user_21,News Watcher,Almost Never - Series 3: 10. The Deal,CBBC,2,No,Laptop,2024-06-26 16:36:35
+user_21,News Watcher,Horrible Histories - Series 8: 3. Chaotic Collabs,CBBC,2,No,Smartphone,2025-02-18 16:36:35
+user_22,Documentary Lover,The Bhangra Boss - The Story of DJ Vips,Documentaries,4,Yes,Smartphone,2025-03-01 16:36:35
+user_22,Documentary Lover,Operation Ouch! - Series 6: 11. Super Strong Skulls,Signed,2,No,Smartphone,2024-10-09 16:36:35
+user_22,Documentary Lover,4 O'Clock Club - Series 2: 13. Project Zenith,Signed,2,No,Smartphone,2024-11-08 16:36:35
+user_22,Documentary Lover,Numberblocks - Series 4: Divide and Drive,Signed,2,No,Tablet,2025-03-22 16:36:35
+user_22,Documentary Lover,Molly and Mack - Series 3: 4. Game Day - Signed,Signed,3,No,Laptop,2024-10-27 16:36:35
+user_22,Documentary Lover,Celebrity MasterChef - Series 15: Episode 11,Entertainment,3,No,Smartphone,2024-09-28 16:36:35
+user_23,Sports Fan,"Silent Witness - Series 17: 2. Commodity, Part 2",From the Archives,2,No,Tablet,2024-06-01 16:36:35
+user_23,Sports Fan,"Angels of the North - Series 2: 2. New Girls, New Boy",Entertainment,2,No,Tablet,2024-07-06 16:36:35
+user_23,Sports Fan,The Apprentice Australia - 2021: 10. Ice Cream,Entertainment,3,No,Smartphone,2025-03-16 16:36:35
+user_23,Sports Fan,"Go Jetters - Series 3: 14. Cheddar Gorge, England",Signed,2,No,Smartphone,2024-06-11 16:36:35
+user_24,Entertainment Junkie,Messy Goes to OKIDO - Series 1: 3. OKIDO in Bloom - Signed,Signed,1,No,Laptop,2024-04-05 16:36:35
+user_24,Entertainment Junkie,The Dumping Ground - Series 8: 19. Great Expectations - Signed,Signed,3,No,Smartphone,2024-06-14 16:36:35
+user_24,Entertainment Junkie,Ninja Express - Series 1: 22. Delivering Daylights,CBBC,1,No,TV,2024-09-29 16:36:35
+user_24,Entertainment Junkie,Villages by the Sea - Series 2: 1. Alnmouth,Documentaries,2,No,Laptop,2024-11-03 16:36:35
+user_24,Entertainment Junkie,Adventure - Zambezi: 3. Livingstone's River,From the Archives,1,No,TV,2024-04-27 16:36:35
+user_24,Entertainment Junkie,The Apprentice: You're Fired - Series 16: 7. Pods,Entertainment,4,Yes,Laptop,2024-12-14 16:36:35
+user_24,Entertainment Junkie,Bitesize Daily: 5-7 Year Olds - English: 118. Meaning of Words - Signed,Signed,3,No,TV,2024-05-20 16:36:35
+user_25,News Watcher,Death in Paradise - Series 3: Episode 7,From the Archives,1,No,TV,2024-03-29 16:36:35
+user_25,News Watcher,Luther - Series 1: Episode 2,From the Archives,3,No,Tablet,2024-12-24 16:36:35
+user_25,News Watcher,Eggheads - Series 21: Episode 22,Entertainment,3,No,Tablet,2025-02-17 16:36:35
+user_26,Documentary Lover,The Joy of Painting - Series 5: 26. Balmy Beach,Arts,3,No,Tablet,2025-01-26 16:36:35
+user_26,Documentary Lover,Miranda - Series 1: 3. Job,From the Archives,2,No,Laptop,2025-03-14 16:36:35
+user_26,Documentary Lover,The Dumping Ground - Series 8: 20. Snakes and Ladders - Signed,Signed,3,No,Smartphone,2024-11-12 16:36:35
+user_27,Entertainment Junkie,Merlin - Series 4: 7. The Secret Sharer,From the Archives,3,No,TV,2024-12-27 16:36:35
+user_27,Entertainment Junkie,Bitesize Daily: 9-11 Year Olds - Wellbeing: Thinking Positively,Signed,3,No,Tablet,2025-02-18 16:36:35
+user_27,Entertainment Junkie,Tropic of Cancer with Simon Reeve - 2. Western Sahara to Libya,Documentaries,3,No,Laptop,2024-08-21 16:36:35
+user_27,Entertainment Junkie,Spiral - Series 6: Episode 5,From the Archives,1,No,TV,2025-03-11 16:36:35
+user_27,Entertainment Junkie,Hey Duggee - Top of the Pups: The Stick Song,Signed,1,No,Tablet,2024-06-14 16:36:35
+user_27,Entertainment Junkie,Top Gear - Series 15: Episode 4,Entertainment,5,Yes,Smartphone,2025-02-10 16:36:35
+user_27,Entertainment Junkie,Great British Photography Challenge - Series 1: Episode 4,Entertainment,1,No,Laptop,2024-11-28 16:36:35
+user_28,Entertainment Junkie,MasterChef Australia - Series 10: Episode 24,Entertainment,4,Yes,Tablet,2024-08-16 16:36:35
+user_28,Entertainment Junkie,Gym Stars - Series 1: 14. Proving It,CBBC,2,No,TV,2024-05-25 16:36:35
+user_28,Entertainment Junkie,Doctor Who - Series 13: 2. War of the Sontarans - Signed,Signed,1,No,TV,2025-01-01 16:36:35
+user_28,Entertainment Junkie,One Zoo Three - Series 1: 1. The Tigers,CBBC,2,No,Smartphone,2025-02-19 16:36:35
+user_28,Entertainment Junkie,Richard Osman's House of Games - Series 5: 95. Champions Week 3: Friday,Entertainment,4,Yes,Tablet,2024-10-31 16:36:35
+user_28,Entertainment Junkie,Question Time - 2021: 23/09/2021 - Signed,Signed,2,No,Tablet,2024-09-19 16:36:35
+user_29,Sports Fan,Top Gear - Best of Series 27 and 28: Episode 4,Entertainment,2,No,Tablet,2024-03-25 16:36:35
+user_29,Sports Fan,Young Ahmed,Films,1,No,TV,2024-10-28 16:36:35
+user_29,Sports Fan,Ready Steady Cook - Series 1: Episode 19,Food,2,No,Smartphone,2024-09-19 16:36:35
+user_30,Balanced Viewer,Molly and Mack - Series 3: 1. James and Alice - Signed,Signed,3,No,Tablet,2024-05-02 16:36:35
+user_30,Balanced Viewer,DIY Deadly with Steve Backshall - Series 1: 10. Deadliest,CBBC,5,Yes,Smartphone,2024-12-12 16:36:35
+user_30,Balanced Viewer,The Next Step - Series 5: 16. Stand and Deliver - Signed,Signed,2,No,TV,2025-02-17 16:36:35
+user_31,News Watcher,The Story of Tracy Beaker - Series 1: Episode 1,CBBC,2,No,Tablet,2024-07-28 16:36:35
+user_31,News Watcher,The Cruise - 6. Stormin' Norman,Documentaries,2,No,Laptop,2025-03-13 16:36:35
+user_31,News Watcher,Nine Minute Ninja - Series 5: 13. Colour Skills,Signed,1,No,TV,2025-03-08 16:36:35
+user_31,News Watcher,Tracy Beaker Returns - Series 2: 3. Crushed,CBBC,3,No,Tablet,2025-03-16 16:36:35
+user_31,News Watcher,Gym Stars - Series 1: 10. Heart of a Lion,CBBC,3,No,Laptop,2024-12-17 16:36:35
+user_32,Documentary Lover,Inside America - 13. The Quiet Persuader,Documentaries,5,Yes,Smartphone,2024-10-15 16:36:35
+user_32,Documentary Lover,Amol Rajan Interviews - Nile Rodgers,Signed,2,No,Laptop,2024-11-30 16:36:35
+user_32,Documentary Lover,Lazy Susan - Series 1: Episode 3,Comedy,3,No,TV,2024-11-28 16:36:35
+user_32,Documentary Lover,Dani's House - Series 5: 6. Dani's Day Off,Signed,1,No,TV,2024-09-23 16:36:35
+user_32,Documentary Lover,Numberblocks - Series 2: Six,Signed,1,No,Tablet,2024-07-06 16:36:35
+user_33,News Watcher,Lá i 1916,Documentaries,3,No,TV,2024-06-14 16:36:35
+user_33,News Watcher,Death in Paradise - Series 9: Episode 8,From the Archives,1,No,Laptop,2024-09-24 16:36:35
+user_33,News Watcher,Rhod Gilbert's Work Experience - Series 7: 3. Florist,From the Archives,1,No,Smartphone,2024-06-08 16:36:35
+user_33,News Watcher,Doctor Who - Series 1: 9. The Empty Child,From the Archives,3,No,TV,2024-09-18 16:36:35
+user_33,News Watcher,MasterChef - Series 12: Episode 13,Entertainment,2,No,Laptop,2025-02-18 16:36:35
+user_33,News Watcher,The Great British Sewing Bee - Series 6: Episode 3,Entertainment,2,No,TV,2025-02-21 16:36:35
+user_33,News Watcher,Gavin & Stacey - Series 2: Episode 6,From the Archives,2,No,Smartphone,2024-08-09 16:36:35
+user_34,Documentary Lover,School of Roars - Series 2: 26. Frosty Claws,Signed,3,No,TV,2024-10-09 16:36:35
+user_34,Documentary Lover,Better Things - Series 3: 2. Holding,Comedy,2,No,TV,2024-10-26 16:36:35
+user_34,Documentary Lover,The Rap Game UK - Series 3: Episode 6 - The Final,Entertainment,3,No,TV,2024-10-10 16:36:35
+user_34,Documentary Lover,Atlantis - Series 1: 3. A Boy of No Consequence,From the Archives,2,No,TV,2025-02-07 16:36:35
+user_34,Documentary Lover,Great British Menu - Series 16: 21. North West Judging,Food,3,No,Smartphone,2024-06-23 16:36:35
+user_34,Documentary Lover,Great British Menu - Series 17: 7. Wales Starter and Fish,Food,3,No,Laptop,2024-10-26 16:36:35
+user_35,News Watcher,The Hit List - Series 4: Episode 1,Entertainment,3,No,Tablet,2025-01-03 16:36:35
+user_35,News Watcher,Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths – Classification of Shapes,Signed,2,No,Tablet,2025-03-23 16:36:35
+user_35,News Watcher,Gossip Girl (2007-12) - Series 6: 8. It's Really Complicated,From the Archives,2,No,Laptop,2024-04-22 16:36:35
+user_36,Sports Fan,The Joy of Painting - Series 5: 15. Wilderness Trail,Arts,3,No,Smartphone,2025-01-01 16:36:35
+user_36,Sports Fan,Still Game - Series 5: 6. Saucy,From the Archives,3,No,Laptop,2024-04-03 16:36:35
+user_36,Sports Fan,Question Time - 2022: 03/02/2022 - Signed,Signed,1,No,Tablet,2024-05-29 16:36:35
+user_36,Sports Fan,Rip Off Britain - 2022 Live: Episode 1,Signed,1,No,TV,2024-08-05 16:36:35
+user_37,News Watcher,Heroes - Series 4: 6. Tabula Rasa,From the Archives,2,No,Smartphone,2024-11-29 16:36:35
+user_37,News Watcher,Winterwatch - Series 10: Episode 8 - Signed,Signed,2,No,TV,2024-09-12 16:36:35
+user_37,News Watcher,The Train Now Departing - 1. The Long Drag,Documentaries,1,No,Smartphone,2025-01-12 16:36:35
+user_37,News Watcher,A Change of Sex - 1. George - The Big Decision,Documentaries,2,No,Tablet,2024-10-01 16:36:35
+user_37,News Watcher,Mastermind - 2021/22: Episode 14,Entertainment,2,No,TV,2024-05-04 16:36:35
+user_37,News Watcher,Question Time - 2021: 18/11/2021 - Signed,Signed,3,No,Laptop,2024-11-22 16:36:35
+user_37,News Watcher,MasterChef: The Professionals - Series 9: Episode 15,Food,3,No,Smartphone,2025-02-09 16:36:35
+user_38,News Watcher,Luther - Series 1: Episode 1,From the Archives,1,No,TV,2024-12-23 16:36:35
+user_38,News Watcher,Zoo Quest - Zoo Quest to Madagascar: Episode 4,Documentaries,3,No,Smartphone,2024-11-24 16:36:35
+user_38,News Watcher,The Mating Game - Series 1: 2. Oceans: Out of the Blue,Documentaries,1,No,TV,2024-05-17 16:36:35
+user_38,News Watcher,We Are England - Made in England: Our Northern Jacket Empire,Documentaries,2,No,TV,2024-08-27 16:36:35
+user_39,Documentary Lover,The Story of Tracy Beaker - Series 1: Episode 3,CBBC,2,No,Smartphone,2025-03-15 16:36:35
+user_39,Documentary Lover,Face to Face - Dame Edith Sitwell,From the Archives,2,No,Smartphone,2024-12-18 16:36:35
+user_39,Documentary Lover,Radio 1's Live Lounge - Rex Orange County,Music,2,No,Tablet,2024-11-20 16:36:35
+user_40,News Watcher,Operation Ouch! - Hospital Takeover: 7. Germ-Fighters,Signed,3,No,TV,2024-11-13 16:36:35
+user_40,News Watcher,The Debate Continues,Documentaries,3,No,TV,2024-05-12 16:36:35
+user_40,News Watcher,The Baby Club - Series 3: 10. Getting Dressed - Signed,Signed,4,Yes,Laptop,2024-05-16 16:36:35
+user_40,News Watcher,Breaking the News - Breaking the Year,Comedy,1,No,Smartphone,2024-12-24 16:36:35
+user_40,News Watcher,Operation Ouch! - Series 7: 9. Why Is Sweat Salty?,Signed,1,No,TV,2025-01-30 16:36:35
+user_40,News Watcher,Gym Stars - Series 1: 14. Proving It,CBBC,1,No,Tablet,2024-09-30 16:36:35
+user_40,News Watcher,Mystic - Series 1: 1. The Outsider,CBBC,1,No,Laptop,2024-07-25 16:36:35
+user_41,Documentary Lover,Shrill - Series 1: 4. Pool,Comedy,1,No,Tablet,2024-09-30 16:36:35
+user_41,Documentary Lover,School of Roars - Series 2: 1. School Library,Signed,2,No,Laptop,2024-11-24 16:36:35
+user_41,Documentary Lover,Doctor Who - Series 4: 12. The Stolen Earth,From the Archives,2,No,TV,2025-02-26 16:36:35
+user_41,Documentary Lover,Matilda and the Ramsay Bunch - Series 2: 14. The Last Days of Summer,CBBC,2,No,TV,2024-03-26 16:36:35
+user_41,Documentary Lover,4 O'Clock Club - Series 2: 12. Lockdown,Signed,3,No,Laptop,2025-01-19 16:36:35
+user_41,Documentary Lover,Absolutely Fabulous - Series 5: 6. Schmoozin',From the Archives,3,No,Laptop,2024-04-03 16:36:35
+user_41,Documentary Lover,The Rap Game UK - Series 3: Episode 2,Entertainment,3,No,Tablet,2024-04-15 16:36:35
+user_42,News Watcher,Your Home Made Perfect - Series 1: Episode 8,Signed,2,No,Smartphone,2024-06-28 16:36:35
+user_42,News Watcher,Waterloo Road - Series 3: Episode 13,From the Archives,5,Yes,Smartphone,2024-07-21 16:36:35
+user_42,News Watcher,"Young, Welsh and... - Pretty Minted - Series 2: Episode 6",Documentaries,1,No,Smartphone,2024-10-10 16:36:35
+user_42,News Watcher,Mystic - Series 1: 8. The Storm - Signed,Signed,1,No,Tablet,2024-05-08 16:36:35
+user_42,News Watcher,Matilda and the Ramsay Bunch - Series 2: 4. The TV Show - Signed,Signed,3,No,Tablet,2024-12-25 16:36:35
+user_42,News Watcher,Matilda and the Ramsay Bunch - Series 4: 4. The Marathon Girl,Signed,2,No,Laptop,2024-12-22 16:36:35
+user_42,News Watcher,Dhan Uisge - Series 1: 9. Loch Coruisk,Science & Nature,3,No,TV,2024-12-28 16:36:35
+user_43,Balanced Viewer,Conviction - Murder in Suburbia: Episode 2,Documentaries,2,No,Smartphone,2024-06-10 16:36:35
+user_43,Balanced Viewer,The Demon Headmaster - Series 1: 3. Science for Success,CBBC,1,No,Laptop,2024-12-06 16:36:35
+user_43,Balanced Viewer,"2 Point 4 Children - Series 1: 3. When The Going Gets Tough, The Tough Go Shopping",From the Archives,2,No,Laptop,2025-01-27 16:36:35
+user_43,Balanced Viewer,Better Things - Series 2: 10. Graduation,Comedy,2,No,Laptop,2024-11-27 16:36:35
+user_43,Balanced Viewer,Almost Never - Series 2: 4. Do the Fandango,Signed,5,Yes,Smartphone,2025-02-06 16:36:35
+user_43,Balanced Viewer,Matilda and the Ramsay Bunch - Series 2: 15. The Holiday Finale - Signed,Signed,2,No,Tablet,2024-06-10 16:36:35
+user_43,Balanced Viewer,Panorama - Britain’s Killer Roads? - Signed,Signed,3,No,Tablet,2024-04-18 16:36:35
+user_44,Entertainment Junkie,@Radio1 - @Radio1: Ariana Grande,Music,3,No,Laptop,2024-10-29 16:36:35
+user_44,Entertainment Junkie,Age of Outrage - Series 1: Episode 5,Comedy,1,No,TV,2024-12-15 16:36:35
+user_44,Entertainment Junkie,Wolfblood - Series 5: 4. The Shadow in the Light,CBBC,3,No,Laptop,2024-11-24 16:36:35
+user_44,Entertainment Junkie,Tropic of Cancer with Simon Reeve - 2. Western Sahara to Libya,Documentaries,1,No,Tablet,2024-11-04 16:36:35
+user_44,Entertainment Junkie,Jonathan Creek - The Judas Tree,From the Archives,3,No,Laptop,2024-08-16 16:36:35
+user_44,Entertainment Junkie,The Royle Family - Series 3: 6. Christening,From the Archives,1,No,Laptop,2025-01-12 16:36:35
+user_45,Balanced Viewer,Civilisations - Series 1: 6. First Contact,Documentaries,3,No,TV,2024-06-14 16:36:35
+user_45,Balanced Viewer,Great British Menu - Series 12: 31. Central Starter,Food,3,No,Tablet,2024-04-07 16:36:35
+user_45,Balanced Viewer,We Are England - Farming England: First Time Farmers,Documentaries,3,No,TV,2024-11-02 16:36:35
+user_45,Balanced Viewer,In Town Tonight - 29/10/1955,From the Archives,3,No,TV,2024-10-22 16:36:35
+user_45,Balanced Viewer,Ibiza Dreams - Series 1: Episode 3,Entertainment,3,No,Smartphone,2024-07-12 16:36:35
+user_46,Entertainment Junkie,Saturday Kitchen - 21/08/2021,Food,2,No,TV,2024-08-26 16:36:35
+user_46,Entertainment Junkie,RuPaul's Drag Race UK - Series 3: Episode 5,Entertainment,5,Yes,Laptop,2024-05-20 16:36:35
+user_46,Entertainment Junkie,Top Gear - Series 3: 10. Best of Series 3,Entertainment,5,Yes,TV,2024-06-25 16:36:35
+user_46,Entertainment Junkie,Arthur - Series 22: 1. Mr Ratburn and the Special Someone,CBBC,2,No,Smartphone,2025-02-22 16:36:35
+user_46,Entertainment Junkie,Tropic of Cancer with Simon Reeve - 5. Bangladesh to Burma,Documentaries,2,No,Tablet,2024-05-05 16:36:35
+user_46,Entertainment Junkie,Biggleton - Series 2: 15. The Snowy Day,Signed,4,Yes,Smartphone,2025-02-07 16:36:35
+user_46,Entertainment Junkie,Still Open All Hours - Series 1: Episode 5,Comedy,1,No,Smartphone,2024-05-27 16:36:35
+user_47,Documentary Lover,Our Family - Series 5: 17. Kyra and Khloe: Princesses and Crocodiles - Signed,Signed,2,No,TV,2024-08-04 16:36:35
+user_47,Documentary Lover,4 O'Clock Club - Wild Things,Signed,1,No,TV,2024-05-10 16:36:35
+user_47,Documentary Lover,Caught Red Handed - Series 10: Episode 4,Documentaries,5,Yes,Tablet,2024-05-09 16:36:35
+user_47,Documentary Lover,Spooks - Series 7: Episode 1,From the Archives,3,No,Laptop,2024-04-26 16:36:35
+user_47,Documentary Lover,So Awkward - Still So Awkward: 11. Burke Hill TV: Something New,CBBC,1,No,TV,2024-11-15 16:36:35
+user_48,Balanced Viewer,Eggheads - Series 21: Episode 22,Entertainment,3,No,TV,2024-05-19 16:36:35
+user_48,Balanced Viewer,Mastermind - 2021/22: Episode 10,Entertainment,3,No,TV,2024-12-18 16:36:35
+user_48,Balanced Viewer,Deadly Dinosaurs with Steve Backshall - Series 1: 4. Freak or Unique,CBBC,3,No,Smartphone,2025-02-26 16:36:35
+user_48,Balanced Viewer,JoJo & Gran Gran - Series 2 - Spring: 6. It's Time to Visit the Market,Signed,2,No,TV,2024-07-10 16:36:35
+user_48,Balanced Viewer,"The Pets Factor - Series 3: 12. Poppy, Marley and Billy",Signed,3,No,TV,2024-05-12 16:36:35
+user_48,Balanced Viewer,Hetty Feather - Series 1: 6. Strike,Signed,2,No,Smartphone,2024-05-06 16:36:35
+user_48,Balanced Viewer,Wolfblood - The First Pack: 6. Maddy Cool!,CBBC,2,No,Laptop,2024-11-04 16:36:35
+user_49,Balanced Viewer,So Awkward - Still So Awkward: 13. Burke Hill TV: Work - Signed,Signed,3,No,Tablet,2024-12-13 16:36:35
+user_49,Balanced Viewer,Unbeatable - Series 1: Episode 35,Entertainment,3,No,TV,2024-05-14 16:36:35
+user_49,Balanced Viewer,Comedy Threesomes - Peck 'Eds: Episode 2,Comedy,4,Yes,TV,2024-12-17 16:36:35
+user_49,Balanced Viewer,Lorraine Pascale: How to Be a Better Cook - 1. Tony Sartori,Food,1,No,Smartphone,2025-02-20 16:36:35
+user_49,Balanced Viewer,Tréigthe - Series 1: Episode 2,Documentaries,5,Yes,Smartphone,2024-11-21 16:36:35
+user_49,Balanced Viewer,"The Pets Factor - Series 3: 5. Charlie, Frankie and Sara's Cats",Signed,2,No,Laptop,2024-08-20 16:36:35
+user_49,Balanced Viewer,Celebrity MasterChef - Series 14: Episode 15,Entertainment,2,No,Laptop,2024-09-25 16:36:35
+user_50,News Watcher,Disclosure - Am I Scott(ish)?,Signed,2,No,Laptop,2025-02-26 16:36:35
+user_50,News Watcher,Biff and Chip - Series 1: 22. Surprise Surprise! - Signed,Signed,3,No,Tablet,2024-12-16 16:36:35
+user_50,News Watcher,Defending the Guilty - Series 1: Episode 3,Comedy,3,No,Laptop,2024-11-27 16:36:35
+user_50,News Watcher,The Fresh Prince of Bel-Air - Series 1: 16. Lucky Charm,Comedy,3,No,Laptop,2024-06-08 16:36:35
+user_51,Balanced Viewer,Hey Duggee - Series 1: 2. The Cake Badge - Signed,Signed,3,No,Laptop,2024-07-12 16:36:35
+user_51,Balanced Viewer,Still Game - Series 1: 2. Cauld,From the Archives,2,No,Smartphone,2025-01-18 16:36:35
+user_51,Balanced Viewer,Between the Covers  - Series 2: Episode 2,Arts,2,No,Smartphone,2024-07-09 16:36:35
+user_51,Balanced Viewer,"Silent Witness - Series 9: 5. The Meaning of Death, Part 1",From the Archives,1,No,TV,2024-06-23 16:36:35
+user_51,Balanced Viewer,In the Highest Tradition - Episode 3,Documentaries,1,No,Laptop,2024-09-11 16:36:35
+user_52,Sports Fan,Pokémon: Diamond and Pearl - Series 13 - Sinnoh League Victors: 21. For the Love of Meowth!,CBBC,2,No,Smartphone,2024-07-23 16:36:35
+user_52,Sports Fan,Our Wild Adventures - Series 1: 6. Australasia - Signed,Signed,3,No,Smartphone,2024-09-27 16:36:35
+user_52,Sports Fan,Nigella: At My Table - Christmas,Food,1,No,Laptop,2024-05-17 16:36:35
+user_52,Sports Fan,Great British Photography Challenge - Series 1: Episode 1,Entertainment,1,No,Smartphone,2024-04-23 16:36:35
+user_52,Sports Fan,The Fresh Prince of Bel-Air - Series 1: 1. The Fresh Prince Project,Comedy,2,No,Smartphone,2024-09-27 16:36:35
+user_52,Sports Fan,Jamie Johnson - Series 4: 6. A Friend in Need,CBBC,2,No,Tablet,2025-02-11 16:36:35
+user_53,Documentary Lover,The Mart - Series 1: 2. Farming Is a Family Business,Documentaries,5,Yes,TV,2024-08-11 16:36:35
+user_53,Documentary Lover,Biffy Clyro: A Celebration of Endings,Music,1,No,Tablet,2024-08-09 16:36:35
+user_53,Documentary Lover,Africa - 6. The Future,From the Archives,1,No,Tablet,2024-08-26 16:36:35
+user_53,Documentary Lover,School of Roars - Series 2: 36. Wingston's Mummy,Signed,3,No,Laptop,2024-10-20 16:36:35
+user_53,Documentary Lover,Gym Stars - Series 1: 18. Future Champions,CBBC,1,No,Laptop,2024-12-21 16:36:35
+user_53,Documentary Lover,The Strange Affair of... - Frankenstein,Entertainment,2,No,TV,2024-06-18 16:36:35
+user_53,Documentary Lover,Pop Goes Northern Ireland - Series 4: 7. 1992,Documentaries,4,Yes,Smartphone,2024-04-07 16:36:35
+user_54,Sports Fan,Bellator MMA - 2022: Brian Moore vs. Jornel Lugo,Sports,5,Yes,Tablet,2024-05-05 16:36:35
+user_54,Sports Fan,The Office - Series 2: 4. Motivation,From the Archives,3,No,Laptop,2024-11-07 16:36:35
+user_54,Sports Fan,Cat People,Films,2,No,Tablet,2025-02-21 16:36:35
+user_54,Sports Fan,Michael Wood's Story of England - 2. Domesday to Magna Carta - Signed,Signed,2,No,TV,2024-05-17 16:36:35
+user_55,Sports Fan,Strictly Come Dancing - Series 19: Week 3 Results,Entertainment,3,No,TV,2025-03-13 16:36:35
+user_55,Sports Fan,When Nudes Are Stolen,Documentaries,2,No,TV,2024-10-10 16:36:35
+user_55,Sports Fan,Bitesize Daily: 7-9 Year Olds - Geography 7-8 Year Olds: 2. Geography: Biomes,Signed,1,No,Smartphone,2024-09-29 16:36:35
+user_55,Sports Fan,Rip Off Britain - 2021 Live: Episode 15,Signed,1,No,TV,2024-04-28 16:36:35
+user_56,Documentary Lover,Adventure - Quest under Capricorn: 1. Desert Gods,From the Archives,1,No,Laptop,2024-09-18 16:36:35
+user_56,Documentary Lover,Earth from Space - Series 1: 2. Patterned Planet - Signed,Signed,2,No,Tablet,2024-05-20 16:36:35
+user_56,Documentary Lover,Art Ninja - Series 5: 6. Day of the Eco-Warrior,CBBC,1,No,Smartphone,2024-08-21 16:36:35
+user_56,Documentary Lover,Ulster to the Arctic – A Gentleman’s Adventure,Documentaries,4,Yes,Laptop,2024-10-08 16:36:35
+user_56,Documentary Lover,Blankety Blank - Series 1: Episode 5,Entertainment,1,No,Laptop,2024-05-04 16:36:35
+user_57,News Watcher,Great Coastal Railway Journeys - Series 1: 12. Newcastle to Lynemouth - Signed,Signed,1,No,TV,2025-01-03 16:36:35
+user_57,News Watcher,"Silent Witness - Series 23: 2. Deadhead, Part 2",From the Archives,2,No,Smartphone,2025-03-01 16:36:35
+user_57,News Watcher,Hetty Feather - Series 3: 4. Land of Opportunity,Signed,1,No,Smartphone,2024-08-26 16:36:35
+user_57,News Watcher,"Go Jetters - Series 1: 6. Sydney Opera House, Australia",Signed,2,No,Laptop,2024-04-21 16:36:35
+user_57,News Watcher,Attenborough and the Mammoth Graveyard,Documentaries,1,No,Tablet,2024-06-04 16:36:35
+user_57,News Watcher,The Hit List - Series 4: Episode 1,Entertainment,3,No,TV,2024-09-27 16:36:35
+user_58,Balanced Viewer,Richard Osman's House of Games - Series 5: Week 18: Thursday,Entertainment,2,No,Laptop,2025-03-16 16:36:35
+user_58,Balanced Viewer,The Vicar of Dibley - In Lockdown: Episode 3,From the Archives,3,No,TV,2024-04-29 16:36:35
+user_58,Balanced Viewer,Autumnwatch - 2021: Episode 3 - Signed,Signed,1,No,Smartphone,2024-11-17 16:36:35
+user_58,Balanced Viewer,The Vicar of Dibley - Series 3: 2. Winter,From the Archives,2,No,Laptop,2024-09-24 16:36:35
+user_58,Balanced Viewer,Angel Face,Films,2,No,Laptop,2024-08-06 16:36:35
+user_58,Balanced Viewer,Love Monster - Series 1: 1. Sharing With Others Day - Signed,Signed,2,No,Laptop,2024-07-13 16:36:35
+user_58,Balanced Viewer,Countryfile - Review of the Year,Science & Nature,3,No,Laptop,2024-07-15 16:36:35
+user_59,News Watcher,Nova Jones - Series 1: 6. Nova v The Space Haters,CBBC,1,No,Laptop,2024-09-02 16:36:35
+user_59,News Watcher,Jennie's Fitness in 5 - Series 1: 4. Obstacle Course,CBBC,1,No,Tablet,2025-01-27 16:36:35
+user_59,News Watcher,Rick Stein's Far Eastern Odyssey - Episode 4,Food,3,No,Smartphone,2024-10-14 16:36:35
+user_60,Entertainment Junkie,Pulling - Series 2: Episode 4,From the Archives,3,No,Tablet,2024-06-14 16:36:35
+user_60,Entertainment Junkie,The Americas with Simon Reeve - Series 1: Episode 1 - Signed,Signed,1,No,Smartphone,2025-01-27 16:36:35
+user_60,Entertainment Junkie,Tropic of Capricorn - 1. Namibia and Botswana,Documentaries,3,No,Laptop,2024-10-06 16:36:35
+user_60,Entertainment Junkie,Mrs Brown's Boys - 2012 Specials: 2. The Virgin Mammy,From the Archives,3,No,Tablet,2025-03-23 16:36:35
+user_60,Entertainment Junkie,Fake or Fortune? - Series 9: 2. Gerome,Documentaries,3,No,Tablet,2025-01-20 16:36:35
+user_60,Entertainment Junkie,"Amazing Hotels: Life Beyond the Lobby - Series 4: 4. Nimb Hotel, Copenhagen - Signed",Signed,3,No,Smartphone,2024-06-22 16:36:35
+user_60,Entertainment Junkie,The Hairy Bikers Go North - Christmas,Documentaries,2,No,Tablet,2024-10-22 16:36:35
+user_61,News Watcher,Na Trads: An Tobar - Series 1: Episode 4,Music,1,No,Smartphone,2025-03-12 16:36:35
+user_61,News Watcher,Louis Theroux - African Hunting Holiday,Documentaries,2,No,TV,2024-07-21 16:36:35
+user_61,News Watcher,Wanted: A Simple Life - Series 1: Episode 7 - Signed,Signed,1,No,TV,2024-05-25 16:36:35
+user_61,News Watcher,"Maddie, Space and You - Series 1: 1. Rockets - Signed",Signed,3,No,TV,2024-11-05 16:36:35
+user_61,News Watcher,Life and Death Row - Series 1: 1. Execution,Documentaries,1,No,Laptop,2024-05-18 16:36:35
+user_62,Documentary Lover,The Next Step - Series 5: 12. Brave New World,CBBC,3,No,TV,2025-01-12 16:36:35
+user_62,Documentary Lover,"The Pets Factor - Series 1: 2. Bagheera, Tommy and Casper - Signed",Signed,2,No,Tablet,2024-03-31 16:36:35
+user_62,Documentary Lover,Dave - Series 2: 1. International Gander,Comedy,3,No,TV,2024-04-28 16:36:35
+user_62,Documentary Lover,Pokémon: Diamond and Pearl - Series 11 - Battle Dimension: 5. Bibarel Gnaws Best!,CBBC,2,No,TV,2024-06-14 16:36:35
+user_62,Documentary Lover,Mothers Reborn,Documentaries,4,Yes,Laptop,2025-02-03 16:36:35
+user_62,Documentary Lover,"Murder, Mystery and My Family - Series 2: Episode 2",Documentaries,5,Yes,TV,2025-01-11 16:36:35
+user_62,Documentary Lover,The Worst Witch - Series 4: 6. Maud's Magical Make-over - Signed,Signed,3,No,Smartphone,2024-09-22 16:36:35
+user_63,Sports Fan,Gardeners' World - 2022: Episode 2 - Signed,Signed,1,No,Smartphone,2024-09-28 16:36:35
+user_63,Sports Fan,The Next Step - Series 4: 20. Heat of the Moment,CBBC,2,No,Tablet,2024-09-02 16:36:35
+user_63,Sports Fan,Frozen Planet - 1. To the Ends of the Earth,Documentaries,1,No,TV,2024-04-13 16:36:35
+user_64,Entertainment Junkie,Kevin Bridges: What's the Story? - 3. School,From the Archives,1,No,Smartphone,2024-03-29 16:36:35
+user_64,Entertainment Junkie,"Silent Witness - Series 15: 6. Paradise Lost, Part 2",From the Archives,2,No,Smartphone,2025-02-17 16:36:35
+user_64,Entertainment Junkie,The One Show - 16/03/2022,Entertainment,5,Yes,Laptop,2025-03-18 16:36:35
+user_64,Entertainment Junkie,Cheaters - Series 1: Episode 13,Comedy,3,No,TV,2024-08-25 16:36:35
+user_65,News Watcher,Not Going Out - Series 5: 4. Running,From the Archives,3,No,TV,2024-09-29 16:36:35
+user_65,News Watcher,Scream Street - Series 1: 12. Zombie Derby,CBBC,5,Yes,Tablet,2024-04-04 16:36:35
+user_65,News Watcher,Waterloo Road - Series 3: Episode 4,From the Archives,2,No,Laptop,2024-05-21 16:36:35
+user_65,News Watcher,"Hip Hop: The Songs That Shook America - Series 1: 5. The Bridge, by Marley Marl and MC Shan",Documentaries,2,No,Tablet,2024-07-12 16:36:35
+user_65,News Watcher,Dennis & Gnasher Unleashed! - Series 2: 22. Do Good Dennis,CBBC,1,No,Laptop,2025-02-25 16:36:35
+user_66,Sports Fan,"Gossip Girl (2007-12) - Series 3: 20. It's a Dad, Dad, Dad, Dad World",From the Archives,3,No,Smartphone,2024-11-25 16:36:35
+user_66,Sports Fan,Models: Street to Catwalk - Series 1: Episode 2,Documentaries,3,No,Smartphone,2025-02-10 16:36:35
+user_66,Sports Fan,The Live Lounge Show - Series 3: 3. With Charli XCX,Music,3,No,Tablet,2024-04-18 16:36:35
+user_66,Sports Fan,Matilda and the Ramsay Bunch - Series 1: 2. The Movies,Signed,1,No,Laptop,2025-02-19 16:36:35
+user_66,Sports Fan,The Royle Family - Series 2: Episode 1,From the Archives,3,No,Laptop,2024-07-17 16:36:36
+user_67,Entertainment Junkie,Gardeners' World - 2021: Episode 18 - Signed,Signed,1,No,Tablet,2024-04-27 16:36:36
+user_67,Entertainment Junkie,In The Flesh - Series 2: Episode 2,From the Archives,1,No,TV,2024-07-11 16:36:36
+user_67,Entertainment Junkie,Top Gear - Series 21: Episode 2,Entertainment,5,Yes,TV,2024-12-22 16:36:36
+user_67,Entertainment Junkie,Our Wild Adventures - Series 1: 6. Australasia,Science & Nature,1,No,Tablet,2024-08-18 16:36:36
+user_67,Entertainment Junkie,Doctor Who - Series 12: 4. Nikola Tesla’s Night of Terror,From the Archives,3,No,Tablet,2024-06-02 16:36:36
+user_68,Balanced Viewer,Your Home Made Perfect - Series 1: Episode 8,Signed,1,No,TV,2024-07-07 16:36:36
+user_68,Balanced Viewer,Wolfblood - The First Pack: 1. Lone Wolf,CBBC,3,No,Tablet,2025-01-25 16:36:36
+user_68,Balanced Viewer,Deadly 60 - Series 2: 17. Norway,Signed,2,No,Tablet,2024-08-19 16:36:36
+user_68,Balanced Viewer,The Night Before Christmas - Songs: Where There's a Wish Song,Signed,3,No,Laptop,2024-10-06 16:36:36
+user_68,Balanced Viewer,Spiral - Series 7: Episode 5,From the Archives,3,No,Tablet,2024-09-04 16:36:36
+user_69,Balanced Viewer,Ashes to Ashes - Series 3: Episode 6,From the Archives,2,No,Laptop,2024-07-16 16:36:36
+user_69,Balanced Viewer,The Royle Family - We Love the Royle Family,From the Archives,3,No,TV,2024-07-25 16:36:36
+user_69,Balanced Viewer,DIY Deadly with Steve Backshall - Series 1: 1. Deadly Gardens - Signed,Signed,1,No,Smartphone,2024-11-16 16:36:36
+user_69,Balanced Viewer,Gold Town - Series 1: Episode 3 - Audio Described,Documentaries,4,Yes,TV,2024-05-01 16:36:36
+user_69,Balanced Viewer,Gym Stars - Series 1: 13. We Can Be Heroes,CBBC,1,No,Laptop,2024-08-27 16:36:36
+user_70,Sports Fan,The Killing - Series 2: Episode 7,From the Archives,1,No,Laptop,2024-08-16 16:36:36
+user_70,Sports Fan,Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths – Inverse Operations,Signed,2,No,Laptop,2024-12-17 16:36:36
+user_70,Sports Fan,Love Monster - Series 1: 11. Clear Out Day - Signed,Signed,3,No,TV,2024-12-28 16:36:36
+user_70,Sports Fan,HARDtalk - 06/03/2022,From the Archives,1,No,Smartphone,2024-07-11 16:36:36
+user_70,Sports Fan,Shrill - Series 2: 8. HR,Comedy,3,No,Smartphone,2025-01-24 16:36:36
+user_70,Sports Fan,The Third Man,Films,1,No,TV,2024-07-11 16:36:36
+user_71,Entertainment Junkie,"Silent Witness - Series 14: 5. First Casualty, Part 1",From the Archives,3,No,Smartphone,2024-07-31 16:36:36
+user_71,Entertainment Junkie,Yorkshire Firefighters - Series 1: Episode 4,Documentaries,1,No,Laptop,2024-08-25 16:36:36
+user_71,Entertainment Junkie,Man Like Mobeen - Series 1: 3. Upper Room,Comedy,4,Yes,Smartphone,2024-05-28 16:36:36
+user_71,Entertainment Junkie,The Rap Game UK - Extras: How Grime Music Was Invented,Entertainment,5,Yes,Smartphone,2024-09-05 16:36:36
+user_71,Entertainment Junkie,Matilda and the Ramsay Bunch - Series 5: 2. The Scariest Ride,Signed,2,No,TV,2024-06-09 16:36:36
+user_71,Entertainment Junkie,Celebrity Best Home Cook - Series 1: Episode 5,Entertainment,3,No,Smartphone,2025-02-25 16:36:36
+user_71,Entertainment Junkie,Squad Goals - Series 1: 6. End of the Road,Documentaries,2,No,Smartphone,2024-12-10 16:36:36
+user_72,Documentary Lover,The Great British Sewing Bee - Series 3: Episode 3,Entertainment,2,No,TV,2025-02-04 16:36:36
+user_72,Documentary Lover,Danger Mouse - Series 1: 11. The Return of Danger K,Signed,3,No,Laptop,2024-12-03 16:36:36
+user_72,Documentary Lover,Great British Menu - Series 16: 19. North West Starters,Food,1,No,Laptop,2025-01-12 16:36:36
+user_72,Documentary Lover,Two Pints of Lager and a Packet of Crisps - Series 4: 1. Corinthian Dies,From the Archives,3,No,TV,2024-09-28 16:36:36
+user_72,Documentary Lover,Frank Skinner on Muhammad Ali,Documentaries,4,Yes,Laptop,2025-01-27 16:36:36
+user_72,Documentary Lover,Two Doors Down - Series 4: 3. Hospital,Comedy,2,No,Smartphone,2025-02-14 16:36:36
+user_73,Entertainment Junkie,Merlin - Series 4: 5. His Father's Son,From the Archives,1,No,Smartphone,2024-08-27 16:36:36
+user_73,Entertainment Junkie,Caught Red Handed - Series 10: Episode 2,Documentaries,2,No,Laptop,2024-12-22 16:36:36
+user_73,Entertainment Junkie,Surgeons: At the Edge of Life - Series 4: Episode 4 - Signed,Signed,3,No,TV,2025-02-14 16:36:36
+user_73,Entertainment Junkie,Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths – Inverse Operations,Signed,3,No,Laptop,2025-01-21 16:36:36
+user_73,Entertainment Junkie,Molly and Mack - Series 4: 7. Euan's Present - Signed,Signed,1,No,Smartphone,2024-05-17 16:36:36
+user_74,Documentary Lover,Teen Taxi - Series 2: 7. All Eyes ON Me,Entertainment,2,No,Laptop,2024-09-15 16:36:36
+user_74,Documentary Lover,The Rap Game UK - Series 1: Episode 6,Entertainment,2,No,Laptop,2024-12-21 16:36:36
+user_74,Documentary Lover,Doctor Who - Series 2: 9. The Satan Pit,From the Archives,1,No,Tablet,2024-06-22 16:36:36
+user_74,Documentary Lover,Call the Midwife - Series 7: Episode 2,From the Archives,1,No,Smartphone,2024-11-21 16:36:36
+user_74,Documentary Lover,Twenties - Series 2: 10. How do you Feel?,Comedy,2,No,Laptop,2024-11-27 16:36:36
+user_75,News Watcher,Great British Menu - Series 17: 4. North West Starters and Fish,Food,2,No,Tablet,2025-02-13 16:36:36
+user_75,News Watcher,Better Things - Series 2: 8. Arnold Hall,Comedy,2,No,Smartphone,2024-10-24 16:36:36
+user_75,News Watcher,imagine... - 2021: Bernardine Evaristo: Never Give Up - Signed,Signed,1,No,TV,2024-11-20 16:36:36
+user_75,News Watcher,Louis Theroux - Law and Disorder in Johannesburg,Documentaries,2,No,Tablet,2024-03-25 16:36:36
+user_75,News Watcher,Click - Can AI Save the NHS?,Science & Nature,2,No,TV,2024-11-15 16:36:36
+user_76,Entertainment Junkie,Still Open All Hours - Series 4: Episode 5,Comedy,1,No,Smartphone,2024-12-13 16:36:36
+user_76,Entertainment Junkie,Canada's Drag Race - Series 2: 8. Prom,Entertainment,5,Yes,Tablet,2025-02-26 16:36:36
+user_76,Entertainment Junkie,Tracy Beaker Returns - Series 3: 11. Jody Jackson,CBBC,1,No,Smartphone,2024-07-04 16:36:36
+user_76,Entertainment Junkie,Ready Steady Cook - Series 2: Episode 20,Food,1,No,Laptop,2025-02-17 16:36:36
+user_76,Entertainment Junkie,The Sky at Night - Telescopes through Time,Documentaries,3,No,Tablet,2025-03-13 16:36:36
+user_77,Documentary Lover,Deadly 60 - Series 2: 12. Uganda,Signed,1,No,Smartphone,2025-02-01 16:36:36
+user_77,Documentary Lover,Top Gear - Series 18: Episode 7,Entertainment,3,No,TV,2024-10-17 16:36:36
+user_77,Documentary Lover,Segregated America: A School in the South - 6. Walk Across that Stage,Documentaries,5,Yes,Laptop,2024-07-26 16:36:36
+user_77,Documentary Lover,Princess Mirror-Belle - Series 1: 4. Lost Trainer,CBBC,1,No,TV,2024-08-10 16:36:36
+user_78,Balanced Viewer,A Killing in Tiger Bay - Series 1: 2. The Trial - Signed,Signed,2,No,Smartphone,2024-04-13 16:36:36
+user_78,Balanced Viewer,"Silent Witness - Series 5: 4. Two Below Zero, Part 2",From the Archives,3,No,Laptop,2024-05-07 16:36:36
+user_78,Balanced Viewer,Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds: Seasons and Weather,Signed,3,No,Smartphone,2025-03-24 16:36:36
+user_78,Balanced Viewer,Pokémon: Black and White - Series 14: 12. Here Comes the Trubbish Squad!,CBBC,3,No,Smartphone,2025-02-25 16:36:36
+user_79,Entertainment Junkie,What's Cooking Omari? - Series 1: 8. Omari's Luscious Lentil Bolognese,Food,3,No,Tablet,2024-12-10 16:36:36
+user_79,Entertainment Junkie,Hemingway - Series 1: Episode 2 - Signed,Signed,1,No,Tablet,2024-05-20 16:36:36
+user_79,Entertainment Junkie,The Dumping Ground - Series 8: 11. Trouble in Paradise - Signed,Signed,3,No,Smartphone,2024-07-18 16:36:36
+user_79,Entertainment Junkie,The Great Food Guys - Series 3: Episode 8,Food,1,No,Laptop,2024-03-24 16:36:36
+user_80,Sports Fan,"Silent Witness - Series 23: 1. Deadhead, Part 1",From the Archives,3,No,Tablet,2024-06-10 16:36:36
+user_80,Sports Fan,Lagging - Series 1: 4. Like a Boss,CBBC,3,No,Tablet,2024-12-05 16:36:36
+user_80,Sports Fan,God Shave the Queens - Series 1: 1. Mess Rehearsals,Entertainment,3,No,Smartphone,2024-09-17 16:36:36
+user_80,Sports Fan,Horizon - 2018: 6. Stopping Male Suicide,Documentaries,1,No,Smartphone,2025-02-03 16:36:36
+user_81,Sports Fan,Silent Witness - Cease Upon the Midnight: Part 2,From the Archives,3,No,Laptop,2024-08-09 16:36:36
+user_81,Sports Fan,Waterloo Road - Series 2: Episode 1,From the Archives,2,No,Smartphone,2024-05-26 16:36:36
+user_81,Sports Fan,"Bitesize Daily: 9-11 Year Olds - Maths: Maths - Volume, Capacity and Mass",Signed,3,No,TV,2024-07-03 16:36:36
+user_82,Sports Fan,CBeebies Bedtime Stories - 815. Justin Fletcher - Say Goodbye... Say Hello,Signed,5,Yes,Laptop,2024-07-24 16:36:36
+user_82,Sports Fan,Tish Tash - Series 1: 15. Never-Ending Question - Signed,Signed,2,No,Tablet,2025-02-28 16:36:36
+user_82,Sports Fan,DIY Deadly with Steve Backshall - Series 1: 9. Deadly Seas,CBBC,2,No,Tablet,2024-10-15 16:36:36
+user_82,Sports Fan,Couples Therapy - Series 1: Episode 3,Documentaries,2,No,Smartphone,2024-08-16 16:36:36
+user_82,Sports Fan,Lorraine Pascale: How to Be a Better Cook - 3. Sonia Harwood,Food,2,No,TV,2024-06-18 16:36:36
+user_83,Balanced Viewer,MasterChef - Series 16: Episode 7,Entertainment,1,No,TV,2025-02-04 16:36:36
+user_83,Balanced Viewer,Our Black History Heroes - Series 1: 14. Muhammad Ali,CBBC,3,No,Tablet,2024-06-18 16:36:36
+user_83,Balanced Viewer,Operation Ouch! - Series 6: 7. Mind-boggling Brains,Signed,2,No,Smartphone,2024-12-04 16:36:36
+user_83,Balanced Viewer,Malory Towers - Series 1: 12. The Ghost - Signed,Signed,1,No,Laptop,2025-01-02 16:36:36
+user_83,Balanced Viewer,The Bridge - Series 2: Episode 9,From the Archives,3,No,Smartphone,2024-04-07 16:36:36
+user_83,Balanced Viewer,Landward - 2021: Episode 7,Science & Nature,3,No,Tablet,2025-02-10 16:36:36
+user_83,Balanced Viewer,Maddie's Do You Know? - Series 4: 3. Electric Car and Wind,Signed,1,No,Smartphone,2024-11-21 16:36:36
+user_84,News Watcher,Andy's Prehistoric Adventures - 10. Camptosaurus and Call - Signed,Signed,2,No,Tablet,2024-05-10 16:36:36
+user_84,News Watcher,The Killing - Series 3: Episode 6,From the Archives,3,No,Smartphone,2024-12-02 16:36:36
+user_84,News Watcher,Thatcher: A Very British Revolution - Series 1: 1. Making Margaret - Signed,Signed,3,No,Tablet,2024-09-14 16:36:36
+user_84,News Watcher,The Royle Family - The Golden Egg Cup,From the Archives,2,No,TV,2024-05-05 16:36:36
+user_84,News Watcher,Crouchy's Year-Late Euros: Live - Series 1: Episode 3,Entertainment,1,No,Laptop,2024-08-04 16:36:36
+user_84,News Watcher,The Royle Family - Series 1: Episode 5,From the Archives,3,No,Laptop,2024-07-04 16:36:36
+user_84,News Watcher,Villages by the Sea - Series 2: 1. Alnmouth,Documentaries,1,No,Laptop,2025-01-25 16:36:36
+user_85,Documentary Lover,Angels of the North - Series 2: 10. Going Out Out,Entertainment,1,No,Smartphone,2024-10-10 16:36:36
+user_85,Documentary Lover,Waterloo Road - Series 5: Episode 2,From the Archives,2,No,TV,2025-01-01 16:36:36
+user_85,Documentary Lover,Building Sights - Series 3: 12. Boarbank Hall Oratory,Documentaries,5,Yes,Smartphone,2024-08-25 16:36:36
+user_85,Documentary Lover,The Rap Game UK - Series 3: Episode 5,Entertainment,3,No,Tablet,2025-01-20 16:36:36
+user_85,Documentary Lover,Andy's Aquatic Adventures - Series 1: 14. Andy and the Pygmy Gecko - Signed,Signed,1,No,Tablet,2024-05-31 16:36:36
+user_85,Documentary Lover,Hank Zipzer - Series 1: 9. Who Ordered the Baby?,CBBC,3,No,Tablet,2024-09-27 16:36:36
+user_85,Documentary Lover,The Next Step - Series 5: 6. No Good Deed - Signed,Signed,2,No,Smartphone,2024-06-13 16:36:36
+user_86,Documentary Lover,Incredible Journeys with Simon Reeve - Series 1: Episode 3 - Signed,Signed,3,No,TV,2025-01-29 16:36:36
+user_86,Documentary Lover,Best Home Cook - Series 2: Episode 2,Entertainment,3,No,Laptop,2025-03-09 16:36:36
+user_86,Documentary Lover,Matilda and the Ramsay Bunch - Series 2: 10. The Ramsay Pirates - Signed,Signed,3,No,Tablet,2024-04-29 16:36:36
+user_87,Documentary Lover,Scottish Women's Premier League - 2021/22: 12. Rangers v Celtic,Sports,1,No,TV,2024-04-28 16:36:36
+user_87,Documentary Lover,Louis Theroux - Savile,Documentaries,5,Yes,Laptop,2025-03-11 16:36:36
+user_87,Documentary Lover,Beechgrove - 2021: Episode 2 - Signed,Signed,2,No,Tablet,2024-05-18 16:36:36
+user_87,Documentary Lover,Dave - Series 1: 3. Hypospadias,Comedy,2,No,Tablet,2025-01-16 16:36:36
+user_88,Sports Fan,"The Pets Factor - Series 6: 1. Daisy, Yak and Monty",Signed,2,No,Smartphone,2024-12-25 16:36:36
+user_88,Sports Fan,Na Glèidheadairean/The Animal Keepers - Series 1: Episode 3,Documentaries,3,No,Tablet,2024-08-29 16:36:36
+user_88,Sports Fan,Click - Short Edition - 31/07/2021,Science & Nature,1,No,TV,2025-03-18 16:36:36
+user_89,Balanced Viewer,Blair & Brown: The New Labour Revolution - Series 1: Episode 3 - Signed,Signed,1,No,Smartphone,2024-12-12 16:36:36
+user_89,Balanced Viewer,Ready Steady Cook - Series 2: Episode 25,Food,1,No,Tablet,2024-07-06 16:36:36
+user_89,Balanced Viewer,The Beaker Girls - Series 1: 2. Showdown at the Shore,CBBC,2,No,Laptop,2024-05-10 16:36:36
+user_89,Balanced Viewer,Doctor Who - Series 10: 12. The Doctor Falls,From the Archives,3,No,Tablet,2024-12-31 16:36:36
+user_89,Balanced Viewer,Katy Keene - Series 1: 6. Chapter Six: Mama Said,Comedy,3,No,Laptop,2025-01-08 16:36:36
+user_90,Documentary Lover,Biggleton - Series 2: 8. Emergency,Signed,1,No,Laptop,2024-04-24 16:36:36
+user_90,Documentary Lover,Horrible Histories - Series 4: Episode 10,CBBC,1,No,Laptop,2024-05-06 16:36:36
+user_90,Documentary Lover,Doctor Who - Series 12: 7. Can You Hear Me? - Signed,Signed,1,No,Tablet,2024-08-14 16:36:36
+user_90,Documentary Lover,The Nilsen Files - Series 1: Episode 1,Documentaries,5,Yes,Laptop,2024-07-29 16:36:36
+user_90,Documentary Lover,Heroes - Series 2: 4. The Kindness of Strangers,From the Archives,2,No,Smartphone,2024-05-17 16:36:36
+user_90,Documentary Lover,Call the Midwife - Christmas Special 2012,From the Archives,2,No,Laptop,2024-10-19 16:36:36
+user_91,Entertainment Junkie,"Silent Witness - Series 4: 5. A Good Body, Part 2",From the Archives,3,No,Laptop,2024-08-29 16:36:36
+user_91,Entertainment Junkie,Saturday Kitchen - 26/02/2022,Food,2,No,Tablet,2024-07-22 16:36:36
+user_91,Entertainment Junkie,Last Tango in Halifax - Series 2: Episode 4,From the Archives,2,No,Laptop,2025-01-27 16:36:36
+user_91,Entertainment Junkie,Deadly 60 - Series 2: 18. UK,Signed,2,No,Tablet,2024-06-11 16:36:36
+user_91,Entertainment Junkie,Heroes - Series 1: 6. Better Halves,From the Archives,3,No,Tablet,2024-10-24 16:36:36
+user_92,Sports Fan,Go Jetters - Series 3: 21. Go Jet Academy: Ghost Crabs - Signed,Signed,2,No,Tablet,2025-03-16 16:36:36
+user_92,Sports Fan,The Next Step - Series 7: 16. The Friendly Skies,Signed,3,No,Smartphone,2024-08-16 16:36:36
+user_92,Sports Fan,Not Going Out - Series 1: 2. Death,From the Archives,3,No,TV,2024-08-21 16:36:36
+user_92,Sports Fan,Beechgrove - 2021: Episode 23 - Signed,Signed,2,No,Laptop,2024-07-14 16:36:36
+user_92,Sports Fan,The Great British Sewing Bee - Series 7: Episode 4,Entertainment,2,No,Laptop,2024-11-18 16:36:36
+user_92,Sports Fan,The Next Step - Series 6: 13. Sweet and Salty,CBBC,1,No,TV,2024-07-06 16:36:36
+user_92,Sports Fan,Still Game - Series 4: 2. Wireless,From the Archives,3,No,TV,2024-08-20 16:36:36
+user_93,Balanced Viewer,Limmy's Show - Series 1: Episode 4,From the Archives,2,No,TV,2024-04-30 16:36:36
+user_93,Balanced Viewer,Step into the Ring - Series 1: 4. Sam's Debut,Documentaries,3,No,Smartphone,2024-05-31 16:36:36
+user_93,Balanced Viewer,MasterChef Australia - Series 10: Episode 15,Entertainment,1,No,TV,2024-09-25 16:36:36
+user_93,Balanced Viewer,Horrible Histories - Specials: 1. Sensational Shakespeare,CBBC,3,No,TV,2024-11-10 16:36:36
+user_93,Balanced Viewer,Bodies - Series 1: Episode 1,From the Archives,3,No,Tablet,2024-03-28 16:36:36
+user_94,Documentary Lover,Stacey Dooley - Face to Face with Armageddon,Documentaries,1,No,Tablet,2024-10-01 16:36:36
+user_94,Documentary Lover,John Cage Live at the Barbican,From the Archives,1,No,Tablet,2024-04-03 16:36:36
+user_94,Documentary Lover,Hugh's Wild West - Series 1: Episode 2,Documentaries,3,No,TV,2025-01-27 16:36:36
+user_94,Documentary Lover,Step into the Ring - Series 1: 2. Time to Fly,Documentaries,4,Yes,Tablet,2024-11-22 16:36:36
+user_95,Sports Fan,Pop Goes Northern Ireland - Series 5: 8. 1991,Documentaries,3,No,Laptop,2024-04-20 16:36:36
+user_95,Sports Fan,The Moment of Proof - Series 2: 9. The Wet Wipe Hit and Run - Signed,Signed,4,Yes,Tablet,2024-09-21 16:36:36
+user_95,Sports Fan,Doctor Who - Series 12: 4. Nikola Tesla’s Night of Terror - Signed,Signed,1,No,Smartphone,2024-11-15 16:36:36
+user_96,News Watcher,Thrifty Cooking in the Doctor’s Kitchen - Series 1: 3. Rukmini Iyer,Food,2,No,Tablet,2025-03-21 16:36:36
+user_96,News Watcher,Danny and Mick - Series 2: Episode 5,CBBC,2,No,Tablet,2024-05-05 16:36:36
+user_96,News Watcher,Cutting It - Series 2: Episode 7,From the Archives,3,No,Tablet,2025-01-15 16:36:36
+user_96,News Watcher,Operation Ouch! - Ouch Baby: 4. Baby’s First Week,Signed,3,No,Smartphone,2024-07-01 16:36:36
+user_96,News Watcher,Who Do You Think You Are? - Series 18: 2. Dame Judi Dench,Documentaries,3,No,Smartphone,2024-08-22 16:36:36
+user_96,News Watcher,Reported Missing - Series 3: 2. Gone in Seconds,Documentaries,3,No,TV,2024-04-29 16:36:36
+user_97,News Watcher,The Next Step - Series 2: 28. Re-Match,Signed,3,No,Tablet,2025-02-15 16:36:36
+user_97,News Watcher,Zoo Quest - Zoo Quest for a Dragon: 6. Dragons of Komodo,Documentaries,3,No,Smartphone,2024-04-04 16:36:36
+user_97,News Watcher,Inside the Zoo - Series 2: Episode 2,Documentaries,1,No,TV,2025-03-09 16:36:36
+user_98,Sports Fan,The Dumping Ground - Series 7: 13. The Boss,Signed,1,No,Smartphone,2024-04-16 16:36:36
+user_98,Sports Fan,Celebrity Antiques Road Trip - Series 10: Episode 2,Entertainment,1,No,Tablet,2024-10-17 16:36:36
+user_98,Sports Fan,Death in Paradise - Series 8: Episode 4,From the Archives,3,No,Tablet,2024-05-05 16:36:36
+user_98,Sports Fan,Nature and Us: A History through Art - Series 1: Episode 1,Documentaries,3,No,Laptop,2024-05-07 16:36:36
+user_99,Entertainment Junkie,Class Dismissed - Series 6: 4. Math Saves Lives!,CBBC,1,No,Smartphone,2025-02-22 16:36:36
+user_99,Entertainment Junkie,Ulster to the Arctic – A Gentleman’s Adventure,Documentaries,3,No,Laptop,2024-09-16 16:36:36
+user_99,Entertainment Junkie,CBeebies Bedtime Stories - 660. Orlando Bloom - We Are Together - Signed,Signed,3,No,TV,2025-03-15 16:36:36
+user_100,Sports Fan,"Go Jetters - Series 1: 10. Chichen Itza, Mexico",Signed,2,No,TV,2024-05-19 16:36:36
+user_100,Sports Fan,Top Gear - Series 31: Episode 3,Entertainment,3,No,TV,2024-06-30 16:36:36
+user_100,Sports Fan,The Graham Norton Show - Series 28: 26. Compilation 2,Entertainment,3,No,Tablet,2024-07-01 16:36:36
+user_100,Sports Fan,Deadly 60 - Series 2: 17. Norway,Signed,2,No,Laptop,2024-04-28 16:36:36
+user_100,Sports Fan,Northern Irish... - Series 1: 2. Northern Irish Schooldays,Documentaries,1,No,Tablet,2024-03-25 16:36:36
+user_100,Sports Fan,Waking the Dead - Series 7: 5. Duty and Honour - Part 1,From the Archives,1,No,TV,2025-03-12 16:36:36
