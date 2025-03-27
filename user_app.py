@@ -303,7 +303,11 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
     similarity_model = load_similarity_model()
 
     # Get user liked titles
-    liked_titles = [title for title, feedback in st.session_state.user_interactions if feedback == "liked"]
+    liked_titles = [
+    interaction[0]  # title
+    for interaction in st.session_state.user_interactions
+    if len(interaction) > 2 and interaction[2] == "liked"
+]
 
     # Get similar titles based on collaborative filtering
     def get_similar_items(user_likes, model, n=10):
@@ -464,4 +468,17 @@ else:
                     if len(interaction) > 2 and interaction[0] == row["title"]:
                         if interaction[2] == "liked":
                             st.write("👍 Liked")
-                        elif interaction[2]
+                        elif interaction[2] == "disliked":
+                            st.write("👎 Disliked")
+                        break
+
+                if st.button("View", key=f"view_more_reco_{i}"):
+                    st.session_state.selected_broadcast = row.to_dict()
+                    st.rerun()
+
+        if st.button("Back to Home"):
+            st.session_state.selected_broadcast = None
+            st.rerun()
+
+    except Exception as e:
+        st.error(f"Something went wrong: {e}")
