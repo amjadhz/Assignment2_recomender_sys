@@ -1,0 +1,48 @@
+{
+  "user_preferences": {
+    "Music": -1,
+    "From the Archives": -1,
+    "Sports": -1,
+    "Signed": 0
+  },
+  "user_interactions": [
+    [
+      "Cilla at the BBC",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Inspector Montalbano - Montalbano's Croquettes",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 28/02/2022",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Culture in Quarantine - Get Creative at Home Masterclasses: Antony Gormley",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "The Young Offenders",
+      "Comedy",
+      "neutral"
+    ],
+    [
+      "Weatherman Walking",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Racism in the Ranks",
+      "Documentaries",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Weatherman Walking": 1
+  }
+}

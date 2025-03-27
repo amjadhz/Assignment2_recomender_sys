@@ -1,0 +1,38 @@
+{
+  "user_preferences": {
+    "Documentaries": -2,
+    "Music": -1,
+    "Comedy": -1,
+    "Films": 1
+  },
+  "user_interactions": [
+    [
+      "The World About Us - The Romance of Indian Railways",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "TUNE - Shorts: Kitti: Howlin' to the Wind",
+      "Music",
+      "disliked"
+    ],
+    [
+      "The Mind of Herbert Clunkerdunk",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Suspicion",
+      "Films",
+      "liked"
+    ],
+    [
+      "The Sky at Night - Voyager To Uranus",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Suspicion": 1
+  }
+}

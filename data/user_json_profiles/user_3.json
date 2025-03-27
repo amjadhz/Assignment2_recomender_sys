@@ -1,0 +1,35 @@
+{
+  "user_preferences": {
+    "Music": -1,
+    "Signed": -1,
+    "Entertainment": -1
+  },
+  "user_interactions": [
+    [
+      "Radio 2 Live - 2021: Highlights",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Eat the Town",
+      "Food",
+      "neutral"
+    ],
+    [
+      "Sportscene - Women's Football Highlights 2021/22: 21/03/2022",
+      "Sports",
+      "neutral"
+    ],
+    [
+      "Nova Jones - Songs: I Can",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "1Xtra - Decks of Kin: Jordss",
+      "Entertainment",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

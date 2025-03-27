@@ -1,0 +1,44 @@
+{
+  "user_preferences": {
+    "From the Archives": -2,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "Julian Bream Masterclass",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "BBC Proms - 2021: V\u00edkingur \u00d3lafsson and the Philharmonia",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Storyville - The Queen of Africa: The Miriam Makeba Story",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "The Royle Family - The New Sofa",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Inspector Montalbano - Equal Time",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Bring Molly Home",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Paddy and Christine McGuinness: Our Family and Autism",
+      "Documentaries",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

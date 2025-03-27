@@ -1,0 +1,32 @@
+{
+  "user_preferences": {
+    "Signed": -2,
+    "Documentaries": 2
+  },
+  "user_interactions": [
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Types of Words",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Numberblocks - Numbersongs: Counting Cars",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Miss World 1970: Beauty Queens and Bedlam",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Tuesday Documentary - The Block",
+      "Documentaries",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Miss World 1970: Beauty Queens and Bedlam": 1,
+    "Tuesday Documentary - The Block": 1
+  }
+}

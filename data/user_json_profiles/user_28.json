@@ -1,0 +1,48 @@
+{
+  "user_preferences": {
+    "Documentaries": 1,
+    "Entertainment": -1,
+    "Science & Nature": -1,
+    "Signed": -2
+  },
+  "user_interactions": [
+    [
+      "We Are England - Belonging: The Real Phoenix Nights - Clacton",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Movies With Ali Plumb - Becoming...: Bond: A Daniel Craig Special",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Snowdonia: A Year on the Farm",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "EastEnders 2010 - 16/11/2009",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Hundreds, Tens and Ones",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "John Denver: In Person",
+      "Music",
+      "neutral"
+    ],
+    [
+      "What's on Your Head?",
+      "Signed",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "We Are England - Belonging: The Real Phoenix Nights - Clacton": 1
+  }
+}

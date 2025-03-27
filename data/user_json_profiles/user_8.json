@@ -1,0 +1,46 @@
+{
+  "user_preferences": {
+    "Documentaries": -3,
+    "CBBC": -1,
+    "Signed": -1,
+    "Food": -1
+  },
+  "user_interactions": [
+    [
+      "New Creatives - WINK",
+      "Arts",
+      "neutral"
+    ],
+    [
+      "The Treasure Hunters",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Horizon - 1964-1965: The World Of Buckminster Fuller",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Pok\u00e9mon: Black and White - Movies: Kyurem v The Sword of Justice",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Hey! Diddle, Diddle",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Fanny Cradock Cooks for Christmas",
+      "Food",
+      "disliked"
+    ],
+    [
+      "The Gap Year Paedophile",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

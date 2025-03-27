@@ -1,0 +1,33 @@
+{
+  "user_preferences": {
+    "Entertainment": -1,
+    "From the Archives": 1,
+    "Documentaries": -1,
+    "Food": -1
+  },
+  "user_interactions": [
+    [
+      "The Apprentice Australia - 2021:",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "People to Watch - Ronald Reagan",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Louis Theroux - America's Medicated Kids",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Saturday Kitchen - 24/07/2021",
+      "Food",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "People to Watch - Ronald Reagan": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "user_preferences": {
+    "Music": -1,
+    "Documentaries": -1,
+    "CBBC": -1,
+    "Films": -1
+  },
+  "user_interactions": [
+    [
+      "Patrick Kielty: One Hundred Years of Union - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Country Kings at the BBC",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Loop - Shorts: Loop - Creating Classical Portraiture for the Next Generation",
+      "Arts",
+      "neutral"
+    ],
+    [
+      "Tuesday Documentary - Beyond the Wall",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Pok\u00e9mon: Diamond and Pearl",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Minding the Gap: An American Skateboarding Story",
+      "Films",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

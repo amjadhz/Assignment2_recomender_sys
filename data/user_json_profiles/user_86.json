@@ -1,0 +1,43 @@
+{
+  "user_preferences": {
+    "Entertainment": -1,
+    "CBBC": 1,
+    "Documentaries": -2,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "Parkinson - Dr Jacob Bronowski",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Taste - Getting to the Point",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Got What It Takes?",
+      "CBBC",
+      "liked"
+    ],
+    [
+      "Earth\u2019s Tropical Islands",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Drawing and Moving 2D Shapes",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Ours to Ke",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Got What It Takes?": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Comedy": -1,
+    "Music": -1,
+    "Documentaries": 2
+  },
+  "user_interactions": [
+    [
+      "Cutting It",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Growing Up Scottish",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Phil Collins at the BBC",
+      "Music",
+      "disliked"
+    ],
+    [
+      "We Are England - Belonging: Cornwall's Last Raceway",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths: Addition and Subtraction - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Cannabis: America's 'Green Gold Rush'",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Ivanhoe",
+      "Films",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "We Are England - Belonging: Cornwall's Last Raceway": 1,
+    "Cannabis: America's 'Green Gold Rush'": 1
+  }
+}

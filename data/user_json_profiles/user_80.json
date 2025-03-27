@@ -1,0 +1,44 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Music": -2
+  },
+  "user_interactions": [
+    [
+      "EastEnders 2010 - 12/11/2009",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "HARDtalk - Ingrid Betancourt, Colombian Presidential Candidate",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "1Xtra - Decks Of Kin: Novelist",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "BBC Scottish Symphony Orchestra - The Lark Ascending",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds:",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Rip Off Britain",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "One More TUNE - Maverick Sabre",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

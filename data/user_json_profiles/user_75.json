@@ -1,0 +1,40 @@
+{
+  "user_preferences": {
+    "Entertainment": -2,
+    "Documentaries": -1,
+    "Food": -1
+  },
+  "user_interactions": [
+    [
+      "Caitlyn Jenner: Honesty",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Radio 1 Stories - Living The Dream",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Simply Nigella",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Movies With Ali Plumb - Becoming...: The Witcher",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Michael Palin: Travels of a Lifetime",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "EastEnders 2010 - 13/11/2009",
+      "From the Archives",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

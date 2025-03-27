@@ -1,0 +1,47 @@
+{
+  "user_preferences": {
+    "Documentaries": 1,
+    "Entertainment": -1,
+    "Films": -1
+  },
+  "user_interactions": [
+    [
+      "Fanny Cradock Cooks for Christmas",
+      "Food",
+      "neutral"
+    ],
+    [
+      "Dragons' Den",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "Moment of Truth",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Top Gear - USA Road Trip",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "St Patrick's Day at the BBC",
+      "Music",
+      "neutral"
+    ],
+    [
+      "Second Chance",
+      "Films",
+      "disliked"
+    ],
+    [
+      "The Great British Sewing Bee - 2021 Specials:",
+      "Entertainment",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Moment of Truth": 1
+  }
+}

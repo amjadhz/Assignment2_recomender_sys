@@ -1,0 +1,27 @@
+{
+  "user_preferences": {
+    "Documentaries": 2,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "France '98 - The Three Musketeers",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Fact and Opinion",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Cities of Europe - London: We Live by the River",
+      "Documentaries",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "France '98 - The Three Musketeers": 1,
+    "Cities of Europe - London: We Live by the River": 1
+  }
+}

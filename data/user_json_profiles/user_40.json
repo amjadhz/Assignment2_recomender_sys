@@ -1,0 +1,30 @@
+{
+  "user_preferences": {
+    "Arts": -1,
+    "Signed": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "Dance Passion - 2022: Plymouth",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "Rick Stein Tastes the Blues",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Countryfile - Best of Autumn - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Who Do You Think You Are?",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

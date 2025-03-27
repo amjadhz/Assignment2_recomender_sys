@@ -1,0 +1,38 @@
+{
+  "user_preferences": {
+    "Documentaries": 2,
+    "Signed": -1,
+    "Science & Nature": -1
+  },
+  "user_interactions": [
+    [
+      "Classic British Cars: Made in Coventry",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Countryfile - One Man and His Dog 2021 - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Jamie Johnson - Extras: Top Ten Cast Skills",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Fight for First: Excel Esports",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Countryfile - Bristol's Last Farm",
+      "Science & Nature",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Classic British Cars: Made in Coventry": 1,
+    "Fight for First: Excel Esports": 1
+  }
+}

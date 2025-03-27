@@ -1,0 +1,33 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "Films": -1,
+    "Entertainment": -1,
+    "Documentaries": 1
+  },
+  "user_interactions": [
+    [
+      "Mystic",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Hotel Reserve",
+      "Films",
+      "disliked"
+    ],
+    [
+      "The One Show - 14/03/2022",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Rick Stein Tastes the Blues",
+      "Documentaries",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Rick Stein Tastes the Blues": 1
+  }
+}

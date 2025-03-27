@@ -1,0 +1,43 @@
+{
+  "user_preferences": {
+    "Documentaries": 0,
+    "From the Archives": -2,
+    "Food": -1,
+    "Music": -1
+  },
+  "user_interactions": [
+    [
+      "Full Circle with Michael Palin",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Mrs Brown's Boys - Christmas Specials 2016:",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "We Are England - Made in England: The 007 Shoe Factory - Northampton",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Saturday Kitchen - 27/11/2021",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Astaire and Rogers Sing the Great American Songbook",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Songs of Praise - The Duke of Edinburgh",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Full Circle with Michael Palin": 1
+  }
+}

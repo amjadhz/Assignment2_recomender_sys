@@ -1,0 +1,25 @@
+{
+  "user_preferences": {
+    "Sports": 1
+  },
+  "user_interactions": [
+    [
+      "Doctor Who - Eve of the Daleks",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic",
+      "Sports",
+      "liked"
+    ],
+    [
+      "The Fires that Foretold Grenfell",
+      "Documentaries",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic": 1
+  }
+}
