@@ -1,0 +1,38 @@
+{
+  "user_preferences": {
+    "Documentaries": 2,
+    "Films": -1,
+    "From the Archives": -1
+  },
+  "user_interactions": [
+    [
+      "Attenborough's Paradise Birds",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Any One Of Us",
+      "Films",
+      "disliked"
+    ],
+    [
+      "HARDtalk - Marine Le Pen - French Presidential Candidate, National Rally",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Signs of the Times - They're Not Holding the Ceiling Up",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "The Fight For Women's Bodies",
+      "Documentaries",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Attenborough's Paradise Birds": 1,
+    "The Fight For Women's Bodies": 1
+  }
+}

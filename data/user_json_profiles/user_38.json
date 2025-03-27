@@ -1,0 +1,29 @@
+{
+  "user_preferences": {
+    "Music": -1,
+    "Films": -1
+  },
+  "user_interactions": [
+    [
+      "Carols from King's - 2021",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Mistresses",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Effie Gray",
+      "Films",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:",
+      "Signed",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

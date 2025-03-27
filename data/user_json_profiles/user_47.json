@@ -1,0 +1,41 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "CBBC": -1,
+    "Food": -1,
+    "Documentaries": -2
+  },
+  "user_interactions": [
+    [
+      "Panorama - Afghanistan: A Country at Breaking Point - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Pok\u00e9mon: Diamond and Pearl - Movies:",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Saturday Kitchen - 31/07/2021",
+      "Food",
+      "disliked"
+    ],
+    [
+      "One Man and His Shoes",
+      "Films",
+      "neutral"
+    ],
+    [
+      "Inside Britain's Black Market: Who's Selling Fake Stuff?",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "R",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

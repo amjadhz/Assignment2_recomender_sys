@@ -1,0 +1,49 @@
+{
+  "user_preferences": {
+    "Documentaries": -2,
+    "From the Archives": -2,
+    "Science & Nature": -1,
+    "Entertainment": 1,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "Panorama - Princess Diana, Martin Bashir and the BBC",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Doctor Who - The Day of the Doctor",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Countryfile - Clinton Devon Estates",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "The Frost Interview - David Frost interviews Muhammad Ali",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Only Connect",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Operation Ouch!",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Models: Street to Catwalk",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Only Connect": 1
+  }
+}

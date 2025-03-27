@@ -1,0 +1,43 @@
+{
+  "user_preferences": {
+    "Documentaries": 3,
+    "Signed": -2
+  },
+  "user_interactions": [
+    [
+      "Operation Ouch!",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Split Up in Care: Life without Siblings",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Panorama - Manchester Arena Bombing: Saffie\u2019s Story",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Go Jetters",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Black Hollywood: 'They've Gotta Have Us'",
+      "Documentaries",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Split Up in Care: Life without Siblings": 1,
+    "Panorama - Manchester Arena Bombing: Saffie\u2019s Story": 1,
+    "Black Hollywood: 'They've Gotta Have Us'": 1
+  }
+}

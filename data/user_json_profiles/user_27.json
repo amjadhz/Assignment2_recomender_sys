@@ -1,0 +1,48 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "Entertainment": 1,
+    "Documentaries": -1,
+    "Comedy": -1
+  },
+  "user_interactions": [
+    [
+      "Stacey Dooley: Costa del Narcos - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Innuendo Bingo - Maya Jama",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Monty Don's Adriatic Gardens",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "My Mate's a Muslim",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Singing the Messiah",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Pls Like",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Britain's Teenage Drug Runners",
+      "Documentaries",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Innuendo Bingo - Maya Jama": 1
+  }
+}

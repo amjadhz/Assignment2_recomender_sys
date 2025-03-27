@@ -1,0 +1,36 @@
+{
+  "user_preferences": {
+    "Arts": -1,
+    "From the Archives": -2,
+    "Comedy": -1,
+    "Science & Nature": -1
+  },
+  "user_interactions": [
+    [
+      "Loop - Moot",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "Him & Her",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Bravo Two Charlies",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Philip Glass Concert: Live at the Barbican",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Click - Ice Ice Baby",
+      "Science & Nature",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

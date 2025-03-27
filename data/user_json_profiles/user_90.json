@@ -1,0 +1,34 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "From the Archives": -1
+  },
+  "user_interactions": [
+    [
+      "Unpopular Opinion - Camila Cabello",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "Louis Theroux - A Different Brain",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Incredible Journeys with Simon Reeve",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "9/11: Inside the President's War Room - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Face to Face - Evelyn Waugh",
+      "From the Archives",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

@@ -1,0 +1,25 @@
+{
+  "user_preferences": {
+    "Comedy": 1
+  },
+  "user_interactions": [
+    [
+      "Harry Hill's Lonely Island",
+      "Comedy",
+      "neutral"
+    ],
+    [
+      "HARDtalk - Bassem Youssef \u2013 Comedian and Writer",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Breaking the News - COP26 Special",
+      "Comedy",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Breaking the News - COP26 Special": 1
+  }
+}

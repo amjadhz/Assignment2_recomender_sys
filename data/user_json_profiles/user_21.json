@@ -1,0 +1,41 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "Music": -1,
+    "Documentaries": -1,
+    "Entertainment": -1
+  },
+  "user_interactions": [
+    [
+      "Glastonbury - Fela Kuti at Glastonbury 1984",
+      "Music",
+      "neutral"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Recognise and Name 3D Shapes",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "TUNE - Shorts: Dylan Fraser Live",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Celebrity LOLs - Bleak Mornings: HAIM",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "Arena - B. Catling: Where Does It All Come From?",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Ceilidh na Bliadhn' Uire 2021 - Seudan",
+      "Entertainment",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

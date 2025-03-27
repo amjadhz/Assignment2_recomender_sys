@@ -1,0 +1,43 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "Documentaries": -2,
+    "Entertainment": 1,
+    "Food": -1
+  },
+  "user_interactions": [
+    [
+      "Panorama - Wild Weather: Our World Under Threat - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Michael Palin's Hemingway Adventure",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Shop Well for Less",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Madhur Jaffrey's Flavours of India - West Bengal",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Ghosts - He Came!",
+      "Comedy",
+      "neutral"
+    ],
+    [
+      "Born to Be Wild",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Shop Well for Less": 1
+  }
+}

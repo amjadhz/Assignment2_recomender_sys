@@ -1,0 +1,50 @@
+{
+  "user_preferences": {
+    "Documentaries": 1,
+    "Entertainment": -1,
+    "Science & Nature": -1,
+    "Comedy": -1,
+    "Signed": -1,
+    "Music": -1
+  },
+  "user_interactions": [
+    [
+      "Question Time - 2021: 10/06/2021 - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "TikTok Queen at 16",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Galdem Sugar",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Click - Short Edition - 29/01/2022",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "Mammoth",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "The Baby Club - Songs: The Waking Up Song",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "TUNE - Shorts: Sam Gellaitry Live",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "TikTok Queen at 16": 1
+  }
+}

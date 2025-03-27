@@ -2,8 +2,11 @@ import streamlit as st
 import pandas as pd
 import json
 import os
+import pickle
 
-# Define file paths
+# -------------------------------
+# Load BBC Dataset
+# -------------------------------
 USER_DATA_FILE = "./data/user_interactions.json"
 
 # Function to clear user interactions file
@@ -17,11 +20,13 @@ clear_user_data()
 # Load dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv("./data/bbc_recommender_dataset.csv")
+    return pd.read_csv("./data/bbc_recommender_dataset_clean.csv")
 
 data = load_data()
 
-# Function to load or initialize user data (including watch counts)
+# -------------------------------
+# User Data Helpers
+# -------------------------------
 def load_user_data():
     try:
         with open(USER_DATA_FILE, "r") as f:
@@ -30,7 +35,6 @@ def load_user_data():
     except FileNotFoundError:
         return {}, [], {}
 
-# Function to save user interactions and watch counts
 def save_user_data():
     with open(USER_DATA_FILE, "w") as f:
         json.dump({
@@ -47,10 +51,12 @@ def view_broadcast(broadcast):
 def go_back_home():
     st.session_state.selected_broadcast = None
 
-# Initialize session states
+# -------------------------------
+# Session State Init
+# -------------------------------
 if "user_preferences" not in st.session_state:
     st.session_state.user_preferences, st.session_state.user_interactions, st.session_state.watch_counts = load_user_data()
-    
+
 if "category_index" not in st.session_state:
     st.session_state.category_index = 0
 
@@ -78,7 +84,9 @@ category_similarity = {
 
 categories = data["category"].unique()
 
-# Fairness Score Calculation (based on watch count stored in JSON)
+# -------------------------------
+# Fairness Score Calculation
+# -------------------------------
 def compute_fairness_score(title):
     watch_count = st.session_state.watch_counts.get(title, 0)
     return 1 / (1 + watch_count)  # Less-watched content gets a boost
@@ -106,7 +114,6 @@ def get_interest_based_recommendations(data):
 
 # Function for the refresh button that gets the next 10 recommendations
 def refresh_section(section_name):
-    
     # Initialize offset tracking in session state if not exists
     if 'recommendation_offsets' not in st.session_state:
         st.session_state.recommendation_offsets = {
@@ -144,12 +151,12 @@ def refresh_section(section_name):
     # Update the sections dictionary with new recommendations
     sections[section_name] = new_recommendations
 
-# Main app logic
-
-# User Chooses Preferences
+# -------------------------------
+# Recommendation Homepage
+# -------------------------------
 if not st.session_state.recommendations_ready:
     st.title("Discover BBC Content")
-
+    
     # Initialize the genre selection state if not already done
     if "genre_selection_complete" not in st.session_state:
         st.session_state.genre_selection_complete = False
@@ -180,7 +187,7 @@ if not st.session_state.recommendations_ready:
                     # Store the previous state to detect changes
                     previous_state = st.session_state.liked_genres.get(genre)
                     
-                    # Button  and its styling
+                    # Button and its styling
                     button_style = "primary" if st.session_state.liked_genres.get(genre) else "secondary"
                     prefix = "✓ " if st.session_state.liked_genres.get(genre) else ""
                     if st.button(f"{prefix}{genre}", key=f"genre_btn_{genre}", type=button_style):
@@ -191,7 +198,6 @@ if not st.session_state.recommendations_ready:
         # Continue button - only enabled if at least 5 genres are selected
         if liked_count >= 5:
             if st.button("Continue to Content Selection"):
-
                 # Record all genre selections before continuing
                 for genre in categories:
                     is_selected = st.session_state.liked_genres.get(genre, True)
@@ -216,7 +222,7 @@ if not st.session_state.recommendations_ready:
         if st.session_state.category_index < len(st.session_state.filtered_categories):
             current_category = st.session_state.filtered_categories[st.session_state.category_index]
             st.header("What type of content do you like?")
-            st.write("Before we show you your recommendations, please tell use more about what you like to watch:")
+            st.write("Before we show you your recommendations, please tell us more about what you like to watch:")
             st.subheader(f"Category: {current_category}")
             
             if st.session_state.current_items is None:
@@ -280,11 +286,65 @@ if not st.session_state.recommendations_ready:
             st.session_state.recommendations_ready = True
             st.rerun()
 
-# Home Page after choosing preferences
-elif st.session_state.selected_broadcast is None:
+# -------------------------------
+# Recommendation Homepage
+# -------------------------------
+elif st.session_state.recommendations_ready and st.session_state.selected_broadcast is None:
     st.title("BBC Recommender System - User Interface")
     st.header("Your Recommendations")
-    
+
+    def load_similarity_model():
+        model_path = "./models/item_similarity.pkl"
+        if os.path.exists(model_path):
+            with open(model_path, "rb") as f:
+                return pickle.load(f)
+        return pd.DataFrame()
+
+    similarity_model = load_similarity_model()
+
+    # Get user liked titles
+    liked_titles = [title for title, feedback in st.session_state.user_interactions if feedback == "liked"]
+
+    # Get similar titles based on collaborative filtering
+    def get_similar_items(user_likes, model, n=10):
+        if model.empty or not user_likes:
+            return []
+
+        similarity_scores = pd.Series(dtype=float)
+        for title in user_likes:
+            if title in model.index:
+                similarity_scores = similarity_scores.add(model[title], fill_value=0)
+
+        for title in user_likes:
+            if title in similarity_scores:
+                similarity_scores.pop(title)
+
+        return similarity_scores.sort_values(ascending=False).head(n).index.tolist()
+
+
+    similar_titles = get_similar_items(liked_titles, similarity_model, n=10)
+
+    # Load trending from all synthetic users
+    def load_all_user_jsons(path="data/user_json_profiles"):
+        interaction_counts = {}
+        try:
+            for filename in os.listdir(path):
+                if filename.endswith(".json"):
+                    with open(os.path.join(path, filename), "r") as f:
+                        user_data = json.load(f)
+                        for title, _, feedback in user_data.get("user_interactions", []):
+                            if feedback == "liked":
+                                interaction_counts[title] = interaction_counts.get(title, 0) + 1
+                        for title, count in user_data.get("watch_counts", {}).items():
+                            interaction_counts[title] = interaction_counts.get(title, 0) + count
+        except Exception as e:
+            st.warning(f"Could not load user JSONs: {e}")
+        return interaction_counts
+
+    trending_scores = load_all_user_jsons()
+    top_trending_titles = sorted(trending_scores.items(), key=lambda x: x[1], reverse=True)
+    top_trending_titles = [title for title, _ in top_trending_titles[:10]]
+
     sections = {
         "For You": get_fair_recommendations(data).head(10),
         "Interested": get_interest_based_recommendations(data),
@@ -293,7 +353,7 @@ elif st.session_state.selected_broadcast is None:
     }
     
     for section_name, content in sections.items():
-         # Create a row with section title and refresh button
+        # Create a row with section title and refresh button
         col1, col2 = st.columns([0.8, 0.2])
         with col1:
             st.subheader(section_name)
@@ -307,7 +367,7 @@ elif st.session_state.selected_broadcast is None:
             )
         
         cols = st.columns(5)
-        
+
         for i, (_, row) in enumerate(content.iterrows()):
             with cols[i % 5]:
                 st.image(row["image"])
@@ -330,7 +390,9 @@ elif st.session_state.selected_broadcast is None:
                     args=(row.to_dict(),)
                 )
 
+# -------------------------------
 # Broadcast Page
+# -------------------------------
 else:
     try:
         st.title(st.session_state.selected_broadcast["title"])
@@ -402,19 +464,4 @@ else:
                     if len(interaction) > 2 and interaction[0] == row["title"]:
                         if interaction[2] == "liked":
                             st.write("👍 Liked")
-                        elif interaction[2] == "disliked":
-                            st.write("👎 Disliked")
-                        break
-                
-                rec_button_key = f"view_more_{i}"
-                st.button(
-                    "View", 
-                    key=rec_button_key,
-                    on_click=view_broadcast,
-                    args=(row.to_dict(),)
-                )
-        
-        st.button("Back to Home", on_click=go_back_home)
-    except Exception as e:
-        st.error(f"Error displaying broadcast: {e}")
-        st.button("Back to Home", on_click=go_back_home)
+                        elif interaction[2]

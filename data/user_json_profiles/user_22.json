@@ -1,0 +1,46 @@
+{
+  "user_preferences": {
+    "Signed": -2,
+    "From the Archives": -1,
+    "Documentaries": -1,
+    "Music": -1
+  },
+  "user_interactions": [
+    [
+      "Panorama - Football's Broken Dreams - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "The Late Show - Face to Face: Ken Dodd",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Sounds of the Sixties - Reversions:",
+      "Music",
+      "neutral"
+    ],
+    [
+      "Playground Insults - Ryan Reynolds & Josh Brolin",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "The Baby Club - Songs: The Sle",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Arena - Voices from the Island",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Northern Ireland Onscreen",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

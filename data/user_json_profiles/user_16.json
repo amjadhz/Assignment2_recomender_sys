@@ -1,0 +1,40 @@
+{
+  "user_preferences": {
+    "CBBC": -2,
+    "Music": -1,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "Scream Street",
+      "CBBC",
+      "neutral"
+    ],
+    [
+      "Nowhere Boys",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Queens of Song at the BBC",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Pok\u00e9mon: Black and White - Movies: Kyurem v The Sword of Justice",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths: Large Number Placement - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Victoria Wood: The Secret List",
+      "Entertainment",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

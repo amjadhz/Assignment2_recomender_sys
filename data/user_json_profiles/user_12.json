@@ -1,0 +1,25 @@
+{
+  "user_preferences": {
+    "Comedy": -1,
+    "Science & Nature": -1,
+    "Music": -1
+  },
+  "user_interactions": [
+    [
+      "Scot Squad - Hogmanay Special",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Click - Short Edition - 21/08/2021",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "Canadian Hits at the BBC",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

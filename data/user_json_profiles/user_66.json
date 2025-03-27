@@ -1,0 +1,34 @@
+{
+  "user_preferences": {
+    "Documentaries": -2,
+    "From the Archives": -1
+  },
+  "user_interactions": [
+    [
+      "Snooker: Welsh Open - 2022:",
+      "Sports",
+      "neutral"
+    ],
+    [
+      "The Rolling Stones: Totally Stripped",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Sir Mortimer and Magnus",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "We Are England - A Place Called Home: Hanging On To Home",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Jamie Johnson - Extras: Kick Up Challenge",
+      "Signed",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

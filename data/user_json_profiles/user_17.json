@@ -1,0 +1,38 @@
+{
+  "user_preferences": {
+    "Signed": 1,
+    "Documentaries": -1,
+    "Sports": -1,
+    "Entertainment": -1
+  },
+  "user_interactions": [
+    [
+      "BBC Trailers - This is Our BBC",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Northern Irish...",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Scrum V - Live: 2021/2022: Ulster v Cardiff",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing:",
+      "Signed",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "BBC Trailers - This is Our BBC": 1
+  }
+}

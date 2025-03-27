@@ -1,0 +1,39 @@
+{
+  "user_preferences": {
+    "Documentaries": -2,
+    "Signed": -2
+  },
+  "user_interactions": [
+    [
+      "A Taste of Christmas with Andi Oliver",
+      "Food",
+      "neutral"
+    ],
+    [
+      "Everything - The Real Thing Story",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Our World - Nigeria's Retirement Hell",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds: Habitats",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "The Sky at Night - Telescopes through Time",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Andy and the Band - Songs: Freeze",
+      "Signed",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

@@ -1,0 +1,49 @@
+{
+  "user_preferences": {
+    "Documentaries": 3,
+    "Sports": -1,
+    "Entertainment": -1
+  },
+  "user_interactions": [
+    [
+      "Catch Her If You Can",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Wild Gardener",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "NIFL Premiership Highlights - 2020/21: Cliftonville v Linfield",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 08/12/2021 - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Mach as mo Rathad/Born to Drive",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "There's No Place Like Tyrone",
+      "Entertainment",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Catch Her If You Can": 1,
+    "The Wild Gardener": 1,
+    "Mach as mo Rathad/Born to Drive": 1
+  }
+}

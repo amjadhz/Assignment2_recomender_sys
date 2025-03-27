@@ -1,0 +1,29 @@
+{
+  "user_preferences": {
+    "Science & Nature": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "Countryfile - Holkham",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "Blue Peter - Operation Ouch Takeover! - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Beauty Laid Bare",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Talent",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

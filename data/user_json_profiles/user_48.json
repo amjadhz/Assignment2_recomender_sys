@@ -1,0 +1,39 @@
+{
+  "user_preferences": {
+    "From the Archives": 0,
+    "Signed": 1,
+    "Entertainment": -1,
+    "Science & Nature": -1
+  },
+  "user_interactions": [
+    [
+      "Going Places - 12",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Panorama - Buy Now, Pay Later: The New Debt Crisis? - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Wogan - 25/12/1984",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Unpopular Opinion - Coldplay",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Winterwatch - Winterwatch 2022 - Red Button:",
+      "Science & Nature",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Going Places - 12": 1,
+    "Panorama - Buy Now, Pay Later: The New Debt Crisis? - Signed": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "user_preferences": {
+    "Documentaries": -2,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "Britain's Ancient Capital: Secrets of Orkney",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Natural World - 2007-2008:",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Andy and the Band - Songs: After School",
+      "Signed",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

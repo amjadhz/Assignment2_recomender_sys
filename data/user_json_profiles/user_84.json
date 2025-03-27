@@ -1,0 +1,47 @@
+{
+  "user_preferences": {
+    "Entertainment": 1,
+    "Documentaries": -2,
+    "Signed": -2
+  },
+  "user_interactions": [
+    [
+      "We Are England - A Place Called Home: Students in Suburbia - Newcastle",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Movies With Ali Plumb - Michael B. Jordan: The Story So Far",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "The Misadventures of Romesh Ranganathan - Christmas",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "We Are England - A Place Called Home: Staying Afloat",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Subnormal: A British Scandal - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "The Magnificent Ambersons",
+      "Films",
+      "neutral"
+    ],
+    [
+      "Anton Ferdinand: Football, Racism and Me - Signed",
+      "Signed",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Movies With Ali Plumb - Michael B. Jordan: The Story So Far": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "user_preferences": {
+    "Entertainment": 1,
+    "Signed": -1,
+    "Films": -1
+  },
+  "user_interactions": [
+    [
+      "The Apprentice Australia - 2021: Final Task",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths: Position and Direction",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Women at Work",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Ninja Express",
+      "CBBC",
+      "neutral"
+    ],
+    [
+      "Happy New Year, Colin Burstead",
+      "Films",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "The Apprentice Australia - 2021: Final Task": 1
+  }
+}
