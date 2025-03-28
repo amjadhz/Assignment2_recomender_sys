@@ -1,0 +1,507 @@
+User ID,Persona,Title,Category,Rating,Watched Completely,Device,Timestamp
+user_1,Balanced Viewer,The Apprentice Australia - 2021:,Entertainment,2,No,Smartphone,2024-11-07 17:35:16
+user_1,Balanced Viewer,People to Watch - Ronald Reagan,From the Archives,4,Yes,TV,2024-09-29 17:35:16
+user_1,Balanced Viewer,Louis Theroux - America's Medicated Kids,Documentaries,2,No,Smartphone,2024-05-03 17:35:16
+user_1,Balanced Viewer,Saturday Kitchen - 24/07/2021,Food,2,No,Laptop,2024-10-04 17:35:16
+user_2,Sports Fan,The White Handkerchief,Arts,2,No,Laptop,2025-03-03 17:35:16
+user_2,Sports Fan,BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet,Music,3,No,Laptop,2025-02-12 17:35:16
+user_2,Sports Fan,The Nilsen Files,Documentaries,2,No,Smartphone,2024-10-21 17:35:16
+user_2,Sports Fan,Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Counting in Fractions Using a Number Line,Signed,3,No,Smartphone,2024-11-01 17:35:16
+user_2,Sports Fan,The Past at Work - Railway Mania,From the Archives,3,No,Smartphone,2024-12-21 17:35:16
+user_3,News Watcher,Radio 2 Live - 2021: Highlights,Music,1,No,Laptop,2024-04-15 17:35:16
+user_3,News Watcher,Eat the Town,Food,3,No,Smartphone,2024-10-24 17:35:16
+user_3,News Watcher,Sportscene - Women's Football Highlights 2021/22: 21/03/2022,Sports,3,No,Tablet,2024-09-02 17:35:16
+user_3,News Watcher,Nova Jones - Songs: I Can,Signed,2,No,Laptop,2024-10-08 17:35:16
+user_3,News Watcher,1Xtra - Decks of Kin: Jordss,Entertainment,1,No,Tablet,2024-07-01 17:35:16
+user_4,Entertainment Junkie,Bitesize Daily: 9-11 Year Olds - Science 10-11 Year-Olds: Classifying Living Things,Signed,2,No,Laptop,2024-08-11 17:35:16
+user_4,Entertainment Junkie,Hey Duggee - Top of the Pups: Hey Duggee’s Valentine’s Song,Signed,3,No,TV,2025-01-11 17:35:16
+user_4,Entertainment Junkie,Bellator MMA - 2022: Sinead Kavanagh vs. Leah McCourt,Sports,1,No,Laptop,2024-08-29 17:35:16
+user_4,Entertainment Junkie,China's Magic Weapon - Signed,Signed,2,No,Laptop,2025-01-03 17:35:16
+user_5,Balanced Viewer,PRU,Comedy,3,No,Tablet,2024-08-23 17:35:16
+user_5,Balanced Viewer,Britney,Comedy,4,Yes,Laptop,2024-08-02 17:35:16
+user_5,Balanced Viewer,"Everything, Everything",Films,2,No,Laptop,2025-01-29 17:35:16
+user_5,Balanced Viewer,Our World - The Battle for the South China Sea,Documentaries,1,No,TV,2024-09-27 17:35:16
+user_5,Balanced Viewer,The Office,From the Archives,3,No,Smartphone,2024-11-06 17:35:16
+user_6,Balanced Viewer,Super League Show - 2022: 21/03/2022,Sports,2,No,TV,2024-10-12 17:35:16
+user_6,Balanced Viewer,Jacqueline Wilson's Katy,CBBC,1,No,TV,2024-06-14 17:35:16
+user_6,Balanced Viewer,BBC News Special - Coronavirus Update: : 27/05/2021 - Signed,Signed,3,No,Laptop,2024-05-06 17:35:16
+user_6,Balanced Viewer,Right Here,Documentaries,2,No,Tablet,2025-03-13 17:35:16
+user_6,Balanced Viewer,Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed,Signed,2,No,TV,2025-01-09 17:35:16
+user_6,Balanced Viewer,"My Family,",Documentaries,2,No,Tablet,2024-12-08 17:35:16
+user_7,Documentary Lover,Not Going Out - Driving Home for Christmas,From the Archives,3,No,TV,2024-10-13 17:35:16
+user_7,Documentary Lover,The Ranganation,Entertainment,3,No,Tablet,2024-04-07 17:35:16
+user_7,Documentary Lover,"1Xtra - 1XTRA Talks: Pain, Power and Progress",Entertainment,1,No,Tablet,2025-01-23 17:35:16
+user_7,Documentary Lover,Down the Mighty River with Steve Backshall,Documentaries,4,Yes,Laptop,2024-05-08 17:35:16
+user_7,Documentary Lover,Celebrity Best Home Cook,Entertainment,3,No,TV,2025-03-17 17:35:16
+user_8,News Watcher,New Creatives - WINK,Arts,3,No,Smartphone,2024-12-13 17:35:16
+user_8,News Watcher,The Treasure Hunters,Documentaries,1,No,Tablet,2024-09-20 17:35:16
+user_8,News Watcher,Horizon - 1964-1965: The World Of Buckminster Fuller,Documentaries,2,No,Smartphone,2024-03-29 17:35:16
+user_8,News Watcher,Pokémon: Black and White - Movies: Kyurem v The Sword of Justice,CBBC,1,No,Laptop,2024-04-26 17:35:16
+user_8,News Watcher,"Hey Duggee - Top of the Pups: Hey! Diddle, Diddle",Signed,2,No,TV,2024-09-18 17:35:16
+user_8,News Watcher,Fanny Cradock Cooks for Christmas,Food,1,No,Laptop,2024-12-20 17:35:16
+user_8,News Watcher,The Gap Year Paedophile,Documentaries,1,No,Tablet,2025-02-10 17:35:16
+user_9,Documentary Lover,Catch Her If You Can,Documentaries,5,Yes,Smartphone,2024-11-29 17:35:16
+user_9,Documentary Lover,The Wild Gardener,Documentaries,5,Yes,Tablet,2024-05-01 17:35:16
+user_9,Documentary Lover,BBC News Special - Coronavirus Update: : 27/05/2021 - Signed,Signed,3,No,Tablet,2024-07-22 17:35:16
+user_9,Documentary Lover,NIFL Premiership Highlights - 2020/21: Cliftonville v Linfield,Sports,1,No,Tablet,2025-02-08 17:35:16
+user_9,Documentary Lover,BBC News Special - Coronavirus Update: 08/12/2021 - Signed,Signed,3,No,TV,2024-09-27 17:35:16
+user_9,Documentary Lover,Mach as mo Rathad/Born to Drive,Documentaries,4,Yes,Smartphone,2024-06-10 17:35:16
+user_9,Documentary Lover,There's No Place Like Tyrone,Entertainment,1,No,Laptop,2024-08-14 17:35:16
+user_10,Entertainment Junkie,Groundbreakers - Belfast's Richest Radical,Documentaries,2,No,TV,2024-11-08 17:35:16
+user_10,Entertainment Junkie,Stacey Dooley Investigates - Nigeria's Female Suicide Bombers,Documentaries,1,No,TV,2024-06-18 17:35:16
+user_10,Entertainment Junkie,Wogan - 25/12/1984,From the Archives,1,No,TV,2025-03-22 17:35:16
+user_11,Documentary Lover,Fanny Cradock Cooks for Christmas,Food,3,No,Tablet,2024-07-06 17:35:16
+user_11,Documentary Lover,Dragons' Den,Entertainment,3,No,TV,2024-11-12 17:35:16
+user_11,Documentary Lover,Moment of Truth,Documentaries,5,Yes,TV,2024-09-02 17:35:16
+user_11,Documentary Lover,Top Gear - USA Road Trip,Entertainment,1,No,Laptop,2025-03-13 17:35:16
+user_11,Documentary Lover,St Patrick's Day at the BBC,Music,3,No,Laptop,2024-04-26 17:35:16
+user_11,Documentary Lover,Second Chance,Films,2,No,Tablet,2025-02-24 17:35:16
+user_11,Documentary Lover,The Great British Sewing Bee - 2021 Specials:,Entertainment,3,No,Smartphone,2024-04-06 17:35:16
+user_12,Entertainment Junkie,Scot Squad - Hogmanay Special,Comedy,2,No,Smartphone,2024-05-01 17:35:16
+user_12,Entertainment Junkie,Click - Short Edition - 21/08/2021,Science & Nature,1,No,Smartphone,2024-04-08 17:35:16
+user_12,Entertainment Junkie,Canadian Hits at the BBC,Music,2,No,Tablet,2025-03-27 17:35:16
+user_13,Sports Fan,Scotland’s Sacred Islands with Ben Fogle,Documentaries,1,No,TV,2025-02-14 17:35:16
+user_13,Sports Fan,Borrowed Pasture,Documentaries,1,No,Laptop,2024-12-09 17:35:16
+user_13,Sports Fan,Stacey Dooley - The Blame Game,Documentaries,3,No,Tablet,2024-08-10 17:35:16
+user_13,Sports Fan,Itch,Signed,3,No,Smartphone,2025-03-19 17:35:16
+user_14,News Watcher,Tennis: Tie Break Tens Highlights,Sports,2,No,Tablet,2024-07-31 17:35:16
+user_14,News Watcher,Women's Super League - 2021/22: Tottenham v Man City,Sports,4,Yes,Tablet,2024-04-29 17:35:16
+user_14,News Watcher,CBeebies Presents - Stage Shows: The Snow Queen,Signed,2,No,Smartphone,2024-04-03 17:35:16
+user_14,News Watcher,Question Time - 2021: 20/05/2021 - Signed,Signed,5,Yes,TV,2024-10-07 17:35:16
+user_14,News Watcher,Mrs Brown's Boys,From the Archives,1,No,Tablet,2024-11-29 17:35:16
+user_14,News Watcher,Being British Bangladeshi,Documentaries,1,No,Tablet,2025-02-28 17:35:16
+user_14,News Watcher,Bellator MMA - 2021: Fedor Emelianenko vs. Timothy Johnson,Sports,1,No,Smartphone,2024-11-01 17:35:16
+user_15,Sports Fan,Inspector Montalbano - The Goldfinch and the Cat,From the Archives,1,No,Laptop,2024-06-26 17:35:16
+user_15,Sports Fan,Primates,Documentaries,3,No,Smartphone,2025-03-24 17:35:16
+user_15,Sports Fan,Saturday Kitchen - 26/02/2022,Food,2,No,Tablet,2024-07-30 17:35:16
+user_15,Sports Fan,Prime Properties - Clement Attlee,History,2,No,Smartphone,2024-12-23 17:35:16
+user_15,Sports Fan,We Are England - The Night Shift: One Night at the Fish Market - Grimsby,Documentaries,3,No,TV,2024-06-15 17:35:16
+user_15,Sports Fan,NIFL Premiership Highlights - 2020/21: Cliftonville v Linfield,Sports,2,No,Tablet,2024-08-19 17:35:16
+user_15,Sports Fan,Great British Photography Challenge,Entertainment,2,No,Laptop,2024-07-04 17:35:16
+user_16,Sports Fan,Scream Street,CBBC,3,No,Smartphone,2024-08-08 17:35:16
+user_16,Sports Fan,Nowhere Boys,CBBC,1,No,Smartphone,2024-05-06 17:35:16
+user_16,Sports Fan,Queens of Song at the BBC,Music,1,No,Tablet,2024-08-25 17:35:16
+user_16,Sports Fan,Pokémon: Black and White - Movies: Kyurem v The Sword of Justice,CBBC,2,No,Tablet,2024-04-23 17:35:16
+user_16,Sports Fan,Bitesize Daily: 7-9 Year Olds - Maths: Large Number Placement - Signed,Signed,2,No,TV,2024-10-22 17:35:16
+user_16,Sports Fan,Victoria Wood: The Secret List,Entertainment,3,No,Laptop,2024-04-18 17:35:16
+user_17,News Watcher,BBC Trailers - This is Our BBC,Signed,5,Yes,Tablet,2024-10-18 17:35:16
+user_17,News Watcher,Northern Irish...,Documentaries,2,No,Laptop,2024-09-05 17:35:16
+user_17,News Watcher,Scrum V - Live: 2021/2022: Ulster v Cardiff,Sports,1,No,Smartphone,2024-12-04 17:35:16
+user_17,News Watcher,Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing,Entertainment,1,No,Smartphone,2024-07-12 17:35:16
+user_17,News Watcher,Bitesize Daily: 5-7 Year Olds - Wellbeing:,Signed,3,No,Laptop,2024-08-05 17:35:16
+user_18,Documentary Lover,France '98 - The Three Musketeers,Documentaries,4,Yes,Tablet,2024-03-29 17:35:16
+user_18,Documentary Lover,Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Fact and Opinion,Signed,2,No,Tablet,2024-08-05 17:35:16
+user_18,Documentary Lover,Cities of Europe - London: We Live by the River,Documentaries,5,Yes,Smartphone,2024-09-29 17:35:16
+user_19,Balanced Viewer,Nine Minute Ninja,Signed,3,No,Laptop,2024-12-10 17:35:16
+user_19,Balanced Viewer,Autumnwatch - Extras: Autumn Wonders,Documentaries,1,No,TV,2024-09-02 17:35:16
+user_19,Balanced Viewer,Bitesize Daily: 5-7 Year Olds - Science 6-7 Year-Olds: How Animals Grow,Signed,2,No,Smartphone,2024-07-15 17:35:16
+user_19,Balanced Viewer,Project Children: Defusing the Troubles,Documentaries,4,Yes,Smartphone,2024-09-05 17:35:16
+user_19,Balanced Viewer,Francis Bacon: Fragments Of A Portrait,Documentaries,2,No,Laptop,2024-11-26 17:35:16
+user_19,Balanced Viewer,Snooker: Welsh Open - Live: Trump v Steadman - uninterrupted,Sports,1,No,Laptop,2024-09-06 17:35:16
+user_19,Balanced Viewer,Bitesize Daily: 7-9 Year Olds - Science 7-8 Year-Olds:,Signed,3,No,Laptop,2025-03-21 17:35:16
+user_20,Sports Fan,Radio 1's Live Lounge - Stay Home Live Lounge,Music,3,No,Laptop,2025-02-28 17:35:16
+user_20,Sports Fan,Radio 1 Stories - Broken Heart Beats,Documentaries,2,No,Smartphone,2024-11-18 17:35:16
+user_20,Sports Fan,Lights Up - Half Breed,Signed,3,No,TV,2024-10-05 17:35:16
+user_21,Balanced Viewer,Glastonbury - Fela Kuti at Glastonbury 1984,Music,3,No,Smartphone,2024-05-20 17:35:16
+user_21,Balanced Viewer,Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Recognise and Name 3D Shapes,Signed,2,No,TV,2024-09-25 17:35:16
+user_21,Balanced Viewer,TUNE - Shorts: Dylan Fraser Live,Music,1,No,TV,2024-06-23 17:35:16
+user_21,Balanced Viewer,Celebrity LOLs - Bleak Mornings: HAIM,Entertainment,3,No,Laptop,2025-03-08 17:35:16
+user_21,Balanced Viewer,Arena - B. Catling: Where Does It All Come From?,Documentaries,2,No,Smartphone,2024-07-13 17:35:16
+user_21,Balanced Viewer,Ceilidh na Bliadhn' Uire 2021 - Seudan,Entertainment,1,No,Tablet,2024-10-04 17:35:16
+user_22,News Watcher,Panorama - Football's Broken Dreams - Signed,Signed,2,No,Tablet,2025-03-17 17:35:16
+user_22,News Watcher,The Late Show - Face to Face: Ken Dodd,From the Archives,1,No,TV,2024-07-29 17:35:16
+user_22,News Watcher,Sounds of the Sixties - Reversions:,Music,3,No,Tablet,2024-12-23 17:35:16
+user_22,News Watcher,Playground Insults - Ryan Reynolds & Josh Brolin,Entertainment,3,No,Laptop,2025-03-04 17:35:16
+user_22,News Watcher,The Baby Club - Songs: The Sle,Signed,1,No,TV,2025-03-15 17:35:16
+user_22,News Watcher,Arena - Voices from the Island,Documentaries,1,No,Tablet,2025-02-03 17:35:16
+user_22,News Watcher,Northern Ireland Onscreen,Music,2,No,Smartphone,2024-05-22 17:35:16
+user_23,Entertainment Junkie,Panorama - Wild Weather: Our World Under Threat - Signed,Signed,1,No,Laptop,2024-07-01 17:35:16
+user_23,Entertainment Junkie,Michael Palin's Hemingway Adventure,Documentaries,2,No,Laptop,2024-04-20 17:35:16
+user_23,Entertainment Junkie,Shop Well for Less,Entertainment,4,Yes,Tablet,2024-09-13 17:35:16
+user_23,Entertainment Junkie,Madhur Jaffrey's Flavours of India - West Bengal,Food,1,No,TV,2024-05-10 17:35:16
+user_23,Entertainment Junkie,Ghosts - He Came!,Comedy,3,No,Smartphone,2024-08-01 17:35:16
+user_23,Entertainment Junkie,Born to Be Wild,Documentaries,2,No,Tablet,2024-11-15 17:35:16
+user_24,Documentary Lover,Operation Ouch!,Signed,3,No,TV,2024-09-12 17:35:16
+user_24,Documentary Lover,Split Up in Care: Life without Siblings,Documentaries,5,Yes,TV,2024-08-01 17:35:16
+user_24,Documentary Lover,Panorama - Manchester Arena Bombing: Saffie’s Story,Documentaries,4,Yes,TV,2025-03-05 17:35:16
+user_24,Documentary Lover,Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:,Signed,1,No,Laptop,2024-06-16 17:35:16
+user_24,Documentary Lover,Go Jetters,Signed,1,No,Tablet,2024-08-15 17:35:16
+user_24,Documentary Lover,Black Hollywood: 'They've Gotta Have Us',Documentaries,4,Yes,Tablet,2024-11-12 17:35:16
+user_25,News Watcher,Waking the Dead - Pilot,From the Archives,3,No,Smartphone,2024-08-08 17:35:16
+user_25,News Watcher,Horrible Histories - Specials:,CBBC,1,No,Tablet,2024-07-26 17:35:16
+user_25,News Watcher,Waterhole: Africa's Animal Oasis,Documentaries,3,No,Laptop,2025-01-21 17:35:16
+user_26,Documentary Lover,Cutting It,From the Archives,1,No,Smartphone,2024-12-24 17:35:16
+user_26,Documentary Lover,Growing Up Scottish,Comedy,1,No,Laptop,2024-12-23 17:35:16
+user_26,Documentary Lover,Phil Collins at the BBC,Music,2,No,Tablet,2024-08-24 17:35:16
+user_26,Documentary Lover,We Are England - Belonging: Cornwall's Last Raceway,Documentaries,5,Yes,Laptop,2024-07-03 17:35:16
+user_26,Documentary Lover,Bitesize Daily: 7-9 Year Olds - Maths: Addition and Subtraction - Signed,Signed,3,No,Tablet,2024-12-06 17:35:16
+user_26,Documentary Lover,Cannabis: America's 'Green Gold Rush',Documentaries,4,Yes,Smartphone,2024-05-08 17:35:16
+user_26,Documentary Lover,Ivanhoe,Films,3,No,Smartphone,2024-11-22 17:35:16
+user_27,Entertainment Junkie,Stacey Dooley: Costa del Narcos - Signed,Signed,2,No,Smartphone,2025-01-28 17:35:16
+user_27,Entertainment Junkie,Innuendo Bingo - Maya Jama,Entertainment,4,Yes,Laptop,2024-06-10 17:35:16
+user_27,Entertainment Junkie,Monty Don's Adriatic Gardens,Documentaries,3,No,Tablet,2025-02-14 17:35:16
+user_27,Entertainment Junkie,My Mate's a Muslim,Documentaries,2,No,Smartphone,2024-08-20 17:35:16
+user_27,Entertainment Junkie,Singing the Messiah,Documentaries,3,No,TV,2025-01-29 17:35:16
+user_27,Entertainment Junkie,Pls Like,Comedy,1,No,TV,2024-11-10 17:35:16
+user_27,Entertainment Junkie,Britain's Teenage Drug Runners,Documentaries,3,No,Laptop,2024-06-07 17:35:16
+user_28,Documentary Lover,We Are England - Belonging: The Real Phoenix Nights - Clacton,Documentaries,5,Yes,TV,2024-08-05 17:35:16
+user_28,Documentary Lover,Movies With Ali Plumb - Becoming...: Bond: A Daniel Craig Special,Entertainment,2,No,Smartphone,2025-02-28 17:35:16
+user_28,Documentary Lover,Snowdonia: A Year on the Farm,Science & Nature,1,No,Tablet,2024-04-07 17:35:16
+user_28,Documentary Lover,EastEnders 2010 - 16/11/2009,From the Archives,3,No,Tablet,2024-12-21 17:35:16
+user_28,Documentary Lover,"Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Hundreds, Tens and Ones",Signed,1,No,Smartphone,2024-12-03 17:35:16
+user_28,Documentary Lover,John Denver: In Person,Music,3,No,Tablet,2024-05-04 17:35:16
+user_28,Documentary Lover,What's on Your Head?,Signed,2,No,TV,2024-08-31 17:35:16
+user_29,Balanced Viewer,Afoot Again In The Past - Cliveden,From the Archives,1,No,TV,2025-02-13 17:35:16
+user_29,Balanced Viewer,Two Pints of Lager and a Packet of Crisps,From the Archives,2,No,Laptop,2024-05-01 17:35:16
+user_29,Balanced Viewer,PRU,Comedy,3,No,Tablet,2025-01-09 17:35:16
+user_29,Balanced Viewer,Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Counting in Threes,Signed,2,No,Smartphone,2024-12-04 17:35:16
+user_29,Balanced Viewer,Our World - Flooded: One Night in New York City,Documentaries,3,No,Tablet,2024-06-24 17:35:16
+user_29,Balanced Viewer,The Zoo,Signed,1,No,Smartphone,2024-07-01 17:35:16
+user_30,News Watcher,Afoot Again In The Past - Clouds Hill,From the Archives,3,No,Tablet,2024-05-10 17:35:16
+user_30,News Watcher,"HARDtalk - Neil deGrasse Tyson - Director, Hayden Planetarium, New York",From the Archives,3,No,Tablet,2025-02-22 17:35:16
+user_30,News Watcher,Question Time - 2022: 03/02/2022 - Signed,Signed,3,No,TV,2024-10-18 17:35:16
+user_30,News Watcher,Bellator MMA - 2021: Bellator 270: Main event & Prelims,Sports,1,No,TV,2024-11-09 17:35:16
+user_30,News Watcher,Panorama - Paralympics: The Unfair Games?,Documentaries,1,No,Tablet,2024-11-23 17:35:16
+user_30,News Watcher,Question Time - 2021: 25/11/2021 - Signed,Signed,2,No,Smartphone,2024-07-27 17:35:16
+user_31,Sports Fan,Movies With Ali Plumb - Becoming...: Neo,Entertainment,3,No,Laptop,2024-11-17 17:35:16
+user_31,Sports Fan,Undisputed: The Life and Times of Ken Buchanan,Documentaries,3,No,Laptop,2024-09-12 17:35:16
+user_31,Sports Fan,Meet the Red Devils: Parachute Regiment,From the Archives,1,No,Tablet,2025-01-26 17:35:16
+user_31,Sports Fan,New Creatives - Our Largest,Arts,1,No,Smartphone,2024-11-19 17:35:16
+user_31,Sports Fan,Bitz & Bob,Signed,3,No,Laptop,2024-12-13 17:35:16
+user_31,Sports Fan,Grand Tours of Scotland's Lochs,Documentaries,1,No,Laptop,2024-11-21 17:35:16
+user_31,Sports Fan,The Baby Club - Songs: The Waking Up Song,Signed,1,No,Smartphone,2025-02-03 17:35:16
+user_32,News Watcher,Julian Bream Masterclass,From the Archives,2,No,TV,2025-02-18 17:35:16
+user_32,News Watcher,BBC Proms - 2021: Víkingur Ólafsson and the Philharmonia,From the Archives,3,No,Laptop,2024-05-03 17:35:16
+user_32,News Watcher,Storyville - The Queen of Africa: The Miriam Makeba Story,Documentaries,3,No,TV,2024-09-02 17:35:16
+user_32,News Watcher,The Royle Family - The New Sofa,From the Archives,3,No,Smartphone,2025-03-07 17:35:16
+user_32,News Watcher,Inspector Montalbano - Equal Time,From the Archives,1,No,Laptop,2024-09-03 17:35:16
+user_32,News Watcher,Bring Molly Home,Documentaries,2,No,TV,2024-04-28 17:35:16
+user_32,News Watcher,Paddy and Christine McGuinness: Our Family and Autism,Documentaries,3,No,Laptop,2024-08-25 17:35:16
+user_33,News Watcher,Click - Short Edition - 16/10/2021,Science & Nature,1,No,Tablet,2024-10-28 17:35:16
+user_33,News Watcher,TT3D: Closer To The Edge,Sports,3,No,Tablet,2024-11-19 17:35:16
+user_33,News Watcher,The Regiment,Documentaries,3,No,TV,2024-10-16 17:35:16
+user_34,Entertainment Junkie,Neutrino: Hunting the Ghost,Documentaries,4,Yes,TV,2025-03-01 17:35:16
+user_34,Entertainment Junkie,Andy and the Band - Songs: Good Hair Day,Signed,3,No,Laptop,2024-04-20 17:35:16
+user_34,Entertainment Junkie,Bitesize Daily: 5-7 Year Olds - Science 6-7 Year-Olds:,Signed,3,No,Tablet,2024-09-06 17:35:16
+user_35,Sports Fan,Loop - Moot,Arts,1,No,TV,2024-08-04 17:35:16
+user_35,Sports Fan,Him & Her,From the Archives,2,No,Laptop,2024-12-01 17:35:16
+user_35,Sports Fan,Bravo Two Charlies,Comedy,1,No,Tablet,2024-12-31 17:35:16
+user_35,Sports Fan,Philip Glass Concert: Live at the Barbican,From the Archives,2,No,Tablet,2024-05-26 17:35:16
+user_35,Sports Fan,Click - Ice Ice Baby,Science & Nature,1,No,Tablet,2024-07-09 17:35:16
+user_36,Balanced Viewer,A Taste of Christmas with Andi Oliver,Food,3,No,Laptop,2024-06-06 17:35:16
+user_36,Balanced Viewer,Everything - The Real Thing Story,Documentaries,3,No,Smartphone,2025-02-02 17:35:16
+user_36,Balanced Viewer,Our World - Nigeria's Retirement Hell,Documentaries,2,No,Laptop,2024-05-03 17:35:16
+user_36,Balanced Viewer,Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds: Habitats,Signed,1,No,Laptop,2025-01-05 17:35:16
+user_36,Balanced Viewer,The Sky at Night - Telescopes through Time,Documentaries,1,No,Laptop,2024-12-27 17:35:16
+user_36,Balanced Viewer,Andy and the Band - Songs: Freeze,Signed,2,No,Smartphone,2025-03-18 17:35:16
+user_37,Sports Fan,CBeebies Bedtime Stories - 6,Signed,3,No,Tablet,2024-11-08 17:35:16
+user_37,Sports Fan,Face to Face - Bertrand Russell,From the Archives,2,No,Smartphone,2024-08-16 17:35:16
+user_37,Sports Fan,Searching for Sam: Adrian Dunbar on Samuel Beckett,Arts,1,No,Smartphone,2024-08-04 17:35:16
+user_37,Sports Fan,Global Climate Debate,Science & Nature,1,No,Smartphone,2024-07-08 17:35:16
+user_38,Documentary Lover,Carols from King's - 2021,Music,2,No,Laptop,2024-09-05 17:35:16
+user_38,Documentary Lover,Mistresses,From the Archives,3,No,Laptop,2024-09-19 17:35:16
+user_38,Documentary Lover,Effie Gray,Films,1,No,Smartphone,2024-07-05 17:35:16
+user_38,Documentary Lover,Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:,Signed,3,No,Tablet,2024-04-26 17:35:16
+user_39,Entertainment Junkie,Attenborough's Wonder of Song,Documentaries,3,No,Tablet,2024-07-17 17:35:16
+user_39,Entertainment Junkie,Iain Robertson Rambles,Signed,3,No,TV,2024-10-31 17:35:16
+user_39,Entertainment Junkie,Profile - The World of Philip Pullman,From the Archives,3,No,TV,2025-03-13 17:35:16
+user_40,Balanced Viewer,Dance Passion - 2022: Plymouth,Arts,2,No,Laptop,2024-05-26 17:35:16
+user_40,Balanced Viewer,Rick Stein Tastes the Blues,Documentaries,3,No,Laptop,2025-03-26 17:35:16
+user_40,Balanced Viewer,Countryfile - Best of Autumn - Signed,Signed,1,No,TV,2024-12-15 17:35:16
+user_40,Balanced Viewer,Who Do You Think You Are?,Documentaries,1,No,Tablet,2024-08-27 17:35:16
+user_41,Documentary Lover,Doctor Who - Voyage of the Damned,From the Archives,2,No,Tablet,2024-11-22 17:35:16
+user_41,Documentary Lover,Richard Osman's House of Games,Entertainment,1,No,Laptop,2024-10-13 17:35:16
+user_41,Documentary Lover,Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing,Entertainment,2,No,TV,2024-04-11 17:35:16
+user_41,Documentary Lover,Saturday Kitchen - 02/10/2021,Food,5,Yes,TV,2024-07-01 17:35:16
+user_41,Documentary Lover,Saturday Kitchen - 02/10/2021,Food,1,No,Tablet,2025-02-28 17:35:16
+user_41,Documentary Lover,The Sound of TV with Neil Brand,Documentaries,5,Yes,Tablet,2025-02-20 17:35:16
+user_41,Documentary Lover,Click - Short Edition - 30/10/2021,Science & Nature,3,No,Smartphone,2024-05-05 17:35:16
+user_42,Balanced Viewer,Bitesize Daily: 7-9 Year Olds - English: English - Reading to Understand,Signed,1,No,TV,2025-01-17 17:35:16
+user_42,Balanced Viewer,BBC News Special - Museum of the Year,Signed,1,No,Laptop,2024-11-21 17:35:16
+user_42,Balanced Viewer,BBC Music Introducing - The BME Sessions: Bess Atwell - Co-op,Music,1,No,Laptop,2025-01-05 17:35:16
+user_43,News Watcher,Patrick Kielty: One Hundred Years of Union - Signed,Signed,3,No,Smartphone,2024-12-28 17:35:16
+user_43,News Watcher,Country Kings at the BBC,Music,2,No,Smartphone,2025-03-14 17:35:16
+user_43,News Watcher,Loop - Shorts: Loop - Creating Classical Portraiture for the Next Generation,Arts,3,No,Tablet,2025-03-11 17:35:16
+user_43,News Watcher,Tuesday Documentary - Beyond the Wall,Documentaries,1,No,Tablet,2024-10-08 17:35:16
+user_43,News Watcher,Pokémon: Diamond and Pearl,CBBC,1,No,TV,2024-12-16 17:35:16
+user_43,News Watcher,Minding the Gap: An American Skateboarding Story,Films,1,No,Tablet,2024-09-03 17:35:16
+user_44,News Watcher,I Am A Men's Rights Activist,Documentaries,3,No,Tablet,2024-10-21 17:35:16
+user_44,News Watcher,dinnerladies,From the Archives,2,No,Smartphone,2024-11-19 17:35:16
+user_44,News Watcher,Messy Goes to OKIDO - Songs: Gravity,Signed,2,No,Smartphone,2025-02-04 17:35:16
+user_44,News Watcher,My Family - The Heart of Christmas,From the Archives,3,No,TV,2024-10-14 17:35:16
+user_44,News Watcher,Storyville - Carlos Ghosn: The Last Flight,Documentaries,3,No,Smartphone,2024-12-31 17:35:16
+user_44,News Watcher,MasterChef: The Professionals - Rematch 2018,Food,3,No,Smartphone,2024-08-27 17:35:16
+user_44,News Watcher,Measuring Mass: The Last Artefact,Documentaries,2,No,TV,2025-03-07 17:35:16
+user_45,Documentary Lover,Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Types of Words,Signed,1,No,Smartphone,2024-08-03 17:35:16
+user_45,Documentary Lover,Numberblocks - Numbersongs: Counting Cars,Signed,1,No,Smartphone,2025-01-17 17:35:16
+user_45,Documentary Lover,Miss World 1970: Beauty Queens and Bedlam,Documentaries,4,Yes,Tablet,2024-07-05 17:35:16
+user_45,Documentary Lover,Tuesday Documentary - The Block,Documentaries,5,Yes,Smartphone,2024-05-30 17:35:16
+user_46,Documentary Lover,The Great British Sewing Bee - 2021 Specials:,Entertainment,2,No,Smartphone,2024-10-19 17:35:16
+user_46,Documentary Lover,Movies With Ali Plumb - Fast & Furious 9,Entertainment,4,Yes,Smartphone,2024-11-21 17:35:16
+user_46,Documentary Lover,Bates Motel,From the Archives,1,No,Tablet,2024-05-07 17:35:16
+user_47,Entertainment Junkie,Panorama - Afghanistan: A Country at Breaking Point - Signed,Signed,2,No,Smartphone,2024-11-11 17:35:16
+user_47,Entertainment Junkie,Pokémon: Diamond and Pearl - Movies:,CBBC,2,No,Smartphone,2024-08-07 17:35:16
+user_47,Entertainment Junkie,Saturday Kitchen - 31/07/2021,Food,2,No,Tablet,2025-02-12 17:35:16
+user_47,Entertainment Junkie,One Man and His Shoes,Films,3,No,TV,2024-11-25 17:35:16
+user_47,Entertainment Junkie,Inside Britain's Black Market: Who's Selling Fake Stuff?,Documentaries,1,No,Laptop,2024-06-19 17:35:16
+user_47,Entertainment Junkie,R,Documentaries,2,No,Smartphone,2024-05-18 17:35:16
+user_48,Documentary Lover,Going Places - 12,From the Archives,4,Yes,TV,2024-11-17 17:35:16
+user_48,Documentary Lover,"Panorama - Buy Now, Pay Later: The New Debt Crisis? - Signed",Signed,5,Yes,TV,2025-03-17 17:35:16
+user_48,Documentary Lover,Wogan - 25/12/1984,From the Archives,2,No,Tablet,2024-04-10 17:35:16
+user_48,Documentary Lover,Unpopular Opinion - Coldplay,Entertainment,2,No,Laptop,2024-11-27 17:35:16
+user_48,Documentary Lover,Winterwatch - Winterwatch 2022 - Red Button:,Science & Nature,2,No,Laptop,2025-01-15 17:35:16
+user_49,Balanced Viewer,Pavarotti,Music,1,No,Laptop,2024-09-02 17:35:16
+user_49,Balanced Viewer,Shame In The Game: Racism In Football,Documentaries,3,No,Laptop,2024-07-08 17:35:16
+user_49,Balanced Viewer,Skin De,CBBC,4,Yes,TV,2024-05-24 17:35:16
+user_49,Balanced Viewer,NIFL Premiership Highlights - 2020/21: 26/04/2021,Sports,2,No,Laptop,2024-05-25 17:35:16
+user_49,Balanced Viewer,Question Time - 2021: 07/10/2021 - Signed,Signed,2,No,Smartphone,2025-02-07 17:35:16
+user_49,Balanced Viewer,I Shot My Parents,Documentaries,3,No,Smartphone,2024-07-20 17:35:16
+user_49,Balanced Viewer,Tagged - Life On Lockdown:,Documentaries,1,No,Tablet,2024-08-03 17:35:16
+user_50,Documentary Lover,The World’s Most Extreme Festivals - Gathering of the Juggalos,Entertainment,1,No,TV,2025-03-16 17:35:16
+user_50,Documentary Lover,Saturday Kitchen - 12/03/2022,Food,2,No,TV,2024-06-30 17:35:16
+user_50,Documentary Lover,Life at 50°C - Shorts: Raising the Alarm on Kuwait's Heat,Documentaries,4,Yes,Smartphone,2024-06-05 17:35:16
+user_50,Documentary Lover,CBeebies Bedtime Stories - 4,Signed,3,No,TV,2024-10-09 17:35:16
+user_50,Documentary Lover,Our Girl,From the Archives,1,No,TV,2024-05-19 17:35:16
+user_50,Documentary Lover,EastEnders 2010 - 17/12/2009,From the Archives,2,No,TV,2024-05-07 17:35:16
+user_50,Documentary Lover,A Farewell to Arms,Films,2,No,Tablet,2024-07-31 17:35:16
+user_51,Entertainment Junkie,Ugly Me: My Life with Body Dysmorphia,Documentaries,2,No,Laptop,2024-11-29 17:35:16
+user_51,Entertainment Junkie,Jay's Yorkshire Workshop,Signed,3,No,Tablet,2025-01-12 17:35:16
+user_51,Entertainment Junkie,Louis Theroux - African Hunting Holiday,Documentaries,2,No,Smartphone,2024-04-29 17:35:16
+user_52,Documentary Lover,Question Time - 2021: 10/06/2021 - Signed,Signed,3,No,Laptop,2024-11-17 17:35:16
+user_52,Documentary Lover,TikTok Queen at 16,Documentaries,4,Yes,Laptop,2025-03-21 17:35:16
+user_52,Documentary Lover,Galdem Sugar,Entertainment,2,No,TV,2025-03-04 17:35:16
+user_52,Documentary Lover,Click - Short Edition - 29/01/2022,Science & Nature,1,No,Laptop,2024-05-08 17:35:16
+user_52,Documentary Lover,Mammoth,Comedy,2,No,Smartphone,2024-04-12 17:35:16
+user_52,Documentary Lover,The Baby Club - Songs: The Waking Up Song,Signed,1,No,Laptop,2025-01-10 17:35:16
+user_52,Documentary Lover,TUNE - Shorts: Sam Gellaitry Live,Music,1,No,Laptop,2025-03-15 17:35:16
+user_53,Sports Fan,Britain's Ancient Capital: Secrets of Orkney,Documentaries,2,No,Tablet,2025-03-25 17:35:16
+user_53,Sports Fan,Natural World - 2007-2008:,Documentaries,2,No,Laptop,2024-10-01 17:35:16
+user_53,Sports Fan,Andy and the Band - Songs: After School,Signed,2,No,Laptop,2025-03-07 17:35:16
+user_54,News Watcher,Harry Hill's Lonely Island,Comedy,3,No,Tablet,2024-09-01 17:35:16
+user_54,News Watcher,HARDtalk - Bassem Youssef – Comedian and Writer,From the Archives,3,No,Tablet,2024-06-04 17:35:16
+user_54,News Watcher,Breaking the News - COP26 Special,Comedy,4,Yes,Laptop,2024-11-13 17:35:16
+user_55,News Watcher,Ulster Rugby - The Ulster Rugby Show: 03/03/2022,Sports,3,No,TV,2024-07-10 17:35:16
+user_55,News Watcher,OMC!,Comedy,4,Yes,TV,2024-08-25 17:35:16
+user_55,News Watcher,Persian Lessons,Films,1,No,TV,2024-09-11 17:35:16
+user_55,News Watcher,Harry Belafonte - Live at the BBC,Music,1,No,TV,2024-12-02 17:35:16
+user_56,Entertainment Junkie,Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Alphabet and Punctuation,Signed,3,No,TV,2024-12-14 17:35:16
+user_56,Entertainment Junkie,Make-up: A Glamorous History,Documentaries,2,No,TV,2024-07-01 17:35:16
+user_56,Entertainment Junkie,Saturday Kitchen - 31/07/2021,Food,2,No,TV,2025-01-08 17:35:16
+user_57,News Watcher,Tomorrow's World - Computers in the 60s,From the Archives,2,No,Smartphone,2024-04-02 17:35:16
+user_57,News Watcher,9/11: Inside the President's War Room - Signed,Signed,3,No,TV,2024-06-26 17:35:16
+user_57,News Watcher,The Baby Club - Songs: Old McDonald,Signed,2,No,TV,2024-06-15 17:35:16
+user_58,Entertainment Junkie,Cilla at the BBC,Music,2,No,Laptop,2024-12-10 17:35:16
+user_58,Entertainment Junkie,Inspector Montalbano - Montalbano's Croquettes,From the Archives,1,No,Laptop,2024-09-22 17:35:16
+user_58,Entertainment Junkie,NIFL Premiership Highlights - 2021/2022: 28/02/2022,Sports,1,No,Tablet,2025-01-28 17:35:16
+user_58,Entertainment Junkie,Culture in Quarantine - Get Creative at Home Masterclasses: Antony Gormley,Signed,2,No,TV,2024-09-17 17:35:16
+user_58,Entertainment Junkie,The Young Offenders,Comedy,3,No,Smartphone,2025-02-14 17:35:16
+user_58,Entertainment Junkie,Weatherman Walking,Signed,4,Yes,Smartphone,2024-04-08 17:35:16
+user_58,Entertainment Junkie,Racism in the Ranks,Documentaries,3,No,Laptop,2025-03-13 17:35:16
+user_59,News Watcher,Flatmates,Comedy,1,No,TV,2024-05-18 17:35:16
+user_59,News Watcher,Porridge 2017 - Special,Comedy,4,Yes,TV,2024-03-29 17:35:16
+user_59,News Watcher,CBeebies Presents - Stage Shows: Hansel and Gretel - Signed,Signed,3,No,TV,2024-04-18 17:35:16
+user_59,News Watcher,"Me, My Brother and Our Balls",Documentaries,3,No,TV,2024-07-27 17:35:16
+user_60,Sports Fan,The FA Cup - 2021/22: Quarter-Final: Middlesbrough v Chelsea,Sports,3,No,Tablet,2024-10-21 17:35:16
+user_60,Sports Fan,Flat Out Fabulous,Entertainment,1,No,Tablet,2024-10-19 17:35:16
+user_60,Sports Fan,Autumnwatch - Extras: Autumn Wonders,Documentaries,1,No,Smartphone,2024-04-06 17:35:16
+user_61,Balanced Viewer,Masked and Anonymous,Films,2,No,Tablet,2024-06-24 17:35:16
+user_61,Balanced Viewer,OMC!,Comedy,3,No,TV,2024-10-30 17:35:16
+user_61,Balanced Viewer,Mystic,Signed,1,No,Tablet,2024-10-10 17:35:16
+user_61,Balanced Viewer,Pokémon: Diamond and Pearl - Movies: Zoroark: Master of Illusions,CBBC,3,No,TV,2024-08-04 17:35:16
+user_61,Balanced Viewer,Absolutely Fabulous - White Box,From the Archives,4,Yes,TV,2024-12-04 17:35:16
+user_61,Balanced Viewer,Inspector Montalbano - The Wings of the Sphynx,From the Archives,2,No,Laptop,2025-03-20 17:35:16
+user_61,Balanced Viewer,Snooker: Welsh Open - 2022:,Sports,1,No,Smartphone,2024-04-13 17:35:16
+user_62,Documentary Lover,John Denver: Country Boy,Documentaries,4,Yes,TV,2024-12-18 17:35:16
+user_62,Documentary Lover,Bellator MMA - 2021: Douglas Lima vs. Yaroslav Amosov,Sports,3,No,Laptop,2025-03-04 17:35:16
+user_62,Documentary Lover,The Late Show - Face to Face: Ken Dodd,From the Archives,3,No,Smartphone,2024-04-30 17:35:16
+user_62,Documentary Lover,"HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine",From the Archives,3,No,Laptop,2024-10-31 17:35:16
+user_62,Documentary Lover,Holiday Affair,Films,3,No,Laptop,2024-08-15 17:35:16
+user_63,Balanced Viewer,Chicken Man,Documentaries,2,No,Laptop,2025-03-16 17:35:16
+user_63,Balanced Viewer,Canny Cops,Documentaries,3,No,TV,2024-11-26 17:35:16
+user_63,Balanced Viewer,Meet the Khans: Big in Bolton,Documentaries,1,No,Tablet,2025-02-07 17:35:16
+user_63,Balanced Viewer,Hey Duggee - Top of the Pups: The Train Song,Signed,2,No,TV,2024-06-02 17:35:16
+user_63,Balanced Viewer,Arctic with Bruce Parry,From the Archives,3,No,Smartphone,2024-07-30 17:35:16
+user_63,Balanced Viewer,CBeebies Presents - Ballets: The Elves and the Shoemaker: A CBeebies Ballet,Signed,2,No,TV,2024-12-09 17:35:16
+user_63,Balanced Viewer,Stacey Dooley Investigates - Young Sex for Sale in Japan,Documentaries,4,Yes,TV,2024-12-22 17:35:16
+user_64,Balanced Viewer,Full Circle with Michael Palin,Documentaries,5,Yes,TV,2025-02-26 17:35:16
+user_64,Balanced Viewer,Mrs Brown's Boys - Christmas Specials 2016:,From the Archives,1,No,Laptop,2024-09-27 17:35:16
+user_64,Balanced Viewer,We Are England - Made in England: The 007 Shoe Factory - Northampton,Documentaries,1,No,Laptop,2024-05-16 17:35:16
+user_64,Balanced Viewer,Saturday Kitchen - 27/11/2021,Food,1,No,TV,2024-09-29 17:35:16
+user_64,Balanced Viewer,Astaire and Rogers Sing the Great American Songbook,From the Archives,1,No,Smartphone,2024-04-07 17:35:16
+user_64,Balanced Viewer,Songs of Praise - The Duke of Edinburgh,Music,1,No,TV,2025-01-28 17:35:16
+user_65,Documentary Lover,Attenborough's Paradise Birds,Documentaries,4,Yes,TV,2025-02-02 17:35:16
+user_65,Documentary Lover,Any One Of Us,Films,2,No,Smartphone,2024-12-30 17:35:16
+user_65,Documentary Lover,"HARDtalk - Marine Le Pen - French Presidential Candidate, National Rally",From the Archives,1,No,Tablet,2025-02-12 17:35:16
+user_65,Documentary Lover,Signs of the Times - They're Not Holding the Ceiling Up,From the Archives,3,No,Tablet,2024-07-03 17:35:16
+user_65,Documentary Lover,The Fight For Women's Bodies,Documentaries,4,Yes,Smartphone,2024-12-03 17:35:16
+user_66,Balanced Viewer,Snooker: Welsh Open - 2022:,Sports,3,No,Laptop,2025-02-23 17:35:16
+user_66,Balanced Viewer,The Rolling Stones: Totally Stripped,Documentaries,2,No,Laptop,2024-05-24 17:35:16
+user_66,Balanced Viewer,Sir Mortimer and Magnus,From the Archives,2,No,Laptop,2024-06-06 17:35:16
+user_66,Balanced Viewer,We Are England - A Place Called Home: Hanging On To Home,Documentaries,2,No,TV,2024-04-28 17:35:16
+user_66,Balanced Viewer,Jamie Johnson - Extras: Kick Up Challenge,Signed,3,No,Smartphone,2025-03-27 17:35:16
+user_67,Documentary Lover,Unpopular Opinion - Justin Timberlake and Anna Kendrick,Entertainment,3,No,Smartphone,2024-05-10 17:35:16
+user_67,Documentary Lover,Movies With Ali Plumb - Movies That Made Me 3,Entertainment,2,No,Laptop,2024-06-26 17:35:16
+user_67,Documentary Lover,Fern Brady: Power & Chaos,Comedy,3,No,Tablet,2024-06-09 17:35:16
+user_67,Documentary Lover,Radio 1 Stories - Broken Heart Beats,Documentaries,4,Yes,Laptop,2024-08-07 17:35:16
+user_68,Documentary Lover,Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds:,Signed,2,No,Laptop,2024-12-17 17:35:16
+user_68,Documentary Lover,Stars of Wales,Music,3,No,Laptop,2024-06-27 17:35:16
+user_68,Documentary Lover,BBC Scottish Symphony Orchestra - Ravel's Tzigane,Music,3,No,Laptop,2024-07-03 17:35:16
+user_69,Entertainment Junkie,"Panorama - Princess Diana, Martin Bashir and the BBC",Documentaries,1,No,Smartphone,2024-11-18 17:35:16
+user_69,Entertainment Junkie,Doctor Who - The Day of the Doctor,From the Archives,2,No,TV,2024-06-04 17:35:16
+user_69,Entertainment Junkie,Countryfile - Clinton Devon Estates,Science & Nature,2,No,Laptop,2025-03-17 17:35:16
+user_69,Entertainment Junkie,The Frost Interview - David Frost interviews Muhammad Ali,From the Archives,2,No,Laptop,2024-08-13 17:35:16
+user_69,Entertainment Junkie,Only Connect,Entertainment,4,Yes,TV,2024-08-21 17:35:16
+user_69,Entertainment Junkie,Operation Ouch!,Signed,2,No,Laptop,2025-02-28 17:35:16
+user_69,Entertainment Junkie,Models: Street to Catwalk,Documentaries,1,No,TV,2024-11-25 17:35:16
+user_70,Balanced Viewer,Countryfile - Holkham,Science & Nature,2,No,Laptop,2024-11-05 17:35:16
+user_70,Balanced Viewer,Blue Peter - Operation Ouch Takeover! - Signed,Signed,3,No,TV,2024-04-20 17:35:16
+user_70,Balanced Viewer,Beauty Laid Bare,Documentaries,3,No,TV,2024-05-22 17:35:16
+user_70,Balanced Viewer,Talent,Documentaries,1,No,TV,2025-01-17 17:35:16
+user_71,Sports Fan,Messy Goes to OKIDO - Songs: Growing,Signed,3,No,TV,2025-02-10 17:35:16
+user_71,Sports Fan,The Living Dead,Documentaries,1,No,Laptop,2024-04-28 17:35:16
+user_71,Sports Fan,"Hey Duggee - Top of the Pups: Hey! Diddle, Diddle",Signed,3,No,Tablet,2025-01-02 17:35:16
+user_71,Sports Fan,One Foot in the Grave - Who's Listening?,From the Archives,3,No,TV,2024-09-20 17:35:16
+user_72,Sports Fan,Masked and Anonymous,Films,3,No,Smartphone,2024-04-01 17:35:16
+user_72,Sports Fan,Cities of Europe - London: We Live by the River,Documentaries,2,No,TV,2024-12-29 17:35:16
+user_72,Sports Fan,Go Jetters - Songs: Foz Will Figure It Out,Signed,3,No,Laptop,2024-11-25 17:35:16
+user_73,Documentary Lover,Tycoon,Films,3,No,TV,2024-05-24 17:35:16
+user_73,Documentary Lover,Versus - The Life and Films of Ken Loach,Films,2,No,Tablet,2025-03-09 17:35:16
+user_73,Documentary Lover,Yellow Canary,Films,2,No,Smartphone,2024-11-01 17:35:16
+user_73,Documentary Lover,Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Four and Eight Times Tables,Signed,3,No,Laptop,2024-10-30 17:35:16
+user_73,Documentary Lover,Leeds International Piano Competition - 2021,Music,2,No,Smartphone,2025-01-10 17:35:16
+user_74,Balanced Viewer,Panorama - Delivering Christmas: What’s in Store? - Signed,Signed,1,No,Tablet,2024-11-29 17:35:16
+user_74,Balanced Viewer,Question Time - 2022: 03/03/2022 - Signed,Signed,2,No,Smartphone,2025-03-15 17:35:16
+user_74,Balanced Viewer,Loop - Shorts: The Power I Feel When I Pole Dance,Arts,3,No,Tablet,2025-02-01 17:35:16
+user_74,Balanced Viewer,We Are England - Sporting Heroes: Make Me a Jockey,Documentaries,2,No,TV,2024-06-24 17:35:16
+user_74,Balanced Viewer,"HARDtalk - Laurence Tribe - Professor Emeritus, Harvard Law School",From the Archives,2,No,Laptop,2024-12-09 17:35:16
+user_74,Balanced Viewer,BBC Proms - 2021: Nubya Garcia,From the Archives,2,No,Tablet,2024-05-06 17:35:16
+user_74,Balanced Viewer,Saturday Mash-Up! Live,CBBC,3,No,TV,2025-01-08 17:35:16
+user_75,Sports Fan,Caitlyn Jenner: Honesty,Entertainment,1,No,Tablet,2024-08-09 17:35:16
+user_75,Sports Fan,Radio 1 Stories - Living The Dream,Documentaries,2,No,Tablet,2024-11-22 17:35:16
+user_75,Sports Fan,Simply Nigella,Food,2,No,Smartphone,2025-02-08 17:35:16
+user_75,Sports Fan,Movies With Ali Plumb - Becoming...: The Witcher,Entertainment,1,No,Tablet,2024-10-29 17:35:16
+user_75,Sports Fan,Michael Palin: Travels of a Lifetime,Documentaries,3,No,Laptop,2025-03-03 17:35:16
+user_75,Sports Fan,EastEnders 2010 - 13/11/2009,From the Archives,3,No,Tablet,2024-10-18 17:35:16
+user_76,Entertainment Junkie,The Apprentice Australia - 2021: Final Task,Entertainment,4,Yes,TV,2024-09-08 17:35:16
+user_76,Entertainment Junkie,Bitesize Daily: 5-7 Year Olds - Maths: Position and Direction,Signed,2,No,TV,2024-05-17 17:35:16
+user_76,Entertainment Junkie,Women at Work,From the Archives,3,No,Smartphone,2024-05-27 17:35:16
+user_76,Entertainment Junkie,Ninja Express,CBBC,3,No,Smartphone,2024-05-01 17:35:16
+user_76,Entertainment Junkie,"Happy New Year, Colin Burstead",Films,1,No,Smartphone,2025-02-12 17:35:16
+user_77,News Watcher,Winter Walks,Documentaries,1,No,Laptop,2025-01-03 17:35:16
+user_77,News Watcher,Black and British: A Forgotten History,Documentaries,3,No,Laptop,2024-08-11 17:35:16
+user_77,News Watcher,Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - The Difference Between Fiction and Non-Fiction,Signed,3,No,Smartphone,2024-05-14 17:35:16
+user_77,News Watcher,Stacey Dooley Investigates - Young Sex for Sale in Japan,Documentaries,1,No,TV,2025-01-01 17:35:16
+user_77,News Watcher,Born to Be Wild,Documentaries,3,No,TV,2024-06-20 17:35:16
+user_78,Entertainment Junkie,Doctor Who - Eve of the Daleks,From the Archives,3,No,Laptop,2024-08-03 17:35:16
+user_78,Entertainment Junkie,Scottish Women's Premier League 2021-22 - Aberdeen v Celtic,Sports,5,Yes,TV,2024-09-12 17:35:16
+user_78,Entertainment Junkie,The Fires that Foretold Grenfell,Documentaries,3,No,TV,2024-10-29 17:35:16
+user_79,Balanced Viewer,EastEnders 2010 - 03/11/2009,From the Archives,2,No,Laptop,2025-02-08 17:35:16
+user_79,Balanced Viewer,CBeebies Presents - Stage Shows:,Signed,3,No,TV,2024-10-24 17:35:16
+user_79,Balanced Viewer,The Man in the White Suit,Films,2,No,Smartphone,2024-06-24 17:35:16
+user_79,Balanced Viewer,Radio 2 Live - 2021: Texas,Music,2,No,Tablet,2024-12-14 17:35:16
+user_79,Balanced Viewer,The Hairy Bikers' Cookbook - The Hairy Bakers Shorts:,Food,1,No,Laptop,2024-05-20 17:35:16
+user_79,Balanced Viewer,Hey Duggee - Top of the Pups: Bath Time,Signed,1,No,Laptop,2024-04-04 17:35:16
+user_79,Balanced Viewer,Dale Barclay: All On Black,Documentaries,2,No,Smartphone,2024-08-21 17:35:16
+user_80,Sports Fan,EastEnders 2010 - 12/11/2009,From the Archives,1,No,Laptop,2025-01-29 17:35:16
+user_80,Sports Fan,"HARDtalk - Ingrid Betancourt, Colombian Presidential Candidate",From the Archives,3,No,Tablet,2024-11-03 17:35:16
+user_80,Sports Fan,1Xtra - Decks Of Kin: Novelist,Entertainment,3,No,TV,2024-12-23 17:35:16
+user_80,Sports Fan,BBC Scottish Symphony Orchestra - The Lark Ascending,Music,2,No,Tablet,2024-12-20 17:35:16
+user_80,Sports Fan,Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds:,Signed,3,No,TV,2024-09-02 17:35:16
+user_80,Sports Fan,Rip Off Britain,Signed,3,No,Smartphone,2024-05-06 17:35:16
+user_80,Sports Fan,One More TUNE - Maverick Sabre,Music,2,No,Tablet,2025-03-20 17:35:16
+user_81,News Watcher,Bitesize Daily: 9-11 Year Olds - Wellbeing:,Signed,1,No,TV,2024-06-16 17:35:16
+user_81,News Watcher,Rain in My Heart,Documentaries,3,No,Tablet,2025-02-07 17:35:16
+user_81,News Watcher,Hey Duggee - Top of the Pups: Alphabet Song,Signed,5,Yes,TV,2024-12-11 17:35:16
+user_82,Entertainment Junkie,Hey Duggee - Top of the Pups: The Birthday Song,Signed,2,No,TV,2025-02-08 17:35:16
+user_82,Entertainment Junkie,House of Saud: A Family at War,Documentaries,1,No,Tablet,2024-08-19 17:35:16
+user_82,Entertainment Junkie,We Are England - Made in England: A Very British Bike Factory - West London,Documentaries,2,No,TV,2024-07-31 17:35:16
+user_82,Entertainment Junkie,15 Storeys High,From the Archives,2,No,Tablet,2024-10-09 17:35:16
+user_82,Entertainment Junkie,TUNE - Shorts: LVRA : Using Music To Navigate My Identity,Music,2,No,Smartphone,2024-07-12 17:35:16
+user_83,Documentary Lover,Ceilidh na Bliadhn' Uire 2021 - Seudan,Entertainment,1,No,Smartphone,2025-01-11 17:35:16
+user_83,Documentary Lover,"Inside Story - £830,000,000 - Nick Leeson and the Fall of the House of Barings",Documentaries,3,No,Laptop,2025-02-05 17:35:16
+user_83,Documentary Lover,Lights Up - Orpheus in the Record Shop,Signed,2,No,Tablet,2025-03-25 17:35:16
+user_84,Entertainment Junkie,We Are England - A Place Called Home: Students in Suburbia - Newcastle,Documentaries,3,No,Laptop,2024-06-11 17:35:16
+user_84,Entertainment Junkie,Movies With Ali Plumb - Michael B. Jordan: The Story So Far,Entertainment,4,Yes,Laptop,2024-03-28 17:35:16
+user_84,Entertainment Junkie,The Misadventures of Romesh Ranganathan - Christmas,Documentaries,2,No,Laptop,2024-08-14 17:35:16
+user_84,Entertainment Junkie,We Are England - A Place Called Home: Staying Afloat,Documentaries,1,No,Tablet,2024-06-01 17:35:16
+user_84,Entertainment Junkie,Subnormal: A British Scandal - Signed,Signed,1,No,Laptop,2024-08-24 17:35:16
+user_84,Entertainment Junkie,The Magnificent Ambersons,Films,3,No,Smartphone,2025-02-28 17:35:16
+user_84,Entertainment Junkie,"Anton Ferdinand: Football, Racism and Me - Signed",Signed,2,No,Tablet,2024-08-27 17:35:16
+user_85,Sports Fan,NIFL Premiership Highlights - 2021/2022: 27/09/2021,Sports,2,No,Smartphone,2024-09-15 17:35:16
+user_85,Sports Fan,New Creatives - ISHTAR,Arts,3,No,Smartphone,2024-04-25 17:35:16
+user_85,Sports Fan,Molly and Mack - Songs: Come on In,Signed,1,No,TV,2024-04-02 17:35:16
+user_85,Sports Fan,Growing Up Green,Documentaries,1,No,Laptop,2024-12-26 17:35:16
+user_85,Sports Fan,BAMOUS,Entertainment,1,No,Laptop,2024-09-21 17:35:16
+user_85,Sports Fan,Pokémon: Black and White - Movies: White - Victini and Zekrom,CBBC,1,No,Smartphone,2024-10-22 17:35:16
+user_85,Sports Fan,Ladybaby,Comedy,3,No,TV,2024-05-30 17:35:16
+user_86,Sports Fan,Parkinson - Dr Jacob Bronowski,Entertainment,2,No,Smartphone,2024-04-15 17:35:16
+user_86,Sports Fan,Taste - Getting to the Point,From the Archives,3,No,Smartphone,2024-06-17 17:35:16
+user_86,Sports Fan,Got What It Takes?,CBBC,5,Yes,Smartphone,2025-01-04 17:35:16
+user_86,Sports Fan,Earth’s Tropical Islands,Documentaries,2,No,Laptop,2025-01-31 17:35:16
+user_86,Sports Fan,Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Drawing and Moving 2D Shapes,Signed,2,No,Laptop,2024-04-28 17:35:16
+user_86,Sports Fan,Ours to Ke,Documentaries,2,No,Tablet,2024-10-08 17:35:16
+user_87,Documentary Lover,Classic British Cars: Made in Coventry,Documentaries,4,Yes,Tablet,2024-08-01 17:35:16
+user_87,Documentary Lover,Countryfile - One Man and His Dog 2021 - Signed,Signed,3,No,Tablet,2024-05-15 17:35:16
+user_87,Documentary Lover,Jamie Johnson - Extras: Top Ten Cast Skills,Signed,2,No,Laptop,2024-06-04 17:35:16
+user_87,Documentary Lover,Fight for First: Excel Esports,Documentaries,4,Yes,Laptop,2024-08-17 17:35:16
+user_87,Documentary Lover,Countryfile - Bristol's Last Farm,Science & Nature,2,No,Tablet,2024-10-29 17:35:16
+user_88,Sports Fan,We Are England - Bossing It: The Container King,Documentaries,3,No,Smartphone,2024-07-16 17:35:16
+user_88,Sports Fan,Under-20s Six Nations Rugby - 2022: England v Ireland,Sports,1,No,TV,2025-02-24 17:35:16
+user_88,Sports Fan,CBeebies Presents - Stage Shows:,Signed,1,No,TV,2024-08-11 17:35:16
+user_88,Sports Fan,Under-20s Six Nations Rugby - 2022: France v England,Sports,3,No,Laptop,2024-08-23 17:35:16
+user_88,Sports Fan,Nadiya's Time to Eat,Food,1,No,Smartphone,2025-01-08 17:35:16
+user_88,Sports Fan,Decision 79 - Election Night,From the Archives,1,No,Smartphone,2024-10-16 17:35:17
+user_89,Balanced Viewer,The MOBO Awards - 2021: Access All Areas,Music,1,No,Tablet,2025-01-17 17:35:17
+user_89,Balanced Viewer,Almost Never - Songs:,Signed,1,No,Laptop,2025-03-26 17:35:17
+user_89,Balanced Viewer,Blue Peter - Ice Hockey Challenge and Junior Bake Off Champ! - Signed,Signed,3,No,Laptop,2024-10-30 17:35:17
+user_89,Balanced Viewer,Lifebabble,CBBC,3,No,Smartphone,2024-08-16 17:35:17
+user_90,News Watcher,Unpopular Opinion - Camila Cabello,Entertainment,3,No,Tablet,2024-12-15 17:35:17
+user_90,News Watcher,Louis Theroux - A Different Brain,Documentaries,3,No,Tablet,2024-12-30 17:35:17
+user_90,News Watcher,Incredible Journeys with Simon Reeve,Documentaries,3,No,Smartphone,2025-01-22 17:35:17
+user_90,News Watcher,9/11: Inside the President's War Room - Signed,Signed,1,No,Laptop,2024-04-09 17:35:17
+user_90,News Watcher,Face to Face - Evelyn Waugh,From the Archives,2,No,Tablet,2024-05-29 17:35:17
+user_91,News Watcher,Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds: Humans,Signed,1,No,Laptop,2025-01-04 17:35:17
+user_91,News Watcher,Teen Taxi,Entertainment,3,No,Smartphone,2024-06-30 17:35:17
+user_91,News Watcher,Peter Taylor: Ireland After,Documentaries,3,No,Smartphone,2024-08-19 17:35:17
+user_91,News Watcher,The Golden Age of Canals,Documentaries,3,No,TV,2024-11-25 17:35:17
+user_92,Documentary Lover,Click - Merry Clickmas,Science & Nature,3,No,Smartphone,2025-03-27 17:35:17
+user_92,Documentary Lover,We Are England - Mental Health: Nature on My Mind – Somerset,Documentaries,4,Yes,TV,2025-01-03 17:35:17
+user_92,Documentary Lover,Blair & Brown: The New Labour Revolution,Documentaries,4,Yes,Laptop,2024-12-17 17:35:17
+user_92,Documentary Lover,Scottish Women's Premier League 2021-22 - Glasgow City v,Sports,1,No,Smartphone,2024-09-20 17:35:17
+user_92,Documentary Lover,Loop - Shorts: The Art of ‘Boylesque’,Arts,3,No,Laptop,2024-04-04 17:35:17
+user_93,News Watcher,The World About Us - The Romance of Indian Railways,Documentaries,1,No,Smartphone,2024-12-21 17:35:17
+user_93,News Watcher,TUNE - Shorts: Kitti: Howlin' to the Wind,Music,2,No,Laptop,2024-10-22 17:35:17
+user_93,News Watcher,The Mind of Herbert Clunkerdunk,Comedy,2,No,Laptop,2024-09-14 17:35:17
+user_93,News Watcher,Suspicion,Films,4,Yes,Tablet,2024-10-16 17:35:17
+user_93,News Watcher,The Sky at Night - Voyager To Uranus,Documentaries,2,No,Smartphone,2024-08-22 17:35:17
+user_94,Sports Fan,Rhod Gilbert: Stand Up to Shyness,Documentaries,1,No,Laptop,2025-01-25 17:35:17
+user_94,Sports Fan,Comic Roots,From the Archives,5,Yes,Smartphone,2024-05-30 17:35:17
+user_94,Sports Fan,Berlin 1945,Documentaries,3,No,Tablet,2024-12-13 17:35:17
+user_94,Sports Fan,HARDtalk - Rudy Giuliani - Former Mayor of New York City,From the Archives,2,No,TV,2025-03-15 17:35:17
+user_94,Sports Fan,The Last Mountain,Documentaries,1,No,TV,2024-04-05 17:35:17
+user_94,Sports Fan,We Are England - A Place Called Home: Homes For the Homeless - Nottingham,Documentaries,2,No,Smartphone,2024-05-19 17:35:17
+user_95,Balanced Viewer,Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:,Signed,1,No,Laptop,2024-04-14 17:35:17
+user_95,Balanced Viewer,Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Alphabet and Punctuation,Signed,1,No,Tablet,2024-05-09 17:35:17
+user_95,Balanced Viewer,Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:,Signed,5,Yes,TV,2025-03-23 17:35:17
+user_95,Balanced Viewer,Late Night Line-Up - The Man Alive R,Entertainment,2,No,Smartphone,2025-03-15 17:35:17
+user_96,Documentary Lover,The Worst Witch,Signed,2,No,Smartphone,2024-06-29 17:35:17
+user_96,Documentary Lover,Little Joe,Films,1,No,Smartphone,2024-05-13 17:35:17
+user_96,Documentary Lover,TUNE - Shorts: Dead Pony: Howlin' to the Wind,Music,2,No,TV,2024-07-01 17:35:17
+user_97,News Watcher,The Quay Sessions - Christmas at the Quay,Music,4,Yes,Smartphone,2024-10-15 17:35:17
+user_97,News Watcher,Full Circle with Michael Palin,Documentaries,1,No,Laptop,2024-10-13 17:35:17
+user_97,News Watcher,Secrets of the Multi-Level Millionaires: Ellie Undercover,Documentaries,3,No,TV,2024-03-28 17:35:17
+user_98,Documentary Lover,Mystic,Signed,2,No,Tablet,2024-10-01 17:35:17
+user_98,Documentary Lover,Hotel Reserve,Films,2,No,Laptop,2024-09-27 17:35:17
+user_98,Documentary Lover,The One Show - 14/03/2022,Entertainment,2,No,Laptop,2024-04-03 17:35:17
+user_98,Documentary Lover,Rick Stein Tastes the Blues,Documentaries,4,Yes,Smartphone,2024-06-24 17:35:17
+user_99,Documentary Lover,Question Time - 2022: 27/01/2022 - Signed,Signed,3,No,Tablet,2024-11-23 17:35:17
+user_99,Documentary Lover,Queer Britain,Documentaries,5,Yes,Laptop,2025-02-22 17:35:17
+user_99,Documentary Lover,Deadly 60,Signed,2,No,Laptop,2025-03-24 17:35:17
+user_99,Documentary Lover,Question Time - 2021: 17/06/2021 - Signed,Signed,1,No,Smartphone,2024-05-02 17:35:17
+user_100,Entertainment Junkie,Saturday Kitchen - Countdown to Christmas: 04/12/2021,Food,3,No,Tablet,2024-07-11 17:35:17
+user_100,Entertainment Junkie,Girls in Bands at the BBC,Music,2,No,Tablet,2024-07-26 17:35:17
+user_100,Entertainment Junkie,BBC Trailers - This is Our BBC signed - Signed,Signed,1,No,Laptop,2025-03-08 17:35:17
+user_100,Entertainment Junkie,Generation Screwed?,Documentaries,3,No,Tablet,2024-06-01 17:35:17
+user_100,Entertainment Junkie,Panorama - The NHS vs Covid: The Fight Goes On,Documentaries,3,No,TV,2024-09-19 17:35:17
+user_100,Entertainment Junkie,The Voices in My Head,Documentaries,1,No,Laptop,2024-05-08 17:35:17
+user_100,Entertainment Junkie,Unpopular Opinion - Niall Horan,Entertainment,4,Yes,Smartphone,2024-12-07 17:35:17

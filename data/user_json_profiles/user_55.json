@@ -1,0 +1,32 @@
+{
+  "user_preferences": {
+    "Comedy": 1,
+    "Films": -1,
+    "Music": -1
+  },
+  "user_interactions": [
+    [
+      "Ulster Rugby - The Ulster Rugby Show: 03/03/2022",
+      "Sports",
+      "neutral"
+    ],
+    [
+      "OMC!",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Persian Lessons",
+      "Films",
+      "disliked"
+    ],
+    [
+      "Harry Belafonte - Live at the BBC",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "OMC!": 1
+  }
+}

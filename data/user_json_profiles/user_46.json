@@ -1,0 +1,26 @@
+{
+  "user_preferences": {
+    "Entertainment": 0,
+    "From the Archives": -1
+  },
+  "user_interactions": [
+    [
+      "The Great British Sewing Bee - 2021 Specials:",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Movies With Ali Plumb - Fast & Furious 9",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Bates Motel",
+      "From the Archives",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Movies With Ali Plumb - Fast & Furious 9": 1
+  }
+}

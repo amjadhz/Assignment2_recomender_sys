@@ -1,0 +1,46 @@
+{
+  "user_preferences": {
+    "Documentaries": -1,
+    "Signed": -2
+  },
+  "user_interactions": [
+    [
+      "Chicken Man",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Canny Cops",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Meet the Khans: Big in Bolton",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Train Song",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Arctic with Bruce Parry",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "CBeebies Presents - Ballets: The Elves and the Shoemaker: A CBeebies Ballet",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Stacey Dooley Investigates - Young Sex for Sale in Japan",
+      "Documentaries",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Stacey Dooley Investigates - Young Sex for Sale in Japan": 1
+  }
+}

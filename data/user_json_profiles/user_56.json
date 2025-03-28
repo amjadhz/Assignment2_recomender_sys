@@ -1,0 +1,24 @@
+{
+  "user_preferences": {
+    "Documentaries": -1,
+    "Food": -1
+  },
+  "user_interactions": [
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Alphabet and Punctuation",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Make-up: A Glamorous History",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Saturday Kitchen - 31/07/2021",
+      "Food",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

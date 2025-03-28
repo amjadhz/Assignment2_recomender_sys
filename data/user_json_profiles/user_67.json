@@ -1,0 +1,31 @@
+{
+  "user_preferences": {
+    "Entertainment": -1,
+    "Documentaries": 1
+  },
+  "user_interactions": [
+    [
+      "Unpopular Opinion - Justin Timberlake and Anna Kendrick",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "Movies With Ali Plumb - Movies That Made Me 3",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Fern Brady: Power & Chaos",
+      "Comedy",
+      "neutral"
+    ],
+    [
+      "Radio 1 Stories - Broken Heart Beats",
+      "Documentaries",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Radio 1 Stories - Broken Heart Beats": 1
+  }
+}

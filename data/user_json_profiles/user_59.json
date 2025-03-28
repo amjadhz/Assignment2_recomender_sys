@@ -1,0 +1,30 @@
+{
+  "user_preferences": {
+    "Comedy": 0
+  },
+  "user_interactions": [
+    [
+      "Flatmates",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Porridge 2017 - Special",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "CBeebies Presents - Stage Shows: Hansel and Gretel - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Me, My Brother and Our Balls",
+      "Documentaries",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Porridge 2017 - Special": 1
+  }
+}

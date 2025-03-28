@@ -1,0 +1,49 @@
+{
+  "user_preferences": {
+    "Sports": -1,
+    "Signed": 0,
+    "From the Archives": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "Tennis: Tie Break Tens Highlights",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Women's Super League - 2021/22: Tottenham v Man City",
+      "Sports",
+      "liked"
+    ],
+    [
+      "CBeebies Presents - Stage Shows: The Snow Queen",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Question Time - 2021: 20/05/2021 - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Mrs Brown's Boys",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Being British Bangladeshi",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bellator MMA - 2021: Fedor Emelianenko vs. Timothy Johnson",
+      "Sports",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Women's Super League - 2021/22: Tottenham v Man City": 1,
+    "Question Time - 2021: 20/05/2021 - Signed": 1
+  }
+}

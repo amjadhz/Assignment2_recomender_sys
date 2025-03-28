@@ -1,0 +1,33 @@
+{
+  "user_preferences": {
+    "Documentaries": -2
+  },
+  "user_interactions": [
+    [
+      "Winter Walks",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Black and British: A Forgotten History",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - The Difference Between Fiction and Non-Fiction",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Stacey Dooley Investigates - Young Sex for Sale in Japan",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Born to Be Wild",
+      "Documentaries",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

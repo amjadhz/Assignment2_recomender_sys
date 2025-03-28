@@ -1,0 +1,24 @@
+{
+  "user_preferences": {
+    "Entertainment": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "The FA Cup - 2021/22: Quarter-Final: Middlesbrough v Chelsea",
+      "Sports",
+      "neutral"
+    ],
+    [
+      "Flat Out Fabulous",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Autumnwatch - Extras: Autumn Wonders",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

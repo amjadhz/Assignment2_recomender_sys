@@ -1,0 +1,46 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Arts": -1,
+    "Documentaries": -1,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "Movies With Ali Plumb - Becoming...: Neo",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "Undisputed: The Life and Times of Ken Buchanan",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Meet the Red Devils: Parachute Regiment",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "New Creatives - Our Largest",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "Bitz & Bob",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Grand Tours of Scotland's Lochs",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "The Baby Club - Songs: The Waking Up Song",
+      "Signed",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

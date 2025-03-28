@@ -1,0 +1,41 @@
+{
+  "user_preferences": {
+    "Sports": -1,
+    "CBBC": -1,
+    "Documentaries": -2,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "Super League Show - 2022: 21/03/2022",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Jacqueline Wilson's Katy",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Right Here",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "My Family,",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

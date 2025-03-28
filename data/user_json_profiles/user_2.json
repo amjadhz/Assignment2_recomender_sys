@@ -1,0 +1,34 @@
+{
+  "user_preferences": {
+    "Arts": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "The White Handkerchief",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet",
+      "Music",
+      "neutral"
+    ],
+    [
+      "The Nilsen Files",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Counting in Fractions Using a Number Line",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "The Past at Work - Railway Mania",
+      "From the Archives",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

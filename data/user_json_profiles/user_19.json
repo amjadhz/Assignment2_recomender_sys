@@ -1,0 +1,47 @@
+{
+  "user_preferences": {
+    "Documentaries": -1,
+    "Signed": -1,
+    "Sports": -1
+  },
+  "user_interactions": [
+    [
+      "Nine Minute Ninja",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Autumnwatch - Extras: Autumn Wonders",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Science 6-7 Year-Olds: How Animals Grow",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Project Children: Defusing the Troubles",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Francis Bacon: Fragments Of A Portrait",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Snooker: Welsh Open - Live: Trump v Steadman - uninterrupted",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Science 7-8 Year-Olds:",
+      "Signed",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Project Children: Defusing the Troubles": 1
+  }
+}

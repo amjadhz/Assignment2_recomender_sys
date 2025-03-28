@@ -1,0 +1,26 @@
+{
+  "user_preferences": {
+    "Music": 1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "The Quay Sessions - Christmas at the Quay",
+      "Music",
+      "liked"
+    ],
+    [
+      "Full Circle with Michael Palin",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Secrets of the Multi-Level Millionaires: Ellie Undercover",
+      "Documentaries",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "The Quay Sessions - Christmas at the Quay": 1
+  }
+}

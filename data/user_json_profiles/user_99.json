@@ -1,0 +1,31 @@
+{
+  "user_preferences": {
+    "Documentaries": 1,
+    "Signed": -2
+  },
+  "user_interactions": [
+    [
+      "Question Time - 2022: 27/01/2022 - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Queer Britain",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Deadly 60",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Question Time - 2021: 17/06/2021 - Signed",
+      "Signed",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Queer Britain": 1
+  }
+}

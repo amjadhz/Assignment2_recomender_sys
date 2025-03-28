@@ -1,0 +1,41 @@
+{
+  "user_preferences": {
+    "Sports": -1,
+    "Signed": -1,
+    "Food": -1,
+    "From the Archives": -1
+  },
+  "user_interactions": [
+    [
+      "We Are England - Bossing It: The Container King",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Under-20s Six Nations Rugby - 2022: England v Ireland",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "CBeebies Presents - Stage Shows:",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Under-20s Six Nations Rugby - 2022: France v England",
+      "Sports",
+      "neutral"
+    ],
+    [
+      "Nadiya's Time to Eat",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Decision 79 - Election Night",
+      "From the Archives",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

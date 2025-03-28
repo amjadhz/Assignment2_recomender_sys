@@ -1,0 +1,47 @@
+{
+  "user_preferences": {
+    "Sports": -1,
+    "Signed": -1,
+    "Documentaries": -1,
+    "Entertainment": -1,
+    "CBBC": -1
+  },
+  "user_interactions": [
+    [
+      "NIFL Premiership Highlights - 2021/2022: 27/09/2021",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "New Creatives - ISHTAR",
+      "Arts",
+      "neutral"
+    ],
+    [
+      "Molly and Mack - Songs: Come on In",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Growing Up Green",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "BAMOUS",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Pok\u00e9mon: Black and White - Movies: White - Victini and Zekrom",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Ladybaby",
+      "Comedy",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

@@ -1,0 +1,37 @@
+{
+  "user_preferences": {
+    "Documentaries": 2,
+    "Sports": -1
+  },
+  "user_interactions": [
+    [
+      "Click - Merry Clickmas",
+      "Science & Nature",
+      "neutral"
+    ],
+    [
+      "We Are England - Mental Health: Nature on My Mind \u2013 Somerset",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Blair & Brown: The New Labour Revolution",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Glasgow City v",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Loop - Shorts: The Art of \u2018Boylesque\u2019",
+      "Arts",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "We Are England - Mental Health: Nature on My Mind \u2013 Somerset": 1,
+    "Blair & Brown: The New Labour Revolution": 1
+  }
+}

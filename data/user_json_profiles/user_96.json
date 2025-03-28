@@ -1,0 +1,25 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "Films": -1,
+    "Music": -1
+  },
+  "user_interactions": [
+    [
+      "The Worst Witch",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Little Joe",
+      "Films",
+      "disliked"
+    ],
+    [
+      "TUNE - Shorts: Dead Pony: Howlin' to the Wind",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

@@ -1,0 +1,49 @@
+{
+  "user_preferences": {
+    "Entertainment": -1,
+    "Food": -1,
+    "Documentaries": 1,
+    "From the Archives": -2,
+    "Films": -1
+  },
+  "user_interactions": [
+    [
+      "The World\u2019s Most Extreme Festivals - Gathering of the Juggalos",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Saturday Kitchen - 12/03/2022",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Raising the Alarm on Kuwait's Heat",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "CBeebies Bedtime Stories - 4",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Our Girl",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "EastEnders 2010 - 17/12/2009",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "A Farewell to Arms",
+      "Films",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Life at 50\u00b0C - Shorts: Raising the Alarm on Kuwait's Heat": 1
+  }
+}
