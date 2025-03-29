@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 import os
+
 import pickle
 
 # -------------------------------
@@ -25,6 +26,7 @@ def load_data():
 
 data = load_data()
 
+
 # -------------------------------
 # User Data Helpers
 # -------------------------------
@@ -36,6 +38,7 @@ def load_user_data():
     except FileNotFoundError:
         return {}, [], {}
 
+# Function to save user interactions and watch counts
 def save_user_data():
     with open(USER_DATA_FILE, "w") as f:
         json.dump({
@@ -44,6 +47,22 @@ def save_user_data():
             "watch_counts": st.session_state.watch_counts
         }, f)
 
+# Why was this recommended?
+def get_recommendation_reason(broadcast):
+    category = broadcast.get("category", "Unknown")
+    title = broadcast.get("title", "")
+    liked_cats = {
+        inter[1] for inter in st.session_state.user_interactions if len(inter) > 2 and inter[2] == "liked"
+    }
+    reason_parts = []
+    if category in liked_cats:
+        reason_parts.append(f"You've liked **{category}** content before.")
+    if st.session_state.watch_counts.get(title, 0) == 0:
+        reason_parts.append("You haven't watched this before.")
+    else:
+        reason_parts.append("You've shown interest in this previously.")
+    return " ".join(reason_parts) or "Matches your selected preferences."
+
 # Handle view button click - callback function
 def view_broadcast(broadcast):
     st.session_state.selected_broadcast = broadcast
@@ -51,6 +70,7 @@ def view_broadcast(broadcast):
 # Handle back button click
 def go_back_home():
     st.session_state.selected_broadcast = None
+
 
 # -------------------------------
 # Session State Init
@@ -199,6 +219,7 @@ if not st.session_state.recommendations_ready:
         # Continue button - only enabled if at least 5 genres are selected
         if liked_count >= 5:
             if st.button("Continue to Content Selection"):
+
                 # Record all genre selections before continuing
                 for genre in categories:
                     is_selected = st.session_state.liked_genres.get(genre, True)
@@ -237,8 +258,8 @@ if not st.session_state.recommendations_ready:
                     st.write(f"**{row['title']}**")
                     st.write(row["description"])
                     
-                    like_key = f"like_{row['title']}"
-                    dislike_key = f"dislike_{row['title']}"
+                    like_key = f"like_{i}_{row['title']}"
+                    dislike_key = f"dislike_{i}_{row['title']}"
                     
                     if like_key not in st.session_state.current_choices:
                         st.session_state.current_choices[like_key] = None
@@ -358,6 +379,7 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
     }
     
     for section_name, content in sections.items():
+
         # Create a row with section title and refresh button
         col1, col2 = st.columns([0.8, 0.2])
         with col1:
@@ -382,9 +404,10 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
                 for interaction in st.session_state.user_interactions:
                     if len(interaction) > 2 and interaction[0] == row["title"]:
                         if interaction[2] == "liked":
-                            st.write("")
+                            st.write("👍 Liked")
                         elif interaction[2] == "disliked":
-                            st.write("")
+                            st.write("👎 Disliked")
+
                         break
                 
                 button_key = f"view_{section_name}_{i}"
@@ -394,6 +417,7 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
                     on_click=view_broadcast,
                     args=(row.to_dict(),)
                 )
+
         st.markdown("<hr style='margin-top:2rem; margin-bottom:2rem; border:1px solid #ddd;'/>", unsafe_allow_html=True)
 
 # -------------------------------
@@ -404,7 +428,10 @@ else:
         st.title(st.session_state.selected_broadcast["title"])
         st.image(st.session_state.selected_broadcast["image"])
         st.write(st.session_state.selected_broadcast["description"])
-        
+
+        # ✅ SHOWING WHY IT WAS RECOMMENDED
+        st.write(f"🔍 **Why recommended:** {get_recommendation_reason(st.session_state.selected_broadcast)}")
+
         # Check if user has already liked or disliked this content
         user_action = None
         for interaction in st.session_state.user_interactions:
@@ -414,11 +441,12 @@ else:
         
         like_key = f"like_broadcast_{st.session_state.selected_broadcast['title']}"
         dislike_key = f"dislike_broadcast_{st.session_state.selected_broadcast['title']}"
-        
+
         col1, col2 = st.columns(2)
         with col1:
             like_disabled = user_action == "liked"
             if st.button("👍 Like", key=like_key, disabled=like_disabled):
+
                 # Remove any existing interactions for this content
                 st.session_state.user_interactions = [
                     interaction for interaction in st.session_state.user_interactions 
@@ -451,8 +479,8 @@ else:
                 st.rerun()
             if dislike_disabled:
                 st.write("You disliked this content")
-        
-        # Increment Watch Count
+
+                # Increment Watch Count
         st.session_state.watch_counts[st.session_state.selected_broadcast["title"]] = \
             st.session_state.watch_counts.get(st.session_state.selected_broadcast["title"], 0) + 1
         save_user_data()
@@ -461,11 +489,13 @@ else:
 
         st.subheader("More Recommendations")
         more_recommendations = data.sample(5, replace=True)  
+
         cols = st.columns(5)
         for i, (_, row) in enumerate(more_recommendations.iterrows()):
             with cols[i % 5]:
                 st.image(row["image"])
                 st.write(f"**{row['title']}**")
+
                 
                 # Display like/dislike status if available
                 for interaction in st.session_state.user_interactions:
