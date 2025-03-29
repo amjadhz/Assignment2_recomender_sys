@@ -1,53 +1,295 @@
 import streamlit as st
 import pandas as pd
 import json
+import os
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Load dataset
+# -------------------------------
+# File Paths
+# -------------------------------
+USER_DATA_FILE = "./data/user_interactions.json"
+SYNTHETIC_DIR = "./data/user_json_profiles"
+DATASET_FILE = "./data/bbc_recommender_dataset.csv"
+
+# -------------------------------
+# Load BBC Dataset
+# -------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("./data/bbc_recommender_dataset.csv")
+    return pd.read_csv(DATASET_FILE)
 
-data = load_data()
-
-# Function to load user interactions from file
+# -------------------------------
+# Load Live User Data
+# -------------------------------
 def load_user_data():
-    try:
-        with open("./data/user_interactions.json", "r") as f:
+    if os.path.exists(USER_DATA_FILE):
+        with open(USER_DATA_FILE, "r") as f:
             data = json.load(f)
-            return data.get("user_preferences", {}), data.get("user_interactions", [])
-    except FileNotFoundError:
-        return {}, []
+    else:
+        data = {"user_preferences": {}, "user_interactions": [], "watch_counts": {}}
+    return data.get("user_preferences", {}), data.get("user_interactions", []), data.get("watch_counts", {})
 
-# Load user data
-st.session_state.user_preferences, st.session_state.user_interactions = load_user_data()
+# -------------------------------
+# Load Synthetic User Data
+# -------------------------------
+def load_synthetic_user_data():
+    prefs, interactions, watches = {}, [], {}
+    for filename in os.listdir(SYNTHETIC_DIR):
+        if filename.endswith(".json"):
+            with open(os.path.join(SYNTHETIC_DIR, filename), "r") as f:
+                user_data = json.load(f)
+                for cat, val in user_data.get("user_preferences", {}).items():
+                    prefs[cat] = prefs.get(cat, 0) + val
+                interactions.extend(user_data.get("user_interactions", []))
+                for title, count in user_data.get("watch_counts", {}).items():
+                    watches[title] = watches.get(title, 0) + count
+    return prefs, interactions, watches
 
-# Streamlit app title
-st.title("BBC Recommender System - Developer Dashboard")
+# -------------------------------
+# Initialize Data
+# -------------------------------
+data = load_data()
+live_prefs, live_interactions, live_watch_counts = load_user_data()
+syn_prefs, syn_interactions, syn_watch_counts = load_synthetic_user_data()
 
-# Metrics Dashboard
-st.header("Metrics Dashboard - Monitoring System Performance")
+# Combined Data
+overall_prefs = live_prefs.copy()
+for cat, val in syn_prefs.items():
+    overall_prefs[cat] = overall_prefs.get(cat, 0) + val
 
-if not st.session_state.user_preferences and not st.session_state.user_interactions:
-    st.write("No user interaction data available yet. Please ensure users have interacted with the recommender system.")
-else:
-    total_likes = sum(1 for val in st.session_state.user_preferences.values() if val > 0)
-    total_dislikes = sum(1 for val in st.session_state.user_preferences.values() if val < 0)
-    total_watched = sum(1 for _, action in st.session_state.user_interactions if action == "watched")
-    
-    st.write(f"### Total Likes: {total_likes}")
-    st.write(f"### Total Dislikes: {total_dislikes}")
-    st.write(f"### Total Watched: {total_watched}")
-    
-    st.write("### User Preferences by Category")
-    st.dataframe(pd.DataFrame(list(st.session_state.user_preferences.items()), columns=["Category", "Preference Score"]))
-    
-    st.write("### Recent User Interactions")
-    interactions_df = pd.DataFrame(st.session_state.user_interactions, columns=["Title", "Action"])
-    st.dataframe(interactions_df)
+overall_interactions = live_interactions + syn_interactions
 
-st.write("### Recommender System Value Metrics")
-st.write("**Transparency:** Ensuring users understand why recommendations are made.")
-st.write("**Fairness:** Maintaining a balanced representation of content.")
-st.write("**Diversity:** Recommending content from multiple categories.")
-st.write("**Autonomy:** Allowing users to refine their preferences dynamically.")
+overall_watch_counts = live_watch_counts.copy()
+for title, count in syn_watch_counts.items():
+    overall_watch_counts[title] = overall_watch_counts.get(title, 0) + count
 
+# Store in session state
+st.session_state.user_preferences = live_prefs
+st.session_state.user_interactions = live_interactions
+st.session_state.watch_counts = live_watch_counts
+
+# -------------------------------
+# Streamlit Page Setup
+# -------------------------------
+st.set_page_config(page_title="BBC Recommender Dashboard")
+st.title("📊 BBC Recommender System - Developer Dashboard")
+
+# -------------------------------
+# Tabs
+# -------------------------------
+tab1, tab2 = st.tabs(["📈 Overall", "⚖️ Fairness Analysis"])
+
+with tab1:
+    # -------------------------------
+    # Live User Category Summary
+    # -------------------------------
+    st.subheader("🧑 Live User Summary")
+
+    preferred_categories = [cat for cat, score in live_prefs.items() if score > 0]
+    if preferred_categories:
+        st.subheader("🔥Preferred Categories: ")
+        # st.success("🔥Preferred Categories: ")
+        st.subheader("" + ", ".join(preferred_categories))
+    else:
+        st.info("No preferred categories found for the live user.")
+
+    # -------------------------------
+    # Metrics
+    # -------------------------------
+    st.subheader("📊 User Metrics")
+
+    pref_likes = sum(1 for v in live_prefs.values() if v > 0)
+    pref_dislikes = sum(1 for v in live_prefs.values() if v < 0)
+
+    interaction_likes = sum(1 for i in live_interactions if len(i) > 2 and i[2] == "liked")
+    interaction_dislikes = sum(1 for i in live_interactions if len(i) > 2 and i[2] == "disliked")
+
+    live_likes = interaction_likes
+    live_dislikes = interaction_dislikes
+    live_watched = sum(live_watch_counts.values())
+
+    overall_likes = pref_likes + interaction_likes
+    overall_dislikes = pref_dislikes + interaction_dislikes
+
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.metric("👍 Live Likes", live_likes, help=f"{interaction_likes} from interactions, {pref_likes} from preferences")
+        st.metric("👍 Total Likes",  overall_likes, help=f"{interaction_likes} from interactions, {pref_likes} from preferences")
+    with col2:
+        st.metric("👎 Live Dislikes", live_dislikes)
+        st.metric("👎 Total Dislikes", overall_dislikes, help=f"{interaction_dislikes} from interactions, {pref_dislikes} from preferences")
+    with col3:
+        st.metric("👁️ Watched (Live)", live_watched)
+
+    # -------------------------------
+    # Preferences Table
+    # -------------------------------
+    st.subheader("📂 Live Preferences")
+    if live_prefs:
+        st.dataframe(pd.DataFrame(live_prefs.items(), columns=["Category", "Score"]))
+    else:
+        st.info("No preferences recorded.")
+
+    # -------------------------------
+    # Interaction Table
+    # -------------------------------
+    st.subheader("📋 Live Interactions")
+    if live_interactions:
+        st.dataframe(pd.DataFrame(live_interactions, columns=["Title", "Category", "Action"]))
+    else:
+        st.info("No interactions recorded.")
+
+    # -------------------------------
+    # Likes and Dislikes Charts
+    # -------------------------------
+    if live_interactions:
+        df_live = pd.DataFrame(live_interactions, columns=["Title", "Category", "Action"])
+        like_df = df_live[df_live["Action"] == "liked"]
+        dislike_df = df_live[df_live["Action"] == "disliked"]
+
+        st.subheader("👍 Likes per Category")
+        if not like_df.empty:
+            like_counts = like_df["Category"].value_counts().sort_index()
+            fig, ax = plt.subplots()
+            sns.barplot(x=like_counts.index, y=like_counts.values, color="green", ax=ax)
+            ax.set_title("Liked Categories")
+            ax.set_xlabel("Category")
+            ax.set_ylabel("Count")
+            ax.tick_params(axis='x', rotation=45)
+            st.pyplot(fig)
+        else:
+            st.info("No likes yet.")
+
+        st.subheader("👎 Dislikes per Category")
+        if not dislike_df.empty:
+            dislike_counts = dislike_df["Category"].value_counts().sort_index()
+            fig, ax = plt.subplots()
+            sns.barplot(x=dislike_counts.index, y=dislike_counts.values, color="red", ax=ax)
+            ax.set_title("Disliked Categories")
+            ax.set_xlabel("Category")
+            ax.set_ylabel("Count")
+            ax.tick_params(axis='x', rotation=45)
+            st.pyplot(fig)
+        else:
+            st.info("No dislikes yet.")
+    else:
+        st.warning("No interactions yet to analyze.")
+
+with tab2:
+    st.header("⚖️ Fairness Analysis")
+
+    st.markdown("""
+    This section explores fairness in recommendations by analyzing whether the recommender system:
+    - Exposes users to a balanced range of categories
+    - Aligns recommendations with user preferences
+    - Avoids over-favoring popular content
+    """)
+
+    # Prepare data
+    if live_interactions:
+        df_interactions = pd.DataFrame(live_interactions, columns=["Title", "Category", "Action"])
+    else:
+        st.warning("No interactions available to analyze fairness.")
+        st.stop()
+
+    # -------------------------------
+    # 1. Exposure per Category
+    # -------------------------------
+    st.subheader("1. Exposure Distribution per Category")
+
+    exposure_counts = df_interactions["Category"].value_counts(normalize=True).sort_index()
+    fig1, ax1 = plt.subplots()
+    sns.barplot(x=exposure_counts.index, y=exposure_counts.values, palette="viridis", ax=ax1)
+    ax1.set_title("Relative Exposure of Categories (Live User)")
+    ax1.set_ylabel("Proportion of Interactions")
+    ax1.set_xlabel("Category")
+    ax1.tick_params(axis="x", rotation=45)
+    st.pyplot(fig1)
+
+    max_cat = exposure_counts.idxmax()
+    max_prop = exposure_counts.max()
+    if max_prop > 0.5:
+        st.warning(f"⚠️ Over {round(max_prop*100)}% of content is from '{max_cat}' — this suggests a potential **category bias**.")
+    else:
+        st.success("✅ The exposure appears fairly distributed across categories.")
+
+    # -------------------------------
+    # 2. Exposure vs Preference Alignment
+    # -------------------------------
+    st.subheader("2. Preference vs. Exposure Alignment")
+
+    pref_df = pd.DataFrame(list(live_prefs.items()), columns=["Category", "Preference"])
+    pref_df["Preference_Norm"] = pref_df["Preference"] / (pref_df["Preference"].abs().sum() + 1e-9)
+    exposure_df = exposure_counts.rename("Exposure").reset_index().rename(columns={"index": "Category"})
+
+    merged = pd.merge(pref_df, exposure_df, on="Category", how="outer").fillna(0)
+
+    fig2, ax2 = plt.subplots()
+    merged_plot = merged.sort_values("Exposure")
+    ax2.plot(merged_plot["Category"], merged_plot["Exposure"], label="Exposure", marker="o")
+    ax2.plot(merged_plot["Category"], merged_plot["Preference_Norm"], label="Normalized Preference", marker="o")
+    ax2.set_xticklabels(merged_plot["Category"], rotation=45, ha="right")
+    ax2.set_ylabel("Normalized Value")
+    ax2.set_title("Exposure vs. User Preference")
+    ax2.legend()
+    st.pyplot(fig2)
+
+    corr = merged["Exposure"].corr(merged["Preference_Norm"])
+    if corr > 0.5:
+        st.success(f"✅ Strong alignment between preferences and exposure (correlation = {round(corr, 2)}) — the system seems **personalized**.")
+    elif corr > 0.2:
+        st.info(f"ℹ️ Moderate alignment between preferences and exposure (correlation = {round(corr, 2)}).")
+    else:
+        st.warning(f"⚠️ Weak alignment (correlation = {round(corr, 2)}) — user preferences may not be reflected well in exposure.")
+
+    # -------------------------------
+    # 3. Gini Coefficient for Exposure Fairness
+    # -------------------------------
+    st.subheader("3. Gini Coefficient: Exposure Equality")
+
+    def gini(array):
+        array = array.flatten()
+        if np.amin(array) < 0:
+            array -= np.amin(array)
+        array += 1e-10
+        array = np.sort(array)
+        index = np.arange(1, array.shape[0] + 1)
+        n = array.shape[0]
+        return (np.sum((2 * index - n - 1) * array)) / (n * np.sum(array))
+
+    import numpy as np
+    gini_value = gini(exposure_counts.values)
+
+    st.metric("📊 Gini Coefficient", round(gini_value, 2))
+
+    if gini_value > 0.5:
+        st.warning("⚠️ High Gini suggests strong exposure inequality — certain categories dominate.")
+    elif gini_value > 0.3:
+        st.info("ℹ️ Moderate Gini — some imbalance in exposure, but not severe.")
+    else:
+        st.success("✅ Low Gini — exposure is fairly distributed across categories.")
+
+    # -------------------------------
+    # 4. Popularity Bias in Recommendations
+    # -------------------------------
+    st.subheader("4. Popularity Bias (Watch Count Distribution)")
+
+    if st.session_state.watch_counts:
+        watch_counts_df = pd.DataFrame(st.session_state.watch_counts.items(), columns=["Title", "Watch Count"])
+        watch_counts_df = watch_counts_df.sort_values(by="Watch Count", ascending=False).reset_index(drop=True)
+
+        fig4, ax4 = plt.subplots()
+        sns.lineplot(x=watch_counts_df.index, y="Watch Count", data=watch_counts_df, color="red", ax=ax4)
+        ax4.set_title("Content Popularity Distribution")
+        ax4.set_xlabel("Content Index (Sorted)")
+        ax4.set_ylabel("Watch Count")
+        st.pyplot(fig4)
+
+        top_10_prop = watch_counts_df.head(10)["Watch Count"].sum() / watch_counts_df["Watch Count"].sum()
+        if top_10_prop > 0.5:
+            st.warning(f"⚠️ Top 10 items make up {round(top_10_prop*100)}% of all views — strong **popularity bias** detected.")
+        else:
+            st.success("✅ Popularity is not overly skewed — system does not overly favor a few items.")
+    else:
+        st.info("No watch data to assess popularity bias.")
