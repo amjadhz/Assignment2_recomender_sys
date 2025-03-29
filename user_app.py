@@ -258,8 +258,8 @@ if not st.session_state.recommendations_ready:
                     st.write(f"**{row['title']}**")
                     st.write(row["description"])
                     
-                    like_key = f"like_{row['title']}"
-                    dislike_key = f"dislike_{row['title']}"
+                    like_key = f"like_{i}_{row['title']}"
+                    dislike_key = f"dislike_{i}_{row['title']}"
                     
                     if like_key not in st.session_state.current_choices:
                         st.session_state.current_choices[like_key] = None
