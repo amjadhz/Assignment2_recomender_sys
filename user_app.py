@@ -14,9 +14,10 @@ def clear_user_data():
     with open(USER_DATA_FILE, "w") as f:
         json.dump({"user_preferences": {}, "user_interactions": [], "watch_counts": {}}, f)
 
-# Clear JSON file at the start of the app
-clear_user_data() 
-
+# ✅ Clear user data ONLY once at start of fresh session
+if "initialized" not in st.session_state:
+    clear_user_data()
+    st.session_state.initialized = True
 # Load dataset
 @st.cache_data
 def load_data():
@@ -381,9 +382,9 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
                 for interaction in st.session_state.user_interactions:
                     if len(interaction) > 2 and interaction[0] == row["title"]:
                         if interaction[2] == "liked":
-                            st.write("👍 Liked")
+                            st.write("")
                         elif interaction[2] == "disliked":
-                            st.write("👎 Disliked")
+                            st.write("")
                         break
                 
                 button_key = f"view_{section_name}_{i}"
@@ -393,6 +394,7 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
                     on_click=view_broadcast,
                     args=(row.to_dict(),)
                 )
+        st.markdown("<hr style='margin-top:2rem; margin-bottom:2rem; border:1px solid #ddd;'/>", unsafe_allow_html=True)
 
 # -------------------------------
 # Broadcast Page
@@ -455,6 +457,8 @@ else:
             st.session_state.watch_counts.get(st.session_state.selected_broadcast["title"], 0) + 1
         save_user_data()
         
+        st.markdown("<hr style='margin-top:3rem; margin-bottom:2rem; border:2px solid #ccc;'/>", unsafe_allow_html=True)
+
         st.subheader("More Recommendations")
         more_recommendations = data.sample(5, replace=True)  
         cols = st.columns(5)
@@ -476,7 +480,7 @@ else:
                     st.session_state.selected_broadcast = row.to_dict()
                     st.rerun()
 
-        if st.button("Back to Home"):
+        if st.button("🏠 Back to Home"):
             st.session_state.selected_broadcast = None
             st.rerun()
 
