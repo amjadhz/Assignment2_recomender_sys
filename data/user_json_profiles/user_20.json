@@ -1,0 +1,23 @@
+{
+  "user_preferences": {
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "Radio 1's Live Lounge - Stay Home Live Lounge",
+      "Music",
+      "neutral"
+    ],
+    [
+      "Radio 1 Stories - Broken Heart Beats",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Lights Up - Half Breed",
+      "Signed",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

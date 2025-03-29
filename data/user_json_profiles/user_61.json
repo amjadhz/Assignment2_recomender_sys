@@ -1,0 +1,48 @@
+{
+  "user_preferences": {
+    "Films": -1,
+    "Signed": -1,
+    "From the Archives": 0,
+    "Sports": -1
+  },
+  "user_interactions": [
+    [
+      "Masked and Anonymous",
+      "Films",
+      "disliked"
+    ],
+    [
+      "OMC!",
+      "Comedy",
+      "neutral"
+    ],
+    [
+      "Mystic",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Pok\u00e9mon: Diamond and Pearl - Movies: Zoroark: Master of Illusions",
+      "CBBC",
+      "neutral"
+    ],
+    [
+      "Absolutely Fabulous - White Box",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Inspector Montalbano - The Wings of the Sphynx",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Snooker: Welsh Open - 2022:",
+      "Sports",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Absolutely Fabulous - White Box": 1
+  }
+}

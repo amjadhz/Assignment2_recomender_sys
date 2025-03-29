@@ -1,0 +1,34 @@
+{
+  "user_preferences": {
+    "Films": -2,
+    "Music": -1
+  },
+  "user_interactions": [
+    [
+      "Tycoon",
+      "Films",
+      "neutral"
+    ],
+    [
+      "Versus - The Life and Films of Ken Loach",
+      "Films",
+      "disliked"
+    ],
+    [
+      "Yellow Canary",
+      "Films",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Four and Eight Times Tables",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Leeds International Piano Competition - 2021",
+      "Music",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

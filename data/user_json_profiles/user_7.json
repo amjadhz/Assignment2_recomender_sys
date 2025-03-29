@@ -1,0 +1,36 @@
+{
+  "user_preferences": {
+    "Entertainment": -1,
+    "Documentaries": 1
+  },
+  "user_interactions": [
+    [
+      "Not Going Out - Driving Home for Christmas",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "The Ranganation",
+      "Entertainment",
+      "neutral"
+    ],
+    [
+      "1Xtra - 1XTRA Talks: Pain, Power and Progress",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Down the Mighty River with Steve Backshall",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Celebrity Best Home Cook",
+      "Entertainment",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Down the Mighty River with Steve Backshall": 1
+  }
+}

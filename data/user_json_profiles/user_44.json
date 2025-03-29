@@ -1,0 +1,45 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Signed": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "I Am A Men's Rights Activist",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "dinnerladies",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Messy Goes to OKIDO - Songs: Gravity",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "My Family - The Heart of Christmas",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Storyville - Carlos Ghosn: The Last Flight",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "MasterChef: The Professionals - Rematch 2018",
+      "Food",
+      "neutral"
+    ],
+    [
+      "Measuring Mass: The Last Artefact",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

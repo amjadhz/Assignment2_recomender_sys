@@ -1,0 +1,35 @@
+{
+  "user_preferences": {
+    "Documentaries": 1
+  },
+  "user_interactions": [
+    [
+      "John Denver: Country Boy",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bellator MMA - 2021: Douglas Lima vs. Yaroslav Amosov",
+      "Sports",
+      "neutral"
+    ],
+    [
+      "The Late Show - Face to Face: Ken Dodd",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Holiday Affair",
+      "Films",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "John Denver: Country Boy": 1
+  }
+}

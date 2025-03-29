@@ -1,0 +1,45 @@
+{
+  "user_preferences": {
+    "Signed": -2,
+    "Documentaries": -1,
+    "From the Archives": -2
+  },
+  "user_interactions": [
+    [
+      "Panorama - Delivering Christmas: What\u2019s in Store? - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Question Time - 2022: 03/03/2022 - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Loop - Shorts: The Power I Feel When I Pole Dance",
+      "Arts",
+      "neutral"
+    ],
+    [
+      "We Are England - Sporting Heroes: Make Me a Jockey",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "HARDtalk - Laurence Tribe - Professor Emeritus, Harvard Law School",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "BBC Proms - 2021: Nubya Garcia",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Saturday Mash-Up! Live",
+      "CBBC",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {}
+}

@@ -1,0 +1,48 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Films": -1,
+    "Music": -1,
+    "Food": -1,
+    "Signed": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "EastEnders 2010 - 03/11/2009",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "CBeebies Presents - Stage Shows:",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "The Man in the White Suit",
+      "Films",
+      "disliked"
+    ],
+    [
+      "Radio 2 Live - 2021: Texas",
+      "Music",
+      "disliked"
+    ],
+    [
+      "The Hairy Bikers' Cookbook - The Hairy Bakers Shorts:",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Bath Time",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Dale Barclay: All On Black",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

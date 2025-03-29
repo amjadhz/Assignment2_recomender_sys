@@ -1,0 +1,47 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Food": -1,
+    "History": -1,
+    "Sports": -1,
+    "Entertainment": -1
+  },
+  "user_interactions": [
+    [
+      "Inspector Montalbano - The Goldfinch and the Cat",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Primates",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Saturday Kitchen - 26/02/2022",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Prime Properties - Clement Attlee",
+      "History",
+      "disliked"
+    ],
+    [
+      "We Are England - The Night Shift: One Night at the Fish Market - Grimsby",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "NIFL Premiership Highlights - 2020/21: Cliftonville v Linfield",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Great British Photography Challenge",
+      "Entertainment",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

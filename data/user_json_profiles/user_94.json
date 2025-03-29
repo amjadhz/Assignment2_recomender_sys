@@ -1,0 +1,41 @@
+{
+  "user_preferences": {
+    "Documentaries": -3,
+    "From the Archives": 0
+  },
+  "user_interactions": [
+    [
+      "Rhod Gilbert: Stand Up to Shyness",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Comic Roots",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Berlin 1945",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "HARDtalk - Rudy Giuliani - Former Mayor of New York City",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "The Last Mountain",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "We Are England - A Place Called Home: Homes For the Homeless - Nottingham",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Comic Roots": 1
+  }
+}

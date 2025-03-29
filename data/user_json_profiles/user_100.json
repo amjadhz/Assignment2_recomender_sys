@@ -1,0 +1,48 @@
+{
+  "user_preferences": {
+    "Music": -1,
+    "Signed": -1,
+    "Documentaries": -1,
+    "Entertainment": 1
+  },
+  "user_interactions": [
+    [
+      "Saturday Kitchen - Countdown to Christmas: 04/12/2021",
+      "Food",
+      "neutral"
+    ],
+    [
+      "Girls in Bands at the BBC",
+      "Music",
+      "disliked"
+    ],
+    [
+      "BBC Trailers - This is Our BBC signed - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Generation Screwed?",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Panorama - The NHS vs Covid: The Fight Goes On",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "The Voices in My Head",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Unpopular Opinion - Niall Horan",
+      "Entertainment",
+      "liked"
+    ]
+  ],
+  "watch_counts": {
+    "Unpopular Opinion - Niall Horan": 1
+  }
+}

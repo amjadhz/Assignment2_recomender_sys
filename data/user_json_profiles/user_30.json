@@ -1,0 +1,40 @@
+{
+  "user_preferences": {
+    "Sports": -1,
+    "Documentaries": -1,
+    "Signed": -1
+  },
+  "user_interactions": [
+    [
+      "Afoot Again In The Past - Clouds Hill",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "HARDtalk - Neil deGrasse Tyson - Director, Hayden Planetarium, New York",
+      "From the Archives",
+      "neutral"
+    ],
+    [
+      "Question Time - 2022: 03/02/2022 - Signed",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Bellator MMA - 2021: Bellator 270: Main event & Prelims",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Panorama - Paralympics: The Unfair Games?",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Question Time - 2021: 25/11/2021 - Signed",
+      "Signed",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

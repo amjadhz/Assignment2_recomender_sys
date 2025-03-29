@@ -1,0 +1,37 @@
+{
+  "user_preferences": {
+    "Comedy": 1,
+    "Films": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "PRU",
+      "Comedy",
+      "neutral"
+    ],
+    [
+      "Britney",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Everything, Everything",
+      "Films",
+      "disliked"
+    ],
+    [
+      "Our World - The Battle for the South China Sea",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "The Office",
+      "From the Archives",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Britney": 1
+  }
+}

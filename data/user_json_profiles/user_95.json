@@ -1,0 +1,31 @@
+{
+  "user_preferences": {
+    "Signed": -1,
+    "Entertainment": -1
+  },
+  "user_interactions": [
+    [
+      "Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Alphabet and Punctuation",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Late Night Line-Up - The Man Alive R",
+      "Entertainment",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:": 1
+  }
+}

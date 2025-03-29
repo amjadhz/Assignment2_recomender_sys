@@ -1,0 +1,30 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Arts": -1,
+    "Science & Nature": -1
+  },
+  "user_interactions": [
+    [
+      "CBeebies Bedtime Stories - 6",
+      "Signed",
+      "neutral"
+    ],
+    [
+      "Face to Face - Bertrand Russell",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Searching for Sam: Adrian Dunbar on Samuel Beckett",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "Global Climate Debate",
+      "Science & Nature",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}

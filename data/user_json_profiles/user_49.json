@@ -1,0 +1,49 @@
+{
+  "user_preferences": {
+    "Music": -1,
+    "CBBC": 1,
+    "Sports": -1,
+    "Signed": -1,
+    "Documentaries": -1
+  },
+  "user_interactions": [
+    [
+      "Pavarotti",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Shame In The Game: Racism In Football",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Skin De",
+      "CBBC",
+      "liked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2020/21: 26/04/2021",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Question Time - 2021: 07/10/2021 - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "I Shot My Parents",
+      "Documentaries",
+      "neutral"
+    ],
+    [
+      "Tagged - Life On Lockdown:",
+      "Documentaries",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {
+    "Skin De": 1
+  }
+}

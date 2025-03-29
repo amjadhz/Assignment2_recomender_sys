@@ -1,0 +1,49 @@
+{
+  "user_preferences": {
+    "From the Archives": -1,
+    "Entertainment": -2,
+    "Food": 0,
+    "Documentaries": 1
+  },
+  "user_interactions": [
+    [
+      "Doctor Who - Voyage of the Damned",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Richard Osman's House of Games",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Saturday Kitchen - 02/10/2021",
+      "Food",
+      "liked"
+    ],
+    [
+      "Saturday Kitchen - 02/10/2021",
+      "Food",
+      "disliked"
+    ],
+    [
+      "The Sound of TV with Neil Brand",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Click - Short Edition - 30/10/2021",
+      "Science & Nature",
+      "neutral"
+    ]
+  ],
+  "watch_counts": {
+    "Saturday Kitchen - 02/10/2021": 1,
+    "The Sound of TV with Neil Brand": 1
+  }
+}

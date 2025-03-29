@@ -1,0 +1,24 @@
+{
+  "user_preferences": {
+    "Documentaries": -2,
+    "From the Archives": -1
+  },
+  "user_interactions": [
+    [
+      "Groundbreakers - Belfast's Richest Radical",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Stacey Dooley Investigates - Nigeria's Female Suicide Bombers",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Wogan - 25/12/1984",
+      "From the Archives",
+      "disliked"
+    ]
+  ],
+  "watch_counts": {}
+}
