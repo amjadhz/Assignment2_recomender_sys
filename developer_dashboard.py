@@ -4,6 +4,7 @@ import json
 import os
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
 
 # -------------------------------
 # File Paths
@@ -68,6 +69,7 @@ for title, count in syn_watch_counts.items():
 st.session_state.user_preferences = live_prefs
 st.session_state.user_interactions = live_interactions
 st.session_state.watch_counts = live_watch_counts
+st.session_state.synthetic_interactions = syn_interactions
 
 # -------------------------------
 # Streamlit Page Setup
@@ -78,7 +80,9 @@ st.title("📊 BBC Recommender System - Developer Dashboard")
 # -------------------------------
 # Tabs
 # -------------------------------
-tab1, tab2 = st.tabs(["📈 Overall", "⚖️ Fairness Analysis"])
+tab1, tab2, autonomy_tab, transparency_tab, diversity_tab = st.tabs([
+    "📈 Overall", "⚖️ Fairness Analysis", "🧭 Autonomy", "🔍 Transparency", "🌈 Diversity"
+])
 
 with tab1:
     # -------------------------------
@@ -136,7 +140,9 @@ with tab1:
     # -------------------------------
     st.subheader("📋 Live Interactions")
     if live_interactions:
-        st.dataframe(pd.DataFrame(live_interactions, columns=["Title", "Category", "Action"]))
+        st.dataframe(pd.DataFrame([
+    i if len(i) == 3 else i[:3] + [i[3]] for i in live_interactions
+], columns=["Title", "Category", "Action", "Extra"] if any(len(i) > 3 for i in live_interactions) else ["Title", "Category", "Action"]))
     else:
         st.info("No interactions recorded.")
 
@@ -144,7 +150,9 @@ with tab1:
     # Likes and Dislikes Charts
     # -------------------------------
     if live_interactions:
-        df_live = pd.DataFrame(live_interactions, columns=["Title", "Category", "Action"])
+        df_live = pd.DataFrame([
+    i if len(i) == 3 else i[:3] + [i[3]] for i in live_interactions
+], columns=["Title", "Category", "Action", "Extra"] if any(len(i) > 3 for i in live_interactions) else ["Title", "Category", "Action"])
         like_df = df_live[df_live["Action"] == "liked"]
         dislike_df = df_live[df_live["Action"] == "disliked"]
 
@@ -188,7 +196,9 @@ with tab2:
 
     # Prepare data
     if live_interactions:
-        df_interactions = pd.DataFrame(live_interactions, columns=["Title", "Category", "Action"])
+        df_interactions = pd.DataFrame([
+    i if len(i) == 3 else i[:3] + [i[3]] for i in live_interactions
+], columns=["Title", "Category", "Action", "Extra"] if any(len(i) > 3 for i in live_interactions) else ["Title", "Category", "Action"])
     else:
         st.warning("No interactions available to analyze fairness.")
         st.stop()
@@ -235,6 +245,13 @@ with tab2:
     ax2.legend()
     st.pyplot(fig2)
 
+    st.markdown("""
+    This chart compares the **relative exposure** to content categories with the **user's expressed preferences**.
+    Strong alignment suggests the system is personalized, while divergence may indicate recommendation bias.
+    """)
+
+
+
     corr = merged["Exposure"].corr(merged["Preference_Norm"])
     if corr > 0.5:
         st.success(f"✅ Strong alignment between preferences and exposure (correlation = {round(corr, 2)}) — the system seems **personalized**.")
@@ -252,7 +269,7 @@ with tab2:
         array = array.flatten()
         if np.amin(array) < 0:
             array -= np.amin(array)
-        array += 1e-10
+        array = array.astype(float) + 1e-10
         array = np.sort(array)
         index = np.arange(1, array.shape[0] + 1)
         n = array.shape[0]
@@ -293,3 +310,101 @@ with tab2:
             st.success("✅ Popularity is not overly skewed — system does not overly favor a few items.")
     else:
         st.info("No watch data to assess popularity bias.")
+# -------------------------------
+# 🧭 AUTONOMY TAB
+# -------------------------------
+with autonomy_tab:
+    st.header("🧭 Autonomy Analysis")
+    st.markdown("""
+    This section explores **user autonomy** — how much control the user has in shaping recommendations
+    based on explicit choices like likes/dislikes.
+    """)
+
+    interaction_df = pd.DataFrame([
+        i if len(i) == 3 else i[:3] + [i[3]] for i in live_interactions
+    ], columns=["Title", "Category", "Action", "Extra"] if any(len(i) > 3 for i in live_interactions) else ["Title", "Category", "Action"])
+    autonomy_counts = interaction_df["Action"].value_counts()
+
+    st.subheader("Interaction Types Distribution")
+    fig, ax = plt.subplots()
+    sns.barplot(x=autonomy_counts.index, y=autonomy_counts.values, palette="Set2", ax=ax)
+    ax.set_title("User Action Types")
+    ax.set_ylabel("Count")
+    st.pyplot(fig)
+
+    manual_interactions = autonomy_counts.get("liked", 0) + autonomy_counts.get("disliked", 0)
+    skipped = autonomy_counts.get("skipped", 0)
+
+    st.metric("Manual Interactions", manual_interactions)
+    if manual_interactions > skipped:
+        st.success("✅ The user is actively engaging by liking/disliking content, indicating strong autonomy.")
+    elif skipped > manual_interactions:
+        st.warning("⚠️ Skipped interactions dominate — user might not feel in control or lacks interest.")
+    else:
+        st.info("ℹ️ User engagement is balanced between active and passive actions.")
+    st.metric("Skipped/Passive", skipped)
+
+# -------------------------------
+# 🔍 TRANSPARENCY TAB
+# -------------------------------
+with transparency_tab:
+    st.header("🔍 Transparency Analysis")
+    st.markdown("""
+    This section evaluates **transparency** — whether users interact meaningfully and consistently
+    with specific categories, indicating clarity in system behavior.
+    """)
+
+    if not interaction_df.empty:
+        st.subheader("Category-wise Feedback")
+        category_action_matrix = pd.crosstab(interaction_df["Category"], interaction_df["Action"])
+        st.dataframe(category_action_matrix)
+
+        st.subheader("Heatmap of Actions by Category")
+        fig2, ax2 = plt.subplots(figsize=(10, 6))
+        sns.heatmap(category_action_matrix, annot=True, cmap="YlGnBu", fmt="d", ax=ax2)
+        st.pyplot(fig2)
+    else:
+        st.info("No interaction data available.")
+
+# -------------------------------
+# 🌈 DIVERSITY TAB
+# -------------------------------
+with diversity_tab:
+    st.header("🌈 Diversity Analysis")
+    st.markdown("""
+    This section explores the **diversity** of content exposure — are users exposed to a rich variety of categories?
+    """)
+
+    category_counts = interaction_df["Category"].value_counts()
+    st.subheader("Interacted Categories (Live User)")
+    fig3, ax3 = plt.subplots()
+    sns.barplot(x=category_counts.index, y=category_counts.values, palette="pastel", ax=ax3)
+    ax3.set_title("Diversity of Content Exposure")
+    ax3.tick_params(axis='x', rotation=45)
+    st.pyplot(fig3)
+
+    def gini(array):
+        array = array.flatten()
+        if np.amin(array) < 0:
+            array -= np.amin(array)
+        array = array.astype(np.float64) + 1e-10
+        array = np.sort(array)
+        index = np.arange(1, array.shape[0] + 1)
+        n = array.shape[0]
+        return (np.sum((2 * index - n - 1) * array)) / (n * np.sum(array))
+
+    diversity_score = 1 - gini(category_counts.values)
+    st.metric("Diversity Score (1 - Gini)", round(diversity_score, 2))
+
+    # Explanation for developers
+    st.markdown("""
+    The **diversity score** measures how evenly the user interacts with different content categories.
+    A higher score (closer to 1) means balanced exposure across topics, indicating good variety.
+    """)
+
+    if diversity_score > 0.7:
+        st.success("✅ High content diversity.")
+    elif diversity_score > 0.4:
+        st.info("ℹ️ Moderate diversity.")
+    else:
+        st.warning("⚠️ Low content diversity — user exposure may be narrow.")
