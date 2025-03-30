@@ -2,8 +2,9 @@ import streamlit as st
 import pandas as pd
 import json
 import os
-
 import pickle
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 # -------------------------------
 # Load BBC Dataset
@@ -19,6 +20,7 @@ def clear_user_data():
 if "initialized" not in st.session_state:
     clear_user_data()
     st.session_state.initialized = True
+
 # Load dataset
 @st.cache_data
 def load_data():
@@ -113,64 +115,344 @@ def compute_fairness_score(title):
     return 1 / (1 + watch_count)  # Less-watched content gets a boost
 
 def get_fair_recommendations(data):
-    if "relevance_score" not in data.columns:
-        data["relevance_score"] = 1  # Default relevance score if missing
+    # Create a copy to avoid modifying the original
+    recommendations = data.copy()
+    
+    if "relevance_score" not in recommendations.columns:
+        recommendations["relevance_score"] = 1.0  
+    
+    recommendations["fairness_score"] = recommendations["title"].apply(compute_fairness_score)
+    recommendations["adjusted_score"] = 0.8 * recommendations["relevance_score"] + 0.2 * recommendations["fairness_score"]
+    return recommendations.sort_values(by="adjusted_score", ascending=False)
 
-    data["fairness_score"] = data["title"].apply(compute_fairness_score)
-    data["adjusted_score"] = 0.8 * data["relevance_score"] + 0.2 * data["fairness_score"]
-    return data.sort_values(by="adjusted_score", ascending=False)
+# -------------------------------
+# Get Recommendations based on interested categories
+# -------------------------------
 
 def get_interest_based_recommendations(data):
-    # Fixed: Use the category at index 1 and check if interaction is "liked"
     liked_categories = set()
     for interaction in st.session_state.user_interactions:
-        if len(interaction) > 2 and interaction[2] == "liked":  # Check for "liked" at index 2
-            liked_categories.add(interaction[1])  # Category is at index 1
+        if len(interaction) > 2 and interaction[2] == "liked":  
+            liked_categories.add(interaction[1]) 
     
     if liked_categories:
-        interest_recommendations = data[data["category"].isin(liked_categories)].sample(10, replace=True)
+        interest_recommendations = data[data["category"].isin(liked_categories)]
     else:
         interest_recommendations = data.sample(10, replace=True)
     return interest_recommendations
 
-# Function for the refresh button that gets the next 10 recommendations
+# -------------------------------
+# Collaborative Filtering Functions
+# -------------------------------
+
+def load_similarity_model():
+        model_path = "./models/item_similarity.pkl"
+        if os.path.exists(model_path):
+            with open(model_path, "rb") as f:
+                return pickle.load(f)
+        return pd.DataFrame()
+
+similarity_model = load_similarity_model()
+
+def get_similar_items(user_likes, user_watches, model, n=10):
+    if model.empty or (not user_likes and not user_watches):
+        return []  # Return empty list if no data
+
+    similarity_scores = pd.Series(0.0, index=model.columns)
+
+    # Process liked titles (weight = 1.0)
+    for title in user_likes:
+        if title in model.index:
+            similarity_scores = similarity_scores.add(model[title] * 1.0, fill_value=0)
+
+    # Process watched titles (weight = 0.5 per watch count)
+    for title, count in user_watches.items():
+        if title in model.index:
+            similarity_scores = similarity_scores.add(model[title] * (0.5 * count), fill_value=0)
+
+    # Remove already liked/watched titles
+    for title in user_likes + list(user_watches.keys()):
+        if title in similarity_scores:
+            similarity_scores = similarity_scores.drop(title)
+
+    # If we have no scores left, return empty list
+    if len(similarity_scores) == 0:
+        return []
+        
+    return similarity_scores.sort_values(ascending=False).head(n).index.tolist()
+
+# -------------------------------
+# Trending Items Functions
+# -------------------------------
+
+# Load trending from all synthetic users
+def load_all_user_jsons(path="data/user_json_profiles"):
+    interaction_counts = {}
+    try:
+        for filename in os.listdir(path):
+            if filename.endswith(".json"):
+                with open(os.path.join(path, filename), "r") as f:
+                    user_data = json.load(f)
+                    for title, _, feedback in user_data.get("user_interactions", []):
+                        if feedback == "liked":
+                            interaction_counts[title] = interaction_counts.get(title, 0) + 1
+                    for title, count in user_data.get("watch_counts", {}).items():
+                        interaction_counts[title] = interaction_counts.get(title, 0) + count
+    except Exception as e:
+        st.warning(f"Could not load user JSONs: {e}")
+    return interaction_counts
+
+trending_scores = load_all_user_jsons()
+top_trending_titles = sorted(trending_scores.items(), key=lambda x: x[1], reverse=True)
+top_trending_titles = [title for title, _ in top_trending_titles]
+
+# -------------------------------
+# Most Watched Items Function
+# -------------------------------
+
+def load_all_user_watch_counts(path="data/user_json_profiles"):
+    watch_counts = {}
+    try:
+        for filename in os.listdir(path):
+            if filename.endswith(".json"):
+                with open(os.path.join(path, filename), "r") as f:
+                    user_data = json.load(f)
+                    for title, count in user_data.get("watch_counts", {}).items():
+                        watch_counts[title] = watch_counts.get(title, 0) + count
+    except Exception as e:
+        st.warning(f"Could not load user JSONs: {e}")
+    return watch_counts
+
+# Get the top watched titles
+watch_counts_data = load_all_user_watch_counts()
+top_watched_titles = sorted(watch_counts_data.items(), key=lambda x: x[1], reverse=True)
+top_watched_titles = [title for title, _ in top_watched_titles]
+
+# -------------------------------
+# Content Based Filtering Functions
+# -------------------------------
+
+# Function to build similarity matrix of items using TF-IDF for 'description' column
+def build_similarity_matrix(data):
+    vectorizer = TfidfVectorizer(stop_words='english')
+    tfidf_matrix = vectorizer.fit_transform(data['description'])  
+    similarity_matrix = cosine_similarity(tfidf_matrix, tfidf_matrix)
+    return similarity_matrix
+
+# Function to get content based recommendations using matrix from function above - based on 'description' column
+def get_content_based_recommendations(data, user_interactions):
+    # Ensure user_interactions is properly formatted
+    if isinstance(user_interactions, dict) and "user_interactions" in user_interactions:
+        # Convert user_interactions list to DataFrame
+        user_interactions_df = pd.DataFrame(
+            user_interactions["user_interactions"], 
+            columns=["title", "category", "interaction"] 
+            if len(user_interactions["user_interactions"]) > 0 and len(user_interactions["user_interactions"][0]) == 3
+            else ["title", "category", "section", "interaction"]
+        )
+    else:
+        user_interactions_df = pd.DataFrame(user_interactions, columns=["title", "category", "interaction"])
+    
+    # Ensure the interaction column exists
+    if "interaction" not in user_interactions_df.columns:
+        user_interactions_df["interaction"] = "viewed"
+        
+    # Get liked, disliked, and skipped items
+    liked_items = user_interactions_df[user_interactions_df["interaction"] == "liked"]["title"].tolist()
+    disliked_items = user_interactions_df[user_interactions_df["interaction"] == "disliked"]["title"].tolist()
+    skipped_items = user_interactions_df[user_interactions_df["interaction"] == "skipped"]["title"].tolist()
+    
+    # Get watched items and their watch counts
+    watch_counts = user_interactions.get("watch_counts", {}) if isinstance(user_interactions, dict) else {}
+    watched_items = list(watch_counts.keys())
+
+    # Build similarity matrix using the description column
+    similarity_matrix = build_similarity_matrix(data)
+
+    # Items to recommend
+    recommended_items = set()
+    # Items to exclude from recommendations - disliked + skipped
+    excluded_items = set(disliked_items + skipped_items)
+
+    # Find items similar to disliked items and exclude them
+    for title in disliked_items:
+        if title in data['title'].values:
+            item_index = data[data['title'] == title].index[0]
+            similar_indices = similarity_matrix[item_index].argsort()[-11:-1]  # Top 10 similar items
+            excluded_items.update(data.iloc[similar_indices]['title'].values)
+
+    # Find similar items to liked movies (higher weight)
+    for title in liked_items:
+        if title in data['title'].values:
+            item_index = data[data['title'] == title].index[0]
+            similar_indices = similarity_matrix[item_index].argsort()[-11:-1]  # Top 10 similar items
+            recommended_items.update(data.iloc[similar_indices]['title'].values)
+
+    # Find similar items to watched movies (lower weight)
+    for title in watched_items:
+        if title in data['title'].values:
+            item_index = data[data['title'] == title].index[0]
+            similar_indices = similarity_matrix[item_index].argsort()[-6:-1]  # Top 5 similar items (lower weight)
+            recommended_items.update(data.iloc[similar_indices]['title'].values)
+
+    # Remove any items that the user disliked, skipped, or are similar to disliked items
+    recommended_items -= excluded_items
+    
+    # If no recommendations, return empty DataFrame with correct structure
+    if not recommended_items:
+        return data.head(0)
+
+    return data[data['title'].isin(recommended_items)]
+
+# -------------------------------
+# Refresh Button Function
+# -------------------------------
+
 def refresh_section(section_name):
-    # Initialize offset tracking in session state if not exists
-    if 'recommendation_offsets' not in st.session_state:
-        st.session_state.recommendation_offsets = {
-            "For You": 0,
-            "Interested": 0
+
+    # Get the current recommendation type from the session state (with failsafe to prevent errors)
+    if 'current_rec_type' not in st.session_state:
+        st.session_state.current_rec_type = "Recommendations based on what people like me watch"
+    
+    current_rec_type = st.session_state.current_rec_type
+    
+    if 'sections' not in st.session_state:
+        st.session_state.sections = {
+            "For You": filtered_recommendations.head(10),
+            "Interested": filtered_recommendations.head(10),
+            "Trending Now": data[data["title"].isin(top_trending_titles)].head(10),
+            "Most Watched": data[data["title"].isin(top_watched_titles)].head(10),
+            "Random Selection": data.sample(10, replace=True)
         }
-    
-    current_section_data = sections[section_name].head(10)
-    
-    # Mark skipped recommendations in user interactions
-    for i, row in current_section_data.iterrows():
-        category = row['category'] if 'category' in row else 'Unknown'
-        st.session_state.user_interactions.append((row['title'], category, section_name, 'skipped'))
-        save_user_data()
-    
-    # Remove the current section's recommendations
-    if section_name == "For You":
-        full_recommendations = get_fair_recommendations(data)
-        current_offset = st.session_state.recommendation_offsets["For You"]
-        new_recommendations = full_recommendations.iloc[current_offset+10:current_offset+20]
-        st.session_state.recommendation_offsets["For You"] += 10
 
-    elif section_name == "Interested":
-        full_recommendations = get_interest_based_recommendations(data)
-        current_offset = st.session_state.recommendation_offsets["Interested"]
-        new_recommendations = full_recommendations.iloc[current_offset+10:current_offset+20]
-        st.session_state.recommendation_offsets["Interested"] += 10
+    if 'recommendation_offsets' not in st.session_state:
+        st.session_state.recommendation_offsets = {"For You": 0, "Interested": 0}
 
+    # Save user interaction for skipping current recommendations
+    try:
+        for _, row in st.session_state.sections[section_name].iterrows():
+            st.session_state.user_interactions.append((row['title'], "skipped"))
+    except Exception as e:
+        pass
+
+    save_user_data()
+
+    # Set recommendations for 'for you' and 'interested'
+    if section_name in ["For You", "Interested"]:
+        full_recommendations = generate_recommendations(current_rec_type, data, st.session_state.user_interactions).drop_duplicates()
+        if section_name == "Interested":
+            full_recommendations = get_interest_based_recommendations(full_recommendations)
+        else:
+            full_recommendations = full_recommendations
+
+        if len(full_recommendations) > 0:
+            offset = st.session_state.recommendation_offsets.get(section_name, 0)
+            
+            if offset + 10 >= len(full_recommendations):
+                offset = 0 
+            end_offset = min(offset + 10, len(full_recommendations))
+            new_recommendations = full_recommendations.iloc[offset:end_offset]
+            st.session_state.recommendation_offsets[section_name] = offset + 10
+
+        else:
+            new_recommendations = data.sample(10, replace=True)
+
+    # Handle recommendations for 'Trending Now' section
     elif section_name == "Trending Now":
+        offset = st.session_state.recommendation_offsets.get(section_name, 0)
+
+        if offset + 10 >= len(top_trending_titles):
+            offset = 0  
+
+        trending_titles = top_trending_titles[offset:offset + 10]
+        new_recommendations = data[data["title"].isin(trending_titles)].drop_duplicates()
+        st.session_state.recommendation_offsets[section_name] = offset + 10
+
+        # If not enough trending titles, add random recommendations
+        if len(new_recommendations) < 10:
+            additional = data.sample(10 - len(new_recommendations), replace=True)
+            new_recommendations = pd.concat([new_recommendations, additional])
+
+    # Handle recommendations for 'Most Watched' section
+    elif section_name == "Most Watched":
+        offset = st.session_state.recommendation_offsets.get(section_name, 0)
+
+        if offset + 10 >= len(top_watched_titles):
+            offset = 0  #
+
+        watched_titles = top_watched_titles[offset:offset + 10]
+        new_recommendations = data[data["title"].isin(watched_titles)].drop_duplicates()
+        st.session_state.recommendation_offsets[section_name] = offset + 10
+
+        if len(new_recommendations) < 10:
+            additional = data.sample(10 - len(new_recommendations), replace=True)
+            new_recommendations = pd.concat([new_recommendations, additional])
+
+    else:
         new_recommendations = data.sample(10, replace=True)
 
-    elif section_name == "Most Watched":
-        new_recommendations = data.sample(10, replace=True)
+
+    st.session_state.sections[section_name] = new_recommendations
+
+# -------------------------------
+# Generate Recommendations Based on Type of Filtering User Selects
+# -------------------------------
+
+def generate_recommendations(rec_type, data, user_interactions):
+    # Convert user_interactions to DataFrame if it's a dict
+    if isinstance(user_interactions, dict):
+        user_interactions_df = pd.DataFrame(user_interactions.get("user_interactions", []), 
+                                           columns=["title", "category", "interaction"])
+    else:
+        # If it's already a list, convert to DataFrame
+        if isinstance(user_interactions, list):
+            user_interactions_df = pd.DataFrame(user_interactions, 
+                                               columns=["title", "category", "interaction"])
+        else:
+            user_interactions_df = user_interactions
     
-    # Update the sections dictionary with new recommendations
-    sections[section_name] = new_recommendations
+    # Get user liked titles
+    liked_titles = [
+    interaction[0]  
+    for interaction in st.session_state.user_interactions
+    if len(interaction) > 2 and interaction[2] == "liked"
+    ]
+
+    # Extract watched titles with their watch counts
+    watched_titles = {
+        interaction[0]: interaction[1] 
+        for interaction in st.session_state.user_interactions
+        if "watch_counts" in interaction
+    }
+
+    # COLLABORATIVE FILTERING
+    if rec_type == "Recommendations based on what people like me watch":
+        recommended_titles = get_similar_items(liked_titles, watched_titles, similarity_model, n=10)
+        recommendations = data[data["title"].isin(recommended_titles)]
+
+    # CONTENT-BASED FILTERING
+    elif rec_type == "Recommendations based on content I like":
+        recommendations = get_content_based_recommendations(data, {"user_interactions": user_interactions})
+
+    # BOTH FILTERING SYSTEMS COMBINED
+    elif rec_type == "Both":
+        # Get collaborative filtering results
+        collab_recommended_titles = get_similar_items(liked_titles, watched_titles, similarity_model, n=10)
+        collab_recommendations = data[data["title"].isin(collab_recommended_titles)]
+        
+        # Get content-based filtering results
+        content_recommendations = get_content_based_recommendations(data, {"user_interactions": user_interactions})
+
+        # Concatenate and shuffle results
+        recommendations = pd.concat([collab_recommendations, content_recommendations]).drop_duplicates()
+        recommendations = recommendations.sample(frac=1).reset_index(drop=True)
+    
+    # Add relevance score if not present
+    if "relevance_score" not in recommendations.columns:
+        recommendations["relevance_score"] = 1.0
+        
+    # Apply fairness function 
+    return get_fair_recommendations(recommendations)
 
 # -------------------------------
 # Recommendation Homepage
@@ -315,71 +597,50 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
     st.title("BBC Recommender System - User Interface")
     st.header("Your Recommendations")
 
-    def load_similarity_model():
-        model_path = "./models/item_similarity.pkl"
-        if os.path.exists(model_path):
-            with open(model_path, "rb") as f:
-                return pickle.load(f)
-        return pd.DataFrame()
+    st.markdown("<br>", unsafe_allow_html=True)
 
-    similarity_model = load_similarity_model()
+    with st.expander("🔽 Choose Recommendation Type", expanded=True):
+        rec_type = st.selectbox(
+            "Choose based on what you would like to receive personalized recommendations:",
+            options=[
+                "Recommendations based on what people like me watch",
+                "Recommendations based on content I like",
+                "Both"
+            ],
+            index=0,
+            key="recommendation_type"
+        )
 
-    # Get user liked titles
-    liked_titles = [
-    interaction[0]  # title
-    for interaction in st.session_state.user_interactions
-    if len(interaction) > 2 and interaction[2] == "liked"
-]
+    # Initialize session state if not already initialized
+    if "current_rec_type" not in st.session_state:
+        st.session_state.current_rec_type = rec_type
 
-    # Get similar titles based on collaborative filtering
-    def get_similar_items(user_likes, model, n=10):
-        if model.empty or not user_likes:
-            return []
+    # Check is session is updated
+    if "current_rec_type" not in st.session_state or st.session_state.current_rec_type != rec_type:
+        st.session_state.current_rec_type = rec_type
 
-        similarity_scores = pd.Series(dtype=float)
-        for title in user_likes:
-            if title in model.index:
-                similarity_scores = similarity_scores.add(model[title], fill_value=0)
+        # Always update recommendations
+        filtered_recommendations = generate_recommendations(st.session_state.current_rec_type, data, st.session_state.user_interactions)
 
-        for title in user_likes:
-            if title in similarity_scores:
-                similarity_scores.pop(title)
+        # Update session_state with the new recommendations
+        st.session_state.sections = {
+            "For You": filtered_recommendations.head(10),
+            "Interested": get_interest_based_recommendations(filtered_recommendations).head(10),
+            "Trending Now": data[data["title"].isin(top_trending_titles)].head(10),
+            "Most Watched": data[data["title"].isin(top_watched_titles)].head(10),
+            "Random Selection": data.sample(10, replace=True)
+        }
 
-        return similarity_scores.sort_values(ascending=False).head(n).index.tolist()
+    if st.session_state.current_rec_type == "Recommendations based on what people like me watch":
+        refresh_section("For You")  
+        refresh_section("Interested")  
 
+    if "sections" not in st.session_state:
+        refresh_section("For You")
+        refresh_section("Interested")
 
-    similar_titles = get_similar_items(liked_titles, similarity_model, n=10)
-
-    # Load trending from all synthetic users
-    def load_all_user_jsons(path="data/user_json_profiles"):
-        interaction_counts = {}
-        try:
-            for filename in os.listdir(path):
-                if filename.endswith(".json"):
-                    with open(os.path.join(path, filename), "r") as f:
-                        user_data = json.load(f)
-                        for title, _, feedback in user_data.get("user_interactions", []):
-                            if feedback == "liked":
-                                interaction_counts[title] = interaction_counts.get(title, 0) + 1
-                        for title, count in user_data.get("watch_counts", {}).items():
-                            interaction_counts[title] = interaction_counts.get(title, 0) + count
-        except Exception as e:
-            st.warning(f"Could not load user JSONs: {e}")
-        return interaction_counts
-
-    trending_scores = load_all_user_jsons()
-    top_trending_titles = sorted(trending_scores.items(), key=lambda x: x[1], reverse=True)
-    top_trending_titles = [title for title, _ in top_trending_titles[:10]]
-
-    sections = {
-        "For You": get_fair_recommendations(data).head(10),
-        "Interested": get_interest_based_recommendations(data),
-        "Trending Now": data.sample(10, replace=True),
-        "Most Watched": data.sample(10, replace=True)
-    }
-    
-    for section_name, content in sections.items():
-
+   
+    for section_name, content in st.session_state.sections.items():
         # Create a row with section title and refresh button
         col1, col2 = st.columns([0.8, 0.2])
         with col1:
@@ -393,30 +654,35 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
                 args=(section_name,)
             )
         
-        cols = st.columns(5)
-
-        for i, (_, row) in enumerate(content.iterrows()):
-            with cols[i % 5]:
-                st.image(row["image"])
-                st.write(f"**{row['title']}**")
-                
-                # Display like/dislike status if available
-                for interaction in st.session_state.user_interactions:
-                    if len(interaction) > 2 and interaction[0] == row["title"]:
-                        if interaction[2] == "liked":
-                            st.write("👍 Liked")
-                        elif interaction[2] == "disliked":
-                            st.write("👎 Disliked")
-
-                        break
-                
-                button_key = f"view_{section_name}_{i}"
-                st.button(
-                    "View", 
-                    key=button_key,
-                    on_click=view_broadcast,
-                    args=(row.to_dict(),)
-                )
+        # Iterate through content in chunks of 5 for better alignment
+        content_list = list(content.iterrows()) 
+        for row_start in range(0, len(content_list), 5):
+            cols = st.columns(5)  
+            
+            # Populate each column with a recommendation (up to 5 per row)
+            for i in range(5):
+                if row_start + i < len(content_list):  
+                    _, row = content_list[row_start + i]
+                    with cols[i]:  
+                        st.image(row["image"])
+                        st.write(f"**{row['title']}**")
+                        
+                        # Display like/dislike status if available
+                        for interaction in st.session_state.user_interactions:
+                            if len(interaction) > 2 and interaction[0] == row["title"]:
+                                if interaction[2] == "liked":
+                                    st.write("👍 Liked")
+                                elif interaction[2] == "disliked":
+                                    st.write("👎 Disliked")
+                                break
+                        
+                        button_key = f"view_{section_name}_{row_start + i}"
+                        st.button(
+                            "View", 
+                            key=button_key,
+                            on_click=view_broadcast,
+                            args=(row.to_dict(),)
+                        )
 
         st.markdown("<hr style='margin-top:2rem; margin-bottom:2rem; border:1px solid #ddd;'/>", unsafe_allow_html=True)
 
@@ -429,7 +695,7 @@ else:
         st.image(st.session_state.selected_broadcast["image"])
         st.write(st.session_state.selected_broadcast["description"])
 
-        # ✅ SHOWING WHY IT WAS RECOMMENDED
+        # SHOWING WHY IT WAS RECOMMENDED
         st.write(f"🔍 **Why recommended:** {get_recommendation_reason(st.session_state.selected_broadcast)}")
 
         # Check if user has already liked or disliked this content
@@ -480,7 +746,7 @@ else:
             if dislike_disabled:
                 st.write("You disliked this content")
 
-                # Increment Watch Count
+        # Increment Watch Count
         st.session_state.watch_counts[st.session_state.selected_broadcast["title"]] = \
             st.session_state.watch_counts.get(st.session_state.selected_broadcast["title"], 0) + 1
         save_user_data()
