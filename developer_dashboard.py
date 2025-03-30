@@ -81,7 +81,7 @@ st.title("📊 BBC Recommender System - Developer Dashboard")
 # Tabs
 # -------------------------------
 tab1, tab2, autonomy_tab, transparency_tab, diversity_tab = st.tabs([
-    "📈 Overall", "⚖️ Fairness Analysis", "🧭 Autonomy", "🔍 Transparency", "🌈 Diversity"
+    "📈 Overall", "⚖️ Fairness Analysis", "🧭 Autonomy", "🔍 Transparency", "🌍 Diversity"
 ])
 
 with tab1:
@@ -359,18 +359,38 @@ with transparency_tab:
         category_action_matrix = pd.crosstab(interaction_df["Category"], interaction_df["Action"])
         st.dataframe(category_action_matrix)
 
+        st.markdown("""
+        🔍 **Interpretation**:
+        - This table shows how the user has interacted with each content category.
+        - A higher count in any action column (liked/disliked/interested) reflects the user's sentiment toward that category.
+        - Use this to assess whether some categories receive consistently strong feedback or no interaction at all.
+        """)
+
         st.subheader("Heatmap of Actions by Category")
         fig2, ax2 = plt.subplots(figsize=(10, 6))
         sns.heatmap(category_action_matrix, annot=True, cmap="YlGnBu", fmt="d", ax=ax2)
         st.pyplot(fig2)
+        
+        st.markdown("""
+        📊 **Heatmap Insight**:
+        This heatmap visualizes how frequently the user performs each type of action (e.g. liked, disliked, skipped) in each content category.
+
+        **How to read it:**
+        - **Darker cells** = more interactions.
+        - High values for 'liked' show positive engagement.
+        - High values for 'disliked' may suggest issues with relevance.
+        - An even distribution suggests transparency — the user understands and reacts consistently across categories.
+        - If feedback is concentrated in a few categories only, it may reflect recommendation focus or user interest scope.
+        """)
+
     else:
         st.info("No interaction data available.")
 
 # -------------------------------
-# 🌈 DIVERSITY TAB
+# 🌍 DIVERSITY TAB
 # -------------------------------
 with diversity_tab:
-    st.header("🌈 Diversity Analysis")
+    st.header("🌍 Diversity Analysis")
     st.markdown("""
     This section explores the **diversity** of content exposure — are users exposed to a rich variety of categories?
     """)
