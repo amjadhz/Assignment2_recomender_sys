@@ -113,19 +113,19 @@ with tab1:
     live_dislikes = interaction_dislikes
     live_watched = sum(live_watch_counts.values())
 
-    overall_likes = pref_likes + interaction_likes
-    overall_dislikes = pref_dislikes + interaction_dislikes
+    prefered_cata = pref_likes 
+    not_prefered_cata = pref_dislikes 
 
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.metric("👍 Live Likes", live_likes, help=f"{interaction_likes} from interactions, {pref_likes} from preferences")
-        st.metric("👍 Total Likes",  overall_likes, help=f"{interaction_likes} from interactions, {pref_likes} from preferences")
+        st.metric("👍 Live Likes", live_likes)
+        st.metric("✅ Prefered Category",  prefered_cata)
     with col2:
         st.metric("👎 Live Dislikes", live_dislikes)
-        st.metric("👎 Total Dislikes", overall_dislikes, help=f"{interaction_dislikes} from interactions, {pref_dislikes} from preferences")
+        st.metric("❌ Not Prefered Category", not_prefered_cata)
     with col3:
         st.metric("👁️ Watched (Live)", live_watched)
-
+        
     # -------------------------------
     # Preferences Table
     # -------------------------------

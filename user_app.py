@@ -331,7 +331,8 @@ def refresh_section(section_name):
     # Save user interaction for skipping current recommendations
     try:
         for _, row in st.session_state.sections[section_name].iterrows():
-            st.session_state.user_interactions.append((row['title'], "skipped"))
+            st.session_state.user_interactions.append((row['interaction'], "skipped"))
+
     except Exception as e:
         pass
 
@@ -632,6 +633,7 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
         }
 
     if st.session_state.current_rec_type == "Recommendations based on what people like me watch":
+        filtered_recommendations = generate_recommendations(st.session_state.current_rec_type, data, st.session_state.user_interactions)
         refresh_section("For You")  
         refresh_section("Interested")  
 
@@ -772,8 +774,7 @@ else:
                             st.write("👎 Disliked")
                         break
 
-                if st.button("View", key=f"view_more_reco_{i}"):
-                    st.session_state.selected_broadcast = row.to_dict()
+                if st.button("View", key=f"view_more_reco_{i}", on_click=view_broadcast, args=(row.to_dict(),)):
                     st.rerun()
 
         if st.button("🏠 Back to Home"):
