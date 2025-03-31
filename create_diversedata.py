@@ -1,7 +1,9 @@
 import pandas as pd
 
+
 # Load the dataset
 df = pd.read_csv("data/bbc_recommender_dataset_clean.csv")
+
 
 # Define the program lists
 black_british_programs = [
@@ -42,6 +44,7 @@ black_british_programs = [
     "A Musical Family Christmas with the Kanneh-Masons"
 ]
 
+
 asian_british_programs = [
     "Man Like Mobeen",
     "Supercar, Superfam",
@@ -81,18 +84,24 @@ asian_british_programs = [
     "Go Jetters",
     "Beena and Amrit",
     "Dance Passion - 2022: Leeds",
-
+    ""
 ]
+
 
 # Filter and tag
 matched_black = df[df['title'].isin(black_british_programs)].copy()
 matched_black['theme'] = 'Black British'
 
+
 matched_asian = df[df['title'].isin(asian_british_programs)].copy()
 matched_asian['theme'] = 'Asian British'
+
 
 # Combine and save
 matched = pd.concat([matched_black, matched_asian])
 matched.to_csv("data/diverse_data.csv", index=False)
 
+
 print(f"Done! {len(matched)} programmes saved to data/diverse_data.csv")
+
+

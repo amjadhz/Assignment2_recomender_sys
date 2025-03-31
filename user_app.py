@@ -214,12 +214,16 @@ elif st.session_state.selected_broadcast is None:
     top_trending_titles = sorted(trending_scores.items(), key=lambda x: x[1], reverse=True)
     top_trending_titles = [title for title, _ in top_trending_titles[:10]]
 
+    # Load diversity data (Black British & British Asian content)
+    diverse_data = pd.read_csv("data/diverse_data.csv")
+
     sections = {
         "For You": data.sample(10, replace=True),
         "Last Watched": data.sample(10, replace=True),
         "Might Like to Watch": data.sample(10, replace=True),
         "Trending or Popular": data[data["title"].isin(top_trending_titles)],
-        "Similar Viewers Also Watched": data[data["title"].isin(similar_titles)]
+        "Similar Viewers Also Watched": data[data["title"].isin(similar_titles)],
+        "Diversity Spotlight": diverse_data.sample(5, replace=True)
     }
 
     for section, content in sections.items():
@@ -269,3 +273,4 @@ else:
     if st.button("Back to Home"):
         st.session_state.selected_broadcast = None
         st.rerun()
+
