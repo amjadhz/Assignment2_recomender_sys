@@ -26,7 +26,13 @@ if "initialized" not in st.session_state:
 def load_data():
     return pd.read_csv("./data/bbc_recommender_dataset_clean.csv")
 
+# Load dataset
+@st.cache_data
+def load_diverse_data():
+    return pd.read_csv("./data/diverse_data.csv")
+
 data = load_data()
+diverse_data = load_diverse_data()
 
 
 # -------------------------------
@@ -322,8 +328,11 @@ def refresh_section(section_name):
             "Interested": filtered_recommendations.head(10),
             "Trending Now": data[data["title"].isin(top_trending_titles)].head(10),
             "Most Watched": data[data["title"].isin(top_watched_titles)].head(10),
-            "Random Selection": data.sample(10, replace=True)
+            "Random Selection": data.sample(10, replace=True),
+            "Diversity Spotlight": diverse_data.sample(10, replace=False)
         }
+        if st.session_state.sections == "Diversity Spotlight":
+            diverse_data.sample(10, replace=True)
 
     if 'recommendation_offsets' not in st.session_state:
         st.session_state.recommendation_offsets = {"For You": 0, "Interested": 0}
@@ -629,7 +638,8 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
             "Interested": get_interest_based_recommendations(filtered_recommendations).head(10),
             "Trending Now": data[data["title"].isin(top_trending_titles)].head(10),
             "Most Watched": data[data["title"].isin(top_watched_titles)].head(10),
-            "Random Selection": data.sample(10, replace=True)
+            "Random Selection": data.sample(10, replace=True),
+            "Diversity Spotlight": diverse_data.sample(10, replace=True)
         }
 
     if st.session_state.current_rec_type == "Recommendations based on what people like me watch":
