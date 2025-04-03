@@ -1,37 +1,242 @@
 {
   "user_preferences": {
-    "Comedy": 1,
-    "Films": -1,
-    "Documentaries": -1
+    "Documentaries": 1.5,
+    "CBBC": 0.0,
+    "From the Archives": 0.0,
+    "Music": -0.25,
+    "Films": 0.5,
+    "Entertainment": 1.5,
+    "Signed": 1.0,
+    "Arts": 0.25,
+    "Comedy": 0.75,
+    "Food": 0.5
   },
   "user_interactions": [
     [
-      "PRU",
-      "Comedy",
-      "neutral"
+      "Storyville - The Great Hip Hop Hoax",
+      "Documentaries",
+      "watched",
+      50
     ],
     [
-      "Britney",
-      "Comedy",
+      "Sold: Sex Slaves Next Door",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Our Black History Heroes",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Face to Face - Martin Luther King",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Americas with Simon Reeve",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Radio 2 Live - 2021: St",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Primary Colors",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Kirsty Wark Meets Artist Bridget Riley",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special",
+      "Entertainment",
       "liked"
     ],
     [
-      "Everything, Everything",
-      "Films",
-      "disliked"
+      "Blue Peter - Ice Hockey Challenge and Junior Bake Off Champ! - Signed",
+      "Signed",
+      "watched",
+      75
     ],
     [
-      "Our World - The Battle for the South China Sea",
+      "Race Across the World",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds: Life Cycles",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Harry Birrell Presents Films of Love and War",
       "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "New Creatives - ISHTAR",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Our World - Merkel's Germany",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Fred Dibnah's World of Steam, Steel and Stone",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Young Guns",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Measuring",
+      "Signed",
+      "liked"
+    ],
+    [
+      "We Are England - Mental Health: Fighting My Phobia \u2013 Coventry",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Nadiya: Anxiety and Me",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Movies With Ali Plumb - Becoming... The Winter Soldier",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Awkwafina Is Nora from Queens",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Reclaiming Amy - Signed",
+      "Signed",
       "disliked"
     ],
     [
-      "The Office",
-      "From the Archives",
-      "neutral"
+      "Backwashed",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Pavarotti",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "This Beautiful Fantastic",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "Alaska: Earth's Frozen Kingdom",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Beacons: Short Films from Wales",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "Horizon - 1972-1973: The Curtain Of Silence",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Sky at Night - Dark Skies",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Great Food Guys",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Andy and the Band - Songs: Here Boy!",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Cornwall's Red River",
+      "Documentaries",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Britney": 1
+    "Storyville - The Great Hip Hop Hoax": 1,
+    "Sold: Sex Slaves Next Door": 1,
+    "Our Black History Heroes": 1,
+    "Face to Face - Martin Luther King": 1,
+    "The Americas with Simon Reeve": 1,
+    "Radio 2 Live - 2021: St": 1,
+    "Primary Colors": 1,
+    "Kirsty Wark Meets Artist Bridget Riley": 1,
+    "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special": 1,
+    "Blue Peter - Ice Hockey Challenge and Junior Bake Off Champ! - Signed": 1,
+    "Race Across the World": 1,
+    "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds: Life Cycles": 1,
+    "Harry Birrell Presents Films of Love and War": 1,
+    "New Creatives - ISHTAR": 1,
+    "Fred Dibnah's World of Steam, Steel and Stone": 1,
+    "Young Guns": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Measuring": 1,
+    "We Are England - Mental Health: Fighting My Phobia \u2013 Coventry": 1,
+    "Nadiya: Anxiety and Me": 1,
+    "Movies With Ali Plumb - Becoming... The Winter Soldier": 1,
+    "Awkwafina Is Nora from Queens": 1,
+    "Backwashed": 1,
+    "Pavarotti": 1,
+    "This Beautiful Fantastic": 1,
+    "Alaska: Earth's Frozen Kingdom": 1,
+    "Beacons: Short Films from Wales": 1,
+    "Horizon - 1972-1973: The Curtain Of Silence": 1,
+    "The Sky at Night - Dark Skies": 1,
+    "The Great Food Guys": 1,
+    "Andy and the Band - Songs: Here Boy!": 1,
+    "Cornwall's Red River": 1
   }
 }

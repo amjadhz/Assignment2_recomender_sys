@@ -1,48 +1,198 @@
 {
   "user_preferences": {
-    "Signed": -1,
-    "Entertainment": 1,
-    "Documentaries": -1,
-    "Comedy": -1
+    "Signed": 0.5,
+    "From the Archives": -1.0,
+    "Documentaries": 1.5,
+    "Arts": 1.0,
+    "Food": 0.5,
+    "Science & Nature": -0.25,
+    "Music": 1.0,
+    "Entertainment": 1.5,
+    "CBBC": 0.25,
+    "Comedy": 0.5
   },
   "user_interactions": [
     [
-      "Stacey Dooley: Costa del Narcos - Signed",
+      "Disclosure - Should I Tell You I'm Trans?",
       "Signed",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Innuendo Bingo - Maya Jama",
+      "Film Profile - Michael Balcon",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Roy Lichtenstein: Pop Idol",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "HARDtalk - Kiril Petkov, Prime Minister of Bulgaria",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "New Creatives - Anoraks",
+      "Arts",
+      "liked"
+    ],
+    [
+      "Cities of Europe - London: We Live by the River",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Louis Theroux - Law and Disorder in Philadelphia",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Train Now D",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Ken Hom's Chinese Cookery - Vegetables",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "Winterwatch - Winterwatch 2022 - Red Button:",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Can Sex Offenders Change?",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "St Andrew's Day at the BBC",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Dusty",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Arthur",
+      "CBBC",
+      "watched",
+      75
+    ],
+    [
+      "Chronicle - The Ape Man That Never Was",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Our Black History Heroes",
+      "CBBC",
+      "watched",
+      10
+    ],
+    [
+      "Culture in Quarantine - How To Thrive In 2050!",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Arlo Parks - Cola",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Cornwall with Simon Reeve",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Bargain Hunt",
       "Entertainment",
       "liked"
     ],
     [
-      "Monty Don's Adriatic Gardens",
+      "The Mystery of Anthrax Island",
       "Documentaries",
-      "neutral"
+      "watched",
+      50
     ],
     [
-      "My Mate's a Muslim",
-      "Documentaries",
-      "disliked"
+      "New Creatives - We Got It Easy",
+      "Arts",
+      "watched",
+      25
     ],
     [
-      "Singing the Messiah",
+      "Who Do You Think You Are?",
       "Documentaries",
-      "neutral"
+      "watched",
+      25
     ],
     [
-      "Pls Like",
+      "BBC Philharmonic - The Musical Story of the Gingerbread Man",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Raul Jimenez: Code Red",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Still Open All Hours - Pilot",
       "Comedy",
-      "disliked"
+      "watched",
+      75
     ],
     [
-      "Britain's Teenage Drug Runners",
-      "Documentaries",
-      "neutral"
+      "The Late Show - Face to Face: Jeanette Winterson",
+      "From the Archives",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Innuendo Bingo - Maya Jama": 1
+    "Disclosure - Should I Tell You I'm Trans?": 1,
+    "Film Profile - Michael Balcon": 1,
+    "Roy Lichtenstein: Pop Idol": 1,
+    "New Creatives - Anoraks": 1,
+    "Cities of Europe - London: We Live by the River": 1,
+    "Louis Theroux - Law and Disorder in Philadelphia": 1,
+    "Ken Hom's Chinese Cookery - Vegetables": 1,
+    "Winterwatch - Winterwatch 2022 - Red Button:": 1,
+    "Can Sex Offenders Change?": 1,
+    "St Andrew's Day at the BBC": 1,
+    "Dusty": 1,
+    "Arthur": 1,
+    "Chronicle - The Ape Man That Never Was": 1,
+    "Our Black History Heroes": 1,
+    "Culture in Quarantine - How To Thrive In 2050!": 1,
+    "BBC Music Introducing - The BME Sessions: Arlo Parks - Cola": 1,
+    "Cornwall with Simon Reeve": 1,
+    "Bargain Hunt": 1,
+    "The Mystery of Anthrax Island": 1,
+    "New Creatives - We Got It Easy": 1,
+    "Who Do You Think You Are?": 1,
+    "BBC Philharmonic - The Musical Story of the Gingerbread Man": 1,
+    "Raul Jimenez: Code Red": 1,
+    "Still Open All Hours - Pilot": 1
   }
 }

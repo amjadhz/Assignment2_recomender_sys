@@ -1,36 +1,211 @@
 {
   "user_preferences": {
-    "Arts": -1,
-    "From the Archives": -2,
-    "Comedy": -1,
-    "Science & Nature": -1
+    "Entertainment": -0.5,
+    "Sports": 1.25,
+    "Documentaries": 0.75,
+    "Signed": 1.5,
+    "Comedy": 1.0,
+    "Films": -0.5,
+    "From the Archives": 1.0,
+    "Arts": -0.5
   },
   "user_interactions": [
     [
-      "Loop - Moot",
-      "Arts",
-      "disliked"
+      "Crouchy's Year-Late Euros: Live",
+      "Entertainment",
+      "skipped"
     ],
     [
-      "Him & Her",
-      "From the Archives",
-      "disliked"
+      "Slammed",
+      "Sports",
+      "watched",
+      25
     ],
     [
-      "Bravo Two Charlies",
+      "The Beauty of Diagrams",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - English: Punctuation - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Live from Aberystwyth Pier",
       "Comedy",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Philip Glass Concert: Live at the Barbican",
+      "Bellator MMA - 2022: Bellator 275: Prelims",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Rancho Notorious",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Storyville - The Queen of Africa: The Miriam Makeba Story",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "HARDtalk - Tobias Ellwood, Chair, UK Defence Select Committee",
       "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Multiplying and Dividing",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Inside Obama's White House",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "America's Child Brides",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "New Creatives - STONEWALL 2069",
+      "Arts",
+      "skipped"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Whistling Song",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Sickness and Lies",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Bruce Springsteen: A Secret History",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Am B.F.G./The BFG",
+      "Films",
       "disliked"
     ],
     [
-      "Click - Ice Ice Baby",
-      "Science & Nature",
-      "disliked"
+      "imagine... - 2021: Kazuo Ishiguro: Remembering and Forgetting",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "R Kelly: The Sex Scandal Continues",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Horizon - 1981-1982: The Pleasure of Finding Things Out",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "NIFL Premiership Highlights - 2020/21: 17/05/2021",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Louis Theroux - The Night in Question",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Louis Theroux - The Night in Question - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "We Are England - Sporting Heroes: Bouncing Back",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Night Before Christmas - Songs: Make a Wish Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The Living Dead",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Man Up",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Katy Keene",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Inspector Montalbano - The Potter's Field",
+      "From the Archives",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Slammed": 1,
+    "The Beauty of Diagrams": 1,
+    "Bitesize Daily: 5-7 Year Olds - English: Punctuation - Signed": 1,
+    "Live from Aberystwyth Pier": 1,
+    "Bellator MMA - 2022: Bellator 275: Prelims": 1,
+    "Rancho Notorious": 1,
+    "Storyville - The Queen of Africa: The Miriam Makeba Story": 1,
+    "HARDtalk - Tobias Ellwood, Chair, UK Defence Select Committee": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Multiplying and Dividing": 1,
+    "Inside Obama's White House": 1,
+    "America's Child Brides": 1,
+    "Hey Duggee - Top of the Pups: The Whistling Song": 1,
+    "Sickness and Lies": 1,
+    "Bruce Springsteen: A Secret History": 1,
+    "imagine... - 2021: Kazuo Ishiguro: Remembering and Forgetting": 1,
+    "R Kelly: The Sex Scandal Continues": 1,
+    "Horizon - 1981-1982: The Pleasure of Finding Things Out": 1,
+    "NIFL Premiership Highlights - 2020/21: 17/05/2021": 1,
+    "Louis Theroux - The Night in Question": 1,
+    "Louis Theroux - The Night in Question - Signed": 1,
+    "We Are England - Sporting Heroes: Bouncing Back": 1,
+    "The Night Before Christmas - Songs: Make a Wish Song": 1,
+    "The Living Dead": 1,
+    "Man Up": 1,
+    "Katy Keene": 1,
+    "Inspector Montalbano - The Potter's Field": 1
+  }
 }

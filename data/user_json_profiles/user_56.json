@@ -1,24 +1,241 @@
 {
   "user_preferences": {
-    "Documentaries": -1,
-    "Food": -1
+    "Documentaries": 1.5,
+    "CBBC": 0.5,
+    "From the Archives": 0.5,
+    "Sports": 1.5,
+    "Signed": 1.5,
+    "Entertainment": 0.5,
+    "Comedy": 0.5,
+    "Films": 0.5,
+    "Music": -0.25
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Alphabet and Punctuation",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "Make-up: A Glamorous History",
+      "With a Fine Feeling for Steam",
       "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Growing Up Down's",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "My Mum Tracy Beaker",
+      "CBBC",
+      "watched",
+      75
+    ],
+    [
+      "Choice - Holiday Camps",
+      "From the Archives",
       "disliked"
     ],
     [
-      "Saturday Kitchen - 31/07/2021",
-      "Food",
+      "The Football News Show - 23/03/2022",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Question Time - 2021: 22/04/2021 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 28/12/2021",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Death On The I-95",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Numberblocks - Specials: About Time",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Princess Diana, Martin Bashir and the BBC - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Ernesto Ara\u00fajo - Former Brazilian Foreign Minister",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Squad Dates - Pilot",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Inside Porton Down: Britain's Secret Weapons Research Facility - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "The Fight For Women's Bodies",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Andy and the Band - Songs: The Appliance of Science",
+      "Signed",
       "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Adding a Suffix",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Comic Relief - 2022: Tom Daley's Hell of a Homecoming",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Laugh Lessons",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Inside Story - \u00a3830,000,000 - Nick Leeson and the Fall of the House of Barings",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Tr\u00e9igthe",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Storyville - Final Account",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Jennie's Fitness in 5",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Fleabag",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Bellator MMA - 2021: Bellator 270: Main event & Prelims",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Any One Of Us",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "TUNE - Shorts: Sam Gellaitry Live",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Manifold Valley Agricultural Show - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Pavarotti",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "The Golden Cobra",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths:",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "EastEnders 2010 - 13/11/2009",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "The Sky at Night - Mars and Meteorites",
+      "Documentaries",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "With a Fine Feeling for Steam": 1,
+    "Growing Up Down's": 1,
+    "My Mum Tracy Beaker": 1,
+    "The Football News Show - 23/03/2022": 1,
+    "Question Time - 2021: 22/04/2021 - Signed": 1,
+    "NIFL Premiership Highlights - 2021/2022: 28/12/2021": 1,
+    "Death On The I-95": 1,
+    "Numberblocks - Specials: About Time": 1,
+    "Panorama - Princess Diana, Martin Bashir and the BBC - Signed": 1,
+    "HARDtalk - Ernesto Ara\u00fajo - Former Brazilian Foreign Minister": 1,
+    "Squad Dates - Pilot": 1,
+    "Inside Porton Down: Britain's Secret Weapons Research Facility - Signed": 1,
+    "The Fight For Women's Bodies": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Adding a Suffix": 1,
+    "Comic Relief - 2022: Tom Daley's Hell of a Homecoming": 1,
+    "Laugh Lessons": 1,
+    "Inside Story - \u00a3830,000,000 - Nick Leeson and the Fall of the House of Barings": 1,
+    "Tr\u00e9igthe": 1,
+    "Storyville - Final Account": 1,
+    "Jennie's Fitness in 5": 1,
+    "Fleabag": 1,
+    "Bellator MMA - 2021: Bellator 270: Main event & Prelims": 1,
+    "Any One Of Us": 1,
+    "TUNE - Shorts: Sam Gellaitry Live": 1,
+    "Countryfile - Manifold Valley Agricultural Show - Signed": 1,
+    "Pavarotti": 1,
+    "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed": 1,
+    "The Golden Cobra": 1,
+    "Bitesize Daily: 7-9 Year Olds - Maths:": 1,
+    "EastEnders 2010 - 13/11/2009": 1,
+    "The Sky at Night - Mars and Meteorites": 1
+  }
 }

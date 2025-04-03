@@ -1,47 +1,202 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Food": -1,
-    "History": -1,
-    "Sports": -1,
-    "Entertainment": -1
+    "From the Archives": 0.5,
+    "Films": 1.5,
+    "Documentaries": 1.5,
+    "Signed": 1.5,
+    "Entertainment": 1.0,
+    "Food": 0.0,
+    "Science & Nature": 0.25,
+    "Sports": -1.0,
+    "Comedy": -0.25
   },
   "user_interactions": [
     [
-      "Inspector Montalbano - The Goldfinch and the Cat",
+      "Summoned by Bells",
       "From the Archives",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Primates",
+      "Horrible Histories: The Movie",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "The Sky at Night - Telescopes through Time",
       "Documentaries",
-      "neutral"
+      "liked"
     ],
     [
-      "Saturday Kitchen - 26/02/2022",
+      "Every Day",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Different League: The Derry City Story - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "40 Minutes - The Outcasts",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Louis Theroux - Law and Disorder in Lagos",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Great British Sewing Bee - Class of 2014",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "The Warwick Uni Rape Chat Scandal",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Death in Bollywood",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Louis Theroux - Twilight of the Porn Stars",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Ken Hom's Chinese Cookery - Rice",
       "Food",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Prime Properties - Clement Attlee",
-      "History",
-      "disliked"
+      "Run",
+      "Films",
+      "liked"
     ],
     [
-      "We Are England - The Night Shift: One Night at the Fish Market - Grimsby",
+      "Changing Landscapes",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Inside Story - From Blighty to Belize",
       "Documentaries",
-      "neutral"
+      "liked"
     ],
     [
-      "NIFL Premiership Highlights - 2020/21: Cliftonville v Linfield",
+      "David Attenborough's Zoo Quest in Colour",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Eurovision Song Contest - 2021: Semi-Final 2",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Countryfile at Christmas - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The Infinite Monkey Cage - Lucy Beaumont's Close Encounters",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - English: Reading Aloud/Performing",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "All Aboard! The Great Reindeer Migration",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Jesy Nelson: 'Odd One Out' - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Paul Merson: Football, Gambling and Me - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bellator MMA - 2022: Gegard Mousasi vs. Austin Vanderford",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Toast of Tinseltown",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "Movies With Ali Plumb - Movies That Made Me 3",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Under-20s Six Nations Rugby - 2022: Italy v Scotland",
       "Sports",
       "disliked"
     ],
     [
-      "Great British Photography Challenge",
-      "Entertainment",
-      "disliked"
+      "Second Chance",
+      "Films",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Summoned by Bells": 1,
+    "Horrible Histories: The Movie": 1,
+    "The Sky at Night - Telescopes through Time": 1,
+    "Every Day": 1,
+    "Different League: The Derry City Story - Signed": 1,
+    "40 Minutes - The Outcasts": 1,
+    "Louis Theroux - Law and Disorder in Lagos": 1,
+    "The Great British Sewing Bee - Class of 2014": 1,
+    "The Warwick Uni Rape Chat Scandal": 1,
+    "Death in Bollywood": 1,
+    "Louis Theroux - Twilight of the Porn Stars": 1,
+    "Ken Hom's Chinese Cookery - Rice": 1,
+    "Run": 1,
+    "Changing Landscapes": 1,
+    "Inside Story - From Blighty to Belize": 1,
+    "David Attenborough's Zoo Quest in Colour": 1,
+    "Eurovision Song Contest - 2021: Semi-Final 2": 1,
+    "Countryfile - Countryfile at Christmas - Signed": 1,
+    "The Infinite Monkey Cage - Lucy Beaumont's Close Encounters": 1,
+    "Bitesize Daily: 9-11 Year Olds - English: Reading Aloud/Performing": 1,
+    "All Aboard! The Great Reindeer Migration": 1,
+    "Jesy Nelson: 'Odd One Out' - Signed": 1,
+    "Paul Merson: Football, Gambling and Me - Signed": 1,
+    "Bellator MMA - 2022: Gegard Mousasi vs. Austin Vanderford": 1,
+    "Toast of Tinseltown": 1,
+    "Movies With Ali Plumb - Movies That Made Me 3": 1,
+    "Second Chance": 1
+  }
 }

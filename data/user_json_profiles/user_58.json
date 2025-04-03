@@ -1,48 +1,203 @@
 {
   "user_preferences": {
-    "Music": -1,
-    "From the Archives": -1,
-    "Sports": -1,
-    "Signed": 0
+    "Documentaries": 1.5,
+    "Music": 0.0,
+    "Signed": 1.5,
+    "From the Archives": 0.0,
+    "Films": -1.0,
+    "Arts": -1.5,
+    "CBBC": 0.0
   },
   "user_interactions": [
     [
-      "Cilla at the BBC",
+      "The Devil's Music",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The A to Z of TV Gardening - Shorts: Letter I",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "CMA Summer Jam",
       "Music",
       "disliked"
     ],
     [
-      "Inspector Montalbano - Montalbano's Croquettes",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "NIFL Premiership Highlights - 2021/2022: 28/02/2022",
-      "Sports",
-      "disliked"
-    ],
-    [
-      "Culture in Quarantine - Get Creative at Home Masterclasses: Antony Gormley",
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Organising Writing",
       "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Glastonbury - Fela Kuti at Glastonbury 1984",
+      "Music",
       "disliked"
     ],
     [
-      "The Young Offenders",
-      "Comedy",
-      "neutral"
+      "Panorama - NHS: Wait or Pay?",
+      "Documentaries",
+      "watched",
+      95
     ],
     [
-      "Weatherman Walking",
+      "Andy and the Band - Songs: Let\u2019s Jump",
       "Signed",
       "liked"
     ],
     [
-      "Racism in the Ranks",
+      "Buried Treasure - The Peat Bog Murder Mystery",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Andy and the Band - Songs: Hey There Chicken!",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - NHS: Wait or Pay?",
       "Documentaries",
-      "neutral"
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Teacher Talks: English - Pronouns and Pr",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "R.E.M. at the BBC",
+      "Music",
+      "liked"
+    ],
+    [
+      "Festival Drugs: Meet The Dealers",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Horizon - 1967-1968: Investigating Murder",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Vic Galloway - Man Of Moon",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Let the Right One In",
+      "Films",
+      "disliked"
+    ],
+    [
+      "Alaska: Earth's Frozen Kingdom",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Trooping the Colour - Silver Jubilee",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Attenborough: 60 Years in the Wild",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Spiral",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 05/04/2021 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "New Creatives - Rerouting",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Wayfaring Stranger with Phil Cunningham",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Sondheim \u2013 A Tribute from Andrew Lloyd Webber",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "When Nirvana Came to Britain",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Cher at the BBC",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Millie Inbetween - Specials:",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Our World - Barbados: Road to a R",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Big Book Weekend - Greg Davies Tries Bibliotherapy",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "Britain's Forgotten Men",
+      "Documentaries",
+      "liked"
     ]
   ],
   "watch_counts": {
-    "Weatherman Walking": 1
+    "The Devil's Music": 1,
+    "The A to Z of TV Gardening - Shorts: Letter I": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Organising Writing": 1,
+    "Panorama - NHS: Wait or Pay?": 2,
+    "Andy and the Band - Songs: Let\u2019s Jump": 1,
+    "Buried Treasure - The Peat Bog Murder Mystery": 1,
+    "Andy and the Band - Songs: Hey There Chicken!": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Teacher Talks: English - Pronouns and Pr": 1,
+    "R.E.M. at the BBC": 1,
+    "Festival Drugs: Meet The Dealers": 1,
+    "Horizon - 1967-1968: Investigating Murder": 1,
+    "Vic Galloway - Man Of Moon": 1,
+    "Alaska: Earth's Frozen Kingdom": 1,
+    "Trooping the Colour - Silver Jubilee": 1,
+    "Attenborough: 60 Years in the Wild": 1,
+    "Spiral": 1,
+    "BBC News Special - Coronavirus Update: 05/04/2021 - Signed": 1,
+    "New Creatives - Rerouting": 1,
+    "Wayfaring Stranger with Phil Cunningham": 1,
+    "When Nirvana Came to Britain": 1,
+    "Cher at the BBC": 1,
+    "Millie Inbetween - Specials:": 1,
+    "Our World - Barbados: Road to a R": 1,
+    "Britain's Forgotten Men": 1
   }
 }

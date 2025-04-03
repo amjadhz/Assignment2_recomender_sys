@@ -1,45 +1,189 @@
 {
   "user_preferences": {
-    "Signed": -2,
-    "Documentaries": -1,
-    "From the Archives": -2
+    "Documentaries": 1.5,
+    "Arts": -0.25,
+    "Signed": 1.5,
+    "Science & Nature": -0.25,
+    "Films": 1.5,
+    "Entertainment": 0.5,
+    "From the Archives": 1.5,
+    "Music": 0.0,
+    "Sports": 0.5,
+    "Comedy": -0.5,
+    "History": 1.0,
+    "CBBC": -1.0
   },
   "user_interactions": [
     [
-      "Panorama - Delivering Christmas: What\u2019s in Store? - Signed",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Question Time - 2022: 03/03/2022 - Signed",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Loop - Shorts: The Power I Feel When I Pole Dance",
-      "Arts",
-      "neutral"
-    ],
-    [
-      "We Are England - Sporting Heroes: Make Me a Jockey",
+      "Da Vinci: The Lost Treasure",
       "Documentaries",
-      "disliked"
+      "watched",
+      75
     ],
     [
-      "HARDtalk - Laurence Tribe - Professor Emeritus, Harvard Law School",
+      "New Creatives - Black Fish",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Danger Mouse",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Dhan Uisge",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Maths: Negative Numbers - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "The Miracle of the Bells",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Susan Calman's Happy Space",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Oleksii Reznikov - Ukraine's Defence Minister",
       "From the Archives",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "BBC Proms - 2021: Nubya Garcia",
+      "The Live Lounge Show - BTS @ Radio 1",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Andy Warhol's America",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Legends of Welsh Sport - Steve Robinson",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "HEIST",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "BBC Wales Investigates - Mayhill Riot",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Young Offenders film",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Chicken Man",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Battlefield Britain - Hastings",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Loop - Shorts:",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Different League: The Derry City Story - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Prime Properties - The Duke of Wellington",
+      "History",
+      "liked"
+    ],
+    [
+      "Pulling",
       "From the Archives",
-      "disliked"
+      "liked"
     ],
     [
-      "Saturday Mash-Up! Live",
+      "Six Nations Rugby - 2022: Third Weekend Special",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Counting in 50s",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Class Dismissed",
       "CBBC",
-      "neutral"
+      "disliked"
+    ],
+    [
+      "My Friend from a Care Home",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Andy and the Band - Songs: Showdown",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "The Fall of the Roman Empire",
+      "Films",
+      "liked"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Da Vinci: The Lost Treasure": 1,
+    "New Creatives - Black Fish": 1,
+    "Danger Mouse": 1,
+    "Dhan Uisge": 1,
+    "Bitesize Daily: 9-11 Year Olds - Maths: Negative Numbers - Signed": 1,
+    "The Miracle of the Bells": 1,
+    "Susan Calman's Happy Space": 1,
+    "HARDtalk - Oleksii Reznikov - Ukraine's Defence Minister": 1,
+    "The Live Lounge Show - BTS @ Radio 1": 1,
+    "Andy Warhol's America": 1,
+    "Legends of Welsh Sport - Steve Robinson": 1,
+    "BBC Wales Investigates - Mayhill Riot": 1,
+    "The Young Offenders film": 1,
+    "Chicken Man": 1,
+    "Loop - Shorts:": 1,
+    "Different League: The Derry City Story - Signed": 1,
+    "Prime Properties - The Duke of Wellington": 1,
+    "Pulling": 1,
+    "Six Nations Rugby - 2022: Third Weekend Special": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Counting in 50s": 1,
+    "My Friend from a Care Home": 1,
+    "Andy and the Band - Songs: Showdown": 1,
+    "The Fall of the Roman Empire": 1
+  }
 }

@@ -1,44 +1,234 @@
 {
   "user_preferences": {
-    "From the Archives": -2,
-    "Documentaries": -1
+    "Entertainment": 1.0,
+    "Arts": 0.5,
+    "Documentaries": 1.0,
+    "Music": 1.5,
+    "Signed": 0.0,
+    "Science & Nature": -0.25,
+    "From the Archives": -0.25,
+    "Food": 0.5,
+    "Films": -0.5,
+    "Sports": 0.0
   },
   "user_interactions": [
     [
-      "Julian Bream Masterclass",
+      "Unpopular Opinion - Ed Sheeran",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Shelf Isolation",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Gods of Snooker",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "TUNE - Shorts: The Pretty Preachers Club: From Garage To First Gig",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Louis Theroux - Shooting Joe Exotic - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Festival Drugs: Meet The Dealers",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "P\u00edobair\u00ed Ard Mhacha - The Armagh Pipers",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Kids Ask Difficult Questions - Robert Downey Jr.",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Art agus Toma\u00ed san Eoraip",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "BBC Scottish Symphony Orchestra - Sibelius Symphony No.7",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Lights Up - Orpheus in the Record Shop",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Toothbrush Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Countryfile - The Cairngorms",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Buried Treasure - Stonehenge",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - Delivering Christmas: What\u2019s in Store?",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - We Got It Easy",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Sweet Makers",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "Pride and Prejudice",
+      "Films",
+      "skipped"
+    ],
+    [
+      "Man Alive - What's the Truth About Hells Angels and Skinheads?",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Alleluia!",
+      "Music",
+      "liked"
+    ],
+    [
+      "New Creatives - White Dwarf",
+      "Arts",
+      "skipped"
+    ],
+    [
+      "Messy Goes to OKIDO - Songs: Gravity",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Our World - Merkel's Germany",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "EastEnders 2010 - 19/11/2009",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "The Vicar of Dibley - Christmas Specials 2006:",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "One Foot in the Grave - Endgame",
       "From the Archives",
       "disliked"
     ],
     [
-      "BBC Proms - 2021: V\u00edkingur \u00d3lafsson and the Philharmonia",
+      "Centenary Shield - 2022: Scotland U18 Boys v Northern Ireland U18 Boys",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "One Foot in the Grave - The Wisdom of the Witch",
       "From the Archives",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "Storyville - The Queen of Africa: The Miriam Makeba Story",
+      "Natural World - Short Versions: Planet Earth: A Lion's Tale",
       "Documentaries",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "The Royle Family - The New Sofa",
-      "From the Archives",
-      "neutral"
-    ],
-    [
-      "Inspector Montalbano - Equal Time",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "Bring Molly Home",
+      "Addicted: America\u2019s Opioid Crisis",
       "Documentaries",
-      "disliked"
+      "watched",
+      10
     ],
     [
-      "Paddy and Christine McGuinness: Our Family and Autism",
+      "No title found",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "L\u00e1 i 1916",
       "Documentaries",
-      "neutral"
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Unpopular Opinion - Ed Sheeran": 1,
+    "Shelf Isolation": 1,
+    "Gods of Snooker": 1,
+    "TUNE - Shorts: The Pretty Preachers Club: From Garage To First Gig": 1,
+    "Louis Theroux - Shooting Joe Exotic - Signed": 1,
+    "Festival Drugs: Meet The Dealers": 1,
+    "P\u00edobair\u00ed Ard Mhacha - The Armagh Pipers": 1,
+    "Kids Ask Difficult Questions - Robert Downey Jr.": 1,
+    "Art agus Toma\u00ed san Eoraip": 1,
+    "BBC Scottish Symphony Orchestra - Sibelius Symphony No.7": 1,
+    "Hey Duggee - Top of the Pups: The Toothbrush Song": 1,
+    "Countryfile - The Cairngorms": 1,
+    "Buried Treasure - Stonehenge": 1,
+    "Panorama - Delivering Christmas: What\u2019s in Store?": 1,
+    "New Creatives - We Got It Easy": 1,
+    "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine": 1,
+    "The Sweet Makers": 1,
+    "Alleluia!": 1,
+    "Our World - Merkel's Germany": 1,
+    "EastEnders 2010 - 19/11/2009": 1,
+    "The Vicar of Dibley - Christmas Specials 2006:": 1,
+    "Centenary Shield - 2022: Scotland U18 Boys v Northern Ireland U18 Boys": 1,
+    "One Foot in the Grave - The Wisdom of the Witch": 1,
+    "Natural World - Short Versions: Planet Earth: A Lion's Tale": 1,
+    "Addicted: America\u2019s Opioid Crisis": 1,
+    "No title found": 1,
+    "L\u00e1 i 1916": 1
+  }
 }

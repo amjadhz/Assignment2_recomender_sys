@@ -1,25 +1,204 @@
 {
   "user_preferences": {
-    "Documentaries": 1
+    "Science & Nature": -0.5,
+    "Comedy": 0.5,
+    "From the Archives": 1.5,
+    "Music": -0.25,
+    "Documentaries": -1.5,
+    "Entertainment": 0.25,
+    "Films": -0.25,
+    "Signed": 1.5,
+    "Food": -0.5
   },
   "user_interactions": [
     [
-      "Neutrino: Hunting the Ghost",
+      "The Eco Prime Minister",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Flatmates",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "My Family - ...And I'll Cry If I Want To",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Adam Curtis: Shorts - Oh Dearism II",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Glastonbury - I Am a Mutoid: A Glastonbury Hero",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Mysteries of the Bayeux Tapestry",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Life Story",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Innuendo Bingo - Daniel Radcliffe",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Fort Apache",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Countryfile - Cumbria - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Ethiopia: Caught in the Crossfire",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Malvern Hills",
+      "Science & Nature",
+      "skipped"
+    ],
+    [
+      "Avicii: True Stories",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Our World - Anarchy in the Amazon?",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Saturday Kitchen - 06/11/2021",
+      "Food",
+      "skipped"
+    ],
+    [
+      "The One Show - 15/03/2022",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Quentin Blake \u2013 The Drawing of My Life - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Project Children: Defusing the Troubles",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Great Railway Journeys",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Parkinson at 50",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Him & Her - The Wedding:",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Horizon - 2012-2013:",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Womanhood - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Arena - The Burger and the King",
       "Documentaries",
       "liked"
     ],
     [
-      "Andy and the Band - Songs: Good Hair Day",
-      "Signed",
-      "neutral"
+      "esports - League of Legends - UK League Championship 2021 Spring",
+      "Entertainment",
+      "watched",
+      25
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Science 6-7 Year-Olds:",
+      "Movies With Ali Plumb - Becoming...: The Witcher",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Call the Midwife - Christmas Special 2017",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Homophones",
       "Signed",
-      "neutral"
+      "watched",
+      75
+    ],
+    [
+      "2 Point 4 Children - Two Years Before the Mast",
+      "From the Archives",
+      "liked"
     ]
   ],
   "watch_counts": {
-    "Neutrino: Hunting the Ghost": 1
+    "The Eco Prime Minister": 1,
+    "Flatmates": 1,
+    "My Family - ...And I'll Cry If I Want To": 1,
+    "Adam Curtis: Shorts - Oh Dearism II": 1,
+    "Glastonbury - I Am a Mutoid: A Glastonbury Hero": 1,
+    "Fort Apache": 1,
+    "Countryfile - Cumbria - Signed": 1,
+    "Ethiopia: Caught in the Crossfire": 1,
+    "Avicii: True Stories": 1,
+    "Our World - Anarchy in the Amazon?": 1,
+    "The One Show - 15/03/2022": 1,
+    "Quentin Blake \u2013 The Drawing of My Life - Signed": 1,
+    "Project Children: Defusing the Troubles": 1,
+    "Parkinson at 50": 1,
+    "Him & Her - The Wedding:": 1,
+    "Horizon - 2012-2013:": 1,
+    "Womanhood - Signed": 1,
+    "Arena - The Burger and the King": 1,
+    "esports - League of Legends - UK League Championship 2021 Spring": 1,
+    "Movies With Ali Plumb - Becoming...: The Witcher": 1,
+    "Call the Midwife - Christmas Special 2017": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Homophones": 1,
+    "2 Point 4 Children - Two Years Before the Mast": 1
   }
 }

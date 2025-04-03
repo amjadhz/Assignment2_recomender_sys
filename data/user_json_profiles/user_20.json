@@ -1,23 +1,217 @@
 {
   "user_preferences": {
-    "Documentaries": -1
+    "Signed": 0.0,
+    "CBBC": 0.0,
+    "Music": 1.0,
+    "Documentaries": 1.5,
+    "Arts": 0.0,
+    "Films": -0.5,
+    "Comedy": 0.5,
+    "From the Archives": -1.5,
+    "Sports": 0.5
   },
   "user_interactions": [
     [
-      "Radio 1's Live Lounge - Stay Home Live Lounge",
-      "Music",
-      "neutral"
+      "CBeebies Presents - Songs: Hansel and Gretel: Gathered Round The Christmas Tree",
+      "Signed",
+      "watched",
+      50
     ],
     [
-      "Radio 1 Stories - Broken Heart Beats",
+      "Ricky Wilson's Art Jam",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "BBC Scottish Symphony Orchestra - Tchaikovsky: The Path\u00e9tique Symphony",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "High: Confessions of an Ibiza Drug Mule",
       "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Alexander Pope: Rediscovering a Genius",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Rewind - 1980s:",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Car Crash: Who's Lying?",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Sus",
+      "Films",
+      "skipped"
+    ],
+    [
+      "In Her Majesty's Service",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Suburbicon",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Release - Pop Goes To The Hayward",
+      "From the Archives",
       "disliked"
     ],
     [
-      "Lights Up - Half Breed",
+      "Tee and Mo - Fun at Home",
       "Signed",
-      "neutral"
+      "watched",
+      50
+    ],
+    [
+      "Tuesday Documentary - Death or Glory",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Our NHS: A Hidden History - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Question Time - 2022: 20/01/2022 - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "TUNE - Shorts: Brooke Combe Live",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "The Seven Ages of Man",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Boris Johnson on the Brink",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Home Ground",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "P\u00edobair\u00ed Ard Mhacha - The Armagh Pipers",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Cuba: Castro vs the World",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Still Open All Hours",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "EastEnders 2010 - 26/11/2009",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Doctor Who - Planet of the Dead",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Jay Blades: Learning to Read at 51",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 24/01/2022",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Andy and the Band - Songs: Hey There Chicken!",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "My Family - Glad Tidings We Bring",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Greta Thunberg: A Year to Change the World",
+      "Documentaries",
+      "watched",
+      10
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "CBeebies Presents - Songs: Hansel and Gretel: Gathered Round The Christmas Tree": 1,
+    "Ricky Wilson's Art Jam": 1,
+    "BBC Scottish Symphony Orchestra - Tchaikovsky: The Path\u00e9tique Symphony": 1,
+    "BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet": 1,
+    "High: Confessions of an Ibiza Drug Mule": 1,
+    "Alexander Pope: Rediscovering a Genius": 1,
+    "Rewind - 1980s:": 1,
+    "Car Crash: Who's Lying?": 1,
+    "In Her Majesty's Service": 1,
+    "Suburbicon": 1,
+    "Tee and Mo - Fun at Home": 1,
+    "Tuesday Documentary - Death or Glory": 1,
+    "TUNE - Shorts: Brooke Combe Live": 1,
+    "The Seven Ages of Man": 1,
+    "Panorama - Boris Johnson on the Brink": 1,
+    "Home Ground": 1,
+    "P\u00edobair\u00ed Ard Mhacha - The Armagh Pipers": 1,
+    "Cuba: Castro vs the World": 1,
+    "Still Open All Hours": 1,
+    "Doctor Who - Planet of the Dead": 1,
+    "Jay Blades: Learning to Read at 51": 1,
+    "NIFL Premiership Highlights - 2021/2022: 24/01/2022": 1,
+    "Andy and the Band - Songs: Hey There Chicken!": 1,
+    "My Family - Glad Tidings We Bring": 1,
+    "Greta Thunberg: A Year to Change the World": 1
+  }
 }

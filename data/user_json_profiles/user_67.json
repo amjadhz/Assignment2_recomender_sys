@@ -1,31 +1,221 @@
 {
   "user_preferences": {
-    "Entertainment": -1,
-    "Documentaries": 1
+    "From the Archives": 1.0,
+    "Documentaries": 0.75,
+    "Signed": -0.5,
+    "Entertainment": 0.5,
+    "Music": 0.0,
+    "Food": -0.75,
+    "Sports": 0.0,
+    "Science & Nature": -0.25
   },
   "user_interactions": [
     [
-      "Unpopular Opinion - Justin Timberlake and Anna Kendrick",
-      "Entertainment",
-      "neutral"
+      "Making The Most Of The Micro",
+      "From the Archives",
+      "skipped"
     ],
     [
-      "Movies With Ali Plumb - Movies That Made Me 3",
+      "Stacey Dooley - In the USA",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Louis Theroux's Weird Weekends",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Our World - The Battle for the South China Sea",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Solitary Billionaire: J. Paul Getty",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Arena - Painted with My Hair",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Disclosure - Should I Tell You I'm Trans?",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Louis Theroux - A Place for Paedophiles",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Playground Insults - Seth Rogen and Chlo\u00eb Grace Moretz",
       "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Radio 1's Live Lounge - Anderson .Paak",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Rick Stein's Spain",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Saturday Kitchen - 05/03/2022",
+      "Food",
+      "skipped"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 08/11/2021",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Comic Relief - 2022: Rowing Home with Jordan North",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Twelve Days of Christmas",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Arctic with Bruce Parry",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "A Musical Family Christmas with the Kanneh-Masons",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Nova Jones - Songs:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths: Maths - Properties of Shapes",
+      "Signed",
       "disliked"
     ],
     [
-      "Fern Brady: Power & Chaos",
-      "Comedy",
-      "neutral"
+      "Click - Short Edition - 19/02/2022",
+      "Science & Nature",
+      "watched",
+      10
     ],
     [
-      "Radio 1 Stories - Broken Heart Beats",
+      "Animal, Vegetable, Mineral? - 01/10/1958",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Holly Hobbie",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Thesaurus",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 20/04/2021",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Buy Now, Pay Later: The New Debt Crisis? - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Choice - Holiday Camps",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "BBC Cardiff Singer of the World - 2021: Round 3",
+      "Music",
+      "disliked"
+    ],
+    [
+      "In Her Majesty's Service",
       "Documentaries",
-      "liked"
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Flamborough Head - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Kitchen Starter Pack - Totally Store Cupboard",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "Inside the Zoo",
+      "Documentaries",
+      "watched",
+      50
     ]
   ],
   "watch_counts": {
-    "Radio 1 Stories - Broken Heart Beats": 1
+    "Stacey Dooley - In the USA": 1,
+    "Our World - The Battle for the South China Sea": 1,
+    "The Solitary Billionaire: J. Paul Getty": 1,
+    "Arena - Painted with My Hair": 1,
+    "Disclosure - Should I Tell You I'm Trans?": 1,
+    "Louis Theroux - A Place for Paedophiles": 1,
+    "Playground Insults - Seth Rogen and Chlo\u00eb Grace Moretz": 1,
+    "Radio 1's Live Lounge - Anderson .Paak": 1,
+    "Rick Stein's Spain": 1,
+    "NIFL Premiership Highlights - 2021/2022: 08/11/2021": 1,
+    "Comic Relief - 2022: Rowing Home with Jordan North": 1,
+    "Arctic with Bruce Parry": 1,
+    "A Musical Family Christmas with the Kanneh-Masons": 1,
+    "Nova Jones - Songs:": 1,
+    "Click - Short Edition - 19/02/2022": 1,
+    "Animal, Vegetable, Mineral? - 01/10/1958": 1,
+    "Holly Hobbie": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Thesaurus": 1,
+    "BBC News Special - Coronavirus Update: 20/04/2021": 1,
+    "Panorama - Buy Now, Pay Later: The New Debt Crisis? - Signed": 1,
+    "Choice - Holiday Camps": 1,
+    "In Her Majesty's Service": 1,
+    "Countryfile - Flamborough Head - Signed": 1,
+    "Kitchen Starter Pack - Totally Store Cupboard": 1,
+    "Inside the Zoo": 1
   }
 }

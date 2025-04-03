@@ -1,29 +1,241 @@
 {
   "user_preferences": {
-    "Music": -1,
-    "Signed": -1
+    "Signed": 1.25,
+    "Entertainment": 1.5,
+    "Documentaries": 1.5,
+    "From the Archives": 1.5,
+    "Sports": 0.0,
+    "Comedy": 1.0,
+    "Films": 1.0,
+    "Arts": -0.25,
+    "Science & Nature": 0.0
   },
   "user_interactions": [
     [
-      "The MOBO Awards - 2021: Access All Areas",
-      "Music",
+      "The Baby Club - Songs: The Grand Old Duke of York",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Tudur's TV Flashback",
+      "Entertainment",
+      "watched",
+      30
+    ],
+    [
+      "Inside Out: Ticking With the Crow/The Officers' Mess",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Louis Theroux - Life on the Edge:",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "2 Point 4 Children - Two Years Before the Mast",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Ulster Rugby - United Rugby Championship: Ulster v Cardiff",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Prince Philip: The Royal Family Remembers",
+      "Documentaries",
       "disliked"
     ],
     [
-      "Almost Never - Songs:",
+      "A Passion For Churches",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Comedy Shorts - Lazy Susan",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Dinosaur Song",
       "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Wellbeing: Well-being - Sle",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Lady Macbeth",
+      "Films",
+      "liked"
+    ],
+    [
+      "Storyville - The Rise and Fall of a Porn Superstar",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Film Profile - Dirk Bogarde",
+      "From the Archives",
       "disliked"
     ],
     [
-      "Blue Peter - Ice Hockey Challenge and Junior Bake Off Champ! - Signed",
-      "Signed",
-      "neutral"
+      "Film Profile - Michael Balcon",
+      "From the Archives",
+      "watched",
+      10
     ],
     [
-      "Lifebabble",
-      "CBBC",
-      "neutral"
+      "Rigs of Nigg",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Twelve Days of Christmas",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Panorama - Delivering Christmas: What\u2019s in Store?",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Romesh: Talking to Comedians - In Caffs About Growing Up",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Love and Hate Crime",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Tagged - Women on Tag:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley Investigates - Sex in Strange Places:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "100 Women in Conversation: Chimamanda Ngozi Adichie",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Inspector Montalbano - The Scent of the Night",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Finding Jack Charlton",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Angels of the North",
+      "Entertainment",
+      "watched",
+      95
+    ],
+    [
+      "Our Girl - Pilot",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Just Boys",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Kurupting the Industry: The People Just Do Nothing Story",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Deadstock: Ultimate Resellers",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "The Great Railway Cavalcade: Rocket 150 at Rainhill",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Click - Short Edition - 30/10/2021",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Caitlyn Jenner: Honesty",
+      "Entertainment",
+      "watched",
+      90
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "The Baby Club - Songs: The Grand Old Duke of York": 1,
+    "Tudur's TV Flashback": 1,
+    "Inside Out: Ticking With the Crow/The Officers' Mess": 1,
+    "2 Point 4 Children - Two Years Before the Mast": 1,
+    "Ulster Rugby - United Rugby Championship: Ulster v Cardiff": 1,
+    "A Passion For Churches": 1,
+    "Comedy Shorts - Lazy Susan": 1,
+    "Hey Duggee - Top of the Pups: Dinosaur Song": 1,
+    "Bitesize Daily: 9-11 Year Olds - Wellbeing: Well-being - Sle": 1,
+    "Lady Macbeth": 1,
+    "Storyville - The Rise and Fall of a Porn Superstar": 1,
+    "Film Profile - Michael Balcon": 1,
+    "Rigs of Nigg": 1,
+    "Hey Duggee - Top of the Pups: Twelve Days of Christmas": 1,
+    "Panorama - Delivering Christmas: What\u2019s in Store?": 1,
+    "Romesh: Talking to Comedians - In Caffs About Growing Up": 1,
+    "Love and Hate Crime": 1,
+    "Tagged - Women on Tag:": 1,
+    "Stacey Dooley Investigates - Sex in Strange Places:": 1,
+    "100 Women in Conversation: Chimamanda Ngozi Adichie": 1,
+    "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed": 1,
+    "Inspector Montalbano - The Scent of the Night": 1,
+    "Finding Jack Charlton": 1,
+    "Angels of the North": 1,
+    "Our Girl - Pilot": 1,
+    "Just Boys": 1,
+    "Kurupting the Industry: The People Just Do Nothing Story": 1,
+    "Deadstock: Ultimate Resellers": 1,
+    "The Great Railway Cavalcade: Rocket 150 at Rainhill": 1,
+    "Click - Short Edition - 30/10/2021": 1,
+    "Caitlyn Jenner: Honesty": 1
+  }
 }

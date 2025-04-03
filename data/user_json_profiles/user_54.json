@@ -1,25 +1,246 @@
 {
   "user_preferences": {
-    "Comedy": 1
+    "From the Archives": -1.5,
+    "Documentaries": 0.75,
+    "Science & Nature": 0.5,
+    "Food": 0.5,
+    "Signed": 0.0,
+    "CBBC": -0.25,
+    "Comedy": 1.0,
+    "Entertainment": 0.0,
+    "Films": 0.5,
+    "Sports": 0.0,
+    "Music": -0.5
   },
   "user_interactions": [
     [
-      "Harry Hill's Lonely Island",
-      "Comedy",
-      "neutral"
-    ],
-    [
-      "HARDtalk - Bassem Youssef \u2013 Comedian and Writer",
+      "Mrs Brown's Boys - 2012 Specials:",
       "From the Archives",
-      "neutral"
+      "watched",
+      25
     ],
     [
-      "Breaking the News - COP26 Special",
+      "Dangerous Curves: Get Thicc, Get Sick?",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Click - 19/03/2022",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Earth's Great Rivers II",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Suzie Lee: Home Cook Hero - Shorts:",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 23/06/2021",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Wizards vs Aliens",
+      "CBBC",
+      "watched",
+      10
+    ],
+    [
+      "EastEnders 2010 - 14/12/2009",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Jay Blades: Learning to Read at 51",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Comedy Shorts - Lazy Susan",
       "Comedy",
       "liked"
+    ],
+    [
+      "Don't Scream",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Talking Pictures - Marvellous Musicals",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Question Time - 2022: 13/01/2022 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Canny Cops",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Searchers",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 29/11/2021",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Inside Story - From Blighty to Belize",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "I Shot My Parents",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Harper's Island",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Anything Goes: The Musical",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - English: English - Spoken Language",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Ibiza Dreams",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Active and Passive Verbs",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Click - Short Edition - 29/01/2022",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Astaire and Rogers Sing George and Ira Gershwin",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Finding Jack Charlton - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Country Music Awards - 2021",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Panorama - Crisis in Care: Follow the Money",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Movies With Ali Plumb - Karen Gillan: The Story So Far",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "The Decade the Rich Won",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "One Foot in the Grave - Starbound",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Our World - Australia's Wildlife: After the Fires",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC Proms - 2021: Bach\u2019s St Matthew Passion",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "The Great British Sewing Bee",
+      "Entertainment",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Breaking the News - COP26 Special": 1
+    "Mrs Brown's Boys - 2012 Specials:": 1,
+    "Dangerous Curves: Get Thicc, Get Sick?": 1,
+    "Click - 19/03/2022": 1,
+    "Suzie Lee: Home Cook Hero - Shorts:": 1,
+    "BBC News Special - Coronavirus Update: 23/06/2021": 1,
+    "Wizards vs Aliens": 1,
+    "Jay Blades: Learning to Read at 51": 1,
+    "Comedy Shorts - Lazy Susan": 1,
+    "Don't Scream": 1,
+    "Talking Pictures - Marvellous Musicals": 1,
+    "Question Time - 2022: 13/01/2022 - Signed": 1,
+    "Canny Cops": 1,
+    "The Searchers": 1,
+    "NIFL Premiership Highlights - 2021/2022: 29/11/2021": 1,
+    "Inside Story - From Blighty to Belize": 1,
+    "I Shot My Parents": 1,
+    "Harper's Island": 1,
+    "Ibiza Dreams": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Active and Passive Verbs": 1,
+    "Click - Short Edition - 29/01/2022": 1,
+    "Finding Jack Charlton - Signed": 1,
+    "Country Music Awards - 2021": 1,
+    "Panorama - Crisis in Care: Follow the Money": 1,
+    "Movies With Ali Plumb - Karen Gillan: The Story So Far": 1,
+    "The Decade the Rich Won": 1,
+    "One Foot in the Grave - Starbound": 1,
+    "Our World - Australia's Wildlife: After the Fires": 1,
+    "BBC Proms - 2021: Bach\u2019s St Matthew Passion": 1,
+    "The Great British Sewing Bee": 1
   }
 }

@@ -1,35 +1,252 @@
 {
   "user_preferences": {
-    "Music": -1,
-    "Signed": -1,
-    "Entertainment": -1
+    "Sports": 0.5,
+    "From the Archives": 1.5,
+    "Arts": -1.0,
+    "Documentaries": 1.5,
+    "Music": 1.0,
+    "Comedy": -1.0,
+    "Signed": 1.0,
+    "Entertainment": 0.25,
+    "CBBC": 0.5,
+    "Films": 0.5
   },
   "user_interactions": [
     [
-      "Radio 2 Live - 2021: Highlights",
-      "Music",
-      "disliked"
-    ],
-    [
-      "Eat the Town",
-      "Food",
-      "neutral"
-    ],
-    [
-      "Sportscene - Women's Football Highlights 2021/22: 21/03/2022",
+      "Bellator MMA - 2021: Bellator 272: Main event & Prelims",
       "Sports",
-      "neutral"
+      "watched",
+      50
     ],
     [
-      "Nova Jones - Songs: I Can",
+      "Inspector Montalbano - The Track of Sand",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Branagh: bringing Belfast home",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "The Violence Paradox",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Loop - Shorts: My Sculpture Brings People and Moths Together",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Anything Goes: The Musical",
+      "Music",
+      "liked"
+    ],
+    [
+      "School for Scoundrels",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Stacey Dooley Investigates - Mums Selling Their Kids for Sex",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Comedy Threesomes - Fully Blown:",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "We Are England - Made in England: Make Mine a 99 - Crewe",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Science 10-11 Year-Olds: Adaptation, Evolution and Inheritance",
       "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Hoop Dreams",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Football, Racism and Social Media",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Stacey Dooley: Costa del Narcos - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "The Joy of Painting",
+      "Arts",
       "disliked"
     ],
     [
-      "1Xtra - Decks of Kin: Jordss",
+      "Top Gear - Driving Home for Christmas",
       "Entertainment",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "EastEnders 2010 - 06/11/2009",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Tree Fu Tom",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Boy Girl Dog Cat Mouse Cheese",
+      "CBBC",
+      "watched",
+      75
+    ],
+    [
+      "Ambulance",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Any One Of Us",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Question Time - 2021: 22/04/2021 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "All Mod Cons",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "RuPaul's Drag Race UK",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "EastEnders 2010 - 17/11/2009",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Elizabeth & Philip: Love and Duty",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Celebrity LOLs - Dwayne Johnson & Kevin Hart's very British Christmas",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Heirs of the Night",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Armchair Voyage: Hellenic Cruise",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Our World - Yazidi Women: Clearing Sinjar's Mines",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "CBeebies Presents - Stage Shows: The Snow Queen",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Monitor - Pop Goes the Easel",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Write Around the World with Richard E. Grant",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Monty Don's Adriatic Gardens",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "John Cage Live at the Barbican",
+      "From the Archives",
+      "liked"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Bellator MMA - 2021: Bellator 272: Main event & Prelims": 1,
+    "Inspector Montalbano - The Track of Sand": 1,
+    "Branagh: bringing Belfast home": 1,
+    "The Violence Paradox": 1,
+    "Loop - Shorts: My Sculpture Brings People and Moths Together": 1,
+    "Anything Goes: The Musical": 1,
+    "Stacey Dooley Investigates - Mums Selling Their Kids for Sex": 1,
+    "Comedy Threesomes - Fully Blown:": 1,
+    "We Are England - Made in England: Make Mine a 99 - Crewe": 1,
+    "Bitesize Daily: 9-11 Year Olds - Science 10-11 Year-Olds: Adaptation, Evolution and Inheritance": 1,
+    "Hoop Dreams": 1,
+    "Football, Racism and Social Media": 1,
+    "Top Gear - Driving Home for Christmas": 1,
+    "EastEnders 2010 - 06/11/2009": 1,
+    "Tree Fu Tom": 1,
+    "Boy Girl Dog Cat Mouse Cheese": 1,
+    "Ambulance": 1,
+    "Any One Of Us": 1,
+    "Question Time - 2021: 22/04/2021 - Signed": 1,
+    "All Mod Cons": 1,
+    "RuPaul's Drag Race UK": 1,
+    "EastEnders 2010 - 17/11/2009": 1,
+    "Elizabeth & Philip: Love and Duty": 1,
+    "Celebrity LOLs - Dwayne Johnson & Kevin Hart's very British Christmas": 1,
+    "Heirs of the Night": 1,
+    "Armchair Voyage: Hellenic Cruise": 1,
+    "Our World - Yazidi Women: Clearing Sinjar's Mines": 1,
+    "CBeebies Presents - Stage Shows: The Snow Queen": 1,
+    "Write Around the World with Richard E. Grant": 1,
+    "Monty Don's Adriatic Gardens": 1,
+    "John Cage Live at the Barbican": 1
+  }
 }

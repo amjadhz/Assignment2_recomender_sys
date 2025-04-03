@@ -1,49 +1,254 @@
 {
   "user_preferences": {
-    "Documentaries": 3,
-    "Sports": -1,
-    "Entertainment": -1
+    "Films": 1.5,
+    "Signed": 1.5,
+    "Music": -1.0,
+    "Documentaries": 0.0,
+    "Entertainment": 1.5,
+    "Comedy": 0.0,
+    "Science & Nature": -0.25,
+    "From the Archives": 0.5,
+    "Food": 0.5,
+    "Sports": 0.5
   },
   "user_interactions": [
     [
-      "Catch Her If You Can",
-      "Documentaries",
-      "liked"
+      "I, Tonya",
+      "Films",
+      "watched",
+      50
     ],
     [
-      "The Wild Gardener",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed",
+      "The Demon Headmaster",
       "Signed",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "NIFL Premiership Highlights - 2020/21: Cliftonville v Linfield",
-      "Sports",
+      "Stars of Wales",
+      "Music",
       "disliked"
     ],
     [
-      "BBC News Special - Coronavirus Update: 08/12/2021 - Signed",
+      "Bitesize Daily: 7-9 Year Olds - English: English - Spoken Language",
       "Signed",
-      "neutral"
+      "liked"
     ],
     [
-      "Mach as mo Rathad/Born to Drive",
+      "Work It: Body Confidence Stories",
       "Documentaries",
       "liked"
     ],
     [
-      "There's No Place Like Tyrone",
+      "Tee and Mo - Only One Mum",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Flat Out Fabulous",
       "Entertainment",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 19/05/2021",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Radio 1 Stories - Broken Heart Beats",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Half a Sixpence",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Lockdown Showdown",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Murder, Mystery and My Family",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Movies With Ali Plumb - Becoming...: Hawkeye",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 15/01/2022",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "The Fires that Foretold Grenfell - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Arena - Into the Limelight - Tribute Bands",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Nigeria Burning",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Talking Pictures - Film\u2019s Family Favourites",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Songs of Praise - Faith in Birmingham",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Foot and Mouth - The Killing Fields in Wales",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "We Are England - Belonging: The Real Phoenix Nights - Clacton",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Pranked by Superfan Steve - Rebel Wilson",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Angels of the North",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Biff and Chip",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Inspector Montalbano - The Voice of the Violin",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Not Going Out - Ding Dong Merrily on Live",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Universe",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Saturday Kitchen - 04/09/2021",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "The R",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "20th Century Women",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Miriam's Dead Good Adventure",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Bellator MMA - 2021: Bellator 272: Main event & Prelims",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Inside Chernobyl's Mega Tomb",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Women in Film: BBC Introducing Arts",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "The One Show - 14/03/2022",
+      "Entertainment",
+      "liked"
     ]
   ],
   "watch_counts": {
-    "Catch Her If You Can": 1,
-    "The Wild Gardener": 1,
-    "Mach as mo Rathad/Born to Drive": 1
+    "I, Tonya": 1,
+    "The Demon Headmaster": 1,
+    "Bitesize Daily: 7-9 Year Olds - English: English - Spoken Language": 1,
+    "Work It: Body Confidence Stories": 1,
+    "Tee and Mo - Only One Mum": 1,
+    "Flat Out Fabulous": 1,
+    "BBC News Special - Coronavirus Update: 19/05/2021": 1,
+    "Half a Sixpence": 1,
+    "Lockdown Showdown": 1,
+    "Murder, Mystery and My Family": 1,
+    "Movies With Ali Plumb - Becoming...: Hawkeye": 1,
+    "Click - Short Edition - 15/01/2022": 1,
+    "The Fires that Foretold Grenfell - Signed": 1,
+    "Arena - Into the Limelight - Tribute Bands": 1,
+    "Life at 50\u00b0C - Shorts: Nigeria Burning": 1,
+    "Talking Pictures - Film\u2019s Family Favourites": 1,
+    "Songs of Praise - Faith in Birmingham": 1,
+    "Foot and Mouth - The Killing Fields in Wales": 1,
+    "Pranked by Superfan Steve - Rebel Wilson": 1,
+    "Angels of the North": 1,
+    "Biff and Chip": 1,
+    "Inspector Montalbano - The Voice of the Violin": 1,
+    "Not Going Out - Ding Dong Merrily on Live": 1,
+    "Universe": 1,
+    "Saturday Kitchen - 04/09/2021": 1,
+    "The R": 1,
+    "20th Century Women": 1,
+    "Miriam's Dead Good Adventure": 1,
+    "Bellator MMA - 2021: Bellator 272: Main event & Prelims": 1,
+    "Inside Chernobyl's Mega Tomb": 1,
+    "Women in Film: BBC Introducing Arts": 1,
+    "The One Show - 14/03/2022": 1
   }
 }

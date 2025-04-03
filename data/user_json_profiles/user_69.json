@@ -1,49 +1,221 @@
 {
   "user_preferences": {
-    "Documentaries": -2,
-    "From the Archives": -2,
-    "Science & Nature": -1,
-    "Entertainment": 1,
-    "Signed": -1
+    "Films": -0.75,
+    "Signed": 0.75,
+    "Documentaries": 1.5,
+    "From the Archives": 1.25,
+    "Entertainment": 1.5,
+    "Sports": 1.5,
+    "Arts": 0.5,
+    "Comedy": 1.0
   },
   "user_interactions": [
     [
-      "Panorama - Princess Diana, Martin Bashir and the BBC",
+      "Everything, Everything",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Amol Rajan Interviews - Ian McKellen",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bad Influencer: The Great Insta Con",
       "Documentaries",
-      "disliked"
+      "watched",
+      10
     ],
     [
-      "Doctor Who - The Day of the Doctor",
+      "One Foot in the Grave - One Foot in the Algarve",
       "From the Archives",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Countryfile - Clinton Devon Estates",
-      "Science & Nature",
-      "disliked"
-    ],
-    [
-      "The Frost Interview - David Frost interviews Muhammad Ali",
+      "Micro Live",
       "From the Archives",
-      "disliked"
+      "liked"
     ],
     [
-      "Only Connect",
+      "EastEnders 2010 - 05/11/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Storyville - Carlos Ghosn: The Last Flight",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Morning Live",
       "Entertainment",
       "liked"
     ],
     [
-      "Operation Ouch!",
-      "Signed",
-      "disliked"
+      "NIFL Premiership Highlights - 2021/2022: 31/01/2022",
+      "Sports",
+      "watched",
+      50
     ],
     [
-      "Models: Street to Catwalk",
+      "Branagh: bringing Belfast home",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Two Doors Down - 2017 Christmas Special",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Spotlight on the Troubles: A Secret History",
       "Documentaries",
-      "disliked"
+      "watched",
+      75
+    ],
+    [
+      "The Sky at Night - Mars and Meteorites",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Film Review - The Batman, Ali & Ava, Gangubi Kathiaswadi",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Question of Sport",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Bellator MMA - 2021: Top Three Fights of 2021",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Lily: A Transgender Story - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "A House Through Time",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Back from the Brink",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Countryfile - Community Farm, Herefordshire - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Class of Tokyo 2020 - Before the Games",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "State of the Union",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Primary Colors",
+      "Films",
+      "skipped"
+    ],
+    [
+      "Putin: The New Tsar",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Arena: African Apocalypse",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bellator MMA - 2021: MVP's MMA masterclass with Lutalo Muhammad",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Lights Up - J'Ouvert",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Love Monster",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bodies - Finale",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Waffle the Wonder Dog",
+      "Signed",
+      "watched",
+      50
     ]
   ],
   "watch_counts": {
-    "Only Connect": 1
+    "Everything, Everything": 1,
+    "Amol Rajan Interviews - Ian McKellen": 1,
+    "Bad Influencer: The Great Insta Con": 1,
+    "One Foot in the Grave - One Foot in the Algarve": 1,
+    "Micro Live": 1,
+    "EastEnders 2010 - 05/11/2009": 1,
+    "Storyville - Carlos Ghosn: The Last Flight": 1,
+    "Morning Live": 1,
+    "NIFL Premiership Highlights - 2021/2022: 31/01/2022": 1,
+    "Branagh: bringing Belfast home": 1,
+    "Two Doors Down - 2017 Christmas Special": 1,
+    "Spotlight on the Troubles: A Secret History": 1,
+    "The Sky at Night - Mars and Meteorites": 1,
+    "The Film Review - The Batman, Ali & Ava, Gangubi Kathiaswadi": 1,
+    "Question of Sport": 1,
+    "Bellator MMA - 2021: Top Three Fights of 2021": 1,
+    "Lily: A Transgender Story - Signed": 1,
+    "A House Through Time": 1,
+    "Back from the Brink": 1,
+    "Countryfile - Community Farm, Herefordshire - Signed": 1,
+    "Class of Tokyo 2020 - Before the Games": 1,
+    "State of the Union": 1,
+    "Putin: The New Tsar": 1,
+    "Arena: African Apocalypse": 1,
+    "Bellator MMA - 2021: MVP's MMA masterclass with Lutalo Muhammad": 1,
+    "Lights Up - J'Ouvert": 1,
+    "Love Monster": 1,
+    "Bodies - Finale": 1,
+    "Waffle the Wonder Dog": 1
   }
 }

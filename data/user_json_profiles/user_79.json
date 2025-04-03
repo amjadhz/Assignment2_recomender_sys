@@ -1,48 +1,221 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Films": -1,
-    "Music": -1,
-    "Food": -1,
-    "Signed": -1,
-    "Documentaries": -1
+    "Documentaries": 1.5,
+    "Music": -0.25,
+    "Signed": 1.5,
+    "Sports": 0.5,
+    "Science & Nature": 0.5,
+    "Films": 0.0,
+    "Entertainment": 0.5,
+    "From the Archives": 1.0,
+    "Comedy": 0.0
   },
   "user_interactions": [
     [
-      "EastEnders 2010 - 03/11/2009",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "CBeebies Presents - Stage Shows:",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "The Man in the White Suit",
-      "Films",
-      "disliked"
-    ],
-    [
-      "Radio 2 Live - 2021: Texas",
-      "Music",
-      "disliked"
-    ],
-    [
-      "The Hairy Bikers' Cookbook - The Hairy Bakers Shorts:",
-      "Food",
-      "disliked"
-    ],
-    [
-      "Hey Duggee - Top of the Pups: Bath Time",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Dale Barclay: All On Black",
+      "Canal Boat Diaries",
       "Documentaries",
-      "disliked"
+      "liked"
+    ],
+    [
+      "Panorama - The Dark Side of Horse Racing",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "CMA Summer Jam",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Community Farm, Herefordshire - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "4 O'Clock Club - The First Gang:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "The Sky at Night - The Man Who Discovered A Planet",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Winterwatch",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "CBeebies Presents - Songs: Puss in Boots",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "We Are England - Belonging: The Real Vicars of Dibley",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Searchers",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Young Guns",
+      "Films",
+      "skipped"
+    ],
+    [
+      "The Baby Club - Songs: The Grand Old Duke of York",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Fast Food Face-Off",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "This World - The Tea Trail with Simon Reeve",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "A Musical Family Christmas with the Kanneh-Masons",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "First-Year Flashbacks",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 20/09/2021",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Match of the Day Wales - 2021/22: Pinatar Cup - Wales v Belgium",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Arena - The Everly Brothers Reunion Concert",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "dinnerladies",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "We Are England - A Place Called Home: Hanging On To Home",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Breaking the News - Specials - TV:",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Tuesday Documentary - The Block",
+      "Documentaries",
+      "watched",
+      95
+    ],
+    [
+      "Man Alive - Packing Up and Moving Out",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Inside Chernobyl's Mega Tomb",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Life of a Mountain - A Year on Helvellyn",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Andy and the Band - Songs: Planet Rock",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "The Riots 2011: One Week in August",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Animal, Vegetable, Mineral? - 01/10/1958",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Celtic Connections - Wales at Celtic Connections",
+      "Music",
+      "watched",
+      10
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Canal Boat Diaries": 1,
+    "Panorama - The Dark Side of Horse Racing": 1,
+    "CMA Summer Jam": 1,
+    "Countryfile - Community Farm, Herefordshire - Signed": 1,
+    "4 O'Clock Club - The First Gang:": 1,
+    "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic": 1,
+    "The Sky at Night - The Man Who Discovered A Planet": 1,
+    "Winterwatch": 1,
+    "CBeebies Presents - Songs: Puss in Boots": 1,
+    "We Are England - Belonging: The Real Vicars of Dibley": 1,
+    "The Searchers": 1,
+    "The Baby Club - Songs: The Grand Old Duke of York": 1,
+    "Fast Food Face-Off": 1,
+    "This World - The Tea Trail with Simon Reeve": 1,
+    "A Musical Family Christmas with the Kanneh-Masons": 1,
+    "First-Year Flashbacks": 1,
+    "NIFL Premiership Highlights - 2021/2022: 20/09/2021": 1,
+    "Match of the Day Wales - 2021/22: Pinatar Cup - Wales v Belgium": 1,
+    "Arena - The Everly Brothers Reunion Concert": 1,
+    "dinnerladies": 1,
+    "We Are England - A Place Called Home: Hanging On To Home": 1,
+    "Breaking the News - Specials - TV:": 1,
+    "Tuesday Documentary - The Block": 1,
+    "Man Alive - Packing Up and Moving Out": 1,
+    "Inside Chernobyl's Mega Tomb": 1,
+    "Life of a Mountain - A Year on Helvellyn": 1,
+    "Andy and the Band - Songs: Planet Rock": 1,
+    "The Riots 2011: One Week in August": 1,
+    "Animal, Vegetable, Mineral? - 01/10/1958": 1,
+    "Celtic Connections - Wales at Celtic Connections": 1
+  }
 }

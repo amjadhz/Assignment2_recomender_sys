@@ -1,33 +1,232 @@
 {
   "user_preferences": {
-    "Entertainment": -1,
-    "From the Archives": 1,
-    "Documentaries": -1,
-    "Food": -1
+    "Documentaries": 1.5,
+    "Food": 0.0,
+    "Films": 1.0,
+    "Signed": 0.5,
+    "Entertainment": 1.0,
+    "From the Archives": 0.0,
+    "Science & Nature": -1.0,
+    "Comedy": -1.0,
+    "CBBC": 1.0,
+    "Sports": 0.5,
+    "Music": 0.5
   },
   "user_interactions": [
     [
-      "The Apprentice Australia - 2021:",
-      "Entertainment",
-      "disliked"
+      "Measuring Mass: The Last Artefact",
+      "Documentaries",
+      "watched",
+      50
     ],
     [
-      "People to Watch - Ronald Reagan",
-      "From the Archives",
+      "Hoop Dreams",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Saturday Kitchen - 09/10/2021",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Secrets of an ISIS Smartphone",
+      "Documentaries",
       "liked"
     ],
     [
-      "Louis Theroux - America's Medicated Kids",
+      "Holiday Affair",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Saturday Kitchen - 26/02/2022",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Firestarter: The Story of Bangarra",
       "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Twelve Days of Christmas",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Ar An Sliabh",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Stacey Dooley - Stacey on the Frontline: Girls, Guns and Isis",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Joe Wicks Podcast - Melanie C: Everyone is Good Enough",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "HARDtalk - Professor Mariana Mazzucato - Economist, University College London",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Notebook",
+      "Films",
+      "liked"
+    ],
+    [
+      "EastEnders 2010 - 07/12/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Secret Science of Sewage - Audio Described",
+      "Science & Nature",
       "disliked"
     ],
     [
-      "Saturday Kitchen - 24/07/2021",
-      "Food",
+      "Arena - Delia Derbyshire: The Myths and the Legendary Tapes",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Question Time - 2021: 29/04/2021 - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Statue Wars: One Summer in Bristol",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Gareth Thomas: HIV and Me",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Panorama - Manchester Arena Bombing: Saffie\u2019s Story - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Call the Midwife - Christmas Special 2017",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Gold Town",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "R",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Animals with Cameras",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Election 97",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "The Disappearance of Pato",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - The Runaway Bride",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Culture in Quarantine - Earth To Alice - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Silky Hotel",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Dumping Ground Island",
+      "CBBC",
+      "liked"
+    ],
+    [
+      "Match of the Day Wales - 2021/22: Pinatar Cup - Wales v Belgium",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Pride Hits at the BBC",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Storyville - Being Evel Knievel",
+      "Documentaries",
       "disliked"
     ]
   ],
   "watch_counts": {
-    "People to Watch - Ronald Reagan": 1
+    "Measuring Mass: The Last Artefact": 1,
+    "Hoop Dreams": 1,
+    "Saturday Kitchen - 09/10/2021": 1,
+    "Secrets of an ISIS Smartphone": 1,
+    "Holiday Affair": 1,
+    "Saturday Kitchen - 26/02/2022": 1,
+    "Firestarter: The Story of Bangarra": 1,
+    "Hey Duggee - Top of the Pups: Twelve Days of Christmas": 1,
+    "Ar An Sliabh": 1,
+    "Stacey Dooley - Stacey on the Frontline: Girls, Guns and Isis": 1,
+    "The Joe Wicks Podcast - Melanie C: Everyone is Good Enough": 1,
+    "HARDtalk - Professor Mariana Mazzucato - Economist, University College London": 1,
+    "The Notebook": 1,
+    "EastEnders 2010 - 07/12/2009": 1,
+    "Question Time - 2021: 29/04/2021 - Signed": 1,
+    "Statue Wars: One Summer in Bristol": 1,
+    "Gareth Thomas: HIV and Me": 1,
+    "Panorama - Manchester Arena Bombing: Saffie\u2019s Story - Signed": 1,
+    "Call the Midwife - Christmas Special 2017": 1,
+    "Gold Town": 1,
+    "Animals with Cameras": 1,
+    "The Disappearance of Pato": 1,
+    "Doctor Who - The Runaway Bride": 1,
+    "Culture in Quarantine - Earth To Alice - Signed": 1,
+    "Dumping Ground Island": 1,
+    "Match of the Day Wales - 2021/22: Pinatar Cup - Wales v Belgium": 1,
+    "Pride Hits at the BBC": 1
   }
 }

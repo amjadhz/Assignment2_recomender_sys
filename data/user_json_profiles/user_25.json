@@ -1,23 +1,254 @@
 {
   "user_preferences": {
-    "CBBC": -1
+    "Documentaries": 1.5,
+    "Sports": 0.5,
+    "History": -0.25,
+    "From the Archives": -1.5,
+    "Entertainment": 1.0,
+    "Films": 0.0,
+    "CBBC": 0.5,
+    "Signed": 0.75,
+    "Arts": 0.5,
+    "Food": 0.5
   },
   "user_interactions": [
     [
-      "Waking the Dead - Pilot",
-      "From the Archives",
-      "neutral"
+      "Panorama - Wild Weather: Our World Under Threat",
+      "Documentaries",
+      "watched",
+      25
     ],
     [
-      "Horrible Histories - Specials:",
-      "CBBC",
+      "Under-20s Six Nations Rugby - 2022: England v Ireland",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Prime Properties - The Earl of Derby",
+      "History",
+      "watched",
+      10
+    ],
+    [
+      "Tropic of Cancer with Simon Reeve",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 06/12/2021",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Art of Persia",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "50 Places To See Before You Die",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Young Ones",
+      "From the Archives",
       "disliked"
     ],
     [
-      "Waterhole: Africa's Animal Oasis",
+      "Antiques Road Trip",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Let the Right One In",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Man Alive - Marriage Under Stress 3: 'Put Asunder'",
       "Documentaries",
-      "neutral"
+      "watched",
+      25
+    ],
+    [
+      "World of Difference - The Models",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Rap Game UK - Extras: How To Make A Rap Music Video",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Millie Inbetween",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "Bad Education - Christmas Special",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Free Spirits",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Night Before Christmas - Songs: Finale Song",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Climate Change: Ade on the Frontline",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Behind the Lines",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "BBC Trailers - This is Our BBC signed - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Afghanistan: Life under the Taliban",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Doctor Who",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Radio 1 Stories - Living The Dream",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Stacey Dooley: Costa del Narcos - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "New Creatives - STONEWALL 2069",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Miranda - Specials:",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Wellbeing: 1",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Man Alive - Marriage Under Stress 3: 'Put Asunder'",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Blue Peter - Book Awards 2022! - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Storyville - The Farthest: Voyager's Interstellar Journey",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Maddie, Space and You",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Fires that Foretold Grenfell - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Springwatch 20",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Narrow Sea, The Farther Shore with Phil Cunningham",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Saturday Kitchen - 27/11/2021",
+      "Food",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Panorama - Wild Weather: Our World Under Threat": 1,
+    "Under-20s Six Nations Rugby - 2022: England v Ireland": 1,
+    "Prime Properties - The Earl of Derby": 1,
+    "Tropic of Cancer with Simon Reeve": 1,
+    "NIFL Premiership Highlights - 2021/2022: 06/12/2021": 1,
+    "Art of Persia": 1,
+    "50 Places To See Before You Die": 1,
+    "Antiques Road Trip": 1,
+    "Let the Right One In": 1,
+    "Man Alive - Marriage Under Stress 3: 'Put Asunder'": 2,
+    "World of Difference - The Models": 1,
+    "The Rap Game UK - Extras: How To Make A Rap Music Video": 1,
+    "Millie Inbetween": 1,
+    "Free Spirits": 1,
+    "The Night Before Christmas - Songs: Finale Song": 1,
+    "Climate Change: Ade on the Frontline": 1,
+    "Behind the Lines": 1,
+    "BBC Trailers - This is Our BBC signed - Signed": 1,
+    "Panorama - Afghanistan: Life under the Taliban": 1,
+    "Doctor Who": 1,
+    "Radio 1 Stories - Living The Dream": 1,
+    "Stacey Dooley: Costa del Narcos - Signed": 1,
+    "New Creatives - STONEWALL 2069": 1,
+    "Miranda - Specials:": 1,
+    "Blue Peter - Book Awards 2022! - Signed": 1,
+    "Storyville - The Farthest: Voyager's Interstellar Journey": 1,
+    "Maddie, Space and You": 1,
+    "The Fires that Foretold Grenfell - Signed": 1,
+    "Springwatch 20": 1,
+    "The Narrow Sea, The Farther Shore with Phil Cunningham": 1,
+    "Saturday Kitchen - 27/11/2021": 1
+  }
 }

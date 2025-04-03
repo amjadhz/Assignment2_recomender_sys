@@ -1,25 +1,246 @@
 {
   "user_preferences": {
-    "Signed": -1,
-    "Films": -1,
-    "Music": -1
+    "Entertainment": -0.25,
+    "Music": 1.0,
+    "Signed": 1.5,
+    "Food": 0.0,
+    "Films": 0.5,
+    "Documentaries": 1.5,
+    "Sports": -0.25,
+    "Science & Nature": 0.5,
+    "From the Archives": -0.75
   },
   "user_interactions": [
     [
-      "The Worst Witch",
+      "Eurovision Song Contest - Grand Final: 1974",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "BBC Young Musician - 2020 - Extended Versions:",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths:",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Saturday Kitchen - 05/02/2022",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Yellow Canary",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "This World - Terror at the Mall",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Finding a Forever Family",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 13/09/2021",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Man Alive - Top Class People",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 18/09/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Surgeons: At the Edge of Life",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Strictly Amy: Crohn\u2019s and Me - Audio Described",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Dementia & Us",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "My Life",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "In the Highest Tradition",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - English: 1",
+      "Signed",
+      "liked"
+    ],
+    [
+      "A Simple Favour",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "My Very First",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "TUNE - Shorts: The Ninth Wave: Howlin' to the Wind",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "My Family - 2039: A Christmas Oddity",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "America's Child Brides",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "BBC Scottish Symphony Orchestra - The Lark Ascending",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Teacher Talks: Maths - The Number Line to 10,000",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "My Very First",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 14/02/2022",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Trooping the Colour - Silver Jubilee",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "HARDtalk - Iv\u00e1n Fischer, Conductor and Composer",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Rhod Gilbert: Stand Up to Shyness",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Making The Most Of The Micro",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - English: English - Reading to Understand",
       "Signed",
       "disliked"
     ],
     [
-      "Little Joe",
-      "Films",
-      "disliked"
+      "Secret Life of Boys",
+      "Signed",
+      "watched",
+      75
     ],
     [
-      "TUNE - Shorts: Dead Pony: Howlin' to the Wind",
-      "Music",
-      "disliked"
+      "DIY Deadly with Steve Backshall",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Under-20s Six Nations Rugby - 2022: France v England",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Operation Ouch!",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Paddington 2",
+      "Films",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Eurovision Song Contest - Grand Final: 1974": 1,
+    "BBC Young Musician - 2020 - Extended Versions:": 1,
+    "Saturday Kitchen - 05/02/2022": 1,
+    "Yellow Canary": 1,
+    "This World - Terror at the Mall": 1,
+    "Finding a Forever Family": 1,
+    "NIFL Premiership Highlights - 2021/2022: 13/09/2021": 1,
+    "Man Alive - Top Class People": 1,
+    "Click - Short Edition - 18/09/2021": 1,
+    "Strictly Amy: Crohn\u2019s and Me - Audio Described": 1,
+    "Dementia & Us": 1,
+    "My Life": 1,
+    "In the Highest Tradition": 1,
+    "Bitesize Daily: 9-11 Year Olds - English: 1": 1,
+    "A Simple Favour": 1,
+    "My Very First": 2,
+    "TUNE - Shorts: The Ninth Wave: Howlin' to the Wind": 1,
+    "My Family - 2039: A Christmas Oddity": 1,
+    "America's Child Brides": 1,
+    "BBC Scottish Symphony Orchestra - The Lark Ascending": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Teacher Talks: Maths - The Number Line to 10,000": 1,
+    "Trooping the Colour - Silver Jubilee": 1,
+    "Rhod Gilbert: Stand Up to Shyness": 1,
+    "Secret Life of Boys": 1,
+    "DIY Deadly with Steve Backshall": 1,
+    "Under-20s Six Nations Rugby - 2022: France v England": 1,
+    "Operation Ouch!": 1,
+    "Paddington 2": 1
+  }
 }

@@ -1,29 +1,226 @@
 {
   "user_preferences": {
-    "Signed": -2,
-    "Sports": -1
+    "CBBC": 0.5,
+    "Documentaries": 1.5,
+    "From the Archives": 0.5,
+    "Signed": 1.25,
+    "Science & Nature": 0.5,
+    "Entertainment": 1.5,
+    "Comedy": 0.25,
+    "Films": 0.5,
+    "Food": 0.0,
+    "Sports": 0.0,
+    "Music": 0.5
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 9-11 Year Olds - Science 10-11 Year-Olds: Classifying Living Things",
-      "Signed",
-      "disliked"
+      "Millie Inbetween - Specials:",
+      "CBBC",
+      "watched",
+      50
     ],
     [
-      "Hey Duggee - Top of the Pups: Hey Duggee\u2019s Valentine\u2019s Song",
-      "Signed",
-      "neutral"
+      "Project Children: Defusing the Troubles",
+      "Documentaries",
+      "watched",
+      50
     ],
     [
-      "Bellator MMA - 2022: Sinead Kavanagh vs. Leah McCourt",
+      "Rigs of Nigg",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Spiral",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "What We Were Watching - Christmas 1991 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Love and Death in City Hall",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Click - Swingin' Satellites",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Bedtime Stories - 6",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Numberblocks - Numbersongs: Hen House Hop",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Stacey Dooley - Face To Face with the Bounty Hunters",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths: Addition and Subtraction - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Movies With Ali Plumb - Becoming... Captain America",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Meet the Red Devils: Parachute Regiment",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Shrill",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Sylvia Scarlett",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "James Wong and the Malaysian Garden",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Chronicle - The Roman Goose March: The Holy Sailors",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Beardsley and his Work",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "My First Festivals",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Unpopular Opinion - Will Smith",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Stevens & McCarthy",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "Signs of the Times - That Little Bit Different",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Last Tango in Halifax",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Paula McIntyre's Burns Night Banquet",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "After the Battle",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Chronicle - The Roman Goose March: The Holy Sailors",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Rick Stein Tastes the Blues",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Miriam\u2019s Big Fat Adventure",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bellator MMA - 2021: Ryan Bader vs. Corey Anderson",
       "Sports",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "China's Magic Weapon - Signed",
-      "Signed",
-      "disliked"
+      "Sir Simon Rattle at the BBC",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Movies With Ali Plumb - Eddie Murphy: Coming 2 America",
+      "Entertainment",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Millie Inbetween - Specials:": 1,
+    "Project Children: Defusing the Troubles": 1,
+    "Rigs of Nigg": 1,
+    "Spiral": 1,
+    "What We Were Watching - Christmas 1991 - Signed": 1,
+    "Click - Swingin' Satellites": 1,
+    "CBeebies Bedtime Stories - 6": 1,
+    "Numberblocks - Numbersongs: Hen House Hop": 1,
+    "Stacey Dooley - Face To Face with the Bounty Hunters": 1,
+    "Bitesize Daily: 7-9 Year Olds - Maths: Addition and Subtraction - Signed": 1,
+    "Movies With Ali Plumb - Becoming... Captain America": 1,
+    "Meet the Red Devils: Parachute Regiment": 1,
+    "Shrill": 1,
+    "Sylvia Scarlett": 1,
+    "James Wong and the Malaysian Garden": 1,
+    "Chronicle - The Roman Goose March: The Holy Sailors": 2,
+    "Beardsley and his Work": 1,
+    "My First Festivals": 1,
+    "Unpopular Opinion - Will Smith": 1,
+    "Stevens & McCarthy": 1,
+    "Signs of the Times - That Little Bit Different": 1,
+    "Last Tango in Halifax": 1,
+    "Paula McIntyre's Burns Night Banquet": 1,
+    "Miriam\u2019s Big Fat Adventure": 1,
+    "Bellator MMA - 2021: Ryan Bader vs. Corey Anderson": 1,
+    "Sir Simon Rattle at the BBC": 1,
+    "Movies With Ali Plumb - Eddie Murphy: Coming 2 America": 1
+  }
 }

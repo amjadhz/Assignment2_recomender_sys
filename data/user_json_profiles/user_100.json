@@ -1,48 +1,195 @@
 {
   "user_preferences": {
-    "Music": -1,
-    "Signed": -1,
-    "Documentaries": -1,
-    "Entertainment": 1
+    "Documentaries": 0.75,
+    "Entertainment": 1.5,
+    "Sports": 0.5,
+    "Signed": 0.0,
+    "Music": -0.25,
+    "From the Archives": 1.0,
+    "Films": 0.5,
+    "Comedy": 1.0
   },
   "user_interactions": [
     [
-      "Saturday Kitchen - Countdown to Christmas: 04/12/2021",
-      "Food",
-      "neutral"
-    ],
-    [
-      "Girls in Bands at the BBC",
-      "Music",
-      "disliked"
-    ],
-    [
-      "BBC Trailers - This is Our BBC signed - Signed",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Generation Screwed?",
+      "Autumnwatch - Extras: Autumn Wonders",
       "Documentaries",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "Panorama - The NHS vs Covid: The Fight Goes On",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "The Voices in My Head",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Unpopular Opinion - Niall Horan",
+      "Kids Ask Difficult Questions - Tom Holland",
       "Entertainment",
       "liked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 14/02/2022",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Secrets of the Museum",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Daydreams - Little Daydreams:",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "The Pets Factor",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Tina Turner at the BBC",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley - Inside the Convent",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Top of the Pops - 13/08/1992",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "The Sky at Night - The Sky at Night Special: Mariner To Mars",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Mistresses",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Boys Banged Up",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Maddie's Do You Know?",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "The Misadventures of Romesh Ranganathan",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Lights Up",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - The Day of the Doctor",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Just Boys",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Just One Night",
+      "Entertainment",
+      "watched",
+      90
+    ],
+    [
+      "A Simple Plan",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Our World - The Battle for the South China Sea",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Rose Matafeo: Horndog",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Panorama - The NHS vs Covid: The Fight Goes On - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Tonight with Target",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Blending Letters",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Radio 2 Live - 2021: Highlights",
+      "Music",
+      "skipped"
+    ],
+    [
+      "imagine... - Autumn 2007:",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Pop Goes Northern Ireland",
+      "Documentaries",
+      "watched",
+      75
     ]
   ],
   "watch_counts": {
-    "Unpopular Opinion - Niall Horan": 1
+    "Autumnwatch - Extras: Autumn Wonders": 1,
+    "Kids Ask Difficult Questions - Tom Holland": 1,
+    "NIFL Premiership Highlights - 2021/2022: 14/02/2022": 1,
+    "Secrets of the Museum": 1,
+    "The Pets Factor": 1,
+    "Tina Turner at the BBC": 1,
+    "Stacey Dooley - Inside the Convent": 1,
+    "Top of the Pops - 13/08/1992": 1,
+    "The Sky at Night - The Sky at Night Special: Mariner To Mars": 1,
+    "Mistresses": 1,
+    "Boys Banged Up": 1,
+    "Maddie's Do You Know?": 1,
+    "Lights Up": 1,
+    "Doctor Who - The Day of the Doctor": 1,
+    "Just Boys": 1,
+    "Just One Night": 1,
+    "A Simple Plan": 1,
+    "Our World - The Battle for the South China Sea": 1,
+    "Rose Matafeo: Horndog": 1,
+    "Panorama - The NHS vs Covid: The Fight Goes On - Signed": 1,
+    "Tonight with Target": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Blending Letters": 1,
+    "imagine... - Autumn 2007:": 1,
+    "Pop Goes Northern Ireland": 1
   }
 }

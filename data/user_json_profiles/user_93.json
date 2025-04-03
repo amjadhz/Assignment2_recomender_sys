@@ -1,38 +1,238 @@
 {
   "user_preferences": {
-    "Documentaries": -2,
-    "Music": -1,
-    "Comedy": -1,
-    "Films": 1
+    "From the Archives": 1.5,
+    "Signed": 1.5,
+    "Music": 1.5,
+    "Documentaries": 1.5,
+    "CBBC": 0.5,
+    "Entertainment": 1.5,
+    "Films": 0.0,
+    "Comedy": 0.0
   },
   "user_interactions": [
     [
-      "The World About Us - The Romance of Indian Railways",
-      "Documentaries",
-      "disliked"
+      "The Late Show - Face to Face: Ken Dodd",
+      "From the Archives",
+      "watched",
+      10
     ],
     [
-      "TUNE - Shorts: Kitti: Howlin' to the Wind",
-      "Music",
-      "disliked"
-    ],
-    [
-      "The Mind of Herbert Clunkerdunk",
-      "Comedy",
-      "disliked"
-    ],
-    [
-      "Suspicion",
-      "Films",
+      "Panorama - Afghanistan: Life under the Taliban - Signed",
+      "Signed",
       "liked"
     ],
     [
-      "The Sky at Night - Voyager To Uranus",
+      "Seirm",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Life of a Mountain - A Year on Blencathra",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "Natural World - 2011-2012:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - English: Reading to Infer",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Inspector Montalbano - The Scent of the Night",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "One Foot in the Grave - The Man in the Long Black Coat",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Paralympics: The Unfair Games? - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "My Mum Tracy Beaker - Movie:",
+      "CBBC",
+      "watched",
+      75
+    ],
+    [
+      "The One Show - 01/03/2022",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Blackbeard the Pirate",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Life of a Mountain - A Year on Helvellyn",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Chicken Man",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "CBeebies Bedtime Stories - 2",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Saving Lives at Sea",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Reclaiming Amy - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Make-up: A Glamorous History",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Songs of Praise - The Duke of Edinburgh",
+      "Music",
+      "liked"
+    ],
+    [
+      "Weatherman Walking",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Pranked by Superfan Steve - Anne-Marie",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Toothbrush Song",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "When Nirvana Came to Britain",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "DIY Deadly with Steve Backshall",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Question of Sport",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Can't Get You Out of My Head",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Top of the Pops - 13/08/1992",
+      "Music",
+      "liked"
+    ],
+    [
+      "Mrs Brown's Boys - Christmas Special: Mammy's Ass",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Opry an I\u00fair",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "The Golden Cobra",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "What Just Happened?",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "A Woman's Secret",
+      "Films",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Suspicion": 1
+    "The Late Show - Face to Face: Ken Dodd": 1,
+    "Panorama - Afghanistan: Life under the Taliban - Signed": 1,
+    "Seirm": 1,
+    "Life of a Mountain - A Year on Blencathra": 1,
+    "Natural World - 2011-2012:": 1,
+    "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine": 1,
+    "Bitesize Daily: 7-9 Year Olds - English: Reading to Infer": 1,
+    "Inspector Montalbano - The Scent of the Night": 1,
+    "One Foot in the Grave - The Man in the Long Black Coat": 1,
+    "Panorama - Paralympics: The Unfair Games? - Signed": 1,
+    "My Mum Tracy Beaker - Movie:": 1,
+    "The One Show - 01/03/2022": 1,
+    "Blackbeard the Pirate": 1,
+    "Life of a Mountain - A Year on Helvellyn": 1,
+    "Chicken Man": 1,
+    "CBeebies Bedtime Stories - 2": 1,
+    "Saving Lives at Sea": 1,
+    "Reclaiming Amy - Signed": 1,
+    "Make-up: A Glamorous History": 1,
+    "Songs of Praise - The Duke of Edinburgh": 1,
+    "Weatherman Walking": 1,
+    "Pranked by Superfan Steve - Anne-Marie": 1,
+    "Hey Duggee - Top of the Pups: The Toothbrush Song": 1,
+    "When Nirvana Came to Britain": 1,
+    "DIY Deadly with Steve Backshall": 1,
+    "Question of Sport": 1,
+    "Can't Get You Out of My Head": 1,
+    "Top of the Pops - 13/08/1992": 1,
+    "Mrs Brown's Boys - Christmas Special: Mammy's Ass": 1,
+    "Opry an I\u00fair": 1,
+    "What Just Happened?": 1
   }
 }

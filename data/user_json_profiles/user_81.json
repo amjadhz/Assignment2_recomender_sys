@@ -1,25 +1,185 @@
 {
   "user_preferences": {
-    "Signed": 0
+    "Comedy": 1.0,
+    "From the Archives": 0.25,
+    "Entertainment": 1.0,
+    "Signed": -0.75,
+    "Documentaries": -1.0,
+    "Films": 1.0,
+    "Food": 0.5,
+    "Science & Nature": 1.0
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 9-11 Year Olds - Wellbeing:",
+      "Porridge 2017 - Special",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Cuckoo",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Unpopular Opinion - Will Smith",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Organising Writing",
       "Signed",
       "disliked"
     ],
     [
-      "Rain in My Heart",
+      "Timeshift",
       "Documentaries",
-      "neutral"
+      "liked"
     ],
     [
-      "Hey Duggee - Top of the Pups: Alphabet Song",
+      "Best Of British - Barbara Windsor",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "The Mother",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Operation Ouch! - Ouch Baby:",
       "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Eat the Town",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Call the Midwife - Christmas Special 2014",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Shaun the She",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "The Speedshop",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Natural World - 2008-2009:",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Chris Packham: The Walk That Made Me",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Our World - Barbados: Road to a R",
+      "Documentaries",
       "liked"
+    ],
+    [
+      "Man Alive - Hyde Park",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "P\u00edobair\u00ed Ard Mhacha - The Armagh Pipers",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Countryfile - Review of the Year",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "The Cruise",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "No title found",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "George Best: All by Himself",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Backwashed",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Call the Midwife - Christmas Special 2013",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Holly Hobbie - Songs: More To Life",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - Planet of the Dead",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Afoot Again In The Past - Ickworth House",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Brave New World - Back Home",
+      "Documentaries",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Hey Duggee - Top of the Pups: Alphabet Song": 1
+    "Porridge 2017 - Special": 1,
+    "Unpopular Opinion - Will Smith": 1,
+    "Timeshift": 1,
+    "The Mother": 1,
+    "Operation Ouch! - Ouch Baby:": 1,
+    "Eat the Town": 1,
+    "Call the Midwife - Christmas Special 2014": 1,
+    "Shaun the She": 1,
+    "Chris Packham: The Walk That Made Me": 1,
+    "Our World - Barbados: Road to a R": 1,
+    "P\u00edobair\u00ed Ard Mhacha - The Armagh Pipers": 1,
+    "Countryfile - Review of the Year": 1,
+    "No title found": 1,
+    "George Best: All by Himself": 1,
+    "Backwashed": 1,
+    "Call the Midwife - Christmas Special 2013": 1,
+    "Holly Hobbie - Songs: More To Life": 1,
+    "Doctor Who - Planet of the Dead": 1,
+    "Afoot Again In The Past - Ickworth House": 1
   }
 }

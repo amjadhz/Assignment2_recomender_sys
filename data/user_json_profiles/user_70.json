@@ -1,29 +1,253 @@
 {
   "user_preferences": {
-    "Science & Nature": -1,
-    "Documentaries": -1
+    "From the Archives": 1.5,
+    "Documentaries": 1.5,
+    "Science & Nature": 1.5,
+    "Sports": 0.25,
+    "Signed": 1.5,
+    "History": 0.0,
+    "Entertainment": -1.0,
+    "Music": 0.5,
+    "Comedy": -0.25,
+    "Arts": -0.25
   },
   "user_interactions": [
     [
-      "Countryfile - Holkham",
+      "India with Sanjeev Bhaskar - The Longest Road",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "The Voices in My Head",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Countryfile - Clinton Devon Estates",
       "Science & Nature",
-      "disliked"
+      "liked"
     ],
     [
-      "Blue Peter - Operation Ouch Takeover! - Signed",
+      "Colombia with Simon Reeve",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Out of This World",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "Meet the Red Devils: Parachute Regiment",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "The Football News Show - 23/03/2022",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - The Dark Side of Horse Racing - Signed",
       "Signed",
-      "neutral"
+      "watched",
+      50
     ],
     [
-      "Beauty Laid Bare",
-      "Documentaries",
-      "neutral"
+      "Question Time - 2021: 09/12/2021 - Signed",
+      "Signed",
+      "liked"
     ],
     [
-      "Talent",
+      "Prime Properties - The Earl of Derby",
+      "History",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Alphabet Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Man Alive - Marriage Under Stress 2: Breaking Point",
       "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Best Home Cook",
+      "Entertainment",
       "disliked"
+    ],
+    [
+      "Simon & Garfunkel: Concert in Central Park",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Breakfast with Frost - Donald Rumsfeld",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Inside No. 9 - Live: Dead Line",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "Antiques Road Trip",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 14/03/2022",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Cumbria",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Machair",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Blue Peter - Ice Hockey Challenge and Junior Bake Off Champ! - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "The Next St",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Louis Theroux - Altered States:",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Loop - Shorts: Embroidering Britain\u2019s Lost Bees",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Around the World in 80 Days",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "The Prosecutors - The Babes in the Wood Murders - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Give My Head Peace",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Stars of Wales",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Lily: A Transgender Story - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Horizon - 1997-1998: Mir Mortals",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Wogan - 18/02/1984",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Horizon - 1974-1975: A Time To Be Born",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Scrum V - Live: 2021/2022: Bulls v Scarlets",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley Investigates - The Whale Hunters",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - The Dark Side of Horse Racing",
+      "Documentaries",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "The Voices in My Head": 1,
+    "Countryfile - Clinton Devon Estates": 1,
+    "Colombia with Simon Reeve": 1,
+    "Out of This World": 1,
+    "Meet the Red Devils: Parachute Regiment": 1,
+    "The Football News Show - 23/03/2022": 1,
+    "Panorama - The Dark Side of Horse Racing - Signed": 1,
+    "Question Time - 2021: 09/12/2021 - Signed": 1,
+    "Prime Properties - The Earl of Derby": 1,
+    "Hey Duggee - Top of the Pups: Alphabet Song": 1,
+    "Man Alive - Marriage Under Stress 2: Breaking Point": 1,
+    "Simon & Garfunkel: Concert in Central Park": 1,
+    "Breakfast with Frost - Donald Rumsfeld": 1,
+    "Inside No. 9 - Live: Dead Line": 1,
+    "Antiques Road Trip": 1,
+    "NIFL Premiership Highlights - 2021/2022: 14/03/2022": 1,
+    "Countryfile - Cumbria": 1,
+    "Machair": 1,
+    "Blue Peter - Ice Hockey Challenge and Junior Bake Off Champ! - Signed": 1,
+    "The Next St": 1,
+    "Louis Theroux - Altered States:": 1,
+    "Loop - Shorts: Embroidering Britain\u2019s Lost Bees": 1,
+    "The Prosecutors - The Babes in the Wood Murders - Signed": 1,
+    "Give My Head Peace": 1,
+    "Stars of Wales": 1,
+    "Lily: A Transgender Story - Signed": 1,
+    "Horizon - 1997-1998: Mir Mortals": 1,
+    "Wogan - 18/02/1984": 1,
+    "Horizon - 1974-1975: A Time To Be Born": 1,
+    "Scrum V - Live: 2021/2022: Bulls v Scarlets": 1,
+    "Stacey Dooley Investigates - The Whale Hunters": 1,
+    "Panorama - The Dark Side of Horse Racing": 1
+  }
 }

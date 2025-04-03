@@ -1,49 +1,175 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Comedy": -1,
-    "Music": -1,
-    "Documentaries": 2
+    "Documentaries": 1.5,
+    "Sports": -1.25,
+    "Signed": 1.5,
+    "Science & Nature": 0.0,
+    "From the Archives": 1.5,
+    "Entertainment": -0.25,
+    "CBBC": -1.0
   },
   "user_interactions": [
     [
-      "Cutting It",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "Growing Up Scottish",
-      "Comedy",
-      "disliked"
-    ],
-    [
-      "Phil Collins at the BBC",
-      "Music",
-      "disliked"
-    ],
-    [
-      "We Are England - Belonging: Cornwall's Last Raceway",
+      "One Pair of Eyes - Georgia Brown: Who Are the Cockneys Now?",
       "Documentaries",
       "liked"
     ],
     [
-      "Bitesize Daily: 7-9 Year Olds - Maths: Addition and Subtraction - Signed",
+      "Wheelchair Basketball - 2022: East London Phoenix v Loughborough Lightning",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Bellator MMA - 2022: Sinead Kavanagh vs. Leah McCourt",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - The NHS vs Covid: The Fight Goes On - Signed",
       "Signed",
-      "neutral"
+      "watched",
+      25
     ],
     [
-      "Cannabis: America's 'Green Gold Rush'",
+      "Our World - Nigeria's Kidnapped Children",
       "Documentaries",
       "liked"
     ],
     [
-      "Ivanhoe",
-      "Films",
-      "neutral"
+      "China's Magic Weapon",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Changing Landscapes",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Doctor Who",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Arctic with Bruce Parry",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Attenborough and the Mammoth Graveyard - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Britain's Teenage Drug Runners",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Then Sings My Soul",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Barra's Wild Days Out",
+      "Science & Nature",
+      "skipped"
+    ],
+    [
+      "Undisputed: The Life and Times of Ken Buchanan",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Unpopular Opinion - Will Smith",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Election Scotland 2021 - Leaders\u2019 Debate: 04/05/2021 - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Jacqueline Wilson's Wonderful World",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Trooping the Colour - 1952",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Our World - Merkel's Germany",
+      "Documentaries",
+      "watched",
+      95
+    ],
+    [
+      "Attenborough and the Mammoth Graveyard - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Doctor Who - Voyage of the Damned",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Women's League Cup - 2021/22: Final: Chelsea v Manchester City",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "A Timewatch Guide",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Murder Case",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "HARDtalk - Sathnam Sanghera \u2013 Author and Journalist",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Scrum V - Six Nations 2022: 20/03/2022",
+      "Sports",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "We Are England - Belonging: Cornwall's Last Raceway": 1,
-    "Cannabis: America's 'Green Gold Rush'": 1
+    "One Pair of Eyes - Georgia Brown: Who Are the Cockneys Now?": 1,
+    "Wheelchair Basketball - 2022: East London Phoenix v Loughborough Lightning": 1,
+    "Bellator MMA - 2022: Sinead Kavanagh vs. Leah McCourt": 1,
+    "Panorama - The NHS vs Covid: The Fight Goes On - Signed": 1,
+    "Our World - Nigeria's Kidnapped Children": 1,
+    "China's Magic Weapon": 1,
+    "Changing Landscapes": 1,
+    "Doctor Who": 1,
+    "Arctic with Bruce Parry": 1,
+    "Attenborough and the Mammoth Graveyard - Signed": 2,
+    "Britain's Teenage Drug Runners": 1,
+    "Then Sings My Soul": 1,
+    "Unpopular Opinion - Will Smith": 1,
+    "Election Scotland 2021 - Leaders\u2019 Debate: 04/05/2021 - Signed": 1,
+    "Trooping the Colour - 1952": 1,
+    "Our World - Merkel's Germany": 1,
+    "Doctor Who - Voyage of the Damned": 1,
+    "A Timewatch Guide": 1,
+    "Murder Case": 1,
+    "HARDtalk - Sathnam Sanghera \u2013 Author and Journalist": 1
   }
 }

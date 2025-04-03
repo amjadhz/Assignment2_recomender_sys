@@ -1,25 +1,250 @@
 {
   "user_preferences": {
-    "Comedy": -1,
-    "Science & Nature": -1,
-    "Music": -1
+    "Food": 1.5,
+    "From the Archives": 0.0,
+    "Sports": 0.5,
+    "Documentaries": -0.25,
+    "Entertainment": 0.75,
+    "Signed": 0.75,
+    "Comedy": 0.5,
+    "Science & Nature": 0.5,
+    "Films": 0.5
   },
   "user_interactions": [
     [
-      "Scot Squad - Hogmanay Special",
+      "Lon le Linda",
+      "Food",
+      "liked"
+    ],
+    [
+      "Wogan - 25/12/1984",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The FA Cup - 2021/22: Fifth Round: Luton Town v Chelsea",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Talent",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley - Face to Face with Isis",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "I'm Not Driving That With Ali-A",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Molly and Mack - Songs: Come on In",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Happy New Year Live! - 2022",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "This Country",
       "Comedy",
-      "disliked"
+      "watched",
+      75
     ],
     [
-      "Click - Short Edition - 21/08/2021",
+      "Countryfile - Highlands Rewilding",
       "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Daydreams - Little Daydreams:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Odd Squad: The Movie",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Bates Motel",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Arena - Chelsea Hotel",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Iraq's Extreme Heat and Water Shortages",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Top Gear - N",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Dementia & Us",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Rory's Way",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Almost Never - Story So Far",
+      "Signed",
       "disliked"
     ],
     [
-      "Canadian Hits at the BBC",
-      "Music",
+      "Waiting For Work",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Saturday Kitchen - Countdown to Christmas: 18/12/2021",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "Scrum V - Six Nations 2022: 27/02/2022",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Horizon - 2012-2013:",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Malory Towers",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "A Countryside Christmas",
+      "Food",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Apostrophes",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "The Fires that Foretold Grenfell - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Siya Kolisi: The Journey of a Champion",
+      "Sports",
       "disliked"
+    ],
+    [
+      "Man Alive - Marriage Under Stress 2: Breaking Point",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Hot Property",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Almost Never - Access All Areas:",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 29/03/2021 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "TikTok Queen at 16",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Super League Show - 2022: 21/03/2022",
+      "Sports",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Lon le Linda": 1,
+    "Wogan - 25/12/1984": 1,
+    "The FA Cup - 2021/22: Fifth Round: Luton Town v Chelsea": 1,
+    "Talent": 1,
+    "I'm Not Driving That With Ali-A": 1,
+    "Molly and Mack - Songs: Come on In": 1,
+    "Happy New Year Live! - 2022": 1,
+    "This Country": 1,
+    "Countryfile - Highlands Rewilding": 1,
+    "Daydreams - Little Daydreams:": 1,
+    "Odd Squad: The Movie": 1,
+    "Bates Motel": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers": 1,
+    "Arena - Chelsea Hotel": 1,
+    "Life at 50\u00b0C - Shorts: Iraq's Extreme Heat and Water Shortages": 1,
+    "Top Gear - N": 1,
+    "Dementia & Us": 1,
+    "Rory's Way": 1,
+    "Waiting For Work": 1,
+    "Saturday Kitchen - Countdown to Christmas: 18/12/2021": 1,
+    "Scrum V - Six Nations 2022: 27/02/2022": 1,
+    "Horizon - 2012-2013:": 1,
+    "Malory Towers": 1,
+    "A Countryside Christmas": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Apostrophes": 1,
+    "The Fires that Foretold Grenfell - Signed": 1,
+    "Man Alive - Marriage Under Stress 2: Breaking Point": 1,
+    "Hot Property": 1,
+    "BBC News Special - Coronavirus Update: 29/03/2021 - Signed": 1,
+    "TikTok Queen at 16": 1,
+    "Super League Show - 2022: 21/03/2022": 1
+  }
 }

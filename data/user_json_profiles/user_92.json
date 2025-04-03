@@ -1,37 +1,218 @@
 {
   "user_preferences": {
-    "Documentaries": 2,
-    "Sports": -1
+    "Signed": 1.5,
+    "Documentaries": 1.5,
+    "Music": -0.5,
+    "From the Archives": 1.5,
+    "Comedy": 0.5,
+    "Entertainment": 0.0,
+    "Arts": -0.5,
+    "Sports": 0.25
   },
   "user_interactions": [
     [
-      "Click - Merry Clickmas",
-      "Science & Nature",
-      "neutral"
+      "Our NHS: A Hidden History - Signed",
+      "Signed",
+      "watched",
+      25
     ],
     [
-      "We Are England - Mental Health: Nature on My Mind \u2013 Somerset",
+      "The Green Planet",
       "Documentaries",
-      "liked"
+      "watched",
+      50
     ],
     [
-      "Blair & Brown: The New Labour Revolution",
+      "Leo: Becoming a Trans Man",
       "Documentaries",
-      "liked"
+      "watched",
+      10
     ],
     [
-      "Scottish Women's Premier League 2021-22 - Glasgow City v",
-      "Sports",
+      "Rock 'n' Roll Highway",
+      "Music",
       "disliked"
     ],
     [
-      "Loop - Shorts: The Art of \u2018Boylesque\u2019",
+      "BBC Music Introducing - The BME Sessions: Arlo Parks - Cola",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "More Dawn French's Boys Who Do: Comedy",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Measuring Mass: The Last Artefact",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Educating Rita",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Storyville - Dark Secrets of a Trillion Dollar Island: Garenne",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "MasterChef",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Tree Fu Tom",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Brave New World",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Loop - Shorts: Plastic Waste Motivated Me To Create Sustainable Furniture",
       "Arts",
-      "neutral"
+      "skipped"
+    ],
+    [
+      "Marcus Wareing's Tales from a Kitchen Garden",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "EastEnders 2010 - 23/11/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Hey! Diddle, Diddle",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Sir Mortimer and Magnus",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Sportscene - 2021/22: Dunfermline v",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Armchair Voyage: Hellenic Cruise",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Putin, Russia and the West",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "We Are England - Farming England: The Crisp Farmers - Hereford",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Slipknot Unmasked: All Out Life",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Radio 1's Live Lounge - Anderson .Paak",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Music 10-11 Year Olds:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Zoo Quest - Zoo Quest for a Dragon:",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "My Family - Ho Ho No",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Six Nations Rugby - 2022: Wales v France",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Survivors: Portraits of the Holocaust - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Inspector Montalbano - The Voice of the Violin",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Baby Club - Songs: The Goodbye Song",
+      "Signed",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "We Are England - Mental Health: Nature on My Mind \u2013 Somerset": 1,
-    "Blair & Brown: The New Labour Revolution": 1
+    "Our NHS: A Hidden History - Signed": 1,
+    "The Green Planet": 1,
+    "Leo: Becoming a Trans Man": 1,
+    "BBC Music Introducing - The BME Sessions: Arlo Parks - Cola": 1,
+    "More Dawn French's Boys Who Do: Comedy": 1,
+    "Measuring Mass: The Last Artefact": 1,
+    "Educating Rita": 1,
+    "Storyville - Dark Secrets of a Trillion Dollar Island: Garenne": 1,
+    "MasterChef": 1,
+    "Tree Fu Tom": 1,
+    "Brave New World": 1,
+    "EastEnders 2010 - 23/11/2009": 1,
+    "Hey Duggee - Top of the Pups: Hey! Diddle, Diddle": 1,
+    "Sir Mortimer and Magnus": 1,
+    "Sportscene - 2021/22: Dunfermline v": 1,
+    "Armchair Voyage: Hellenic Cruise": 1,
+    "Putin, Russia and the West": 1,
+    "We Are England - Farming England: The Crisp Farmers - Hereford": 1,
+    "Slipknot Unmasked: All Out Life": 1,
+    "Radio 1's Live Lounge - Anderson .Paak": 1,
+    "Bitesize Daily: 9-11 Year Olds - Music 10-11 Year Olds:": 1,
+    "Zoo Quest - Zoo Quest for a Dragon:": 1,
+    "My Family - Ho Ho No": 1,
+    "Six Nations Rugby - 2022: Wales v France": 1,
+    "Survivors: Portraits of the Holocaust - Signed": 1,
+    "Inspector Montalbano - The Voice of the Violin": 1,
+    "The Baby Club - Songs: The Goodbye Song": 1
   }
 }

@@ -1,30 +1,200 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Arts": -1,
-    "Science & Nature": -1
+    "Documentaries": 1.5,
+    "Sports": 1.5,
+    "CBBC": 1.5,
+    "Food": 0.0,
+    "From the Archives": 0.5,
+    "Entertainment": 0.0,
+    "Signed": 0.5,
+    "Comedy": 0.5,
+    "Films": -0.25
   },
   "user_interactions": [
     [
-      "CBeebies Bedtime Stories - 6",
-      "Signed",
-      "neutral"
+      "Bent Coppers: Crossing the Line of Duty",
+      "Documentaries",
+      "watched",
+      25
     ],
     [
-      "Face to Face - Bertrand Russell",
+      "Bellator MMA - 2021: Rewind: Lima v MVP",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Foot and Mouth - The Killing Fields in Wales",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Would You Rather",
+      "CBBC",
+      "watched",
+      75
+    ],
+    [
+      "Snooker: Welsh Open - Live: Trump v Steadman - uninterrupted",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Delia Smith's Cookery Course",
+      "Food",
+      "disliked"
+    ],
+    [
+      "Doctor Who - The Day of the Doctor",
       "From the Archives",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Searching for Sam: Adrian Dunbar on Samuel Beckett",
-      "Arts",
-      "disliked"
+      "Zoo Quest - Zoo Quest for a Dragon:",
+      "Documentaries",
+      "watched",
+      10
     ],
     [
-      "Global Climate Debate",
-      "Science & Nature",
-      "disliked"
+      "Rollermania: Britain's Biggest Boy Band",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Got What It Takes?",
+      "CBBC",
+      "liked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 28/12/2021",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "The Apprentice Australia - 2021: Final Task",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Fighting the Power: Britain after George Floyd",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "We Are England - Made in England: The 007 Shoe Factory - Northampton",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Hey! Diddle, Diddle",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Blue Peter - Blue Peter: Red Nose Day Spectacular! - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "On Call to a Nation",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Man Alive - Consenting Adults 1: The Men",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Suburbicon",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "The Apprentice Australia - 2021:",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "NIFL Premiership Highlights - 2020/21: 26/04/2021",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Our World - Lebanon on Life Support",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Arena - Everything Is Connected - George Eliot's Life",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Century of the Self",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "A Farewell to Arms",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Rio and Kate: Becoming a St",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Lorraine's Fast, Fresh and Easy Food",
+      "Food",
+      "liked"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Bent Coppers: Crossing the Line of Duty": 1,
+    "Bellator MMA - 2021: Rewind: Lima v MVP": 1,
+    "Foot and Mouth - The Killing Fields in Wales": 1,
+    "Would You Rather": 1,
+    "Snooker: Welsh Open - Live: Trump v Steadman - uninterrupted": 1,
+    "Doctor Who - The Day of the Doctor": 1,
+    "Zoo Quest - Zoo Quest for a Dragon:": 1,
+    "Rollermania: Britain's Biggest Boy Band": 1,
+    "Got What It Takes?": 1,
+    "NIFL Premiership Highlights - 2021/2022: 28/12/2021": 1,
+    "The Apprentice Australia - 2021: Final Task": 1,
+    "Fighting the Power: Britain after George Floyd": 1,
+    "We Are England - Made in England: The 007 Shoe Factory - Northampton": 1,
+    "Hey Duggee - Top of the Pups: Hey! Diddle, Diddle": 1,
+    "Blue Peter - Blue Peter: Red Nose Day Spectacular! - Signed": 1,
+    "On Call to a Nation": 1,
+    "Man Alive - Consenting Adults 1: The Men": 1,
+    "Suburbicon": 1,
+    "The Apprentice Australia - 2021:": 1,
+    "NIFL Premiership Highlights - 2020/21: 26/04/2021": 1,
+    "Our World - Lebanon on Life Support": 1,
+    "Arena - Everything Is Connected - George Eliot's Life": 1,
+    "The Century of the Self": 1,
+    "A Farewell to Arms": 1,
+    "Rio and Kate: Becoming a St": 1,
+    "Lorraine's Fast, Fresh and Easy Food": 1
+  }
 }

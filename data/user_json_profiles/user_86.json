@@ -1,43 +1,189 @@
 {
   "user_preferences": {
-    "Entertainment": -1,
-    "CBBC": 1,
-    "Documentaries": -2,
-    "Signed": -1
+    "From the Archives": 1.0,
+    "Documentaries": 1.5,
+    "Arts": 0.25,
+    "Sports": 0.0,
+    "Signed": 1.5,
+    "Science & Nature": 1.5,
+    "Entertainment": 0.5,
+    "Comedy": -0.5
   },
   "user_interactions": [
     [
-      "Parkinson - Dr Jacob Bronowski",
-      "Entertainment",
-      "disliked"
-    ],
-    [
-      "Taste - Getting to the Point",
+      "The Computer Programme",
       "From the Archives",
-      "neutral"
+      "watched",
+      50
     ],
     [
-      "Got What It Takes?",
-      "CBBC",
+      "BBC Wales Investigates - Rugby - The Cost of Concussion",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "BBC Arts - The 2021 Turner Prize",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Reggie Yates' Extreme - Russia:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Scrum V - Live: 2021/2022: Wales U20s v Italy U20s",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Countryfile - Holkham",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "EastEnders 2010 - 31/12/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Edit",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Panorama - NHS: Wait or Pay?",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Ladhood",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "1Xtra - Made In Britain: Grime",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Changing Landscapes",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Click - 16/10/2021",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "EastEnders 2010 - 23/11/2009",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "The Mayfair Set",
+      "Documentaries",
       "liked"
     ],
     [
-      "Earth\u2019s Tropical Islands",
-      "Documentaries",
-      "disliked"
+      "Countryfile - County Down",
+      "Science & Nature",
+      "liked"
     ],
     [
-      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Drawing and Moving 2D Shapes",
+      "Click - Short Edition - 22/01/2022",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Rio and Kate: Becoming a St",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Numberblocks - Numbersongs: How Many Passengers?",
       "Signed",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Ours to Ke",
+      "Waiting For Work",
       "Documentaries",
-      "disliked"
+      "skipped"
+    ],
+    [
+      "New Creatives - Greenlight",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "The Baby Club - Songs: The Goodbye Song",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Panorama - Wild Weather: Our World Under Threat - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Geography 7-8 Year Olds:",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Bellator MMA - 2021: Ryan Bader vs. Corey Anderson",
+      "Sports",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Got What It Takes?": 1
+    "The Computer Programme": 1,
+    "BBC Wales Investigates - Rugby - The Cost of Concussion": 1,
+    "BBC Arts - The 2021 Turner Prize": 1,
+    "Reggie Yates' Extreme - Russia:": 1,
+    "Scrum V - Live: 2021/2022: Wales U20s v Italy U20s": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers": 1,
+    "Countryfile - Holkham": 1,
+    "EastEnders 2010 - 31/12/2009": 1,
+    "The Edit": 1,
+    "Panorama - NHS: Wait or Pay?": 1,
+    "1Xtra - Made In Britain: Grime": 1,
+    "Changing Landscapes": 1,
+    "Click - 16/10/2021": 1,
+    "EastEnders 2010 - 23/11/2009": 1,
+    "The Mayfair Set": 1,
+    "Countryfile - County Down": 1,
+    "Click - Short Edition - 22/01/2022": 1,
+    "Rio and Kate: Becoming a St": 1,
+    "Numberblocks - Numbersongs: How Many Passengers?": 1,
+    "New Creatives - Greenlight": 1,
+    "Panorama - Wild Weather: Our World Under Threat - Signed": 1,
+    "Bitesize Daily: 7-9 Year Olds - Geography 7-8 Year Olds:": 1,
+    "Bellator MMA - 2021: Ryan Bader vs. Corey Anderson": 1
   }
 }

@@ -1,38 +1,207 @@
 {
   "user_preferences": {
-    "Documentaries": 2,
-    "Signed": -1,
-    "Science & Nature": -1
+    "Music": -1.25,
+    "From the Archives": -0.25,
+    "CBBC": 1.0,
+    "Signed": 0.5,
+    "Documentaries": 0.25,
+    "Sports": 1.0,
+    "Entertainment": 1.25,
+    "Films": 0.0,
+    "Food": 0.0,
+    "Comedy": -0.5
   },
   "user_interactions": [
     [
-      "Classic British Cars: Made in Coventry",
-      "Documentaries",
+      "Ceol le Toal",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Last Tango in Halifax",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Pok\u00e9mon: Black and White",
+      "CBBC",
       "liked"
     ],
     [
-      "Countryfile - One Man and His Dog 2021 - Signed",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "Jamie Johnson - Extras: Top Ten Cast Skills",
-      "Signed",
+      "Country Christmas - 2021",
+      "Music",
       "disliked"
     ],
     [
-      "Fight for First: Excel Esports",
+      "BBC News Special - Coronavirus Update: 15/11/2021",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Panorama - The Electric Car Revolution: Winners and Losers",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "R.E.M. at the BBC",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Andy and the Band - Specials: Odd Socks Save Christmas",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Storyville - Price of Gold",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Tennis: Tie Break Tens Highlights",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Stacey Dooley Investigates - Shot by My Neighbour",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The One Show - 15/03/2022",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Bodies",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Rock Till We Drop",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Anne of Green Gables",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "School of Roars",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Radio 1's Live Lounge - Holly Humberstone",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Review of the Year - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Joey Essex: Grief and Me",
       "Documentaries",
       "liked"
     ],
     [
-      "Countryfile - Bristol's Last Farm",
-      "Science & Nature",
+      "Nadiya's Time to Eat",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Elizabeth & Philip: Love and Duty",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Royal Edinburgh Military Tattoo - Celebrating 70 Years",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Movies With Ali Plumb - Movies That Made Me 3",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Arena - Painted with My Hair",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Pandemonium",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "The Late Show - Face to Face: Ken Dodd",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Gloria Bell",
+      "Comedy",
+      "disliked"
+    ],
+    [
+      "Man Alive - Packing Up and Moving Out",
+      "Documentaries",
       "disliked"
     ]
   ],
   "watch_counts": {
-    "Classic British Cars: Made in Coventry": 1,
-    "Fight for First: Excel Esports": 1
+    "Ceol le Toal": 1,
+    "Last Tango in Halifax": 1,
+    "Pok\u00e9mon: Black and White": 1,
+    "Panorama - The Electric Car Revolution: Winners and Losers": 1,
+    "R.E.M. at the BBC": 1,
+    "Andy and the Band - Specials: Odd Socks Save Christmas": 1,
+    "Storyville - Price of Gold": 1,
+    "Tennis: Tie Break Tens Highlights": 1,
+    "Stacey Dooley Investigates - Shot by My Neighbour": 1,
+    "The One Show - 15/03/2022": 1,
+    "Bodies": 1,
+    "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed": 1,
+    "Rock Till We Drop": 1,
+    "Anne of Green Gables": 1,
+    "School of Roars": 1,
+    "Radio 1's Live Lounge - Holly Humberstone": 1,
+    "Countryfile - Review of the Year - Signed": 1,
+    "Joey Essex: Grief and Me": 1,
+    "Nadiya's Time to Eat": 1,
+    "Elizabeth & Philip: Love and Duty": 1,
+    "The Royal Edinburgh Military Tattoo - Celebrating 70 Years": 1,
+    "Movies With Ali Plumb - Movies That Made Me 3": 1,
+    "Arena - Painted with My Hair": 1,
+    "Pandemonium": 1
   }
 }

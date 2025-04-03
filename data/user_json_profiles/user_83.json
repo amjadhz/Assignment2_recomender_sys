@@ -1,24 +1,229 @@
 {
   "user_preferences": {
-    "Entertainment": -1,
-    "Signed": -1
+    "Food": 0.5,
+    "Signed": 0.25,
+    "Sports": 0.5,
+    "Documentaries": 1.5,
+    "From the Archives": 0.75,
+    "Entertainment": 1.5,
+    "Comedy": 1.0,
+    "Arts": 1.0,
+    "Films": -0.25,
+    "CBBC": 0.5
   },
   "user_interactions": [
     [
-      "Ceilidh na Bliadhn' Uire 2021 - Seudan",
-      "Entertainment",
-      "disliked"
+      "Saturday Kitchen Best Bites - 20/03/2022",
+      "Food",
+      "watched",
+      50
     ],
     [
-      "Inside Story - \u00a3830,000,000 - Nick Leeson and the Fall of the House of Barings",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "Lights Up - Orpheus in the Record Shop",
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles",
       "Signed",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "Why Ships Crash - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Songs: The Snow Queen: No Queen Better",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 08/11/2021",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Can You Beat The Bookies?",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Inside Culture",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Trooping the Colour - Highlights 2021",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "My Family - Ding Dong Merrily",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "The Perfect Morecambe & Wise",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "LUSH! Classical",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Countryfile - Community Farm, Herefordshire - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Surviving 9/11 - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Question Time - 2021: 18/11/2021 - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "HEIST",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Culture in Quarantine - Earth To Alice",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Toothbrush Song",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Rancho Notorious",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Glasgow City v",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Earth from Space",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Wellbeing: 1",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Little Prankers",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Monster Court",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "Classic British Cars: Made in Coventry",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Our World - Australia's Wildlife: After the Fires",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Innuendo Bingo - Lewis Capaldi",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Female Filmmakers Too: BBC Introducing Arts",
+      "Arts",
+      "liked"
+    ],
+    [
+      "The Time Of Your Life",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "We Are England - Sporting Heroes: Football Fat Fighters - Carlisle",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "EastEnders 2010 - 21/12/2009",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Tee and Mo - Tee and Mo Song Time: Help our Little World",
+      "Signed",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Saturday Kitchen Best Bites - 20/03/2022": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles": 1,
+    "Why Ships Crash - Signed": 1,
+    "CBeebies Presents - Songs: The Snow Queen: No Queen Better": 1,
+    "NIFL Premiership Highlights - 2021/2022: 08/11/2021": 1,
+    "Can You Beat The Bookies?": 1,
+    "Inside Culture": 1,
+    "Trooping the Colour - Highlights 2021": 1,
+    "My Family - Ding Dong Merrily": 1,
+    "The Perfect Morecambe & Wise": 1,
+    "LUSH! Classical": 1,
+    "Countryfile - Community Farm, Herefordshire - Signed": 1,
+    "Surviving 9/11 - Signed": 1,
+    "Question Time - 2021: 18/11/2021 - Signed": 1,
+    "HEIST": 1,
+    "Culture in Quarantine - Earth To Alice": 1,
+    "Hey Duggee - Top of the Pups: The Toothbrush Song": 1,
+    "Rancho Notorious": 1,
+    "Scottish Women's Premier League 2021-22 - Glasgow City v": 1,
+    "Earth from Space": 1,
+    "Bitesize Daily: 9-11 Year Olds - Wellbeing: 1": 1,
+    "Little Prankers": 1,
+    "Monster Court": 1,
+    "Classic British Cars: Made in Coventry": 1,
+    "Our World - Australia's Wildlife: After the Fires": 1,
+    "Innuendo Bingo - Lewis Capaldi": 1,
+    "Female Filmmakers Too: BBC Introducing Arts": 1,
+    "The Time Of Your Life": 1,
+    "We Are England - Sporting Heroes: Football Fat Fighters - Carlisle": 1,
+    "EastEnders 2010 - 21/12/2009": 1,
+    "Tee and Mo - Tee and Mo Song Time: Help our Little World": 1
+  }
 }

@@ -1,32 +1,229 @@
 {
   "user_preferences": {
-    "Signed": -2,
-    "Documentaries": 2
+    "CBBC": 0.5,
+    "Signed": 1.5,
+    "Documentaries": 1.5,
+    "Comedy": 0.0,
+    "Sports": 1.0,
+    "Arts": 0.5,
+    "Entertainment": -0.25,
+    "Music": -0.5,
+    "Science & Nature": 0.0,
+    "From the Archives": 0.25
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Types of Words",
-      "Signed",
-      "disliked"
+      "Our CBBC",
+      "CBBC",
+      "watched",
+      50
     ],
     [
-      "Numberblocks - Numbersongs: Counting Cars",
+      "Your Home Made Perfect",
       "Signed",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Miss World 1970: Beauty Queens and Bedlam",
+      "Animals with Cameras",
       "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Jay Blades: Learning to Read at 51",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Big Sick",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Irish League Football Live - Carrick Rangers v Larne",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley Investigates - Russia's War on Women",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "No title found",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Science 7-8 Year-Olds: Light",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "New Creatives - It\u2019s Raining, It\u2019s Pouring",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Unpopular Opinion - Jake Gyllenhaal and Tom Holland",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Waterhole: Africa's Animal Oasis",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Pavarotti in Hyde Park",
+      "Music",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Click - I Am Not a Robot, Or Am I?",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds:",
+      "Signed",
       "liked"
     ],
     [
-      "Tuesday Documentary - The Block",
+      "Our World - Inside the Taliban Regime",
       "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Culture in Quarantine - Get Creative at Home Masterclasses: Antony Gormley",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Trump in Tweets",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Lily: A Transgender Story",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Bath Time",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Beardsley and his Work",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Queer Britain",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Time for School - Songs: Let's Make Friends",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Mrs Brown's Boys - 2021 Specials:",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Snooker: Welsh Open - Live: Semi-final Uninterrupted",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Boulez at 80",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Our World - Killing Hope: Targeted Attacks in Afghanistan",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Jingle Bells",
+      "Signed",
       "liked"
+    ],
+    [
+      "The Worst Witch",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Blending Letters",
+      "Signed",
+      "watched",
+      50
     ]
   ],
   "watch_counts": {
-    "Miss World 1970: Beauty Queens and Bedlam": 1,
-    "Tuesday Documentary - The Block": 1
+    "Our CBBC": 1,
+    "Your Home Made Perfect": 1,
+    "Animals with Cameras": 1,
+    "Jay Blades: Learning to Read at 51": 1,
+    "The Big Sick": 1,
+    "Irish League Football Live - Carrick Rangers v Larne": 1,
+    "Stacey Dooley Investigates - Russia's War on Women": 1,
+    "No title found": 1,
+    "Bitesize Daily: 7-9 Year Olds - Science 7-8 Year-Olds: Light": 1,
+    "New Creatives - It\u2019s Raining, It\u2019s Pouring": 1,
+    "Unpopular Opinion - Jake Gyllenhaal and Tom Holland": 1,
+    "Waterhole: Africa's Animal Oasis": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles": 1,
+    "Click - I Am Not a Robot, Or Am I?": 1,
+    "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds:": 1,
+    "Our World - Inside the Taliban Regime": 1,
+    "Culture in Quarantine - Get Creative at Home Masterclasses: Antony Gormley": 1,
+    "Trump in Tweets": 1,
+    "Lily: A Transgender Story": 1,
+    "Hey Duggee - Top of the Pups: Bath Time": 1,
+    "Beardsley and his Work": 1,
+    "Time for School - Songs: Let's Make Friends": 1,
+    "Mrs Brown's Boys - 2021 Specials:": 1,
+    "Snooker: Welsh Open - Live: Semi-final Uninterrupted": 1,
+    "Boulez at 80": 1,
+    "Our World - Killing Hope: Targeted Attacks in Afghanistan": 1,
+    "Hey Duggee - Top of the Pups: Jingle Bells": 1,
+    "The Worst Witch": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Blending Letters": 1
   }
 }

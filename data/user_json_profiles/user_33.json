@@ -1,23 +1,216 @@
 {
   "user_preferences": {
-    "Science & Nature": -1
+    "Documentaries": -1.25,
+    "From the Archives": 1.5,
+    "Signed": -0.25,
+    "Comedy": -0.75,
+    "Science & Nature": -0.5,
+    "Music": 0.0,
+    "CBBC": 1.0,
+    "Films": 0.5
   },
   "user_interactions": [
     [
-      "Click - Short Edition - 16/10/2021",
-      "Science & Nature",
+      "Louis Theroux - A Place for Paedophiles",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Once Were Lions",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Machair",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Stormont: From Parliament to Power Sharing",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Five Speckled Frogs",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Amazing Hotels: Life Beyond the Lobby",
+      "Documentaries",
       "disliked"
     ],
     [
-      "TT3D: Closer To The Edge",
-      "Sports",
-      "neutral"
+      "Hey Duggee - Top of the Pups: Heads, Shoulders, Knees and Toes",
+      "Signed",
+      "watched",
+      75
     ],
     [
-      "The Regiment",
+      "Defence of the Realm",
       "Documentaries",
-      "neutral"
+      "skipped"
+    ],
+    [
+      "Romesh: Talking to Comedians - In Caffs About Growing Up",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "The Lakes with Paul Rose",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 10/05/2021 - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Nighty Night",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Bodyhack: Metal Gear Man",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Storyville - Afghan Cricket Club - Out of the Ashes",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Yorkshire Firefighters",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Inspector Montalbano - Excursion to Tindari",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Brian Cox's Adventures in Space and Time",
+      "Science & Nature",
+      "skipped"
+    ],
+    [
+      "Cheaters",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "Finding Jack Charlton - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "PTSD: The War in My Head",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "India with Sanjeev Bhaskar - A Camel Called Sanjeev",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "We Are England - A Place Called Home: Van Life - Bristol",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Liz Lawrence - None Of My Friends",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - Who\u2019s Protecting Our Kids?",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Witnessing India's Covid Crisis",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Dating's Dangerous Secrets",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Millie Inbetween - Specials:",
+      "CBBC",
+      "liked"
+    ],
+    [
+      "Storyville - Undercover OAP: The Mole Agent",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Curse of the Cat People",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing: 1",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Ovie: Life after Reality TV",
+      "Documentaries",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Louis Theroux - A Place for Paedophiles": 1,
+    "Once Were Lions": 1,
+    "Machair": 1,
+    "Stormont: From Parliament to Power Sharing": 1,
+    "Hey Duggee - Top of the Pups: Five Speckled Frogs": 1,
+    "Hey Duggee - Top of the Pups: Heads, Shoulders, Knees and Toes": 1,
+    "Romesh: Talking to Comedians - In Caffs About Growing Up": 1,
+    "The Lakes with Paul Rose": 1,
+    "BBC News Special - Coronavirus Update: 10/05/2021 - Signed": 1,
+    "Nighty Night": 1,
+    "Bodyhack: Metal Gear Man": 1,
+    "Storyville - Afghan Cricket Club - Out of the Ashes": 1,
+    "Inspector Montalbano - Excursion to Tindari": 1,
+    "Finding Jack Charlton - Signed": 1,
+    "PTSD: The War in My Head": 1,
+    "India with Sanjeev Bhaskar - A Camel Called Sanjeev": 1,
+    "We Are England - A Place Called Home: Van Life - Bristol": 1,
+    "BBC Music Introducing - The BME Sessions: Liz Lawrence - None Of My Friends": 1,
+    "Panorama - Who\u2019s Protecting Our Kids?": 1,
+    "Dating's Dangerous Secrets": 1,
+    "Millie Inbetween - Specials:": 1,
+    "Storyville - Undercover OAP: The Mole Agent": 1,
+    "The Curse of the Cat People": 1,
+    "Ovie: Life after Reality TV": 1
+  }
 }

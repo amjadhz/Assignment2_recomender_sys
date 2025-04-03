@@ -1,33 +1,235 @@
 {
   "user_preferences": {
-    "Documentaries": -2
+    "Entertainment": 0.5,
+    "Films": 0.5,
+    "Documentaries": 1.5,
+    "CBBC": -0.25,
+    "Science & Nature": 0.5,
+    "From the Archives": 0.25,
+    "Comedy": -0.5,
+    "Signed": 1.0,
+    "Arts": -0.25,
+    "Sports": 1.0,
+    "Music": -0.5
   },
   "user_interactions": [
     [
-      "Winter Walks",
-      "Documentaries",
-      "disliked"
+      "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special",
+      "Entertainment",
+      "watched",
+      50
     ],
     [
-      "Black and British: A Forgotten History",
-      "Documentaries",
-      "neutral"
+      "Blind Ambition",
+      "Films",
+      "skipped"
     ],
     [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - The Difference Between Fiction and Non-Fiction",
+      "My Family, the Holocaust and Me",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Bruce Springsteen: A Secret History",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Racism in the Ranks",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "My Mum Tracy Beaker - Movie:",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Incredible Journeys with Simon Reeve",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Raiders of the Lost Past with Janina Ramirez",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 22/01/2022",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Pointless",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Mrs Brown's Boys - Christmas Specials 2015:",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Our World - Australia's Wildlife: After the Fires",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Serengeti II",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Emma",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Two Doors Down",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "Death in Paradise - Christmas Special",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "BBC Children in Need - 2021: Northern Ireland's Best Bits",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Dementia & Us",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Greetings from Scotland",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Gloria: My Life on TV",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "We Are England - Belonging: The Real Vicars of Dibley",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "We Are England - A Place Called Home: Students in Suburbia - Newcastle",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "The Sun Is Also a Star",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Ballets: Three Little Pigs: A CBeebies Ballet",
       "Signed",
-      "neutral"
+      "watched",
+      50
     ],
     [
-      "Stacey Dooley Investigates - Young Sex for Sale in Japan",
+      "Whiskey Talkin'",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Born to Be Wild",
+      "Loop - Shorts: Loop - Creating Classical Portraiture for the Next Generation",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Match of the Day Top 10",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Arena - The Burger and the King",
       "Documentaries",
-      "neutral"
+      "watched",
+      25
+    ],
+    [
+      "Ireland\u2019s Greatest Small Music Festival: Other Voices",
+      "Music",
+      "skipped"
+    ],
+    [
+      "My Mum Tracy Beaker",
+      "CBBC",
+      "watched",
+      10
+    ],
+    [
+      "Question Time - 2022: 27/01/2022 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Kicked Out: From Care to Chaos",
+      "Documentaries",
+      "watched",
+      10
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special": 1,
+    "Bruce Springsteen: A Secret History": 1,
+    "Racism in the Ranks": 1,
+    "My Mum Tracy Beaker - Movie:": 1,
+    "Incredible Journeys with Simon Reeve": 1,
+    "Raiders of the Lost Past with Janina Ramirez": 1,
+    "Click - Short Edition - 22/01/2022": 1,
+    "Pointless": 1,
+    "Our World - Australia's Wildlife: After the Fires": 1,
+    "Serengeti II": 1,
+    "Emma": 1,
+    "Death in Paradise - Christmas Special": 1,
+    "BBC Children in Need - 2021: Northern Ireland's Best Bits": 1,
+    "Dementia & Us": 1,
+    "Greetings from Scotland": 1,
+    "Gloria: My Life on TV": 1,
+    "We Are England - A Place Called Home: Students in Suburbia - Newcastle": 1,
+    "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era": 1,
+    "The Sun Is Also a Star": 1,
+    "CBeebies Presents - Ballets: Three Little Pigs: A CBeebies Ballet": 1,
+    "Whiskey Talkin'": 1,
+    "Loop - Shorts: Loop - Creating Classical Portraiture for the Next Generation": 1,
+    "Match of the Day Top 10": 1,
+    "Arena - The Burger and the King": 1,
+    "My Mum Tracy Beaker": 1,
+    "Question Time - 2022: 27/01/2022 - Signed": 1,
+    "Kicked Out: From Care to Chaos": 1
+  }
 }

@@ -1,45 +1,239 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Signed": -1,
-    "Documentaries": -1
+    "From the Archives": 1.0,
+    "Signed": 1.5,
+    "Food": -0.25,
+    "Arts": 0.5,
+    "Documentaries": 1.5,
+    "Sports": -0.25,
+    "Comedy": -0.25,
+    "Films": 0.0,
+    "Science & Nature": -0.25,
+    "Entertainment": -0.25
   },
   "user_interactions": [
     [
-      "I Am A Men's Rights Activist",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "dinnerladies",
+      "The Royle Family - The Queen of Sheba",
       "From the Archives",
       "disliked"
     ],
     [
-      "Messy Goes to OKIDO - Songs: Gravity",
+      "Four Hours at the Capitol - Signed",
       "Signed",
-      "disliked"
+      "skipped"
     ],
     [
-      "My Family - The Heart of Christmas",
-      "From the Archives",
-      "neutral"
-    ],
-    [
-      "Storyville - Carlos Ghosn: The Last Flight",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "MasterChef: The Professionals - Rematch 2018",
+      "Saturday Kitchen - 24/07/2021",
       "Food",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "Measuring Mass: The Last Artefact",
+      "BBC News Special - Coronavirus Update: 21/02/2022",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "CBeebies Presents - Stage Shows: Alice in Wonderland",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Loop - Shorts: Rebuilding Lives by Building Guitars",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - The NHS vs Covid: The Fight Goes On",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "Torchwood",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Inside Games - Shorts:",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Super League Show - 2022: 07/03/2022",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "The Black American Fight for Freedom - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "The Mind of Herbert Clunkerdunk - Pilot",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "Amazing Hotels: Life Beyond the Lobby",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Brian Friel: Shy Man, Showman",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Forensics: The Real CSI",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Here We Go Round the Mulberry Bush",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Storyville - Being Evel Knievel",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "One Man and His Shoes",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Rigs of Nigg",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "My Unique B&B",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Click - Short Edition - 08/01/2022",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "The Joe Wicks Podcast - Daniel Ricciardo: I Love the Rush",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Tuesday Documentary - The Ealing Comedies",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "HARDtalk - Kathleen Stock, Philosopher and Author",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Zara McDermott - Revenge Porn",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Go Jetters - Songs: Lars is Gonna Fix It",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Miranda - Specials:",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Attenborough's Wonder of Song - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Decision 79 - The Morning After",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Bury: Bringing Football Back",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Life on Earth",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "When Ruby Wax Met...",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Arena - Agatha Christie - Unfinished Portrait",
+      "Documentaries",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Saturday Kitchen - 24/07/2021": 1,
+    "BBC News Special - Coronavirus Update: 21/02/2022": 1,
+    "CBeebies Presents - Stage Shows: Alice in Wonderland": 1,
+    "Loop - Shorts: Rebuilding Lives by Building Guitars": 1,
+    "Panorama - The NHS vs Covid: The Fight Goes On": 1,
+    "Torchwood": 1,
+    "Inside Games - Shorts:": 1,
+    "Super League Show - 2022: 07/03/2022": 1,
+    "The Black American Fight for Freedom - Signed": 1,
+    "The Mind of Herbert Clunkerdunk - Pilot": 1,
+    "Amazing Hotels: Life Beyond the Lobby": 1,
+    "Brian Friel: Shy Man, Showman": 1,
+    "Forensics: The Real CSI": 1,
+    "Hey Duggee - Top of the Pups: Here We Go Round the Mulberry Bush": 1,
+    "Storyville - Being Evel Knievel": 1,
+    "One Man and His Shoes": 1,
+    "My Unique B&B": 1,
+    "Click - Short Edition - 08/01/2022": 1,
+    "The Joe Wicks Podcast - Daniel Ricciardo: I Love the Rush": 1,
+    "Tuesday Documentary - The Ealing Comedies": 1,
+    "HARDtalk - Kathleen Stock, Philosopher and Author": 1,
+    "Zara McDermott - Revenge Porn": 1,
+    "Go Jetters - Songs: Lars is Gonna Fix It": 1,
+    "Miranda - Specials:": 1,
+    "Attenborough's Wonder of Song - Signed": 1,
+    "Decision 79 - The Morning After": 1,
+    "Bury: Bringing Football Back": 1,
+    "Life on Earth": 1,
+    "When Ruby Wax Met...": 1,
+    "Arena - Agatha Christie - Unfinished Portrait": 1
+  }
 }

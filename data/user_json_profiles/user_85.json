@@ -1,47 +1,212 @@
 {
   "user_preferences": {
-    "Sports": -1,
-    "Signed": -1,
-    "Documentaries": -1,
-    "Entertainment": -1,
-    "CBBC": -1
+    "From the Archives": 1.5,
+    "Sports": 0.5,
+    "Documentaries": 0.5,
+    "Science & Nature": 0.5,
+    "Signed": 1.0,
+    "Music": 0.25,
+    "Arts": 0.25,
+    "Food": 0.0
   },
   "user_interactions": [
     [
-      "NIFL Premiership Highlights - 2021/2022: 27/09/2021",
+      "Torchwood",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Scrum V - 2021/2022: 06/03/2022",
       "Sports",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "New Creatives - ISHTAR",
-      "Arts",
-      "neutral"
+      "Rewind - 1980s - Shortened Versions:",
+      "Documentaries",
+      "skipped"
     ],
     [
-      "Molly and Mack - Songs: Come on In",
+      "Click - 20/11/2021",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Wogan - 09/11/1987",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 23/06/2021",
       "Signed",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Growing Up Green",
+      "Horizon - 1974-1975: A Time To Be Born",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Songs of Praise - Faith in Birmingham",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Louis Theroux - A Different Brain",
       "Documentaries",
       "disliked"
     ],
     [
-      "BAMOUS",
-      "Entertainment",
-      "disliked"
+      "Louis Theroux - Law and Disorder in Johannesburg",
+      "Documentaries",
+      "watched",
+      50
     ],
     [
-      "Pok\u00e9mon: Black and White - Movies: White - Victini and Zekrom",
-      "CBBC",
-      "disliked"
+      "HARDtalk - Ingrid Betancourt, Colombian Presidential Candidate",
+      "From the Archives",
+      "watched",
+      25
     ],
     [
-      "Ladybaby",
-      "Comedy",
-      "neutral"
+      "My Family",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "H2O: The Molecule That Made Us",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Football's Broken Dreams - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Ten Years of the SAY Award",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "We Are England - Belonging: Cornwall's Last Raceway",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Royal Academy Summer Exhibition - 20",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "This Is Joan Collins",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Drama Shorts: BBC Introducing Arts",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Pride Hits at the BBC",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Inspector Montalbano - The Scent of the Night",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Cilla at the BBC",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "The Speedshop",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Trump in Tweets",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "imagine... - 2021: Bernardine Evaristo: Never Give Up",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Rick Stein's Far Eastern Odyssey",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Spotlight on the Troubles: A Secret History",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Time for School - Songs: Let's Make Friends",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Dani's House",
+      "Signed",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Torchwood": 1,
+    "Scrum V - 2021/2022: 06/03/2022": 1,
+    "Click - 20/11/2021": 1,
+    "Wogan - 09/11/1987": 1,
+    "BBC News Special - Coronavirus Update: 23/06/2021": 1,
+    "Horizon - 1974-1975: A Time To Be Born": 1,
+    "Songs of Praise - Faith in Birmingham": 1,
+    "Louis Theroux - Law and Disorder in Johannesburg": 1,
+    "HARDtalk - Ingrid Betancourt, Colombian Presidential Candidate": 1,
+    "My Family": 1,
+    "H2O: The Molecule That Made Us": 1,
+    "Panorama - Football's Broken Dreams - Signed": 1,
+    "Ten Years of the SAY Award": 1,
+    "We Are England - Belonging: Cornwall's Last Raceway": 1,
+    "Royal Academy Summer Exhibition - 20": 1,
+    "Drama Shorts: BBC Introducing Arts": 1,
+    "Pride Hits at the BBC": 1,
+    "Inspector Montalbano - The Scent of the Night": 1,
+    "Cilla at the BBC": 1,
+    "The Speedshop": 1,
+    "Trump in Tweets": 1,
+    "imagine... - 2021: Bernardine Evaristo: Never Give Up": 1,
+    "Rick Stein's Far Eastern Odyssey": 1,
+    "Spotlight on the Troubles: A Secret History": 1,
+    "Time for School - Songs: Let's Make Friends": 1,
+    "Dani's House": 1
+  }
 }

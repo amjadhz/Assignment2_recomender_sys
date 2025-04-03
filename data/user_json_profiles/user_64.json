@@ -1,43 +1,231 @@
 {
   "user_preferences": {
-    "Documentaries": 0,
-    "From the Archives": -2,
-    "Food": -1,
-    "Music": -1
+    "Documentaries": 1.5,
+    "Films": 1.25,
+    "Sports": -1.0,
+    "From the Archives": 0.25,
+    "Signed": -0.5,
+    "Arts": 0.0,
+    "Entertainment": 1.5,
+    "History": 0.5,
+    "Science & Nature": 0.5,
+    "Food": 1.5
   },
   "user_interactions": [
     [
-      "Full Circle with Michael Palin",
+      "The Teens Taking On Deliveroo",
       "Documentaries",
       "liked"
     ],
     [
-      "Mrs Brown's Boys - Christmas Specials 2016:",
-      "From the Archives",
-      "disliked"
+      "The Sun Is Also a Star",
+      "Films",
+      "watched",
+      50
     ],
     [
-      "We Are England - Made in England: The 007 Shoe Factory - Northampton",
+      "Match of the Day Top 10",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Pulling - Special",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Bring Molly Home",
       "Documentaries",
+      "liked"
+    ],
+    [
+      "Louis Theroux - A Place for Paedophiles",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Bridget Riley - Painting the Line",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The FA Cup - 2021/22: Quarter-Final: Southampton v Manchester City",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Louis Theroux - The City Addicted to Crystal Meth",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Toothbrush Song",
+      "Signed",
       "disliked"
     ],
     [
-      "Saturday Kitchen - 27/11/2021",
-      "Food",
-      "disliked"
+      "Dangerous Liaisons",
+      "Films",
+      "liked"
     ],
     [
-      "Astaire and Rogers Sing the Great American Songbook",
+      "Greece with Simon Reeve",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Sportscene - Women's Football Highlights 2021/22: 21/03/2022",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "New Creatives - Black Fish",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Simon Amstell: Carnage",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "EastEnders 2010 - 28/12/2009",
       "From the Archives",
-      "disliked"
+      "watched",
+      75
     ],
     [
-      "Songs of Praise - The Duke of Edinburgh",
-      "Music",
-      "disliked"
+      "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing 2021",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Snooker: Welsh Open - 2022:",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Music 8-9 Year Olds:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Women's Rugby Union - Premier 15s: Wasps v Harlequins",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Unsolved - The Boy Who Disappeared:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Road to",
+      "History",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 09/10/2021",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "The Rise of No Signal: Black Radio \u2013 Here to Stay",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Countryfile - Holkham",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 30/11/2021 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Unpopular Opinion - Star Wars' Daisy Ridley & John Boyega: Unpopular Opinion",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Inside Dubai: Playground of the Rich",
+      "Documentaries",
+      "watched",
+      95
+    ],
+    [
+      "My Family - 2039: A Christmas Oddity",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Farm to Feast: Best Menu Wins",
+      "Food",
+      "liked"
+    ],
+    [
+      "Irish League Football - Friday Night Football 2021/2022: Linfield v Crusaders",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Saturday Kitchen - Countdown to Christmas: 04/12/2021",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Inspector Montalbano - The Goldfinch and the Cat",
+      "From the Archives",
+      "watched",
+      10
     ]
   ],
   "watch_counts": {
-    "Full Circle with Michael Palin": 1
+    "The Teens Taking On Deliveroo": 1,
+    "The Sun Is Also a Star": 1,
+    "Match of the Day Top 10": 1,
+    "Bring Molly Home": 1,
+    "Louis Theroux - A Place for Paedophiles": 1,
+    "Bridget Riley - Painting the Line": 1,
+    "The FA Cup - 2021/22: Quarter-Final: Southampton v Manchester City": 1,
+    "Louis Theroux - The City Addicted to Crystal Meth": 1,
+    "Dangerous Liaisons": 1,
+    "Greece with Simon Reeve": 1,
+    "New Creatives - Black Fish": 1,
+    "Simon Amstell: Carnage": 1,
+    "EastEnders 2010 - 28/12/2009": 1,
+    "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing 2021": 1,
+    "Bitesize Daily: 7-9 Year Olds - Music 8-9 Year Olds:": 1,
+    "Women's Rugby Union - Premier 15s: Wasps v Harlequins": 1,
+    "Unsolved - The Boy Who Disappeared:": 1,
+    "The Road to": 1,
+    "Click - Short Edition - 09/10/2021": 1,
+    "The Rise of No Signal: Black Radio \u2013 Here to Stay": 1,
+    "Countryfile - Holkham": 1,
+    "BBC News Special - Coronavirus Update: 30/11/2021 - Signed": 1,
+    "Unpopular Opinion - Star Wars' Daisy Ridley & John Boyega: Unpopular Opinion": 1,
+    "Inside Dubai: Playground of the Rich": 1,
+    "My Family - 2039: A Christmas Oddity": 1,
+    "Farm to Feast: Best Menu Wins": 1,
+    "Irish League Football - Friday Night Football 2021/2022: Linfield v Crusaders": 1,
+    "Saturday Kitchen - Countdown to Christmas: 04/12/2021": 1,
+    "Inspector Montalbano - The Goldfinch and the Cat": 1
   }
 }

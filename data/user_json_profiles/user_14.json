@@ -1,49 +1,211 @@
 {
   "user_preferences": {
-    "Sports": -1,
-    "Signed": 0,
-    "From the Archives": -1,
-    "Documentaries": -1
+    "Entertainment": -0.5,
+    "From the Archives": 1.0,
+    "Documentaries": 0.25,
+    "Films": 0.5,
+    "Sports": 0.25,
+    "Signed": 1.0,
+    "CBBC": -1.0,
+    "Comedy": 0.75,
+    "Arts": 0.0,
+    "Music": 0.0
   },
   "user_interactions": [
     [
-      "Tennis: Tie Break Tens Highlights",
-      "Sports",
-      "disliked"
+      "Impossible",
+      "Entertainment",
+      "watched",
+      95
     ],
     [
-      "Women's Super League - 2021/22: Tottenham v Man City",
-      "Sports",
-      "liked"
-    ],
-    [
-      "CBeebies Presents - Stage Shows: The Snow Queen",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Question Time - 2021: 20/05/2021 - Signed",
-      "Signed",
-      "liked"
-    ],
-    [
-      "Mrs Brown's Boys",
+      "Inspector Montalbano - August Flame",
       "From the Archives",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Being British Bangladeshi",
+      "Natural World - 2015-2016:",
       "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Yellow Canary",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Under-20s Six Nations Rugby - 2022: Ireland v Scotland",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "4 O'Clock Club - The First Gang:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Sketchy Comedy",
+      "CBBC",
+      "skipped"
+    ],
+    [
+      "The Dumping Ground - Jody in Wonderland",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Emma Spence: The Art of Surviving",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Worzel Gummidge - Saucy Nancy",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "Dance Passion - 2022: London",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Classic British Cars: Made in Coventry - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Is This The End Of Clubbing? - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Movies With Ali Plumb - Denis Villeneuve: Movies That Made Me",
+      "Entertainment",
       "disliked"
     ],
     [
-      "Bellator MMA - 2021: Fedor Emelianenko vs. Timothy Johnson",
+      "Radio 2 Live - 2021: Texas",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Life After My Brother\u2019s Murder - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Little Joe",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "CBeebies Presents - Songs: The Snow Queen: Everybody Here Say Hey",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Dumping Ground Island",
+      "CBBC",
+      "skipped"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 06/12/2021",
       "Sports",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "Man Like Mobeen",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "BBC News Special - Dominic Cummings - The Interview - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds: Changing Materials",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Ian Wright: Home Truths",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Life After My Brother\u2019s Murder",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Nature's Weirdest Events",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Young Guns",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Leonid Volkov - Alexei Navalny\u2019s Chief of Staff",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "RuPaul\u2019s Drag Race UK vs the World",
+      "Entertainment",
+      "watched",
+      30
     ]
   ],
   "watch_counts": {
-    "Women's Super League - 2021/22: Tottenham v Man City": 1,
-    "Question Time - 2021: 20/05/2021 - Signed": 1
+    "Impossible": 1,
+    "Inspector Montalbano - August Flame": 1,
+    "Natural World - 2015-2016:": 1,
+    "Yellow Canary": 1,
+    "Under-20s Six Nations Rugby - 2022: Ireland v Scotland": 1,
+    "4 O'Clock Club - The First Gang:": 1,
+    "The Dumping Ground - Jody in Wonderland": 1,
+    "Emma Spence: The Art of Surviving": 1,
+    "Worzel Gummidge - Saucy Nancy": 1,
+    "Dance Passion - 2022: London": 1,
+    "Classic British Cars: Made in Coventry - Signed": 1,
+    "Is This The End Of Clubbing? - Signed": 1,
+    "Radio 2 Live - 2021: Texas": 1,
+    "Life After My Brother\u2019s Murder - Signed": 1,
+    "Little Joe": 1,
+    "CBeebies Presents - Songs: The Snow Queen: Everybody Here Say Hey": 1,
+    "NIFL Premiership Highlights - 2021/2022: 06/12/2021": 1,
+    "Man Like Mobeen": 1,
+    "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds: Changing Materials": 1,
+    "Ian Wright: Home Truths": 1,
+    "Life After My Brother\u2019s Murder": 1,
+    "Nature's Weirdest Events": 1,
+    "Young Guns": 1,
+    "HARDtalk - Leonid Volkov - Alexei Navalny\u2019s Chief of Staff": 1,
+    "RuPaul\u2019s Drag Race UK vs the World": 1
   }
 }

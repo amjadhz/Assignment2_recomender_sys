@@ -1,47 +1,212 @@
 {
   "user_preferences": {
-    "Documentaries": 1,
-    "Entertainment": -1,
-    "Films": -1
+    "Films": 0.5,
+    "Entertainment": 1.5,
+    "Signed": 0.75,
+    "Documentaries": 1.5,
+    "Comedy": 1.0,
+    "From the Archives": 1.5,
+    "Music": 1.5,
+    "Sports": -0.25,
+    "Food": -0.25,
+    "Arts": -0.5,
+    "Science & Nature": 0.0
   },
   "user_interactions": [
     [
-      "Fanny Cradock Cooks for Christmas",
-      "Food",
-      "neutral"
+      "Tycoon",
+      "Films",
+      "watched",
+      50
     ],
     [
-      "Dragons' Den",
+      "Kids Ask Difficult Questions - Jim Carrey",
       "Entertainment",
-      "neutral"
+      "watched",
+      75
     ],
     [
-      "Moment of Truth",
+      "The Baby Club - Songs: Old McDonald",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Tonight with Target",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Raul Jimenez: Code Red",
       "Documentaries",
       "liked"
     ],
     [
-      "Top Gear - USA Road Trip",
-      "Entertainment",
-      "disliked"
+      "Little Prankers",
+      "Comedy",
+      "liked"
     ],
     [
-      "St Patrick's Day at the BBC",
+      "The Thin Blue Line",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "The Quay Sessions - Christmas at the Quay",
       "Music",
-      "neutral"
+      "liked"
     ],
     [
-      "Second Chance",
-      "Films",
-      "disliked"
+      "Irish Cup - Highlights - 2020/2021: 10/05/2021",
+      "Sports",
+      "watched",
+      10
     ],
     [
-      "The Great British Sewing Bee - 2021 Specials:",
+      "The Sky at Night - Mission To Jupiter",
+      "Documentaries",
+      "watched",
+      95
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Art 9-10 Year Olds:",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Ken Hom's Chinese Cookery - Meat",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "Dance: BBC Introducing Arts",
+      "Arts",
+      "skipped"
+    ],
+    [
+      "Victoria Wood: The Secret List",
       "Entertainment",
-      "neutral"
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Stage Shows: The Tale of Mr Tumble",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - Twice Upon a Time",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "@Radio1 - @Radio1: Ariana Grande",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Question Time - 2022: 27/01/2022 - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Two Pints of Lager and a Packet of Crisps - When Janet Met Johnny",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Waiting For Work",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - English: Punctuation - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Question Time - 2021: 28/10/2021 - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Na Trads: An Tobar",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Waterhole: Africa's Animal Oasis",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Click - Extremism Online",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Molly and Mack - Songs: Molly\u2019s Song",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Rose Matafeo: Horndog",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "BBC Cardiff Singer of the World - 2021: Highlights",
+      "Music",
+      "liked"
+    ],
+    [
+      "Climate Change: The Tony Blair Interview",
+      "Science & Nature",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Moment of Truth": 1
+    "Tycoon": 1,
+    "Kids Ask Difficult Questions - Jim Carrey": 1,
+    "The Baby Club - Songs: Old McDonald": 1,
+    "Tonight with Target": 1,
+    "Raul Jimenez: Code Red": 1,
+    "Little Prankers": 1,
+    "The Thin Blue Line": 1,
+    "The Quay Sessions - Christmas at the Quay": 1,
+    "Irish Cup - Highlights - 2020/2021: 10/05/2021": 1,
+    "The Sky at Night - Mission To Jupiter": 1,
+    "Bitesize Daily: 9-11 Year Olds - Art 9-10 Year Olds:": 1,
+    "Ken Hom's Chinese Cookery - Meat": 1,
+    "Victoria Wood: The Secret List": 1,
+    "CBeebies Presents - Stage Shows: The Tale of Mr Tumble": 1,
+    "Doctor Who - Twice Upon a Time": 1,
+    "@Radio1 - @Radio1: Ariana Grande": 1,
+    "Question Time - 2022: 27/01/2022 - Signed": 1,
+    "Two Pints of Lager and a Packet of Crisps - When Janet Met Johnny": 1,
+    "Waiting For Work": 1,
+    "Bitesize Daily: 9-11 Year Olds - English: Punctuation - Signed": 1,
+    "Question Time - 2021: 28/10/2021 - Signed": 1,
+    "Na Trads: An Tobar": 1,
+    "Waterhole: Africa's Animal Oasis": 1,
+    "Click - Extremism Online": 1,
+    "Molly and Mack - Songs: Molly\u2019s Song": 1,
+    "Rose Matafeo: Horndog": 1,
+    "BBC Cardiff Singer of the World - 2021: Highlights": 1
   }
 }

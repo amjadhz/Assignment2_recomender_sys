@@ -1,33 +1,210 @@
 {
   "user_preferences": {
-    "Signed": -1,
-    "Films": -1,
-    "Entertainment": -1,
-    "Documentaries": 1
+    "Entertainment": 1.0,
+    "Food": 0.5,
+    "Signed": 1.25,
+    "Documentaries": 1.0,
+    "Science & Nature": 0.0,
+    "From the Archives": 0.0,
+    "Films": 0.0,
+    "Arts": 1.0
   },
   "user_interactions": [
     [
-      "Mystic",
+      "Heartbreak Holiday",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Simply Nigella",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "25 Siblings & Me - Signed",
       "Signed",
+      "liked"
+    ],
+    [
+      "We Are England - Mental Health: Cold Swim\u202f- Tynemouth",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Click - Can AI Save the NHS?",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Buachaill\u00ed \u00f3n \u00c9irne",
+      "Documentaries",
       "disliked"
     ],
     [
-      "Hotel Reserve",
-      "Films",
-      "disliked"
+      "Antiques Roadshow - Christmas Special",
+      "Signed",
+      "watched",
+      25
     ],
     [
-      "The One Show - 14/03/2022",
+      "Eurovision Song Contest - 1998:",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Afoot Again In The Past - Cliveden",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Whitney: Can I Be Me?",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Survivors: Portraits of the Holocaust",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "The Ranganation",
       "Entertainment",
       "disliked"
     ],
     [
-      "Rick Stein Tastes the Blues",
+      "Africa",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Kr",
       "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Great Northern Garden Build",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "The Plank",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "25 Siblings & Me",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Hunting the Social Media Fraudsters",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Worst Witch",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "At Home with the Gettys",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Countryfile - Bromyard Hops - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Countryfile - Malvern Hills - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Film Profile - Michael Balcon",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "A House Through Time",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Life of a Mountain - A Year on Scafell Pike - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Adding Clauses",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Ken Hom's Chinese Cookery - Meat",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Eye To Eye - The Big Gamble",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Geography 8-9 Year Olds:",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Drama Shorts: BBC Introducing Arts",
+      "Arts",
       "liked"
     ]
   ],
   "watch_counts": {
-    "Rick Stein Tastes the Blues": 1
+    "Heartbreak Holiday": 1,
+    "Simply Nigella": 1,
+    "25 Siblings & Me - Signed": 1,
+    "We Are England - Mental Health: Cold Swim\u202f- Tynemouth": 1,
+    "Click - Can AI Save the NHS?": 1,
+    "Antiques Roadshow - Christmas Special": 1,
+    "Eurovision Song Contest - 1998:": 1,
+    "Afoot Again In The Past - Cliveden": 1,
+    "Whitney: Can I Be Me?": 1,
+    "Kr": 1,
+    "The Great Northern Garden Build": 1,
+    "The Plank": 1,
+    "25 Siblings & Me": 1,
+    "Panorama - Hunting the Social Media Fraudsters": 1,
+    "The Worst Witch": 1,
+    "At Home with the Gettys": 1,
+    "Countryfile - Malvern Hills - Signed": 1,
+    "Film Profile - Michael Balcon": 1,
+    "A House Through Time": 1,
+    "Life of a Mountain - A Year on Scafell Pike - Signed": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Adding Clauses": 1,
+    "Ken Hom's Chinese Cookery - Meat": 1,
+    "Eye To Eye - The Big Gamble": 1,
+    "Bitesize Daily: 7-9 Year Olds - Geography 8-9 Year Olds:": 1,
+    "Drama Shorts: BBC Introducing Arts": 1
   }
 }

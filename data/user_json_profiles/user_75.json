@@ -1,40 +1,239 @@
 {
   "user_preferences": {
-    "Entertainment": -2,
-    "Documentaries": -1,
-    "Food": -1
+    "Entertainment": 0.0,
+    "Documentaries": -0.75,
+    "CBBC": 0.25,
+    "Signed": 1.25,
+    "Comedy": 0.5,
+    "Music": 0.25,
+    "Sports": 0.5,
+    "From the Archives": 1.5,
+    "Films": 1.0,
+    "Arts": 0.5
   },
   "user_interactions": [
     [
-      "Caitlyn Jenner: Honesty",
+      "Unpopular Opinion - Justin Timberlake and Anna Kendrick",
       "Entertainment",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Radio 1 Stories - Living The Dream",
+      "The Sky at Night - The Forgotten Solar System",
       "Documentaries",
       "disliked"
     ],
     [
-      "Simply Nigella",
-      "Food",
-      "disliked"
+      "Jennie's Fitness in 5",
+      "CBBC",
+      "watched",
+      50
     ],
     [
-      "Movies With Ali Plumb - Becoming...: The Witcher",
-      "Entertainment",
-      "disliked"
+      "Andy's Prehistoric Adventures",
+      "Signed",
+      "watched",
+      50
     ],
     [
-      "Michael Palin: Travels of a Lifetime",
+      "This Time with Alan",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Roman Abramovich\u2019s Dirty Money - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "BBC Wales Investigates - When Would You Want to Die?",
       "Documentaries",
-      "neutral"
+      "disliked"
     ],
     [
-      "EastEnders 2010 - 13/11/2009",
+      "Bitz & Bob",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "CBeebies Presents - Shakespeare: A Midsummer Night's Dream",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Special Enquiry",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Radio 2 Live - 2021: St",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "BBC Scottish Symphony Orchestra - Tchaikovsky: The Path\u00e9tique Symphony",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Tee and Mo - Fun at Home",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Great Barrier Reef",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Ex-S - Styling the Swan",
       "From the Archives",
-      "neutral"
+      "watched",
+      75
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Here We Go Round the Mulberry Bush",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 08/11/2021",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Planet Defenders",
+      "CBBC",
+      "watched",
+      10
+    ],
+    [
+      "Trooping the Colour - 1952",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - English: Reading Aloud/Performing",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Playground Insults - Ryan Reynolds & Josh Brolin",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "Tomorrow's World",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Rio and Kate: Becoming a St",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "First-Year Flashbacks",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Wallace and Gromit: A Close Shave",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Horizon - 2021:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "In the Heat of the Night",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Culture in Quarantine - Earth To Alice",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Unpopular Opinion - Greta Thunberg",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Man Up",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - Resolution - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Listening through the Lens: The Christopher Nupen Films",
+      "Documentaries",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Unpopular Opinion - Justin Timberlake and Anna Kendrick": 1,
+    "Jennie's Fitness in 5": 1,
+    "Andy's Prehistoric Adventures": 1,
+    "This Time with Alan": 1,
+    "Panorama - Roman Abramovich\u2019s Dirty Money - Signed": 1,
+    "CBeebies Presents - Shakespeare: A Midsummer Night's Dream": 1,
+    "Special Enquiry": 1,
+    "Radio 2 Live - 2021: St": 1,
+    "BBC Scottish Symphony Orchestra - Tchaikovsky: The Path\u00e9tique Symphony": 1,
+    "Tee and Mo - Fun at Home": 1,
+    "Great Barrier Reef": 1,
+    "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic": 1,
+    "Ex-S - Styling the Swan": 1,
+    "Hey Duggee - Top of the Pups: Here We Go Round the Mulberry Bush": 1,
+    "NIFL Premiership Highlights - 2021/2022: 08/11/2021": 1,
+    "Planet Defenders": 1,
+    "Trooping the Colour - 1952": 1,
+    "Bitesize Daily: 9-11 Year Olds - English: Reading Aloud/Performing": 1,
+    "Tomorrow's World": 1,
+    "Rio and Kate: Becoming a St": 1,
+    "First-Year Flashbacks": 1,
+    "Wallace and Gromit: A Close Shave": 1,
+    "Horizon - 2021:": 1,
+    "In the Heat of the Night": 1,
+    "Culture in Quarantine - Earth To Alice": 1,
+    "Unpopular Opinion - Greta Thunberg": 1,
+    "Man Up": 1,
+    "Doctor Who - Resolution - Signed": 1,
+    "Listening through the Lens: The Christopher Nupen Films": 1
+  }
 }

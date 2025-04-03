@@ -1,31 +1,226 @@
 {
   "user_preferences": {
-    "Signed": -1,
-    "Entertainment": -1
+    "Documentaries": 1.25,
+    "Music": 0.5,
+    "Films": 0.5,
+    "Entertainment": 1.5,
+    "Signed": 1.5,
+    "From the Archives": 0.5,
+    "Science & Nature": 0.5,
+    "CBBC": -0.5,
+    "Food": -0.5,
+    "Comedy": -0.5,
+    "Arts": 0.25
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:",
-      "Signed",
-      "disliked"
+      "A Life in Ten Pictures",
+      "Documentaries",
+      "watched",
+      25
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Alphabet and Punctuation",
-      "Signed",
-      "disliked"
+      "BBC Music Introducing - The BME Sessions: Liz Lawrence - None Of My Friends",
+      "Music",
+      "watched",
+      75
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:",
-      "Signed",
-      "liked"
+      "Cat People",
+      "Films",
+      "watched",
+      25
     ],
     [
-      "Late Night Line-Up - The Man Alive R",
+      "The One Show - 14/03/2022",
       "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Waterhole: Africa's Animal Oasis",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Squad Goals",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Deadly 60 - Museum Escape \u2013 Live Lesson",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Transitioning Teens",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Unpopular Opinion - Paul Rudd",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Still Game - Cold Turkey",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 31/07/2021",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Disclosure",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "The Dumping Ground - Jody in Wonderland",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Naomi's Nightmares of Nature",
+      "CBBC",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Counting in Fractions Using a Number Line",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Serengeti",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Great British Menu",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Dry Your Eyes",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "Saturday Kitchen - 17/07/2021",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Four Hours at the Capitol - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Songs: The Snow Queen: No Queen Better",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "New Creatives - STONEWALL 2069",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Parkinson - Dr Jacob Bronowski",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Lorraine Pascale: How to Be a Better Cook",
+      "Food",
       "disliked"
+    ],
+    [
+      "A Farewell to Arms",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Loop - Moot",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Alex Brooker: Disability and Me",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Malory Towers",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Press Conference - Orson Welles",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - NHS: Wait or Pay? - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Indian Ocean with Simon Reeve",
+      "Documentaries",
+      "watched",
+      75
     ]
   ],
   "watch_counts": {
-    "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:": 1
+    "A Life in Ten Pictures": 1,
+    "BBC Music Introducing - The BME Sessions: Liz Lawrence - None Of My Friends": 1,
+    "Cat People": 1,
+    "The One Show - 14/03/2022": 1,
+    "Waterhole: Africa's Animal Oasis": 1,
+    "Deadly 60 - Museum Escape \u2013 Live Lesson": 1,
+    "Transitioning Teens": 1,
+    "Unpopular Opinion - Paul Rudd": 1,
+    "Still Game - Cold Turkey": 1,
+    "Click - Short Edition - 31/07/2021": 1,
+    "The Dumping Ground - Jody in Wonderland": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Counting in Fractions Using a Number Line": 1,
+    "Serengeti": 1,
+    "Great British Menu": 1,
+    "Saturday Kitchen - 17/07/2021": 1,
+    "Four Hours at the Capitol - Signed": 1,
+    "CBeebies Presents - Songs: The Snow Queen: No Queen Better": 1,
+    "New Creatives - STONEWALL 2069": 1,
+    "Parkinson - Dr Jacob Bronowski": 1,
+    "A Farewell to Arms": 1,
+    "Loop - Moot": 1,
+    "Alex Brooker: Disability and Me": 1,
+    "Malory Towers": 1,
+    "Press Conference - Orson Welles": 1,
+    "Panorama - NHS: Wait or Pay? - Signed": 1,
+    "Indian Ocean with Simon Reeve": 1
   }
 }

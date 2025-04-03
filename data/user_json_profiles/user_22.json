@@ -1,46 +1,190 @@
 {
   "user_preferences": {
-    "Signed": -2,
-    "From the Archives": -1,
-    "Documentaries": -1,
-    "Music": -1
+    "Documentaries": 1.0,
+    "Signed": 1.5,
+    "Comedy": 1.5,
+    "Food": 1.5,
+    "Music": -0.25,
+    "CBBC": 0.5,
+    "From the Archives": 0.5,
+    "Science & Nature": 0.0,
+    "Arts": 0.5,
+    "History": 0.5,
+    "Entertainment": 0.5
   },
   "user_interactions": [
     [
-      "Panorama - Football's Broken Dreams - Signed",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "The Late Show - Face to Face: Ken Dodd",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "Sounds of the Sixties - Reversions:",
-      "Music",
-      "neutral"
-    ],
-    [
-      "Playground Insults - Ryan Reynolds & Josh Brolin",
-      "Entertainment",
-      "neutral"
-    ],
-    [
-      "The Baby Club - Songs: The Sle",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Arena - Voices from the Island",
+      "Brotherhood: The Inner Life of Monks",
       "Documentaries",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Northern Ireland Onscreen",
+      "BBC News Special - Coronavirus Update: 08/12/2021 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Holby City",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Detectorists",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Lorraine's Fast, Fresh and Easy Food",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Surviving Helmand",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC Northern Ireland School Choir of the Year - Soloist of the Year 2022: The Final",
       "Music",
-      "disliked"
+      "watched",
+      10
+    ],
+    [
+      "Talking Pictures - Marvellous Musicals",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Saturday Kitchen - 12/02/2022",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "Nowhere Boys",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "Hetty Feather",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "2 Point 4 Children - Relax-ay-voo",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Four Hours at the Capitol",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Not Going Out - Panto",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 11/12/2021",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing: Thinking Positively",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Click - The Future Is Now",
+      "Science & Nature",
+      "skipped"
+    ],
+    [
+      "Firestarter: The Story of Bangarra",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "New Creatives - Top Wavers",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "Prime Properties - The Duke of Wellington",
+      "History",
+      "watched",
+      50
+    ],
+    [
+      "The Witchfinder",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Arena - Painted with My Hair",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "University Challenge - Christmas 2021: Semi-Final 2",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Eat the Town",
+      "Food",
+      "liked"
+    ],
+    [
+      "Groundbreakers - Nesca Robb",
+      "Documentaries",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Brotherhood: The Inner Life of Monks": 1,
+    "BBC News Special - Coronavirus Update: 08/12/2021 - Signed": 1,
+    "Holby City": 1,
+    "Detectorists": 1,
+    "Lorraine's Fast, Fresh and Easy Food": 1,
+    "Surviving Helmand": 1,
+    "BBC Northern Ireland School Choir of the Year - Soloist of the Year 2022: The Final": 1,
+    "Talking Pictures - Marvellous Musicals": 1,
+    "Saturday Kitchen - 12/02/2022": 1,
+    "Nowhere Boys": 1,
+    "Hetty Feather": 1,
+    "2 Point 4 Children - Relax-ay-voo": 1,
+    "Four Hours at the Capitol": 1,
+    "Not Going Out - Panto": 1,
+    "Click - Short Edition - 11/12/2021": 1,
+    "Bitesize Daily: 5-7 Year Olds - Wellbeing: Thinking Positively": 1,
+    "Firestarter: The Story of Bangarra": 1,
+    "New Creatives - Top Wavers": 1,
+    "Prime Properties - The Duke of Wellington": 1,
+    "The Witchfinder": 1,
+    "Arena - Painted with My Hair": 1,
+    "University Challenge - Christmas 2021: Semi-Final 2": 1,
+    "Eat the Town": 1,
+    "Groundbreakers - Nesca Robb": 1
+  }
 }

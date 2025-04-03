@@ -1,34 +1,184 @@
 {
   "user_preferences": {
-    "Documentaries": -2,
-    "From the Archives": -1
+    "Entertainment": -0.5,
+    "Documentaries": 1.5,
+    "From the Archives": 1.5,
+    "Comedy": 0.25,
+    "Signed": -0.5,
+    "Films": 0.5
   },
   "user_interactions": [
     [
-      "Snooker: Welsh Open - 2022:",
-      "Sports",
-      "neutral"
+      "1Xtra - Decks of Kin: Santino Le Saint",
+      "Entertainment",
+      "watched",
+      50
     ],
     [
-      "The Rolling Stones: Totally Stripped",
+      "Elsa the Lioness",
       "Documentaries",
-      "disliked"
+      "liked"
     ],
     [
-      "Sir Mortimer and Magnus",
+      "Doctor Who - The End of Time",
       "From the Archives",
-      "disliked"
+      "liked"
     ],
     [
-      "We Are England - A Place Called Home: Hanging On To Home",
+      "Some Girls",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "The Royle Family - Barbara's Old Ring",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Katy Keene",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "The Late Show - Face to Face: Lauren Bacall",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Inside Europe: Ten Years of Turmoil",
       "Documentaries",
+      "skipped"
+    ],
+    [
+      "Not Going Out - Panto",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Louis Theroux - Life on the Edge:",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The One Show - 03/03/2022",
+      "Entertainment",
       "disliked"
     ],
     [
-      "Jamie Johnson - Extras: Kick Up Challenge",
+      "Dave",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "I Love This Dirty Town",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "La Belle \u00c9poque",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "The Paras",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:",
       "Signed",
-      "neutral"
+      "watched",
+      25
+    ],
+    [
+      "Giant Little Ones",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Drugs Map of Britain",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Your Body Uncovered with Kate Garraway",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Rory's Way",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Doctor Who - The Day of the Doctor",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Daphne Du Maurier",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths:",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Breaking Fashion",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "King Kong",
+      "Films",
+      "skipped"
+    ],
+    [
+      "Leigh-Anne: Race, Pop & Power - Signed",
+      "Signed",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "1Xtra - Decks of Kin: Santino Le Saint": 1,
+    "Elsa the Lioness": 1,
+    "Doctor Who - The End of Time": 1,
+    "Some Girls": 1,
+    "The Royle Family - Barbara's Old Ring": 1,
+    "Katy Keene": 1,
+    "The Late Show - Face to Face: Lauren Bacall": 1,
+    "Not Going Out - Panto": 1,
+    "Louis Theroux - Life on the Edge:": 1,
+    "Dave": 1,
+    "I Love This Dirty Town": 1,
+    "La Belle \u00c9poque": 1,
+    "The Paras": 1,
+    "Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:": 1,
+    "Giant Little Ones": 1,
+    "Drugs Map of Britain": 1,
+    "Your Body Uncovered with Kate Garraway": 1,
+    "Rory's Way": 1,
+    "Doctor Who - The Day of the Doctor": 1,
+    "Daphne Du Maurier": 1,
+    "Breaking Fashion": 1,
+    "Leigh-Anne: Race, Pop & Power - Signed": 1
+  }
 }

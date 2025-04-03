@@ -1,47 +1,189 @@
 {
   "user_preferences": {
-    "Documentaries": -1,
-    "Signed": -1,
-    "Sports": -1
+    "From the Archives": -1.25,
+    "Signed": 1.5,
+    "CBBC": 0.5,
+    "Arts": 1.0,
+    "Comedy": 0.5,
+    "Music": 1.0,
+    "Documentaries": 0.0,
+    "Entertainment": 1.5,
+    "Sports": -0.5
   },
   "user_interactions": [
     [
-      "Nine Minute Ninja",
+      "Waking the Dead - Pilot",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "9/11: Inside the President's War Room - Signed",
       "Signed",
-      "neutral"
+      "watched",
+      75
     ],
     [
-      "Autumnwatch - Extras: Autumn Wonders",
-      "Documentaries",
-      "disliked"
+      "Naomi's Nightmares of Nature",
+      "CBBC",
+      "watched",
+      75
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Science 6-7 Year-Olds: How Animals Grow",
+      "Blown",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "HARDtalk - Nureldin Satti, Sudanese ambassador to the US, 2020-2021",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "The Lavender Hill Mob",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "BBC Northern Ireland School Choir of the Year - Soloist of the Year 2022: The Final",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Paddy and Christine McGuinness: Our Family and Autism - Signed",
       "Signed",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Project Children: Defusing the Troubles",
-      "Documentaries",
+      "Danny and Mick",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Dance Passion - 2022: Plymouth",
+      "Arts",
       "liked"
     ],
     [
-      "Francis Bacon: Fragments Of A Portrait",
+      "Our World - Finding Grace",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Movies With Ali Plumb - Jim Carrey & Ben Schwartz: Sonic The Hedgehog",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Bellator MMA - 2021: MVP's MMA masterclass with Lutalo Muhammad",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Your Garden Made Perfect",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Louis Theroux - America's Medicated Kids",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 12/07/2021 - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing:",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Bodies",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Unpopular Opinion - Niall Horan",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Geography 8-9 Year Olds:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "04 Wal - Cyfres 10: Pennod 10 - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "My Unique B&B",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Lights Up - J'Ouvert",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Blinded by the Light",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Bellator MMA - 2021: Bellator 272: Main event & Prelims",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Paloma Faith: As I Am - Signed",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Rick Stein's German Bite",
       "Documentaries",
       "disliked"
-    ],
-    [
-      "Snooker: Welsh Open - Live: Trump v Steadman - uninterrupted",
-      "Sports",
-      "disliked"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Science 7-8 Year-Olds:",
-      "Signed",
-      "neutral"
     ]
   ],
   "watch_counts": {
-    "Project Children: Defusing the Troubles": 1
+    "9/11: Inside the President's War Room - Signed": 1,
+    "Naomi's Nightmares of Nature": 1,
+    "Blown": 1,
+    "HARDtalk - Nureldin Satti, Sudanese ambassador to the US, 2020-2021": 1,
+    "The Lavender Hill Mob": 1,
+    "BBC Northern Ireland School Choir of the Year - Soloist of the Year 2022: The Final": 1,
+    "Paddy and Christine McGuinness: Our Family and Autism - Signed": 1,
+    "Danny and Mick": 1,
+    "Dance Passion - 2022: Plymouth": 1,
+    "Our World - Finding Grace": 1,
+    "Movies With Ali Plumb - Jim Carrey & Ben Schwartz: Sonic The Hedgehog": 1,
+    "Bellator MMA - 2021: MVP's MMA masterclass with Lutalo Muhammad": 1,
+    "Your Garden Made Perfect": 1,
+    "Louis Theroux - America's Medicated Kids": 1,
+    "BBC News Special - Coronavirus Update: 12/07/2021 - Signed": 1,
+    "Unpopular Opinion - Niall Horan": 1,
+    "Bitesize Daily: 7-9 Year Olds - Geography 8-9 Year Olds:": 1,
+    "My Unique B&B": 1,
+    "Blinded by the Light": 1,
+    "Bellator MMA - 2021: Bellator 272: Main event & Prelims": 1,
+    "Paloma Faith: As I Am - Signed": 1
   }
 }

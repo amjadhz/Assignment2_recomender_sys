@@ -1,40 +1,195 @@
 {
   "user_preferences": {
-    "Sports": -1,
-    "Documentaries": -1,
-    "Signed": -1
+    "Documentaries": 1.5,
+    "Food": 1.0,
+    "From the Archives": 1.5,
+    "Signed": 0.25,
+    "Science & Nature": -0.25,
+    "Films": 1.5,
+    "Arts": 0.0,
+    "Entertainment": 0.0,
+    "Sports": -0.5
   },
   "user_interactions": [
     [
-      "Afoot Again In The Past - Clouds Hill",
-      "From the Archives",
-      "neutral"
-    ],
-    [
-      "HARDtalk - Neil deGrasse Tyson - Director, Hayden Planetarium, New York",
-      "From the Archives",
-      "neutral"
-    ],
-    [
-      "Question Time - 2022: 03/02/2022 - Signed",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "Bellator MMA - 2021: Bellator 270: Main event & Prelims",
-      "Sports",
-      "disliked"
-    ],
-    [
-      "Panorama - Paralympics: The Unfair Games?",
+      "Blue Planet Revisited",
       "Documentaries",
-      "disliked"
+      "watched",
+      90
     ],
     [
-      "Question Time - 2021: 25/11/2021 - Signed",
+      "Defence of the Realm",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Hairy Bikers' Cookbook - The Hairy Bakers Shorts:",
+      "Food",
+      "liked"
+    ],
+    [
+      "The Rolling Stones: Totally Stripped",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Panorama - NHS: Wait or Pay?",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "We Are England - Sporting Heroes: Fighting for Me",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Afoot Again In The Past - Portmeirion",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Our World - Hong Kong: Jimmy Lai\u2019s Last Stand",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Baby Club - Songs: Incy Wincy Spider",
       "Signed",
-      "disliked"
+      "watched",
+      10
+    ],
+    [
+      "Witnessing India's Covid Crisis",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Geography 5-6 Year Olds:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Alan Shearer: Dementia, Football and Me",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Clive James",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "CBeebies Presents - Songs: Christmas in Storyland: Stocking Up Your Stocking",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Hemingway",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Making The Most Of The Micro",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "The Secret History of Writing",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Click - Short Edition - 28/08/2021",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Suspicion",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Amundsen",
+      "Films",
+      "liked"
+    ],
+    [
+      "Sickness and Lies",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Ke",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Loop - Shorts: Making Monsters out of Prosthetics",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Going to Work - The Rag Trade",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "The Graham Norton Show",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Athletics: World Indoor Championships - 2022: Day 3 - Morning Session Uninterrupted",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "9/11: Inside the President's War Room",
+      "Documentaries",
+      "liked"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Blue Planet Revisited": 1,
+    "Defence of the Realm": 1,
+    "The Hairy Bikers' Cookbook - The Hairy Bakers Shorts:": 1,
+    "The Rolling Stones: Totally Stripped": 1,
+    "Panorama - NHS: Wait or Pay?": 1,
+    "We Are England - Sporting Heroes: Fighting for Me": 1,
+    "Afoot Again In The Past - Portmeirion": 1,
+    "Our World - Hong Kong: Jimmy Lai\u2019s Last Stand": 1,
+    "The Baby Club - Songs: Incy Wincy Spider": 1,
+    "Witnessing India's Covid Crisis": 1,
+    "Bitesize Daily: 5-7 Year Olds - Geography 5-6 Year Olds:": 1,
+    "Alan Shearer: Dementia, Football and Me": 1,
+    "Clive James": 1,
+    "CBeebies Presents - Songs: Christmas in Storyland: Stocking Up Your Stocking": 1,
+    "Hemingway": 1,
+    "Making The Most Of The Micro": 1,
+    "The Secret History of Writing": 1,
+    "Click - Short Edition - 28/08/2021": 1,
+    "Suspicion": 1,
+    "Bitesize Daily: 7-9 Year Olds - Maths:": 1,
+    "Amundsen": 1,
+    "Sickness and Lies": 1,
+    "Ke": 1,
+    "Loop - Shorts: Making Monsters out of Prosthetics": 1,
+    "Going to Work - The Rag Trade": 1,
+    "The Graham Norton Show": 1,
+    "9/11: Inside the President's War Room": 1
+  }
 }

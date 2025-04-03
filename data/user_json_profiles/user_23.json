@@ -1,43 +1,251 @@
 {
   "user_preferences": {
-    "Signed": -1,
-    "Documentaries": -2,
-    "Entertainment": 1,
-    "Food": -1
+    "From the Archives": 1.5,
+    "Entertainment": -1.5,
+    "Music": -0.25,
+    "Comedy": 1.5,
+    "Documentaries": 0.5,
+    "Science & Nature": 0.75,
+    "Food": 1.0,
+    "Signed": 0.75,
+    "History": -0.25,
+    "Sports": 0.5
   },
   "user_interactions": [
     [
-      "Panorama - Wild Weather: Our World Under Threat - Signed",
-      "Signed",
-      "disliked"
+      "Jonathan Creek",
+      "From the Archives",
+      "watched",
+      10
     ],
     [
-      "Michael Palin's Hemingway Adventure",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Shop Well for Less",
+      "School Of Hard Tricks",
       "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Biffy Clyro: A Celebration of Endings",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Silky Hotel",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "BBC Wales Investigates - When Would You Want to Die?",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Brian Cox's Adventures in Space and Time",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Ken Hom's Chinese Cookery - Snacks",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "The Young Offenders - Christmas Special",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Countryfile - Wrest Park - Signed",
+      "Signed",
       "liked"
     ],
     [
-      "Madhur Jaffrey's Flavours of India - West Bengal",
-      "Food",
+      "Inside the Bruderhof",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "George Best: All by Himself",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Call the Midwife - Christmas Special 2013",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Hunting the Essex Lorry Killers",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Talking Pictures - War Stories",
+      "Documentaries",
       "disliked"
     ],
     [
-      "Ghosts - He Came!",
-      "Comedy",
-      "neutral"
+      "Top of the Pops - 02/07/1992",
+      "Music",
+      "watched",
+      10
     ],
     [
-      "Born to Be Wild",
+      "The Trump Show - Downfall",
       "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Our World - Yazidi Women: Clearing Sinjar's Mines",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "MasterChef: The Professionals - Rematch 2019",
+      "Food",
+      "liked"
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 08/12/2021 - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Absolutely Fabulous - Specials:",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Boulez at 80",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Unpopular Opinion - Emilia Clarke",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "Click - Short Edition - 05/02/2022",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Armchair Voyage: Hellenic Cruise",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Wogan - 18/02/1984",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Let\u2019s Talk About the English",
+      "History",
+      "watched",
+      10
+    ],
+    [
+      "Famalam",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Squash -  Scottish Open 2021",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Marsicans - Sunday",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "The Teens Taking On Deliveroo",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Click - Short Edition - 04/12/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Biff and Chip",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Call the Midwife - Christmas Special 2012",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "University Challenge - Christmas 2021: Semi-Final 2",
+      "Entertainment",
       "disliked"
     ]
   ],
   "watch_counts": {
-    "Shop Well for Less": 1
+    "Jonathan Creek": 1,
+    "School Of Hard Tricks": 1,
+    "Biffy Clyro: A Celebration of Endings": 1,
+    "Silky Hotel": 1,
+    "BBC Wales Investigates - When Would You Want to Die?": 1,
+    "Brian Cox's Adventures in Space and Time": 1,
+    "Ken Hom's Chinese Cookery - Snacks": 1,
+    "The Young Offenders - Christmas Special": 1,
+    "Countryfile - Wrest Park - Signed": 1,
+    "Inside the Bruderhof": 1,
+    "George Best: All by Himself": 1,
+    "Call the Midwife - Christmas Special 2013": 1,
+    "Hunting the Essex Lorry Killers": 1,
+    "Top of the Pops - 02/07/1992": 1,
+    "The Trump Show - Downfall": 1,
+    "Our World - Yazidi Women: Clearing Sinjar's Mines": 1,
+    "MasterChef: The Professionals - Rematch 2019": 1,
+    "BBC News Special - Coronavirus Update: 08/12/2021 - Signed": 1,
+    "Absolutely Fabulous - Specials:": 1,
+    "Boulez at 80": 1,
+    "BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet": 1,
+    "Click - Short Edition - 05/02/2022": 1,
+    "Armchair Voyage: Hellenic Cruise": 1,
+    "Wogan - 18/02/1984": 1,
+    "Let\u2019s Talk About the English": 1,
+    "Famalam": 1,
+    "Squash -  Scottish Open 2021": 1,
+    "BBC Music Introducing - The BME Sessions: Marsicans - Sunday": 1,
+    "The Teens Taking On Deliveroo": 1,
+    "Click - Short Edition - 04/12/2021": 1,
+    "Biff and Chip": 1,
+    "Call the Midwife - Christmas Special 2012": 1
   }
 }

@@ -1,27 +1,210 @@
 {
   "user_preferences": {
-    "Documentaries": 2,
-    "Signed": -1
+    "Entertainment": 1.5,
+    "CBBC": -1.0,
+    "Documentaries": 1.5,
+    "Music": 1.0,
+    "Signed": 0.25,
+    "Films": -0.25,
+    "Comedy": 1.0,
+    "From the Archives": 0.0,
+    "Arts": 0.5
   },
   "user_interactions": [
     [
-      "France '98 - The Three Musketeers",
+      "The One Show - 04/03/2022",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Sketchy Comedy",
+      "CBBC",
+      "disliked"
+    ],
+    [
+      "Storyville - Final Account",
       "Documentaries",
       "liked"
     ],
     [
-      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Fact and Opinion",
+      "Top Gear - N",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Jungle Green: Borneo",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Eating with My Ex",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Reel Stories - Kylie Minogue: Reel Stories",
+      "Music",
+      "liked"
+    ],
+    [
+      "Go Jetters - Songs: Can I Vroom in the Vroomster",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Andy and the Band",
       "Signed",
       "disliked"
     ],
     [
-      "Cities of Europe - London: We Live by the River",
+      "Songs of Praise - The Duke of Edinburgh",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Storyville - Orion: The Man Who Would Be King",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds: Changing Materials",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 10/05/2021 - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Forensics: The Real CSI",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing 2021 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Kids Ask Difficult Questions - Kit Harington",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Crossfire",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Matilda and the Ramsay Bunch",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "The Young Offenders",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "2 Point 4 Children - Two Years Before the Mast",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "New Creatives - Rerouting",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "Age of Outrage",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Omnibus - Oscar",
       "Documentaries",
       "liked"
+    ],
+    [
+      "Pranked by Superfan Steve - Rebel Wilson",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Mister Maker at Home",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Upload Festival - WATCH: Upload Festival 2021 - The Writers' Tent",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Peaky Blinders",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Galdem Sugar",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Louis Theroux - Talking to Anorexia",
+      "Documentaries",
+      "watched",
+      90
+    ],
+    [
+      "The Graham Norton Show",
+      "Entertainment",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "France '98 - The Three Musketeers": 1,
-    "Cities of Europe - London: We Live by the River": 1
+    "The One Show - 04/03/2022": 1,
+    "Storyville - Final Account": 1,
+    "Top Gear - N": 1,
+    "Jungle Green: Borneo": 1,
+    "Reel Stories - Kylie Minogue: Reel Stories": 1,
+    "Go Jetters - Songs: Can I Vroom in the Vroomster": 1,
+    "Songs of Praise - The Duke of Edinburgh": 1,
+    "Storyville - Orion: The Man Who Would Be King": 1,
+    "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds: Changing Materials": 1,
+    "BBC News Special - Coronavirus Update: 10/05/2021 - Signed": 1,
+    "Forensics: The Real CSI": 1,
+    "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing 2021 - Signed": 1,
+    "Kids Ask Difficult Questions - Kit Harington": 1,
+    "Crossfire": 1,
+    "The Young Offenders": 1,
+    "New Creatives - Rerouting": 1,
+    "Age of Outrage": 1,
+    "Omnibus - Oscar": 1,
+    "Pranked by Superfan Steve - Rebel Wilson": 1,
+    "Mister Maker at Home": 1,
+    "Upload Festival - WATCH: Upload Festival 2021 - The Writers' Tent": 1,
+    "Peaky Blinders": 1,
+    "Galdem Sugar": 1,
+    "Louis Theroux - Talking to Anorexia": 1,
+    "The Graham Norton Show": 1
   }
 }

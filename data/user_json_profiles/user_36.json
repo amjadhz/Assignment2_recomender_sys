@@ -1,39 +1,212 @@
 {
   "user_preferences": {
-    "Documentaries": -2,
-    "Signed": -2
+    "Signed": 1.0,
+    "Entertainment": 1.0,
+    "Sports": 0.5,
+    "From the Archives": 0.5,
+    "Documentaries": 1.0,
+    "Arts": 1.0,
+    "Science & Nature": 1.5,
+    "Music": -0.5,
+    "CBBC": -0.25
   },
   "user_interactions": [
     [
-      "A Taste of Christmas with Andi Oliver",
-      "Food",
-      "neutral"
-    ],
-    [
-      "Everything - The Real Thing Story",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "Our World - Nigeria's Retirement Hell",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds: Habitats",
+      "Our NHS: A Hidden History - Signed",
       "Signed",
-      "disliked"
+      "watched",
+      75
     ],
     [
-      "The Sky at Night - Telescopes through Time",
-      "Documentaries",
-      "disliked"
+      "Squad Dates - Pilot",
+      "Entertainment",
+      "watched",
+      30
     ],
     [
-      "Andy and the Band - Songs: Freeze",
+      "Bellator MMA - 2022: Bellator 275: Prelims",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Absolutely Fabulous - Cold Turkey",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles",
       "Signed",
-      "disliked"
+      "watched",
+      10
+    ],
+    [
+      "Andy and the Band - Songs: I Can't Stop Dancing",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Don't Exclude Me",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Storyville - Carlos Ghosn: The Last Flight",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Super League Show - 2022: 21/03/2022",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "In Search of Sir Walter Scott",
+      "Arts",
+      "liked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 17/01/2022",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing: 1",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Jay's Yorkshire Workshop",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Stage Shows:",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 21/03/2022",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Return to... The Cruise",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "BBC News Special - President Biden: State of the Union Address",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Andy and the Band - Songs: Don't Give Up",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "In Search of Sir Walter Scott",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Farewell My Afghanistan",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Stacey Dooley: Costa del Narcos",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Using Ice to Battle India's Heat",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Psychedelic Drug Trial",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Nadiya: Anxiety and Me - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "CBeebies Bedtime Stories - 5",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Unpopular Opinion - Justin Timberlake and Anna Kendrick",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Click - Battling Brain Trauma",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "Countryfile - Coniston",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "BBC Northern Ireland School Choir of the Year - Soloist of the Year 2022: The Final",
+      "Music",
+      "skipped"
+    ],
+    [
+      "Blue Peter - Operation Ouch Takeover!",
+      "CBBC",
+      "watched",
+      10
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Our NHS: A Hidden History - Signed": 1,
+    "Squad Dates - Pilot": 1,
+    "Bellator MMA - 2022: Bellator 275: Prelims": 1,
+    "Absolutely Fabulous - Cold Turkey": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles": 1,
+    "Andy and the Band - Songs: I Can't Stop Dancing": 1,
+    "Don't Exclude Me": 1,
+    "Storyville - Carlos Ghosn: The Last Flight": 1,
+    "In Search of Sir Walter Scott": 2,
+    "NIFL Premiership Highlights - 2021/2022: 17/01/2022": 1,
+    "Bitesize Daily: 5-7 Year Olds - Wellbeing: 1": 1,
+    "Jay's Yorkshire Workshop": 1,
+    "CBeebies Presents - Stage Shows:": 1,
+    "NIFL Premiership Highlights - 2021/2022: 21/03/2022": 1,
+    "BBC News Special - President Biden: State of the Union Address": 1,
+    "Andy and the Band - Songs: Don't Give Up": 1,
+    "Farewell My Afghanistan": 1,
+    "Life at 50\u00b0C - Shorts: Using Ice to Battle India's Heat": 1,
+    "The Psychedelic Drug Trial": 1,
+    "CBeebies Bedtime Stories - 5": 1,
+    "Unpopular Opinion - Justin Timberlake and Anna Kendrick": 1,
+    "Click - Battling Brain Trauma": 1,
+    "Countryfile - Coniston": 1,
+    "Blue Peter - Operation Ouch Takeover!": 1
+  }
 }

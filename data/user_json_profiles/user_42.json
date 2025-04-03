@@ -1,24 +1,206 @@
 {
   "user_preferences": {
-    "Signed": -2,
-    "Music": -1
+    "From the Archives": 1.0,
+    "Documentaries": 1.5,
+    "Signed": -1.5,
+    "Entertainment": 0.5,
+    "Comedy": 1.5,
+    "Music": 1.5,
+    "Arts": 0.0,
+    "Films": -0.5,
+    "Sports": 0.5,
+    "Food": 0.0
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 7-9 Year Olds - English: English - Reading to Understand",
-      "Signed",
-      "disliked"
+      "The Late Show - Face to Face: Jeanette Winterson",
+      "From the Archives",
+      "watched",
+      25
     ],
     [
-      "BBC News Special - Museum of the Year",
-      "Signed",
-      "disliked"
+      "The Beauty of Diagrams",
+      "Documentaries",
+      "watched",
+      25
     ],
     [
-      "BBC Music Introducing - The BME Sessions: Bess Atwell - Co-op",
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Figurative Language",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "NYPD: Biggest Gang in New York?",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Comic Relief - 2022: The Great Comic Relief Prizeathon",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Silky Hotel",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Tina Turner at the BBC",
       "Music",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Semi-Colons, Colons and Dashes",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Bodyhack: Metal Gear Man",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Loop - Shorts: Embroidering Britain\u2019s Lost Bees",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Our World - Platform 5: Escaping Ukraine",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Trooping the Colour - Highlights 2021",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Panorama - Afghanistan: A Country at Breaking Point",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bitter Lake",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Professor Branestawm - The Incredible Adventures of Professor Branestawm",
+      "Films",
       "disliked"
+    ],
+    [
+      "Our World - Inside the Taliban Regime",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Lights Up - Sitting",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "The Frost Interview - David Frost interviews Muhammad Ali",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Madagascar: Escape 2 Africa",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Songs: Christmas in Storyland: Wish You Were Here",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Question Time - 2021: 13/05/2021 - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Stevens & McCarthy",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Freddie Mercury: The Final Act",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Numberblocks - Numbersongs: Hen House Hop",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Behind the Screen - Carla Lane",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Women's FA Cup - 2021/22: Ipswich Town v West Ham United",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Our World - Hong Kong: Jimmy Lai\u2019s Last Stand",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Madhur Jaffrey's Flavours of India - West Bengal",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Minding Our Language",
+      "Documentaries",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "The Late Show - Face to Face: Jeanette Winterson": 1,
+    "The Beauty of Diagrams": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Figurative Language": 1,
+    "NYPD: Biggest Gang in New York?": 1,
+    "Comic Relief - 2022: The Great Comic Relief Prizeathon": 1,
+    "Silky Hotel": 1,
+    "Tina Turner at the BBC": 1,
+    "Bodyhack: Metal Gear Man": 1,
+    "Loop - Shorts: Embroidering Britain\u2019s Lost Bees": 1,
+    "Our World - Platform 5: Escaping Ukraine": 1,
+    "Trooping the Colour - Highlights 2021": 1,
+    "Panorama - Afghanistan: A Country at Breaking Point": 1,
+    "Bitter Lake": 1,
+    "Our World - Inside the Taliban Regime": 1,
+    "The Frost Interview - David Frost interviews Muhammad Ali": 1,
+    "Madagascar: Escape 2 Africa": 1,
+    "CBeebies Presents - Songs: Christmas in Storyland: Wish You Were Here": 1,
+    "Stevens & McCarthy": 1,
+    "Freddie Mercury: The Final Act": 1,
+    "Behind the Screen - Carla Lane": 1,
+    "Women's FA Cup - 2021/22: Ipswich Town v West Ham United": 1,
+    "Our World - Hong Kong: Jimmy Lai\u2019s Last Stand": 1,
+    "Madhur Jaffrey's Flavours of India - West Bengal": 1,
+    "Minding Our Language": 1
+  }
 }

@@ -1,43 +1,181 @@
 {
   "user_preferences": {
-    "Documentaries": 3,
-    "Signed": -2
+    "Science & Nature": 0.25,
+    "Documentaries": 0.75,
+    "Comedy": 0.0,
+    "Music": 0.0,
+    "Signed": 0.25,
+    "Sports": 0.0,
+    "Films": -0.5,
+    "Food": 0.5,
+    "From the Archives": -0.5,
+    "Entertainment": 1.0,
+    "CBBC": 0.0
   },
   "user_interactions": [
     [
-      "Operation Ouch!",
+      "Click - Short Edition - 20/11/2021",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "Stacey Dooley - The Blame Game",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Music\u2019s Dirty Secrets: Women Fight Back",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Mind of Herbert Clunkerdunk",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Attenborough and the Sea Dragon",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Click - Short Edition - 06/11/2021",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "The Nilsen Files",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Crossing England in a Punt: River of Dreams",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "One More TUNE - BEKA",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - Delivering Christmas: What\u2019s in Store?",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Click - The Illegal Pet Trade",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "Countryfile - Wrest Park - Signed",
       "Signed",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "Split Up in Care: Life without Siblings",
+      "The Merthyr Mermaid",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "The Spanish Main",
+      "Films",
+      "skipped"
+    ],
+    [
+      "Driven: The Billy Monger Story",
       "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 04/12/2021",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Saturday Kitchen - 30/10/2021",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Lady Macbeth",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - The Day of the Doctor",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - English: Reading Aloud/Performing",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing",
+      "Entertainment",
       "liked"
     ],
     [
-      "Panorama - Manchester Arena Bombing: Saffie\u2019s Story",
-      "Documentaries",
+      "Nadiya: Anxiety and Me - Signed",
+      "Signed",
       "liked"
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:",
+      "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds: Growing Up",
       "Signed",
       "disliked"
     ],
     [
-      "Go Jetters",
-      "Signed",
-      "disliked"
+      "Dumping Ground Island",
+      "CBBC",
+      "watched",
+      25
     ],
     [
-      "Black Hollywood: 'They've Gotta Have Us'",
+      "40 Minutes - The Outcasts",
       "Documentaries",
-      "liked"
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Split Up in Care: Life without Siblings": 1,
-    "Panorama - Manchester Arena Bombing: Saffie\u2019s Story": 1,
-    "Black Hollywood: 'They've Gotta Have Us'": 1
+    "Music\u2019s Dirty Secrets: Women Fight Back": 1,
+    "The Mind of Herbert Clunkerdunk": 1,
+    "Attenborough and the Sea Dragon": 1,
+    "Click - Short Edition - 06/11/2021": 1,
+    "The Nilsen Files": 1,
+    "Crossing England in a Punt: River of Dreams": 1,
+    "One More TUNE - BEKA": 1,
+    "Panorama - Delivering Christmas: What\u2019s in Store?": 1,
+    "Click - The Illegal Pet Trade": 1,
+    "Countryfile - Wrest Park - Signed": 1,
+    "The Merthyr Mermaid": 1,
+    "Driven: The Billy Monger Story": 1,
+    "Click - Short Edition - 04/12/2021": 1,
+    "Saturday Kitchen - 30/10/2021": 1,
+    "Lady Macbeth": 1,
+    "Bitesize Daily: 5-7 Year Olds - English: Reading Aloud/Performing": 1,
+    "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing": 1,
+    "Nadiya: Anxiety and Me - Signed": 1,
+    "Dumping Ground Island": 1,
+    "40 Minutes - The Outcasts": 1
   }
 }

@@ -1,41 +1,194 @@
 {
   "user_preferences": {
-    "Sports": -1,
-    "CBBC": -1,
-    "Documentaries": -2,
-    "Signed": -1
+    "From the Archives": -1.5,
+    "Signed": 1.5,
+    "Comedy": 1.0,
+    "Arts": 1.0,
+    "History": -1.0,
+    "Sports": 1.0,
+    "Documentaries": 1.5,
+    "Entertainment": 0.25,
+    "Science & Nature": 0.75,
+    "Music": -0.25
   },
   "user_interactions": [
     [
-      "Super League Show - 2022: 21/03/2022",
+      "BBC Proms - 2021: Beethoven\u2019s Second Symphony",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Tomorrow's World - Computers in the 60s",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Coventry Cathedral: Building for a New Britain - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Half a Sixpence",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Life Drawing Live! - 2021: The Show",
+      "Arts",
+      "liked"
+    ],
+    [
+      "The Road to",
+      "History",
+      "disliked"
+    ],
+    [
+      "Wheelchair Basketball - 2022: East London Phoenix v Loughborough Lightning",
       "Sports",
-      "disliked"
+      "watched",
+      75
     ],
     [
-      "Jacqueline Wilson's Katy",
-      "CBBC",
-      "disliked"
-    ],
-    [
-      "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "Right Here",
+      "Ulster to the Arctic \u2013 A Gentleman\u2019s Adventure",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "My Family,",
+      "Horizon - 1965-1966: Man In Space",
       "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Scotts",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Meet the Red Devils: Parachute Regiment",
+      "From the Archives",
       "disliked"
+    ],
+    [
+      "MasterChef",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Culture in Quarantine - Silent World",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Click - CES 2022: The Weird and Wonderful",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Tuesday Documentary - Barry Norman in Celebrity City",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Click - Short Edition - 01/01/2022",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bent Coppers: Crossing the Line of Duty",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Numberblocks - Numbersongs: Zoom Zoom Zoom!",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Modern Times - The Way of All Flesh",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Culture in Quarantine - Hen Night",
+      "Signed",
+      "liked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 30/08/2021",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Louis Theroux - Savile",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Glasgow City v",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Friends Like These",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Pride Hits at the BBC",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Arena - The Everly Brothers Reunion Concert",
+      "Documentaries",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Tomorrow's World - Computers in the 60s": 1,
+    "Coventry Cathedral: Building for a New Britain - Signed": 1,
+    "Half a Sixpence": 1,
+    "Life Drawing Live! - 2021: The Show": 1,
+    "Wheelchair Basketball - 2022: East London Phoenix v Loughborough Lightning": 1,
+    "Ulster to the Arctic \u2013 A Gentleman\u2019s Adventure": 1,
+    "Horizon - 1965-1966: Man In Space": 1,
+    "The Scotts": 1,
+    "MasterChef": 1,
+    "Culture in Quarantine - Silent World": 1,
+    "Click - CES 2022: The Weird and Wonderful": 1,
+    "Tuesday Documentary - Barry Norman in Celebrity City": 1,
+    "Click - Short Edition - 01/01/2022": 1,
+    "Bitesize Daily: 7-9 Year Olds - Maths:": 1,
+    "Bent Coppers: Crossing the Line of Duty": 1,
+    "Modern Times - The Way of All Flesh": 1,
+    "Culture in Quarantine - Hen Night": 1,
+    "NIFL Premiership Highlights - 2021/2022: 30/08/2021": 1,
+    "Louis Theroux - Savile": 1,
+    "Scottish Women's Premier League 2021-22 - Glasgow City v": 1,
+    "Friends Like These": 1,
+    "Pride Hits at the BBC": 1,
+    "Arena - The Everly Brothers Reunion Concert": 1
+  }
 }

@@ -1,23 +1,212 @@
 {
   "user_preferences": {
-    "Documentaries": -1
+    "Comedy": 0.5,
+    "Entertainment": 0.25,
+    "Music": 0.0,
+    "Documentaries": 1.5,
+    "Sports": -0.5,
+    "Science & Nature": 0.5,
+    "Signed": 1.0,
+    "From the Archives": -0.75
   },
   "user_interactions": [
     [
-      "Masked and Anonymous",
-      "Films",
-      "neutral"
+      "Beena and Amrit",
+      "Comedy",
+      "watched",
+      50
     ],
     [
-      "Cities of Europe - London: We Live by the River",
+      "Kids Ask Difficult Questions - Tom Hanks",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "BBC Cardiff Singer of the World - 2021: Round 1",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Students On The Edge",
       "Documentaries",
+      "liked"
+    ],
+    [
+      "Panorama - Online Pimps Exposed",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Movies With Ali Plumb - Lily James: The Story So Far",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "The Moment of Proof",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Curious House Guest",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Women's Super League - 2021/22: Arsenal v Birmingham City",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "Click - 20/11/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Interior Design Masters with Alan Carr",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Arena - Miller Meets Mandela",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Back from the Brink",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Life and Death Row",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Zara McDermott - Revenge Porn - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "PRU",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Freddie Mercury: The Final Act",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "The Farmers' Country Showdown",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Sacred Rivers with Simon Reeve",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Doctor Who - A Christmas Carol",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Music Night at Brownlow",
+      "Music",
+      "skipped"
+    ],
+    [
+      "Bates Motel",
+      "From the Archives",
       "disliked"
     ],
     [
-      "Go Jetters - Songs: Foz Will Figure It Out",
+      "Peter Taylor: Ireland After",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Port",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Mysteries of the Bayeux Tapestry",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "My Family - Sixty Feet Under",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Kelvin's Big Farming Adventure",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Lights Up - Sadie",
       "Signed",
-      "neutral"
+      "watched",
+      25
+    ],
+    [
+      "Music Masters - John Adams",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Inspector Montalbano - The Artist's Touch",
+      "From the Archives",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Beena and Amrit": 1,
+    "Kids Ask Difficult Questions - Tom Hanks": 1,
+    "BBC Cardiff Singer of the World - 2021: Round 1": 1,
+    "Students On The Edge": 1,
+    "Panorama - Online Pimps Exposed": 1,
+    "Movies With Ali Plumb - Lily James: The Story So Far": 1,
+    "The Moment of Proof": 1,
+    "The Curious House Guest": 1,
+    "Click - 20/11/2021": 1,
+    "Interior Design Masters with Alan Carr": 1,
+    "Back from the Brink": 1,
+    "Life and Death Row": 1,
+    "Zara McDermott - Revenge Porn - Signed": 1,
+    "PRU": 1,
+    "Freddie Mercury: The Final Act": 1,
+    "The Farmers' Country Showdown": 1,
+    "Sacred Rivers with Simon Reeve": 1,
+    "Doctor Who - A Christmas Carol": 1,
+    "Port": 1,
+    "Mysteries of the Bayeux Tapestry": 1,
+    "Kelvin's Big Farming Adventure": 1,
+    "Lights Up - Sadie": 1,
+    "Music Masters - John Adams": 1,
+    "Inspector Montalbano - The Artist's Touch": 1
+  }
 }

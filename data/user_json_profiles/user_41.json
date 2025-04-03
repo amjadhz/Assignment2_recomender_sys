@@ -1,49 +1,202 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Entertainment": -2,
-    "Food": 0,
-    "Documentaries": 1
+    "Entertainment": 1.0,
+    "From the Archives": -0.5,
+    "Signed": 1.5,
+    "Documentaries": 1.5,
+    "Food": 0.25,
+    "Sports": 0.5,
+    "Music": 0.0,
+    "Comedy": 0.5,
+    "Science & Nature": 0.5,
+    "Films": -0.25
   },
   "user_interactions": [
     [
-      "Doctor Who - Voyage of the Damned",
+      "The Great British Sewing Bee - Class of 2014",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Inspector Montalbano - The Patience of the Spider",
       "From the Archives",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Richard Osman's House of Games",
+      "Kids Ask Difficult Questions - Tom Hardy",
       "Entertainment",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Mortimer & Whitehouse: Gone Fishing - Gone Christmas Fishing",
-      "Entertainment",
-      "disliked"
+      "Our Family",
+      "Signed",
+      "watched",
+      50
     ],
     [
-      "Saturday Kitchen - 02/10/2021",
-      "Food",
-      "liked"
-    ],
-    [
-      "Saturday Kitchen - 02/10/2021",
-      "Food",
-      "disliked"
-    ],
-    [
-      "The Sound of TV with Neil Brand",
+      "In the Highest Tradition",
       "Documentaries",
       "liked"
     ],
     [
-      "Click - Short Edition - 30/10/2021",
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Decimals and Percentages",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Alphabeticall - Beauty and the Beast",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Tuesday Documentary - Engines Must Not Enter the Potato Siding",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Blue Planet Revisited",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Taste - Chinese Whispers",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Ken Hom's Chinese Cookery - Snacks",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "40 Minutes - Animal Crackers",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The One Show - 28/02/2022",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Skimming and Scanning",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Ulster Rugby - The Ulster Rugby Show: 03/03/2022",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Pride Hits at the BBC",
+      "Music",
+      "liked"
+    ],
+    [
+      "Bad Education",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Stacey Dooley - Inside the Convent",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Radio 2 Live - 2021: Westlife",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Panorama - Boris Johnson on the Brink",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Gloria Bell",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Click - Racing to Victory",
       "Science & Nature",
-      "neutral"
+      "watched",
+      50
+    ],
+    [
+      "Odd Squad: The Movie",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "BBC Children in Need - 2021: The Great Rickshaw Relay Challenge",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Not Going Out - The True Meaning of Christmas",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Horizon - 1981-1982: The Race to Ruin",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Saturday Kitchen - 06/11/2021",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "The Golden Cobra",
+      "Comedy",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Saturday Kitchen - 02/10/2021": 1,
-    "The Sound of TV with Neil Brand": 1
+    "The Great British Sewing Bee - Class of 2014": 1,
+    "Inspector Montalbano - The Patience of the Spider": 1,
+    "Kids Ask Difficult Questions - Tom Hardy": 1,
+    "Our Family": 1,
+    "In the Highest Tradition": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Decimals and Percentages": 1,
+    "Alphabeticall - Beauty and the Beast": 1,
+    "Tuesday Documentary - Engines Must Not Enter the Potato Siding": 1,
+    "Blue Planet Revisited": 1,
+    "Taste - Chinese Whispers": 1,
+    "Ken Hom's Chinese Cookery - Snacks": 1,
+    "40 Minutes - Animal Crackers": 1,
+    "The One Show - 28/02/2022": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Skimming and Scanning": 1,
+    "Ulster Rugby - The Ulster Rugby Show: 03/03/2022": 1,
+    "Pride Hits at the BBC": 1,
+    "Bad Education": 1,
+    "Stacey Dooley - Inside the Convent": 1,
+    "Panorama - Boris Johnson on the Brink": 1,
+    "Gloria Bell": 1,
+    "Click - Racing to Victory": 1,
+    "Odd Squad: The Movie": 1,
+    "BBC Children in Need - 2021: The Great Rickshaw Relay Challenge": 1,
+    "Horizon - 1981-1982: The Race to Ruin": 1,
+    "Saturday Kitchen - 06/11/2021": 1,
+    "The Golden Cobra": 1
   }
 }

@@ -1,37 +1,248 @@
 {
   "user_preferences": {
-    "Entertainment": 1,
-    "Signed": -1,
-    "Films": -1
+    "From the Archives": -0.25,
+    "Arts": 0.0,
+    "Entertainment": 1.5,
+    "Documentaries": 1.5,
+    "Signed": -1.25,
+    "Comedy": 0.5,
+    "Sports": -0.25,
+    "Music": 1.5,
+    "Science & Nature": 0.25
   },
   "user_interactions": [
     [
-      "The Apprentice Australia - 2021: Final Task",
+      "The Killing",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "New Creatives - Greenlight",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Movies With Ali Plumb - Movies That Made Me 3",
+      "Entertainment",
+      "watched",
+      95
+    ],
+    [
+      "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special",
       "Entertainment",
       "liked"
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Maths: Position and Direction",
+      "Natural World - 2007-2008:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Andy's Dinosaur Adventures",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Crisis in Care: Follow the Money - Signed",
       "Signed",
       "disliked"
     ],
     [
-      "Women at Work",
-      "From the Archives",
-      "neutral"
+      "Ar An Sliabh",
+      "Documentaries",
+      "watched",
+      50
     ],
     [
-      "Ninja Express",
-      "CBBC",
-      "neutral"
+      "Nolan Live",
+      "Entertainment",
+      "liked"
     ],
     [
-      "Happy New Year, Colin Burstead",
-      "Films",
-      "disliked"
+      "Raiders of the Lost Archive",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 28/12/2021",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "Eye To Eye - London-New York",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "BAMOUS",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Alex Brooker: Disability and Me - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Mustangs FC",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Liz Lawrence - USP",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Time for School - Songs: Let's Make Friends",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Life of a Mountain - A Year on Helvellyn - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Click - Merry Clickmas",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Squad Goals",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Tangled Up with Dylan: The Ballad of AJ Weberman",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Great British Sewing Bee - Christmas Special",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Kurupting the Industry: The People Just Do Nothing Story",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "TUNE - Shorts: Misty Galactic Live",
+      "Music",
+      "liked"
+    ],
+    [
+      "1Xtra - Decks of Kin: Jordss",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Kiri's TV Flashback",
+      "Entertainment",
+      "watched",
+      90
+    ],
+    [
+      "Lightning",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Tish Tash",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Radio 1's Live Lounge - Stay Home Live Lounge",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "NIFL Premiership Highlights - 2020/21: 17/05/2021",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Click - Mechanical Medical Marvels",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "1Xtra - Welcome to Hackney with Ivorian Doll",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Inside Dubai: Playground of the Rich",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Match of the Day Top 10",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "The Gap Year Paedophile",
+      "Documentaries",
+      "watched",
+      10
     ]
   ],
   "watch_counts": {
-    "The Apprentice Australia - 2021: Final Task": 1
+    "The Killing": 1,
+    "New Creatives - Greenlight": 1,
+    "Movies With Ali Plumb - Movies That Made Me 3": 1,
+    "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special": 1,
+    "Natural World - 2007-2008:": 1,
+    "Andy's Dinosaur Adventures": 1,
+    "Ar An Sliabh": 1,
+    "Nolan Live": 1,
+    "Raiders of the Lost Archive": 1,
+    "Eye To Eye - London-New York": 1,
+    "BAMOUS": 1,
+    "Alex Brooker: Disability and Me - Signed": 1,
+    "Mustangs FC": 1,
+    "BBC Music Introducing - The BME Sessions: Liz Lawrence - USP": 1,
+    "Time for School - Songs: Let's Make Friends": 1,
+    "Life of a Mountain - A Year on Helvellyn - Signed": 1,
+    "Click - Merry Clickmas": 1,
+    "Squad Goals": 1,
+    "Tangled Up with Dylan: The Ballad of AJ Weberman": 1,
+    "The Great British Sewing Bee - Christmas Special": 1,
+    "Kurupting the Industry: The People Just Do Nothing Story": 1,
+    "TUNE - Shorts: Misty Galactic Live": 1,
+    "1Xtra - Decks of Kin: Jordss": 1,
+    "Kiri's TV Flashback": 1,
+    "Lightning": 1,
+    "Tish Tash": 1,
+    "Radio 1's Live Lounge - Stay Home Live Lounge": 1,
+    "NIFL Premiership Highlights - 2020/21: 17/05/2021": 1,
+    "Click - Mechanical Medical Marvels": 1,
+    "1Xtra - Welcome to Hackney with Ivorian Doll": 1,
+    "Inside Dubai: Playground of the Rich": 1,
+    "Match of the Day Top 10": 1,
+    "The Gap Year Paedophile": 1
   }
 }

@@ -1,25 +1,224 @@
 {
   "user_preferences": {
-    "Sports": 1
+    "From the Archives": -0.25,
+    "Signed": 1.5,
+    "Sports": 0.0,
+    "Documentaries": 1.5,
+    "History": 0.5,
+    "Entertainment": 0.5,
+    "Science & Nature": 0.0,
+    "Food": 0.0,
+    "Arts": 0.0
   },
   "user_interactions": [
     [
-      "Doctor Who - Eve of the Daleks",
+      "Mrs Brown's Boys",
       "From the Archives",
-      "neutral"
+      "watched",
+      75
     ],
     [
-      "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic",
+      "The Baby Club - Songs: Row Row Row Your Boat",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 08/11/2021",
       "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Afghanistan - Back to the Future",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Turkey with Simon Reeve",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Inspector Montalbano - The Track of Sand",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "The Boleyns: A Scandalous Family",
+      "History",
+      "watched",
+      75
+    ],
+    [
+      "Kids Ask Difficult Questions - Will Smith",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Click - Merry Clickmas",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "The Sweet Makers",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - Our Largest",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "The One Show - 23/03/2022",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Untouchable: The Rise and Fall of Harvey Weinstein",
+      "Documentaries",
       "liked"
     ],
     [
-      "The Fires that Foretold Grenfell",
+      "LUSH! Classical",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Welcome to the World of George the Poet",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Still Game",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Alphabet Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The Mystery of Anthrax Island",
       "Documentaries",
-      "neutral"
+      "skipped"
+    ],
+    [
+      "One Foot in the Grave - The Wisdom of the Witch",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Our World - Greece's Megafires",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Recognise and Name 3D Shapes",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Proms: CBeebies Prom: A Musical Journey",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Click - Finding Footballers with AI",
+      "Science & Nature",
+      "skipped"
+    ],
+    [
+      "The Great British Sewing Bee - 2021 Specials:",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing: 1",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Horizon - 2018:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Meet The Khans - Relationship Quiz",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Secret Life of Boys",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The Sky at Night - Exploring Jupiter",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Mach as mo Rathad/Born to Drive",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Planets",
+      "Documentaries",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Scottish Women's Premier League 2021-22 - Aberdeen v Celtic": 1
+    "Mrs Brown's Boys": 1,
+    "The Baby Club - Songs: Row Row Row Your Boat": 1,
+    "NIFL Premiership Highlights - 2021/2022: 08/11/2021": 1,
+    "Turkey with Simon Reeve": 1,
+    "Inspector Montalbano - The Track of Sand": 1,
+    "The Boleyns: A Scandalous Family": 1,
+    "Kids Ask Difficult Questions - Will Smith": 1,
+    "Click - Merry Clickmas": 1,
+    "The Sweet Makers": 1,
+    "New Creatives - Our Largest": 1,
+    "The One Show - 23/03/2022": 1,
+    "Untouchable: The Rise and Fall of Harvey Weinstein": 1,
+    "LUSH! Classical": 1,
+    "Welcome to the World of George the Poet": 1,
+    "Hey Duggee - Top of the Pups: Alphabet Song": 1,
+    "One Foot in the Grave - The Wisdom of the Witch": 1,
+    "Our World - Greece's Megafires": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Recognise and Name 3D Shapes": 1,
+    "CBeebies Presents - Proms: CBeebies Prom: A Musical Journey": 1,
+    "The Great British Sewing Bee - 2021 Specials:": 1,
+    "Bitesize Daily: 5-7 Year Olds - Wellbeing: 1": 1,
+    "Horizon - 2018:": 1,
+    "Meet The Khans - Relationship Quiz": 1,
+    "Secret Life of Boys": 1,
+    "The Sky at Night - Exploring Jupiter": 1,
+    "Mach as mo Rathad/Born to Drive": 1,
+    "The Planets": 1
   }
 }

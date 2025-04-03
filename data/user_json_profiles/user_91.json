@@ -1,28 +1,235 @@
 {
   "user_preferences": {
-    "Signed": -1
+    "Entertainment": -1.0,
+    "Signed": -1.0,
+    "Arts": 1.0,
+    "Documentaries": 0.25,
+    "Comedy": 1.5,
+    "Science & Nature": -0.5,
+    "From the Archives": 0.5,
+    "Food": 0.0,
+    "Films": -0.5,
+    "Sports": 1.0
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds: Humans",
+      "Comic Relief - 2022: The Best Bits",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Extinction: The Facts - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Big Book Weekend - How To Be A Man: Russell Kane, Alex Wheatle and Guvna B",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "Panorama - Manchester Arena Bombing: Saffie\u2019s Story",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "The Goes Wrong Show",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Sex Map of Britain",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Romesh: Talking to Comedians - In Caffs About Growing Up",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 12/02/2022",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - English:",
       "Signed",
       "disliked"
     ],
     [
-      "Teen Taxi",
+      "EastEnders 2010 - 26/12/2009",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "CBeebies Bedtime Stories - 5",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "The Time Of Your Life",
       "Entertainment",
-      "neutral"
+      "disliked"
     ],
     [
-      "Peter Taylor: Ireland After",
+      "Dynasties - Meerkat: A Dynasties Special",
       "Documentaries",
-      "neutral"
+      "watched",
+      50
     ],
     [
-      "The Golden Age of Canals",
+      "Royal Wedding: A Day to Remember - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Horizon - 1981-1982: The Pleasure of Finding Things Out",
       "Documentaries",
-      "neutral"
+      "watched",
+      75
+    ],
+    [
+      "Measuring Mass: The Last Artefact - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Taste - Getting to the Point",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Loop - Art for a Sustainable Future",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "Car Girls",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Our Girl - Pilot",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "HARDtalk - Oleksii Reznikov - Ukraine's Defence Minister",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "St. Mungo's",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Mach as mo Rathad/Born to Drive",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Witchfinder",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Click - Battling Brain Trauma",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths: Position and Direction",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Arctic with Bruce Parry",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Mammoth",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "MasterChef: The Professionals - Rematch 2021",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Breakfast with Frost - Donald Rumsfeld",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Night of the Living Dead",
+      "Films",
+      "skipped"
+    ],
+    [
+      "The Christian Eriksen Interview",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Silver Jubilee - Review of the British Army",
+      "From the Archives",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Comic Relief - 2022: The Best Bits": 1,
+    "Extinction: The Facts - Signed": 1,
+    "Big Book Weekend - How To Be A Man: Russell Kane, Alex Wheatle and Guvna B": 1,
+    "The Goes Wrong Show": 1,
+    "Sex Map of Britain": 1,
+    "Romesh: Talking to Comedians - In Caffs About Growing Up": 1,
+    "Click - Short Edition - 12/02/2022": 1,
+    "EastEnders 2010 - 26/12/2009": 1,
+    "CBeebies Bedtime Stories - 5": 1,
+    "Dynasties - Meerkat: A Dynasties Special": 1,
+    "Royal Wedding: A Day to Remember - Signed": 1,
+    "Horizon - 1981-1982: The Pleasure of Finding Things Out": 1,
+    "Measuring Mass: The Last Artefact - Signed": 1,
+    "Taste - Getting to the Point": 1,
+    "Loop - Art for a Sustainable Future": 1,
+    "Car Girls": 1,
+    "Our Girl - Pilot": 1,
+    "St. Mungo's": 1,
+    "Mach as mo Rathad/Born to Drive": 1,
+    "The Witchfinder": 1,
+    "Bitesize Daily: 7-9 Year Olds - Maths: Position and Direction": 1,
+    "Arctic with Bruce Parry": 1,
+    "Mammoth": 1,
+    "MasterChef: The Professionals - Rematch 2021": 1,
+    "Breakfast with Frost - Donald Rumsfeld": 1,
+    "The Christian Eriksen Interview": 1,
+    "Silver Jubilee - Review of the British Army": 1
+  }
 }

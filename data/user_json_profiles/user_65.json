@@ -1,38 +1,177 @@
 {
   "user_preferences": {
-    "Documentaries": 2,
-    "Films": -1,
-    "From the Archives": -1
+    "From the Archives": 0.75,
+    "Signed": -1.25,
+    "Documentaries": 0.5,
+    "Science & Nature": 0.0,
+    "Sports": 0.25,
+    "Food": 1.0,
+    "Music": -0.25
   },
   "user_interactions": [
     [
-      "Attenborough's Paradise Birds",
+      "Inspector Montalbano - The Artist's Touch",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Sherlock - The Abominable Bride",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English \u2013 Sentences",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Storyville - Price of Gold",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Barra's Wild Days Out",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Bellator MMA - 2021: Rewind: Lima v MVP",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Tuesday Documentary - The Block",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Saturday Kitchen - 12/03/2022",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Flamborough Head - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "This Is Joan Collins",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Rock 'n' Roll Highway",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "HARDtalk - Francis Fukuyama - Political Economist",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "The FA Cup - 2021/22: Quarter-Final: Southampton v Manchester City",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "On Christmas Night - 2021",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Silver Jubilee - Review of the British Army",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Saturday Kitchen - 01/01/2022",
+      "Food",
+      "liked"
+    ],
+    [
+      "Inside Dubai: Playground of the Rich",
       "Documentaries",
       "liked"
     ],
     [
-      "Any One Of Us",
-      "Films",
-      "disliked"
-    ],
-    [
-      "HARDtalk - Marine Le Pen - French Presidential Candidate, National Rally",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "Signs of the Times - They're Not Holding the Ceiling Up",
-      "From the Archives",
-      "neutral"
-    ],
-    [
-      "The Fight For Women's Bodies",
+      "A Perfect Planet",
       "Documentaries",
+      "disliked"
+    ],
+    [
+      "Rewind - 1980s - Shortened Versions:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Our Girl - Pilot",
+      "From the Archives",
       "liked"
+    ],
+    [
+      "BBC Proms - 2021: Chineke! with Jeneba Kanneh-Mason",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Pop Goes Northern Ireland - An Introduction to Pop Goes Northern Ireland",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 20/10/2021",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Storyville - The Distant Barking of Dogs",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Tee and Mo - Only One Mum",
+      "Signed",
+      "watched",
+      10
     ]
   ],
   "watch_counts": {
-    "Attenborough's Paradise Birds": 1,
-    "The Fight For Women's Bodies": 1
+    "Inspector Montalbano - The Artist's Touch": 1,
+    "Storyville - Price of Gold": 1,
+    "Barra's Wild Days Out": 1,
+    "Bellator MMA - 2021: Rewind: Lima v MVP": 1,
+    "Saturday Kitchen - 12/03/2022": 1,
+    "This Is Joan Collins": 1,
+    "Rock 'n' Roll Highway": 1,
+    "HARDtalk - Francis Fukuyama - Political Economist": 1,
+    "The FA Cup - 2021/22: Quarter-Final: Southampton v Manchester City": 1,
+    "On Christmas Night - 2021": 1,
+    "Silver Jubilee - Review of the British Army": 1,
+    "Saturday Kitchen - 01/01/2022": 1,
+    "Inside Dubai: Playground of the Rich": 1,
+    "Rewind - 1980s - Shortened Versions:": 1,
+    "Our Girl - Pilot": 1,
+    "BBC Proms - 2021: Chineke! with Jeneba Kanneh-Mason": 1,
+    "Pop Goes Northern Ireland - An Introduction to Pop Goes Northern Ireland": 1,
+    "BBC News Special - Coronavirus Update: 20/10/2021": 1,
+    "Storyville - The Distant Barking of Dogs": 1,
+    "Tee and Mo - Only One Mum": 1
   }
 }

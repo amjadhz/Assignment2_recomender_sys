@@ -1,41 +1,222 @@
 {
   "user_preferences": {
-    "Music": -1,
-    "Documentaries": -1,
-    "CBBC": -1,
-    "Films": -1
+    "Signed": -0.25,
+    "Documentaries": 0.25,
+    "Sports": 0.5,
+    "From the Archives": 0.0,
+    "Science & Nature": 0.5,
+    "Comedy": 0.0,
+    "Music": 0.25,
+    "Films": -0.75,
+    "Entertainment": 1.0,
+    "CBBC": 0.5
   },
   "user_interactions": [
     [
-      "Patrick Kielty: One Hundred Years of Union - Signed",
+      "Disclosure - Am I Scottish?",
       "Signed",
-      "neutral"
+      "watched",
+      25
     ],
     [
-      "Country Kings at the BBC",
-      "Music",
-      "disliked"
-    ],
-    [
-      "Loop - Shorts: Loop - Creating Classical Portraiture for the Next Generation",
-      "Arts",
-      "neutral"
-    ],
-    [
-      "Tuesday Documentary - Beyond the Wall",
+      "Pandemic 2020",
       "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Man Alive - Gale is Dead",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Under-20s Six Nations Rugby - 2022: Italy v Scotland",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Not Going Out - Driving Home for Christmas",
+      "From the Archives",
       "disliked"
     ],
     [
-      "Pok\u00e9mon: Diamond and Pearl",
-      "CBBC",
-      "disliked"
+      "BBC News Special - Coronavirus Update: 10/05/2021 - Signed",
+      "Signed",
+      "watched",
+      50
     ],
     [
-      "Minding the Gap: An American Skateboarding Story",
+      "Gym Stars",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "I Am Not A Rapist",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Teacher Talks: English - What is a Syllable?",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Countryfile - Highlands Rewilding",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Irish League Football Live - Cliftonville v Coleraine",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Dancing Bug Song",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Click - Extremism Online",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "What Just Happened?",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Stacey Dooley Investigates - The Billion Pound",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "The Past at Work - Railway Mania",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "BBC Arts NI presents - Sounds New Extra",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Winter Journey: Schubert's Winterreise",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Countryfile - Harvest Special - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Panorama - David Cameron and the Missing Billions - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Blackbeard the Pirate",
       "Films",
-      "disliked"
+      "watched",
+      10
+    ],
+    [
+      "The Joe Wicks Podcast - Sir Tom Jones: Don\u2019t Hold Back",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Defending the Guilty",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "1Xtra - Made In Britain: Jungle",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Arena: African Apocalypse",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Primary Colors",
+      "Films",
+      "skipped"
+    ],
+    [
+      "Defence of the Realm",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Unpopular Opinion - Justin Timberlake and Anna Kendrick",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Class Dismissed",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "Parkinson - Dr Jacob Bronowski",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 15/11/2021",
+      "Sports",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Disclosure - Am I Scottish?": 1,
+    "Pandemic 2020": 1,
+    "Man Alive - Gale is Dead": 1,
+    "Under-20s Six Nations Rugby - 2022: Italy v Scotland": 1,
+    "BBC News Special - Coronavirus Update: 10/05/2021 - Signed": 1,
+    "Gym Stars": 1,
+    "I Am Not A Rapist": 1,
+    "Countryfile - Highlands Rewilding": 1,
+    "Irish League Football Live - Cliftonville v Coleraine": 1,
+    "Hey Duggee - Top of the Pups: The Dancing Bug Song": 1,
+    "Click - Extremism Online": 1,
+    "What Just Happened?": 1,
+    "The Past at Work - Railway Mania": 1,
+    "BBC Arts NI presents - Sounds New Extra": 1,
+    "Winter Journey: Schubert's Winterreise": 1,
+    "Panorama - David Cameron and the Missing Billions - Signed": 1,
+    "Blackbeard the Pirate": 1,
+    "The Joe Wicks Podcast - Sir Tom Jones: Don\u2019t Hold Back": 1,
+    "1Xtra - Made In Britain: Jungle": 1,
+    "Arena: African Apocalypse": 1,
+    "Defence of the Realm": 1,
+    "Unpopular Opinion - Justin Timberlake and Anna Kendrick": 1,
+    "Class Dismissed": 1,
+    "Parkinson - Dr Jacob Bronowski": 1,
+    "NIFL Premiership Highlights - 2021/2022: 15/11/2021": 1
+  }
 }

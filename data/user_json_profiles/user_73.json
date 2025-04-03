@@ -1,34 +1,237 @@
 {
   "user_preferences": {
-    "Films": -2,
-    "Music": -1
+    "Documentaries": 1.5,
+    "Sports": 0.5,
+    "Music": -1.0,
+    "Arts": -1.0,
+    "Signed": 1.5,
+    "Entertainment": 1.0,
+    "Science & Nature": -1.25,
+    "Films": -0.25,
+    "From the Archives": 0.25,
+    "CBBC": 0.0
   },
   "user_interactions": [
     [
-      "Tycoon",
-      "Films",
-      "neutral"
+      "Miriam's Dead Good Adventure",
+      "Documentaries",
+      "watched",
+      75
     ],
     [
-      "Versus - The Life and Films of Ken Loach",
-      "Films",
-      "disliked"
+      "The FA Cup - 2021/22: Quarter-Final: Middlesbrough v Chelsea",
+      "Sports",
+      "watched",
+      50
     ],
     [
-      "Yellow Canary",
-      "Films",
-      "disliked"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Four and Eight Times Tables",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "Leeds International Piano Competition - 2021",
+      "Wayfaring Stranger with Phil Cunningham",
       "Music",
       "disliked"
+    ],
+    [
+      "Dance Passion - 2022: London",
+      "Arts",
+      "disliked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Bedtime Song",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Minding Our Language",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Caribbean with Simon Reeve",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "We Are England - The Night Shift: Life Blood",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Princes and the Press",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Playground Insults - Will Ferrell & Mark Wahlberg",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 18/09/2021",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "A Special School",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Being British Bangladeshi",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "CBeebies Presents - Stage Shows: The Nutcracker",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "TUNE - Shorts: LVRA : Using Music To Navigate My Identity",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Madonna: Truth or Dare",
+      "Music",
+      "skipped"
+    ],
+    [
+      "Movies With Ali Plumb - Lily James: The Story So Far",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "The Devil's Music",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Allerton",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Subnormal: A British Scandal",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Sky's the Limit",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Click - Short Edition - 24/07/2021",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Expert Witness",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Inspector Montalbano - Turning Point",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Baby Club - Songs: Old McDonald",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Arena - The Everly Brothers: Songs of Innocence and Experience",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Film Profile - Betty Box and Ralph Thomas",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Hey Duggee - Green Planet:",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Reclaiming Amy - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Going to Work - The Rag Trade",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Own It - Top Tips To Make Gaming Fun And Safe Online",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "The Decade the Rich Won",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Life of a Mountain - A Year on Blencathra - Signed",
+      "Signed",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Miriam's Dead Good Adventure": 1,
+    "The FA Cup - 2021/22: Quarter-Final: Middlesbrough v Chelsea": 1,
+    "Hey Duggee - Top of the Pups: Bedtime Song": 1,
+    "Minding Our Language": 1,
+    "Caribbean with Simon Reeve": 1,
+    "We Are England - The Night Shift: Life Blood": 1,
+    "The Princes and the Press": 1,
+    "Playground Insults - Will Ferrell & Mark Wahlberg": 1,
+    "A Special School": 1,
+    "Being British Bangladeshi": 1,
+    "CBeebies Presents - Stage Shows: The Nutcracker": 1,
+    "TUNE - Shorts: LVRA : Using Music To Navigate My Identity": 1,
+    "Movies With Ali Plumb - Lily James: The Story So Far": 1,
+    "The Devil's Music": 1,
+    "Countryfile - Allerton": 1,
+    "Subnormal: A British Scandal": 1,
+    "The Sky's the Limit": 1,
+    "Click - Short Edition - 24/07/2021": 1,
+    "Expert Witness": 1,
+    "Inspector Montalbano - Turning Point": 1,
+    "Arena - The Everly Brothers: Songs of Innocence and Experience": 1,
+    "Film Profile - Betty Box and Ralph Thomas": 1,
+    "Hey Duggee - Green Planet:": 1,
+    "Reclaiming Amy - Signed": 1,
+    "Going to Work - The Rag Trade": 1,
+    "Own It - Top Tips To Make Gaming Fun And Safe Online": 1,
+    "The Decade the Rich Won": 1,
+    "Life of a Mountain - A Year on Blencathra - Signed": 1
+  }
 }

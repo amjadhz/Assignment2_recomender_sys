@@ -1,32 +1,246 @@
 {
   "user_preferences": {
-    "Comedy": 1,
-    "Films": -1,
-    "Music": -1
+    "Entertainment": 0.5,
+    "Signed": 0.75,
+    "CBBC": 0.5,
+    "From the Archives": 0.25,
+    "Documentaries": 1.5,
+    "Films": 0.0,
+    "Science & Nature": 0.5,
+    "Arts": -0.5,
+    "Music": 0.5,
+    "Sports": 0.0
   },
   "user_interactions": [
     [
-      "Ulster Rugby - The Ulster Rugby Show: 03/03/2022",
-      "Sports",
-      "neutral"
+      "BAMOUS",
+      "Entertainment",
+      "watched",
+      50
     ],
     [
-      "OMC!",
-      "Comedy",
+      "Countryfile - Manifold Valley Agricultural Show - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Princess Mirror-Belle",
+      "CBBC",
+      "watched",
+      75
+    ],
+    [
+      "In Town Tonight - 22/10/1955",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Brexit Storm - Laura Kuenssberg\u2019s Inside Story",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "TikTok Queen at 16",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Catherine Tate Show - Christmas Show 2005",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "My Mate's a Bad Date",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "ear for eye",
+      "Films",
+      "skipped"
+    ],
+    [
+      "How It Feels to Be Human",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "The Sky at Night - Exploring Jupiter",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Gangster, the Cop, the Devil",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Winter Walks",
+      "Documentaries",
       "liked"
     ],
     [
-      "Persian Lessons",
-      "Films",
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Negative Numbers",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "The Queen: 70 Glorious Years",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "New Creatives - It\u2019s Raining, It\u2019s Pouring",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "TUNE - Shorts: Anna Gram: From DJ Debut to Scene Staple",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Blue Planet II",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Rainhill Story: St",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Branagh: bringing Belfast home",
+      "Arts",
       "disliked"
     ],
     [
-      "Harry Belafonte - Live at the BBC",
-      "Music",
-      "disliked"
+      "The Football News Show - 22/03/2022",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Numberblocks - Numbersongs: Who Has More?",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Only Connect",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Tuesday Documentary - The Heart of A",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 01/11/2021",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "Countryfile - County Down - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Laurence Tribe - Professor Emeritus, Harvard Law School",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Our Wild Adventures",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Secrets of the Multi-Level Millionaires: Ellie Undercover",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Return to the Bonfire",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Top Gear - USA Road Trip",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Face to Face - Carl Jung",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Mortimer & Whitehouse: Gone Fishing",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Just Another Day",
+      "Documentaries",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "OMC!": 1
+    "BAMOUS": 1,
+    "Countryfile - Manifold Valley Agricultural Show - Signed": 1,
+    "Princess Mirror-Belle": 1,
+    "In Town Tonight - 22/10/1955": 1,
+    "The Brexit Storm - Laura Kuenssberg\u2019s Inside Story": 1,
+    "TikTok Queen at 16": 1,
+    "The Catherine Tate Show - Christmas Show 2005": 1,
+    "My Mate's a Bad Date": 1,
+    "How It Feels to Be Human": 1,
+    "The Sky at Night - Exploring Jupiter": 1,
+    "The Gangster, the Cop, the Devil": 1,
+    "Winter Walks": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Negative Numbers": 1,
+    "New Creatives - It\u2019s Raining, It\u2019s Pouring": 1,
+    "TUNE - Shorts: Anna Gram: From DJ Debut to Scene Staple": 1,
+    "Blue Planet II": 1,
+    "The Rainhill Story: St": 1,
+    "The Football News Show - 22/03/2022": 1,
+    "Numberblocks - Numbersongs: Who Has More?": 1,
+    "Only Connect": 1,
+    "Tuesday Documentary - The Heart of A": 1,
+    "Countryfile - County Down - Signed": 1,
+    "HARDtalk - Laurence Tribe - Professor Emeritus, Harvard Law School": 1,
+    "Our Wild Adventures": 1,
+    "Secrets of the Multi-Level Millionaires: Ellie Undercover": 1,
+    "Return to the Bonfire": 1,
+    "Top Gear - USA Road Trip": 1,
+    "Face to Face - Carl Jung": 1,
+    "Mortimer & Whitehouse: Gone Fishing": 1,
+    "Just Another Day": 1
   }
 }

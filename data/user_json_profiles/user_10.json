@@ -1,24 +1,251 @@
 {
   "user_preferences": {
-    "Documentaries": -2,
-    "From the Archives": -1
+    "Sports": -0.25,
+    "From the Archives": 1.25,
+    "Entertainment": -1.0,
+    "Films": -0.5,
+    "Signed": -0.5,
+    "Documentaries": 1.25,
+    "Music": 1.0,
+    "Arts": -0.25,
+    "Science & Nature": 1.0,
+    "Food": 0.5
   },
   "user_interactions": [
     [
-      "Groundbreakers - Belfast's Richest Radical",
-      "Documentaries",
-      "disliked"
+      "NIFL Premiership Highlights - 2021/2022: 06/12/2021",
+      "Sports",
+      "watched",
+      10
     ],
     [
-      "Stacey Dooley Investigates - Nigeria's Female Suicide Bombers",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Wogan - 25/12/1984",
+      "Gavin & Stacey",
       "From the Archives",
       "disliked"
+    ],
+    [
+      "Inspector Montalbano - As Per Procedure",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Movies With Ali Plumb - Becoming... Captain America",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Not Going Out - Ding Dong Merrily on Live",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "The Velvet Touch",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Numberblocks - Specials: The Twelve Days of Christmas",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Doctor Who - Planet of the Dead",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Stacey Dooley - Back on the Psych Ward",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "CBeebies Presents - Songs: Hansel and Gretel: Gathered Round The Christmas Tree",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "A Perfect Planet",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Annie Lennox - Diva",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley Investigates - World's Worst Place to Be a Woman?",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Mrs Brown's Boys - 2012 Specials:",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Numberblocks - Numbersongs: Zoom Zoom Zoom!",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - Stitching, Kneeling",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Him & Her - The Wedding:",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Celebrity LOLs - Kate Winslet: Wronguns with Greg James",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "Click - The Greatest Show, Man!",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "Gareth Thomas: HIV and Me",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "ABBA at the BBC",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "esports - League of Legends - UK League Championship 2021 Spring",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Katie Price: What Harvey Did Next",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Brexit Storm - Laura Kuenssberg\u2019s Inside Story",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Afoot Again In The Past - Stately Kitchens",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "The Hostel For Homeless Young Mums",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Arnold Schwarzenegger on Climate Change",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Women in Film: BBC Introducing Arts",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Nadiya's Summer Feasts",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "The Misadventures of Romesh Ranganathan - Christmas - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Hairy Bikers' Best of British",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Question Time - 2021: 22/04/2021 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "HARDtalk - Damian Collins, Conservative MP - Online Safety Bill Committee Chair",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Adventure - Quest under Capricorn:",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Africa - The Greatest Show on Earth",
+      "From the Archives",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "NIFL Premiership Highlights - 2021/2022: 06/12/2021": 1,
+    "Inspector Montalbano - As Per Procedure": 1,
+    "Not Going Out - Ding Dong Merrily on Live": 1,
+    "The Velvet Touch": 1,
+    "Doctor Who - Planet of the Dead": 1,
+    "Stacey Dooley - Back on the Psych Ward": 1,
+    "A Perfect Planet": 1,
+    "Annie Lennox - Diva": 1,
+    "Stacey Dooley Investigates - World's Worst Place to Be a Woman?": 1,
+    "Mrs Brown's Boys - 2012 Specials:": 1,
+    "Numberblocks - Numbersongs: Zoom Zoom Zoom!": 1,
+    "New Creatives - Stitching, Kneeling": 1,
+    "Him & Her - The Wedding:": 1,
+    "Click - The Greatest Show, Man!": 1,
+    "Gareth Thomas: HIV and Me": 1,
+    "ABBA at the BBC": 1,
+    "esports - League of Legends - UK League Championship 2021 Spring": 1,
+    "Katie Price: What Harvey Did Next": 1,
+    "The Brexit Storm - Laura Kuenssberg\u2019s Inside Story": 1,
+    "Afoot Again In The Past - Stately Kitchens": 1,
+    "The Hostel For Homeless Young Mums": 1,
+    "Arnold Schwarzenegger on Climate Change": 1,
+    "Women in Film: BBC Introducing Arts": 1,
+    "Nadiya's Summer Feasts": 1,
+    "The Misadventures of Romesh Ranganathan - Christmas - Signed": 1,
+    "Hairy Bikers' Best of British": 1,
+    "Question Time - 2021: 22/04/2021 - Signed": 1,
+    "HARDtalk - Damian Collins, Conservative MP - Online Safety Bill Committee Chair": 1,
+    "Adventure - Quest under Capricorn:": 1,
+    "Africa - The Greatest Show on Earth": 1
+  }
 }

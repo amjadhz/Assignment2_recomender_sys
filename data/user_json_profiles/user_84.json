@@ -1,47 +1,196 @@
 {
   "user_preferences": {
-    "Entertainment": 1,
-    "Documentaries": -2,
-    "Signed": -2
+    "Documentaries": 1.5,
+    "Signed": 0.0,
+    "Music": 1.5,
+    "Entertainment": -0.25,
+    "Food": -0.25,
+    "Sports": 1.5,
+    "Films": -1.0,
+    "From the Archives": -0.5
   },
   "user_interactions": [
     [
-      "We Are England - A Place Called Home: Students in Suburbia - Newcastle",
+      "Bring Molly Home",
       "Documentaries",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "Movies With Ali Plumb - Michael B. Jordan: The Story So Far",
+      "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "At Home with the Gettys",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Porridge Radio - Long",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Brexit: Six Months On",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Crouchy's Year-Late Euros: Live",
       "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Growing Up Down's",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Louis Theroux - The City Addicted to Crystal Meth",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Suzie Lee: Home Cook Hero - Shorts:",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 01/11/2021",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "TUNE - Shorts: The New Aberdeen: R&B and Hip-Hop at the Heart of the Granite City",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Louis Theroux - Behind Bars",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Grand Tours of Scotland's Lochs",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Beauty of Diagrams",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Bellator MMA - 2022: John Salter vs. Johnny Eblen",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Holiday Affair",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "The Man Who Took on a Mansion",
+      "Documentaries",
       "liked"
     ],
     [
-      "The Misadventures of Romesh Ranganathan - Christmas",
+      "The A to Z of TV Gardening - Shorts: Letter I",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "We Are England - A Place Called Home: Staying Afloat",
+      "Uprising",
       "Documentaries",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "Subnormal: A British Scandal - Signed",
-      "Signed",
-      "disliked"
+      "Under-20s Six Nations Rugby - 2022: Ireland v Scotland",
+      "Sports",
+      "watched",
+      50
     ],
     [
-      "The Magnificent Ambersons",
+      "BBC Music Introducing - The BME Sessions: Marsicans - Juliet",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Am B.F.G./The BFG",
       "Films",
-      "neutral"
+      "disliked"
     ],
     [
-      "Anton Ferdinand: Football, Racism and Me - Signed",
-      "Signed",
+      "Stacey Dooley - Back on the Psych Ward",
+      "Documentaries",
       "disliked"
+    ],
+    [
+      "The Living Dead",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "EastEnders 2010 - 15/12/2009",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Doctor Who - The Husbands of River Song",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Top of the Pops - 16/07/1992",
+      "Music",
+      "watched",
+      50
     ]
   ],
   "watch_counts": {
-    "Movies With Ali Plumb - Michael B. Jordan: The Story So Far": 1
+    "Bring Molly Home": 1,
+    "BBC News Special - Coronavirus Update: : 27/05/2021 - Signed": 1,
+    "BBC Music Introducing - The BME Sessions: Porridge Radio - Long": 1,
+    "Panorama - Brexit: Six Months On": 1,
+    "Crouchy's Year-Late Euros: Live": 1,
+    "Growing Up Down's": 1,
+    "Louis Theroux - The City Addicted to Crystal Meth": 1,
+    "Suzie Lee: Home Cook Hero - Shorts:": 1,
+    "NIFL Premiership Highlights - 2021/2022: 01/11/2021": 1,
+    "TUNE - Shorts: The New Aberdeen: R&B and Hip-Hop at the Heart of the Granite City": 1,
+    "Louis Theroux - Behind Bars": 1,
+    "Grand Tours of Scotland's Lochs": 1,
+    "The Beauty of Diagrams": 1,
+    "Bellator MMA - 2022: John Salter vs. Johnny Eblen": 1,
+    "Holiday Affair": 1,
+    "The Man Who Took on a Mansion": 1,
+    "The A to Z of TV Gardening - Shorts: Letter I": 1,
+    "Uprising": 1,
+    "Under-20s Six Nations Rugby - 2022: Ireland v Scotland": 1,
+    "BBC Music Introducing - The BME Sessions: Marsicans - Juliet": 1,
+    "The Living Dead": 1,
+    "EastEnders 2010 - 15/12/2009": 1,
+    "Top of the Pops - 16/07/1992": 1
   }
 }

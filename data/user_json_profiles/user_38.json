@@ -1,29 +1,228 @@
 {
   "user_preferences": {
-    "Music": -1,
-    "Films": -1
+    "Music": -0.5,
+    "Documentaries": 0.0,
+    "CBBC": 0.25,
+    "Signed": 1.25,
+    "Sports": 1.5,
+    "From the Archives": -1.0,
+    "Films": 1.0,
+    "Entertainment": 1.5,
+    "Science & Nature": -0.25
   },
   "user_interactions": [
     [
-      "Carols from King's - 2021",
+      "Trad Ar Fad!",
       "Music",
-      "disliked"
+      "skipped"
     ],
     [
-      "Mistresses",
-      "From the Archives",
-      "neutral"
+      "David Baddiel: Social Media, Anger and Us",
+      "Documentaries",
+      "watched",
+      10
     ],
     [
-      "Effie Gray",
-      "Films",
-      "disliked"
+      "Mimi and Co",
+      "CBBC",
+      "watched",
+      75
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - Geography 6-7 Year Olds:",
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths \u2013 Data",
       "Signed",
-      "neutral"
+      "watched",
+      25
+    ],
+    [
+      "The Football News Show - 23/03/2022",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Adam Smith Democrat Chairman, House Armed Services Committee",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Absolutely Fabulous",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Hoop Dreams",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Mission: Joy \u2013 With Archbishop Desmond Tutu and the Dalai Lama",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Mrs Brown's Boys - 2013 Specials:",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Rory's Way",
+      "Films",
+      "liked"
+    ],
+    [
+      "The Goes Wrong Show",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Inside Central Station",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Culture in Quarantine - Face It - Leonie",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Nikki Lilly Bakes",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Kids Ask Difficult Questions - Jim Carrey",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Rain in My Heart",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Spotlight on the Troubles: A Secret History - Behind The Scenes",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "A Pandemic Poem: Where Did the World Go? - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "The People v Climate Change",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bellator MMA - 2021: Top Three Fights of 2021",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "We Bare Bears",
+      "CBBC",
+      "watched",
+      10
+    ],
+    [
+      "Bellator MMA - 2021: MVP's MMA masterclass with Lutalo Muhammad",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 22/01/2022",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Your Body Uncovered with Kate Garraway",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Football's Darkest Secret",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Race Across the World",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Brian Cox's Adventures in Space and Time",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Irish League Football Live - Glentoran v Cliftonville",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Jonathan Creek",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Avicii: True Stories",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Talking Pictures - Marvellous Musicals",
+      "Documentaries",
+      "skipped"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "David Baddiel: Social Media, Anger and Us": 1,
+    "Mimi and Co": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths \u2013 Data": 1,
+    "The Football News Show - 23/03/2022": 1,
+    "HARDtalk - Adam Smith Democrat Chairman, House Armed Services Committee": 1,
+    "Absolutely Fabulous": 1,
+    "Hoop Dreams": 1,
+    "Rory's Way": 1,
+    "The Goes Wrong Show": 1,
+    "Inside Central Station": 1,
+    "Culture in Quarantine - Face It - Leonie": 1,
+    "Nikki Lilly Bakes": 1,
+    "Kids Ask Difficult Questions - Jim Carrey": 1,
+    "Rain in My Heart": 1,
+    "Spotlight on the Troubles: A Secret History - Behind The Scenes": 1,
+    "A Pandemic Poem: Where Did the World Go? - Signed": 1,
+    "The People v Climate Change": 1,
+    "Bellator MMA - 2021: Top Three Fights of 2021": 1,
+    "We Bare Bears": 1,
+    "Bellator MMA - 2021: MVP's MMA masterclass with Lutalo Muhammad": 1,
+    "Click - Short Edition - 22/01/2022": 1,
+    "Your Body Uncovered with Kate Garraway": 1,
+    "Football's Darkest Secret": 1,
+    "Race Across the World": 1,
+    "Brian Cox's Adventures in Space and Time": 1,
+    "Irish League Football Live - Glentoran v Cliftonville": 1,
+    "Avicii: True Stories": 1
+  }
 }

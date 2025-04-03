@@ -1,49 +1,211 @@
 {
   "user_preferences": {
-    "Entertainment": -1,
-    "Food": -1,
-    "Documentaries": 1,
-    "From the Archives": -2,
-    "Films": -1
+    "Sports": 0.0,
+    "From the Archives": -0.5,
+    "Documentaries": 1.5,
+    "Signed": 0.0,
+    "Music": 0.5,
+    "Films": 0.5,
+    "Comedy": 1.5,
+    "Science & Nature": 1.5,
+    "Food": 0.0
   },
   "user_interactions": [
     [
-      "The World\u2019s Most Extreme Festivals - Gathering of the Juggalos",
-      "Entertainment",
-      "disliked"
+      "Women's FA Cup - 2021/22: Ipswich Town v West Ham United",
+      "Sports",
+      "watched",
+      25
     ],
     [
-      "Saturday Kitchen - 12/03/2022",
-      "Food",
-      "disliked"
+      "Two Pints of Lager and a Packet of Crisps - When Janet Met Johnny",
+      "From the Archives",
+      "watched",
+      10
     ],
     [
-      "Life at 50\u00b0C - Shorts: Raising the Alarm on Kuwait's Heat",
+      "Boys Banged Up",
       "Documentaries",
       "liked"
     ],
     [
-      "CBeebies Bedtime Stories - 4",
+      "Maddie, the Home and You",
       "Signed",
-      "neutral"
-    ],
-    [
-      "Our Girl",
-      "From the Archives",
       "disliked"
     ],
     [
-      "EastEnders 2010 - 17/12/2009",
-      "From the Archives",
-      "disliked"
+      "Countryfile - Bristol's Last Farm - Signed",
+      "Signed",
+      "watched",
+      50
     ],
     [
-      "A Farewell to Arms",
+      "Radio 1's Live Lounge - Stay Home Live Lounge",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Rent Like A Boss",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Together",
       "Films",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "Do Black Lives Still Matter?",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Romesh: Talking to Comedians - In Caffs About Growing Up",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "You Match The Description: Stop And Search",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "My Family",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds: Science: Feeding and Food Chains",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Andy and the Band - Songs: Showdown",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Scotland\u2019s Sacred Islands with Ben Fogle",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "We Are England - The Night Shift: Our Bin Lorry Life - Peterborough",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Panorama - Brexit: Six Months On",
+      "Documentaries",
+      "watched",
+      30
+    ],
+    [
+      "Click - 16/10/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "St. Mungo's",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Life After My Brother\u2019s Murder - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Subnormal: A British Scandal - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Click - Short Edition - 19/03/2022",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "The Home That 2 Built",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Live Lounge Show - BTS @ Radio 1",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Growing Up Green",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bill Bailey: Larks in Transit",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Thrifty Cooking in the Doctor\u2019s Kitchen",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Climate Change - The Facts",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "The\u00a0Bront\u00ebs: An Irish Tale",
+      "Documentaries",
+      "watched",
+      30
+    ],
+    [
+      "Question Time - 2021: 14/10/2021 - Signed",
+      "Signed",
+      "watched",
+      75
     ]
   ],
   "watch_counts": {
-    "Life at 50\u00b0C - Shorts: Raising the Alarm on Kuwait's Heat": 1
+    "Women's FA Cup - 2021/22: Ipswich Town v West Ham United": 1,
+    "Two Pints of Lager and a Packet of Crisps - When Janet Met Johnny": 1,
+    "Boys Banged Up": 1,
+    "Countryfile - Bristol's Last Farm - Signed": 1,
+    "Radio 1's Live Lounge - Stay Home Live Lounge": 1,
+    "Rent Like A Boss": 1,
+    "Together": 1,
+    "Do Black Lives Still Matter?": 1,
+    "Romesh: Talking to Comedians - In Caffs About Growing Up": 1,
+    "You Match The Description: Stop And Search": 1,
+    "My Family": 1,
+    "Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds: Science: Feeding and Food Chains": 1,
+    "Scotland\u2019s Sacred Islands with Ben Fogle": 1,
+    "We Are England - The Night Shift: Our Bin Lorry Life - Peterborough": 1,
+    "Panorama - Brexit: Six Months On": 1,
+    "Click - 16/10/2021": 1,
+    "St. Mungo's": 1,
+    "Life After My Brother\u2019s Murder - Signed": 1,
+    "Click - Short Edition - 19/03/2022": 1,
+    "The Home That 2 Built": 1,
+    "The Live Lounge Show - BTS @ Radio 1": 1,
+    "Growing Up Green": 1,
+    "Bill Bailey: Larks in Transit": 1,
+    "Thrifty Cooking in the Doctor\u2019s Kitchen": 1,
+    "Climate Change - The Facts": 1,
+    "The\u00a0Bront\u00ebs: An Irish Tale": 1,
+    "Question Time - 2021: 14/10/2021 - Signed": 1
   }
 }

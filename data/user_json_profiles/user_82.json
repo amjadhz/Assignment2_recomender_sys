@@ -1,36 +1,186 @@
 {
   "user_preferences": {
-    "Signed": -1,
-    "Documentaries": -2,
-    "From the Archives": -1,
-    "Music": -1
+    "Entertainment": 0.25,
+    "Science & Nature": 1.0,
+    "Sports": 0.5,
+    "Signed": 0.5,
+    "Films": 0.0,
+    "Documentaries": 1.5,
+    "From the Archives": 1.5,
+    "Food": 0.5,
+    "Music": 0.5,
+    "CBBC": 0.5
   },
   "user_interactions": [
     [
-      "Hey Duggee - Top of the Pups: The Birthday Song",
+      "Tudur's TV Flashback",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Click - Short Edition - 09/10/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Women's Rugby Union - Premier 15s: Wasps v Harlequins",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Life of a Mountain - A Year on Scafell Pike - Signed",
       "Signed",
-      "disliked"
+      "watched",
+      25
     ],
     [
-      "House of Saud: A Family at War",
+      "The Miracle of the Bells",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - Pandora Papers: Secrets of World Leaders Exposed",
       "Documentaries",
       "disliked"
     ],
     [
-      "We Are England - Made in England: A Very British Bike Factory - West London",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "15 Storeys High",
+      "BBC Proms - 2021: Simon Rattle and the LSO",
       "From the Archives",
-      "disliked"
+      "liked"
     ],
     [
-      "TUNE - Shorts: LVRA : Using Music To Navigate My Identity",
+      "Countryfile - Bromyard Hops",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "The Bronte Business",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Joe Wicks Podcast - Ellie Goulding: Reaching the Soul",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Saturday Kitchen - 02/10/2021",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "BBC Proms - 2021: Moses Sumney Meets Jules Buckley and the BBC Symphony Orchestra",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "ABBA at the BBC",
       "Music",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "Arena - Into the Limelight - Tribute Bands",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Comic Relief - 2022: Rowing Home with Jordan North",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - A Cow's Life: The True Cost of Milk?",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Movies With Ali Plumb - Eddie Murphy: Coming 2 America",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "BAMOUS",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Alphabet Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Natural World - Short Versions: Penguin Post Office",
+      "Documentaries",
+      "watched",
+      95
+    ],
+    [
+      "Silverpoint",
+      "CBBC",
+      "watched",
+      75
+    ],
+    [
+      "Panorama - Online Pimps Exposed",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Parkinson - Billy Connolly and Sir David Attenborough",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "What's on Your Head?",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "We Are England - The Night Shift: Life Blood",
+      "Documentaries",
+      "liked"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Tudur's TV Flashback": 1,
+    "Click - Short Edition - 09/10/2021": 1,
+    "Women's Rugby Union - Premier 15s: Wasps v Harlequins": 1,
+    "Life of a Mountain - A Year on Scafell Pike - Signed": 1,
+    "The Miracle of the Bells": 1,
+    "BBC Proms - 2021: Simon Rattle and the LSO": 1,
+    "Countryfile - Bromyard Hops": 1,
+    "The Bronte Business": 1,
+    "The Joe Wicks Podcast - Ellie Goulding: Reaching the Soul": 1,
+    "Saturday Kitchen - 02/10/2021": 1,
+    "BBC Proms - 2021: Moses Sumney Meets Jules Buckley and the BBC Symphony Orchestra": 1,
+    "ABBA at the BBC": 1,
+    "Arena - Into the Limelight - Tribute Bands": 1,
+    "Comic Relief - 2022: Rowing Home with Jordan North": 1,
+    "Panorama - A Cow's Life: The True Cost of Milk?": 1,
+    "Movies With Ali Plumb - Eddie Murphy: Coming 2 America": 1,
+    "BAMOUS": 1,
+    "Hey Duggee - Top of the Pups: Alphabet Song": 1,
+    "Natural World - Short Versions: Penguin Post Office": 1,
+    "Silverpoint": 1,
+    "Panorama - Online Pimps Exposed": 1,
+    "Parkinson - Billy Connolly and Sir David Attenborough": 1,
+    "What's on Your Head?": 1,
+    "We Are England - The Night Shift: Life Blood": 1
+  }
 }

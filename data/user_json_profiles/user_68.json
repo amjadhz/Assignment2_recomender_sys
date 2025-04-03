@@ -1,23 +1,194 @@
 {
   "user_preferences": {
-    "Signed": -1
+    "Sports": 1.5,
+    "Documentaries": 1.5,
+    "Signed": -0.75,
+    "Arts": 0.5,
+    "Music": 0.0,
+    "Comedy": 0.5,
+    "From the Archives": 0.0,
+    "Entertainment": 0.25,
+    "CBBC": 0.5
   },
   "user_interactions": [
     [
-      "Bitesize Daily: 9-11 Year Olds - Science 9-10 Year-Olds:",
+      "NIFL Premiership Highlights - 2021/2022: 21/03/2022",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Bellator MMA - 2021: Juliana Velasquez vs. Denise Kielholtz",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Brotherhood: The Inner Life of Monks",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Tagged - Women on Tag:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "9/11: Inside the President's War Room - Signed",
       "Signed",
-      "disliked"
+      "watched",
+      10
     ],
     [
-      "Stars of Wales",
-      "Music",
-      "neutral"
+      "GAA Live - Armagh v Kildare",
+      "Sports",
+      "watched",
+      25
     ],
     [
-      "BBC Scottish Symphony Orchestra - Ravel's Tzigane",
+      "Dance Passion - 2022: Plymouth",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "PTSD: The War in My Head",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Radio 1's Live Lounge - Stay Home Live Lounge",
       "Music",
-      "neutral"
+      "watched",
+      10
+    ],
+    [
+      "St",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Breaking the News - COP26 Special",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Our NHS: A Hidden History",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "HARDtalk - Professor Mariana Mazzucato - Economist, University College London",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Stage Shows: The Tale of Mr Tumble",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Mrs Brown's Boys - 2013 Specials:",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Andy and the Band - Songs: Aliens In The House",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Angels of the North",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Country & Beyond with The Shires",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Quentin Blake \u2013 The Drawing of My Life",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "University Challenge - Christmas 2021: Semi-Final 2",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "The Killing",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Misbehaviour",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "The Live Lounge Show",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "TUNE - Shorts: Dead Pony: Howlin' to the Wind",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Arthur",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "Lost Voice Guy: Is Geordie the Funniest Accent?",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Long Covid: Will I Ever Get Better?",
+      "Documentaries",
+      "watched",
+      95
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "NIFL Premiership Highlights - 2021/2022: 21/03/2022": 1,
+    "Bellator MMA - 2021: Juliana Velasquez vs. Denise Kielholtz": 1,
+    "Brotherhood: The Inner Life of Monks": 1,
+    "Tagged - Women on Tag:": 1,
+    "9/11: Inside the President's War Room - Signed": 1,
+    "GAA Live - Armagh v Kildare": 1,
+    "Dance Passion - 2022: Plymouth": 1,
+    "PTSD: The War in My Head": 1,
+    "Radio 1's Live Lounge - Stay Home Live Lounge": 1,
+    "St": 1,
+    "Breaking the News - COP26 Special": 1,
+    "Our NHS: A Hidden History": 1,
+    "HARDtalk - Professor Mariana Mazzucato - Economist, University College London": 1,
+    "Mrs Brown's Boys - 2013 Specials:": 1,
+    "Andy and the Band - Songs: Aliens In The House": 1,
+    "Angels of the North": 1,
+    "Country & Beyond with The Shires": 1,
+    "Quentin Blake \u2013 The Drawing of My Life": 1,
+    "University Challenge - Christmas 2021: Semi-Final 2": 1,
+    "Misbehaviour": 1,
+    "The Live Lounge Show": 1,
+    "TUNE - Shorts: Dead Pony: Howlin' to the Wind": 1,
+    "Arthur": 1,
+    "Lost Voice Guy: Is Geordie the Funniest Accent?": 1,
+    "Panorama - Long Covid: Will I Ever Get Better?": 1
+  }
 }

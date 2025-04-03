@@ -1,24 +1,245 @@
 {
   "user_preferences": {
-    "Documentaries": -2,
-    "Signed": -1
+    "Arts": -0.25,
+    "Documentaries": 1.5,
+    "Signed": 1.5,
+    "Entertainment": 0.0,
+    "From the Archives": 0.75,
+    "Music": 0.5,
+    "Sports": 0.5,
+    "Science & Nature": 0.5,
+    "Comedy": 0.5
   },
   "user_interactions": [
     [
-      "Britain's Ancient Capital: Secrets of Orkney",
-      "Documentaries",
-      "disliked"
+      "Skint",
+      "Arts",
+      "watched",
+      10
     ],
     [
-      "Natural World - 2007-2008:",
+      "Israel and Iran: The Hidden War",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Andy and the Band - Songs: After School",
+      "Countryfile - Highlands Rewilding - Signed",
       "Signed",
-      "disliked"
+      "watched",
+      25
+    ],
+    [
+      "The Joe Wicks Podcast - Olly Murs: 8 Days a Week",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Joey Essex: Grief and Me",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "H2O: The Molecule That Made Us",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - R",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Horizon - 1995-1996: Fermat's Last Theorem",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Katie Price: What Harvey Did Next",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Double Mastectomy Twins",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Twin Sisters: A World A",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Taste - The Space Age",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Armchair Voyage: Hellenic Cruise",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Sudden Death: My Sister\u2019s Silent Killer",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Question Time - 2021: 04/11/2021 - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Bess Atwell - Co-op",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Maths:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Storyville - The Great Hip Hop Hoax",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Our Lives",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - Voyage of the Damned",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Andy's Dinosaur Adventures",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Question Time - 2021: 11/11/2021 - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Women's FA Cup - 2021/22: Ipswich Town v West Ham United",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "David Attenborough's Zoo Quest in Colour",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Call the Midwife - Christmas Special 2012",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Andy's Prehistoric Adventures",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Plant Britain",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "The Paddy Raff Show",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Galdem Sugar",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Hunting the Essex Lorry Killers - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Taisce Shean Uladh - Treasures of Ancient Ulster",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Celebrity Best Home Cook",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - Radio Silence",
+      "Arts",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Skint": 1,
+    "Israel and Iran: The Hidden War": 1,
+    "Countryfile - Highlands Rewilding - Signed": 1,
+    "The Joe Wicks Podcast - Olly Murs: 8 Days a Week": 1,
+    "Joey Essex: Grief and Me": 1,
+    "H2O: The Molecule That Made Us": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - R": 1,
+    "Horizon - 1995-1996: Fermat's Last Theorem": 1,
+    "Katie Price: What Harvey Did Next": 1,
+    "Double Mastectomy Twins": 1,
+    "Twin Sisters: A World A": 1,
+    "Taste - The Space Age": 1,
+    "Sudden Death: My Sister\u2019s Silent Killer": 1,
+    "Question Time - 2021: 04/11/2021 - Signed": 1,
+    "BBC Music Introducing - The BME Sessions: Bess Atwell - Co-op": 1,
+    "Bitesize Daily: 9-11 Year Olds - Maths:": 1,
+    "Storyville - The Great Hip Hop Hoax": 1,
+    "Our Lives": 1,
+    "Doctor Who - Voyage of the Damned": 1,
+    "Andy's Dinosaur Adventures": 1,
+    "Question Time - 2021: 11/11/2021 - Signed": 1,
+    "Women's FA Cup - 2021/22: Ipswich Town v West Ham United": 1,
+    "David Attenborough's Zoo Quest in Colour": 1,
+    "Call the Midwife - Christmas Special 2012": 1,
+    "Andy's Prehistoric Adventures": 1,
+    "Countryfile - Plant Britain": 1,
+    "The Paddy Raff Show": 1,
+    "Galdem Sugar": 1,
+    "Hunting the Essex Lorry Killers - Signed": 1,
+    "Taisce Shean Uladh - Treasures of Ancient Ulster": 1,
+    "Celebrity Best Home Cook": 1,
+    "New Creatives - Radio Silence": 1
+  }
 }

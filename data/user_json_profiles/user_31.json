@@ -1,46 +1,180 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Arts": -1,
-    "Documentaries": -1,
-    "Signed": -1
+    "Science & Nature": -1.0,
+    "Documentaries": 1.0,
+    "Music": 0.5,
+    "Signed": 1.5,
+    "Food": 0.25,
+    "Comedy": 0.5,
+    "From the Archives": 1.5,
+    "CBBC": -0.5,
+    "Entertainment": 0.5,
+    "Arts": 0.0
   },
   "user_interactions": [
     [
-      "Movies With Ali Plumb - Becoming...: Neo",
-      "Entertainment",
-      "neutral"
+      "Click - Short Edition - 11/09/2021",
+      "Science & Nature",
+      "disliked"
     ],
     [
-      "Undisputed: The Life and Times of Ken Buchanan",
+      "Nature's Weirdest Events",
       "Documentaries",
-      "neutral"
+      "watched",
+      25
     ],
     [
-      "Meet the Red Devils: Parachute Regiment",
+      "Freddie Mercury: The Final Act",
+      "Music",
+      "liked"
+    ],
+    [
+      "Grace's Amazing Machines",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Saturday Kitchen - Countdown to Christmas: 04/12/2021",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "Britney",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era",
       "From the Archives",
-      "disliked"
+      "liked"
     ],
     [
-      "New Creatives - Our Largest",
-      "Arts",
-      "disliked"
+      "Ready Steady Cook",
+      "Food",
+      "watched",
+      10
     ],
     [
-      "Bitz & Bob",
+      "Question Time - 2021: 10/06/2021 - Signed",
       "Signed",
-      "neutral"
+      "watched",
+      75
     ],
     [
-      "Grand Tours of Scotland's Lochs",
+      "Nova Jones - Songs: Troll Me",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Inside the Secret World of Incels",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "The Baby Club - Songs: The Waking Up Song",
+      "Princess Mirror-Belle",
+      "CBBC",
+      "skipped"
+    ],
+    [
+      "Climate Tales - The Final",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Teacher Talks: Maths - Averages: The Mean",
       "Signed",
-      "disliked"
+      "liked"
+    ],
+    [
+      "HARDtalk - Jamie Raskin \u2013 Democrat Congressman, House Committee to Investigate January 6th Attack",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Atlantis",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "A Comic Relief Pantomime for Christmas - Beauty and the Beast",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Whitney at the BBC",
+      "Music",
+      "skipped"
+    ],
+    [
+      "Racism in the Ranks",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Late Show - Face to Face: Ken Dodd",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Inspector Montalbano - The Sense of Touch",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "New Creatives - It\u2019s Raining, It\u2019s Pouring",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Groundbreakers - Rebel Heart - The Life of Mary Ann McCracken",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Killing",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Amol Rajan Interviews - Sundar Pichai - Signed",
+      "Signed",
+      "skipped"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Nature's Weirdest Events": 1,
+    "Freddie Mercury: The Final Act": 1,
+    "Grace's Amazing Machines": 1,
+    "Saturday Kitchen - Countdown to Christmas: 04/12/2021": 1,
+    "Britney": 1,
+    "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era": 1,
+    "Ready Steady Cook": 1,
+    "Question Time - 2021: 10/06/2021 - Signed": 1,
+    "Nova Jones - Songs: Troll Me": 1,
+    "Inside the Secret World of Incels": 1,
+    "Climate Tales - The Final": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Teacher Talks: Maths - Averages: The Mean": 1,
+    "HARDtalk - Jamie Raskin \u2013 Democrat Congressman, House Committee to Investigate January 6th Attack": 1,
+    "Atlantis": 1,
+    "A Comic Relief Pantomime for Christmas - Beauty and the Beast": 1,
+    "Racism in the Ranks": 1,
+    "The Late Show - Face to Face: Ken Dodd": 1,
+    "Inspector Montalbano - The Sense of Touch": 1,
+    "New Creatives - It\u2019s Raining, It\u2019s Pouring": 1,
+    "Groundbreakers - Rebel Heart - The Life of Mary Ann McCracken": 1,
+    "The Killing": 1
+  }
 }

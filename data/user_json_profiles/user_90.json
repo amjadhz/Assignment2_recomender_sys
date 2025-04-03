@@ -1,34 +1,226 @@
 {
   "user_preferences": {
-    "Signed": -1,
-    "From the Archives": -1
+    "Science & Nature": -1.0,
+    "Documentaries": 1.5,
+    "From the Archives": 0.5,
+    "Entertainment": 1.5,
+    "Sports": 0.5,
+    "Arts": -0.5,
+    "Comedy": 0.5,
+    "Signed": 1.0,
+    "Films": 1.0,
+    "Music": 0.0,
+    "Food": 0.5
   },
   "user_interactions": [
     [
-      "Unpopular Opinion - Camila Cabello",
-      "Entertainment",
-      "neutral"
-    ],
-    [
-      "Louis Theroux - A Different Brain",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "Incredible Journeys with Simon Reeve",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "9/11: Inside the President's War Room - Signed",
-      "Signed",
+      "Countryfile - Best of Autumn",
+      "Science & Nature",
       "disliked"
     ],
     [
-      "Face to Face - Evelyn Waugh",
+      "Facelifts and Fillers",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Mrs Brown's Boys - Christmas Specials 2017:",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Growing Up Green",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Richard Osman's House of Games Night",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "Six Nations Rugby - 2022: Wales v Italy",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - Staff of Life",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Bates Motel",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Leonardo",
+      "Documentaries",
+      "watched",
+      30
+    ],
+    [
+      "This Country - The Aftermath",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "The Riots 2011: One Week in August - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Countryfile - Harvest Special - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Survivors: Portraits of the Holocaust - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Natural World - 2016-2017:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths: Maths - Properties of Shapes",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Can't Get You Out of My Head",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Fantastic Beasts: A Natural History",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Surrogates",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Inspector Montalbano - The Track of Sand",
       "From the Archives",
       "disliked"
+    ],
+    [
+      "The Mart",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The British Academy Television Awards - 2021: Awards Ceremony",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "MasterChef - Champion of Champions",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Being British East Asian: Sex, Beauty & Bodies",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Eaten by Lions",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Westworld",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Here We Go Round the Mulberry Bush",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Animals with Cameras",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "BBC Scottish Symphony Orchestra - Tchaikovsky: The Path\u00e9tique Symphony",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Parkinson - David Niven",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Science 6-7 Year-Olds: How Animals Grow",
+      "Signed",
+      "liked"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 20/12/2021",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "New Creatives - It\u2019s Raining, It\u2019s Pouring",
+      "Arts",
+      "watched",
+      10
+    ],
+    [
+      "Sam and Shauna's Big Cook-Out",
+      "Food",
+      "watched",
+      75
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Facelifts and Fillers": 1,
+    "Mrs Brown's Boys - Christmas Specials 2017:": 1,
+    "Growing Up Green": 1,
+    "Six Nations Rugby - 2022: Wales v Italy": 1,
+    "New Creatives - Staff of Life": 1,
+    "Bates Motel": 1,
+    "Leonardo": 1,
+    "This Country - The Aftermath": 1,
+    "Countryfile - Harvest Special - Signed": 1,
+    "Natural World - 2016-2017:": 1,
+    "Bitesize Daily: 5-7 Year Olds - Maths: Maths - Properties of Shapes": 1,
+    "Can't Get You Out of My Head": 1,
+    "Fantastic Beasts: A Natural History": 1,
+    "The Surrogates": 1,
+    "The Mart": 1,
+    "The British Academy Television Awards - 2021: Awards Ceremony": 1,
+    "MasterChef - Champion of Champions": 1,
+    "Being British East Asian: Sex, Beauty & Bodies": 1,
+    "Eaten by Lions": 1,
+    "Westworld": 1,
+    "Hey Duggee - Top of the Pups: Here We Go Round the Mulberry Bush": 1,
+    "BBC Scottish Symphony Orchestra - Tchaikovsky: The Path\u00e9tique Symphony": 1,
+    "Parkinson - David Niven": 1,
+    "Bitesize Daily: 5-7 Year Olds - Science 6-7 Year-Olds: How Animals Grow": 1,
+    "NIFL Premiership Highlights - 2021/2022: 20/12/2021": 1,
+    "New Creatives - It\u2019s Raining, It\u2019s Pouring": 1,
+    "Sam and Shauna's Big Cook-Out": 1
+  }
 }

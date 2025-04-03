@@ -1,34 +1,190 @@
 {
   "user_preferences": {
-    "Arts": -1,
-    "Documentaries": -1
+    "Documentaries": -0.25,
+    "Signed": 1.5,
+    "From the Archives": -1.0,
+    "CBBC": 0.0,
+    "Sports": 0.5,
+    "Music": 0.25,
+    "Comedy": 0.0,
+    "Entertainment": 0.0
   },
   "user_interactions": [
     [
-      "The White Handkerchief",
-      "Arts",
-      "disliked"
+      "Jonas Kaufmann: Tenor for the Ages",
+      "Documentaries",
+      "watched",
+      10
     ],
     [
-      "BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet",
+      "Soldier in the Sun",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Shame In The Game: Racism In Football",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Newsround Specials - Let's Talk About Periods",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Baby Club - Songs: The Bath Time Song",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Olobob Top",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "EastEnders 2010 - 03/12/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Death On The I-95",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Our CBBC",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Class of Tokyo 2020 - The Games",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "Viva La Diva: The Queens of Pop",
       "Music",
-      "neutral"
+      "watched",
+      10
     ],
     [
-      "The Nilsen Files",
+      "Fraud Squad",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Skerryvore",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Britain's Forgotten Men",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Down the Mighty River with Steve Backshall",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "This World - Terror at the Mall",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Art agus Toma\u00ed san Eoraip",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "My Family - Have a Unhappy Christmas",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Witchfinder",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Andy and the Band - Songs: Planet Rock",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Call the Midwife - Special Delivery",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Women's Super League - 2021/22: Arsenal v Birmingham City",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Movies With Ali Plumb - Edgar Wright: Movies That Made Me",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "The Black American Fight for Freedom",
       "Documentaries",
       "disliked"
     ],
     [
-      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Counting in Fractions Using a Number Line",
-      "Signed",
-      "neutral"
+      "The Bridge",
+      "From the Archives",
+      "disliked"
     ],
     [
-      "The Past at Work - Railway Mania",
-      "From the Archives",
-      "neutral"
+      "The Baby Club - Songs: Wheels on the Bus",
+      "Signed",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Jonas Kaufmann: Tenor for the Ages": 1,
+    "Soldier in the Sun": 1,
+    "Shame In The Game: Racism In Football": 1,
+    "Newsround Specials - Let's Talk About Periods": 1,
+    "The Baby Club - Songs: The Bath Time Song": 1,
+    "Olobob Top": 1,
+    "EastEnders 2010 - 03/12/2009": 1,
+    "Death On The I-95": 1,
+    "Our CBBC": 1,
+    "Class of Tokyo 2020 - The Games": 1,
+    "Viva La Diva: The Queens of Pop": 1,
+    "Fraud Squad": 1,
+    "Skerryvore": 1,
+    "Down the Mighty River with Steve Backshall": 1,
+    "This World - Terror at the Mall": 1,
+    "Art agus Toma\u00ed san Eoraip": 1,
+    "My Family - Have a Unhappy Christmas": 1,
+    "The Witchfinder": 1,
+    "Andy and the Band - Songs: Planet Rock": 1,
+    "Call the Midwife - Special Delivery": 1,
+    "Women's Super League - 2021/22: Arsenal v Birmingham City": 1,
+    "Movies With Ali Plumb - Edgar Wright: Movies That Made Me": 1,
+    "The Baby Club - Songs: Wheels on the Bus": 1
+  }
 }

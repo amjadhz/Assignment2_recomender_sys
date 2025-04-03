@@ -1,50 +1,242 @@
 {
   "user_preferences": {
-    "Documentaries": 1,
-    "Entertainment": -1,
-    "Science & Nature": -1,
-    "Comedy": -1,
-    "Signed": -1,
-    "Music": -1
+    "Entertainment": 1.5,
+    "Documentaries": 1.25,
+    "From the Archives": 0.0,
+    "Science & Nature": 1.5,
+    "Signed": 0.0,
+    "Comedy": -0.5,
+    "Arts": 0.0,
+    "Films": 0.25,
+    "Food": 0.0,
+    "Sports": 0.5
   },
   "user_interactions": [
     [
-      "Question Time - 2021: 10/06/2021 - Signed",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "TikTok Queen at 16",
-      "Documentaries",
+      "esports - CS:GO - BLAST Premier 2020: CS:GO - BLAST Premier Fall Final - Day Two",
+      "Entertainment",
       "liked"
     ],
     [
-      "Galdem Sugar",
+      "The Perfect Morecambe & Wise",
       "Entertainment",
+      "liked"
+    ],
+    [
+      "We Are England - Mental Health: Becoming Dad - Watford",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "University Challenge - Christmas 2021:",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Him & Her - The Wedding:",
+      "From the Archives",
       "disliked"
     ],
     [
-      "Click - Short Edition - 29/01/2022",
+      "Our Wild Adventures",
       "Science & Nature",
-      "disliked"
+      "watched",
+      50
     ],
     [
-      "Mammoth",
+      "Rossetti - Sex, Drugs and Oil Paint",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Royal Wedding: A Day to Remember - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Man Alive - Marriage Under Stress 3: 'Put Asunder'",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Click - Short Edition - 20/11/2021",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Some Girls",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Innuendo Bingo - Peter Crouch",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "The Misadventures of Romesh Ranganathan - Christmas",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Dani's Castle",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Breaking the News - Breaking the Year",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - Rerouting",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Lucky Jim",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "BBC Children in Need - 2021: Northern Ireland's Best Bits",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Fleabag",
       "Comedy",
       "disliked"
     ],
     [
-      "The Baby Club - Songs: The Waking Up Song",
+      "The Joe Wicks Podcast - Sir Tom Jones: Don\u2019t Hold Back",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Click - The Future of Video Calls",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "Click - Short Edition - 24/07/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Paula McIntyre's Burns Night Banquet",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - A Cow's Life: The True Cost of Milk? - Signed",
       "Signed",
       "disliked"
     ],
     [
-      "TUNE - Shorts: Sam Gellaitry Live",
-      "Music",
-      "disliked"
+      "Ken Hom's Chinese Cookery - Snacks",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Adding Description",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "The Iraq War",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Sylvia Scarlett",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Stevens & McCarthy",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Super League Show - 2022: 07/03/2022",
+      "Sports",
+      "watched",
+      75
+    ],
+    [
+      "BBC Trailers - This is Our BBC",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Click - Short Edition - 01/01/2022",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "HARDtalk - Kathleen Stock, Philosopher and Author",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Fear of God: 25 Years of the Exorcist",
+      "Documentaries",
+      "watched",
+      50
     ]
   ],
   "watch_counts": {
-    "TikTok Queen at 16": 1
+    "esports - CS:GO - BLAST Premier 2020: CS:GO - BLAST Premier Fall Final - Day Two": 1,
+    "The Perfect Morecambe & Wise": 1,
+    "We Are England - Mental Health: Becoming Dad - Watford": 1,
+    "University Challenge - Christmas 2021:": 1,
+    "Our Wild Adventures": 1,
+    "Rossetti - Sex, Drugs and Oil Paint": 1,
+    "Royal Wedding: A Day to Remember - Signed": 1,
+    "Man Alive - Marriage Under Stress 3: 'Put Asunder'": 1,
+    "Click - Short Edition - 20/11/2021": 1,
+    "Some Girls": 1,
+    "Innuendo Bingo - Peter Crouch": 1,
+    "The Misadventures of Romesh Ranganathan - Christmas": 1,
+    "Dani's Castle": 1,
+    "Breaking the News - Breaking the Year": 1,
+    "New Creatives - Rerouting": 1,
+    "Lucky Jim": 1,
+    "BBC Children in Need - 2021: Northern Ireland's Best Bits": 1,
+    "The Joe Wicks Podcast - Sir Tom Jones: Don\u2019t Hold Back": 1,
+    "Click - The Future of Video Calls": 1,
+    "Click - Short Edition - 24/07/2021": 1,
+    "Paula McIntyre's Burns Night Banquet": 1,
+    "Ken Hom's Chinese Cookery - Snacks": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Adding Description": 1,
+    "The Iraq War": 1,
+    "Sylvia Scarlett": 1,
+    "Stevens & McCarthy": 1,
+    "Super League Show - 2022: 07/03/2022": 1,
+    "BBC Trailers - This is Our BBC": 1,
+    "Click - Short Edition - 01/01/2022": 1,
+    "HARDtalk - Kathleen Stock, Philosopher and Author": 1,
+    "The Fear of God: 25 Years of the Exorcist": 1
   }
 }

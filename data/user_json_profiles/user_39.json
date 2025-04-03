@@ -1,21 +1,248 @@
 {
-  "user_preferences": {},
+  "user_preferences": {
+    "Signed": 1.5,
+    "Films": 0.25,
+    "Music": -1.0,
+    "Entertainment": 0.25,
+    "Documentaries": 1.5,
+    "From the Archives": 0.5,
+    "Science & Nature": 0.5,
+    "CBBC": 0.0,
+    "Comedy": 0.0,
+    "Sports": 0.5
+  },
   "user_interactions": [
     [
-      "Attenborough's Wonder of Song",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "Iain Robertson Rambles",
+      "My Unique B&B",
       "Signed",
-      "neutral"
+      "watched",
+      75
     ],
     [
-      "Profile - The World of Philip Pullman",
+      "Bringing Up Baby",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: KOKOROKO - Ti-de",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Ask the Family - 02/11/1982",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Cr\u00edochdheighilt:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "TUNE - Shorts: Misty Galactic Live",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Ukraine's Resistance: Standing Up to Putin",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "The Night Before Christmas - Stage Show:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "EastEnders 2010 - 29/12/2009",
       "From the Archives",
-      "neutral"
+      "watched",
+      25
+    ],
+    [
+      "Click - Racing to Victory",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Michael Palin\u2019s Himalaya: Journey of a Lifetime",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Fight for First: Excel Esports",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Film Night - Film Night Special: Carry On Forever",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Midnight Mass - 2021 - Midnight Mass from St Chad\u2019s Cathedral, Birmingham",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - 06/03/2022",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Top Hat",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Own It - Top Tips To Make Gaming Fun And Safe Online",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "This Country",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "We Are England - Made in England: Inside the Jet Engine Factory - Derby",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Numberblocks - Specials: The Treasure of Hexagon Island",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Kurupting the Industry: The People Just Do Nothing Story",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Coming to England",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Mandy - We Wish You a Mandy Christmas",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Elsa the Lioness",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Storyville - Masterspy of Moscow: George Blake",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Totally Under Control: Trump and Covid-19",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Stage Shows: The Snow Queen",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Madonna: Truth or Dare",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Greetings from Scotland",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "RuPaul\u2019s Drag Race UK: Queens on Lockdown",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Amazing Hotels: Life Beyond the Lobby - Shorts:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Unmasked: Make-Up's Big Secret",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Ulster Rugby - United Rugby Championship: Ulster v Leinster",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 30/10/2021",
+      "Science & Nature",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "My Unique B&B": 1,
+    "Bringing Up Baby": 1,
+    "BBC Music Introducing - The BME Sessions: KOKOROKO - Ti-de": 1,
+    "Ask the Family - 02/11/1982": 1,
+    "Cr\u00edochdheighilt:": 1,
+    "TUNE - Shorts: Misty Galactic Live": 1,
+    "The Night Before Christmas - Stage Show:": 1,
+    "EastEnders 2010 - 29/12/2009": 1,
+    "Click - Racing to Victory": 1,
+    "Michael Palin\u2019s Himalaya: Journey of a Lifetime": 1,
+    "Fight for First: Excel Esports": 1,
+    "Film Night - Film Night Special: Carry On Forever": 1,
+    "Midnight Mass - 2021 - Midnight Mass from St Chad\u2019s Cathedral, Birmingham": 1,
+    "HARDtalk - 06/03/2022": 1,
+    "Top Hat": 1,
+    "Own It - Top Tips To Make Gaming Fun And Safe Online": 1,
+    "This Country": 1,
+    "We Are England - Made in England: Inside the Jet Engine Factory - Derby": 1,
+    "Numberblocks - Specials: The Treasure of Hexagon Island": 1,
+    "Kurupting the Industry: The People Just Do Nothing Story": 1,
+    "Coming to England": 1,
+    "Mandy - We Wish You a Mandy Christmas": 1,
+    "Elsa the Lioness": 1,
+    "Storyville - Masterspy of Moscow: George Blake": 1,
+    "Totally Under Control: Trump and Covid-19": 1,
+    "CBeebies Presents - Stage Shows: The Snow Queen": 1,
+    "Greetings from Scotland": 1,
+    "RuPaul\u2019s Drag Race UK: Queens on Lockdown": 1,
+    "Amazing Hotels: Life Beyond the Lobby - Shorts:": 1,
+    "Ulster Rugby - United Rugby Championship: Ulster v Leinster": 1,
+    "Click - Short Edition - 30/10/2021": 1
+  }
 }

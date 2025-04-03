@@ -1,28 +1,208 @@
 {
   "user_preferences": {
-    "Documentaries": -1
+    "Sports": -0.75,
+    "From the Archives": 1.0,
+    "Comedy": 0.5,
+    "Documentaries": 0.0,
+    "Signed": 1.0,
+    "Science & Nature": 0.5,
+    "Films": 0.5,
+    "Food": 0.25,
+    "Entertainment": 0.25
   },
   "user_interactions": [
     [
-      "Messy Goes to OKIDO - Songs: Growing",
-      "Signed",
-      "neutral"
+      "Under-20s Six Nations Rugby - 2022: Wales v France",
+      "Sports",
+      "watched",
+      25
     ],
     [
-      "The Living Dead",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Hey Duggee - Top of the Pups: Hey! Diddle, Diddle",
-      "Signed",
-      "neutral"
-    ],
-    [
-      "One Foot in the Grave - Who's Listening?",
+      "Mistresses",
       "From the Archives",
-      "neutral"
+      "liked"
+    ],
+    [
+      "Enterprice",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Kicked Out: From Care to Chaos",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Old MacDonald",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Countryfile - Wrest Park",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Under-20s Six Nations Rugby - 2022: Wales v France",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Small Axe",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Rick Stein's Spain",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "Is This The End Of Clubbing? - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Michael Palin\u2019s Himalaya: Journey of a Lifetime",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "The Late Show - Face to Face: Ken Dodd",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Glasgow City v",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "Exorcism: The Battle For Young Minds",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Signs of the Times - Marie Louise Collects Bric-a-Brac",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Double Dynamite",
+      "Films",
+      "skipped"
+    ],
+    [
+      "Nightshifters",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Boy in the Striped Pyjamas",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Click - Short Edition - 10/07/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "Bill",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "CBeebies Presents - Stage Shows: Hansel and Gretel - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Mandy",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Dinosaur",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Friends Like These",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "There's No Place Like Tyrone",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Line of Duty",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Paula McIntyre\u2019s Hamely Kitchen",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "Sir Mortimer and Magnus",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Teeny Tiny Creatures - Chantelle and Rory:",
+      "Signed",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Under-20s Six Nations Rugby - 2022: Wales v France": 2,
+    "Mistresses": 1,
+    "Enterprice": 1,
+    "Kicked Out: From Care to Chaos": 1,
+    "Hey Duggee - Top of the Pups: Old MacDonald": 1,
+    "Countryfile - Wrest Park": 1,
+    "Small Axe": 1,
+    "Rick Stein's Spain": 1,
+    "Is This The End Of Clubbing? - Signed": 1,
+    "The Late Show - Face to Face: Ken Dodd": 1,
+    "Exorcism: The Battle For Young Minds": 1,
+    "Nightshifters": 1,
+    "The Boy in the Striped Pyjamas": 1,
+    "Click - Short Edition - 10/07/2021": 1,
+    "Bill": 1,
+    "CBeebies Presents - Stage Shows: Hansel and Gretel - Signed": 1,
+    "Mandy": 1,
+    "Dinosaur": 1,
+    "Friends Like These": 1,
+    "There's No Place Like Tyrone": 1,
+    "Paula McIntyre\u2019s Hamely Kitchen": 1,
+    "Sir Mortimer and Magnus": 1,
+    "Teeny Tiny Creatures - Chantelle and Rory:": 1
+  }
 }

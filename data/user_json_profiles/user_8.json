@@ -1,46 +1,188 @@
 {
   "user_preferences": {
-    "Documentaries": -3,
-    "CBBC": -1,
-    "Signed": -1,
-    "Food": -1
+    "Signed": 0.5,
+    "Documentaries": 1.5,
+    "Entertainment": 0.0,
+    "Films": 0.5,
+    "Sports": 0.0,
+    "From the Archives": 0.0,
+    "Music": 1.5,
+    "Arts": 0.5,
+    "Comedy": 0.5
   },
   "user_interactions": [
     [
-      "New Creatives - WINK",
-      "Arts",
-      "neutral"
-    ],
-    [
-      "The Treasure Hunters",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Horizon - 1964-1965: The World Of Buckminster Fuller",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Pok\u00e9mon: Black and White - Movies: Kyurem v The Sword of Justice",
-      "CBBC",
-      "disliked"
-    ],
-    [
-      "Hey Duggee - Top of the Pups: Hey! Diddle, Diddle",
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Simplifying Ratios",
       "Signed",
       "disliked"
     ],
     [
-      "Fanny Cradock Cooks for Christmas",
-      "Food",
-      "disliked"
+      "Life at 50\u00b0C - Shorts: Return Of The River",
+      "Documentaries",
+      "watched",
+      50
     ],
     [
-      "The Gap Year Paedophile",
+      "Film Night - Film Night Special: Carry On Forever",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "King Kong",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "The Baby Club - Songs: Pat-A-Cake",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Legends of Welsh Sport - John Dawes",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "Kate Nash: Underestimate the Girl",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "The Brexit Storm - Continuing Laura Kuenssberg\u2019s Inside Story",
       "Documentaries",
-      "disliked"
+      "watched",
+      50
+    ],
+    [
+      "The Rainhill Story: St",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Are You Scared Yet, Human?",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Going to Work - The Rag Trade",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Live Lounge Show - Lizzo, Lil Nas X and Camila Cabello",
+      "Music",
+      "liked"
+    ],
+    [
+      "Exorcism: The Battle For Young Minds",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "The Rapper Who Chopped His Penis Off",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "GiggleQuiz",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Dance Passion - 2022: Highlights",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "Between the Covers",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "France '98 - The Three Musketeers",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Top of the Pops - New Year Special 2021/2022",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Using Ice to Battle India's Heat",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Ar An Sliabh",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Please Help",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Matilda and the Ramsay Bunch",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Past, Present and Future Tense",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Sudden Death: My Sister\u2019s Silent Killer",
+      "Documentaries",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Life at 50\u00b0C - Shorts: Return Of The River": 1,
+    "Film Night - Film Night Special: Carry On Forever": 1,
+    "King Kong": 1,
+    "The Baby Club - Songs: Pat-A-Cake": 1,
+    "Legends of Welsh Sport - John Dawes": 1,
+    "Kate Nash: Underestimate the Girl": 1,
+    "The Brexit Storm - Continuing Laura Kuenssberg\u2019s Inside Story": 1,
+    "The Rainhill Story: St": 1,
+    "Panorama - Are You Scared Yet, Human?": 1,
+    "Going to Work - The Rag Trade": 1,
+    "The Live Lounge Show - Lizzo, Lil Nas X and Camila Cabello": 1,
+    "Exorcism: The Battle For Young Minds": 1,
+    "The Rapper Who Chopped His Penis Off": 1,
+    "GiggleQuiz": 1,
+    "Dance Passion - 2022: Highlights": 1,
+    "Between the Covers": 1,
+    "France '98 - The Three Musketeers": 1,
+    "Top of the Pops - New Year Special 2021/2022": 1,
+    "Life at 50\u00b0C - Shorts: Using Ice to Battle India's Heat": 1,
+    "Ar An Sliabh": 1,
+    "Please Help": 1,
+    "Matilda and the Ramsay Bunch": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Past, Present and Future Tense": 1,
+    "Sudden Death: My Sister\u2019s Silent Killer": 1
+  }
 }

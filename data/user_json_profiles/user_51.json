@@ -1,23 +1,196 @@
 {
   "user_preferences": {
-    "Documentaries": -2
+    "Entertainment": 0.5,
+    "Signed": -1.25,
+    "From the Archives": -0.25,
+    "Music": -0.5,
+    "Films": 0.5,
+    "Arts": 0.5,
+    "Documentaries": 1.5,
+    "Comedy": -0.5
   },
   "user_interactions": [
     [
-      "Ugly Me: My Life with Body Dysmorphia",
+      "Movies With Ali Plumb - The Story So Far: Peter Dinklage",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "A Woman's Place?",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Pavarotti",
+      "Music",
+      "disliked"
+    ],
+    [
+      "Citizen Kane",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - English: Reading Aloud/Performing",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Loop - Art for a Sustainable Future",
+      "Arts",
+      "watched",
+      75
+    ],
+    [
+      "Canny Cops",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Quiz Ball - 22/12/1966",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Roman Kemp: Our Silent Emergency",
       "Documentaries",
       "disliked"
     ],
     [
-      "Jay's Yorkshire Workshop",
-      "Signed",
-      "neutral"
+      "The Cruise",
+      "Documentaries",
+      "watched",
+      75
     ],
     [
-      "Louis Theroux - African Hunting Holiday",
+      "Katie Price: Harvey and Me",
       "Documentaries",
+      "liked"
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Jordan Mackampa - Warning Signs",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Arena - Chelsea Hotel",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Porridge - Christmas Special: The Desperate Hours",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "We Are England - Mental Health: Veterans Road to Recovery\u202f\u2013 Manchester",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Celebrity Best Home Cook",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - Dirty Secrets of the Cigarette Business - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "The Black American Fight for Freedom - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Comedy Threesomes - Oi, Pussy!:",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "The Unwanted: The Secret Windrush Files - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Vivacious Lady",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Ceili\u00faradh Na F\u00e9ile P\u00e1draig - 2022",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "America's Child Brides",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC Proms - 2021: Chineke! with Jeneba Kanneh-Mason",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "TUNE - Shorts: The Ninth Wave: Howlin' to the Wind",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Geography 7-8 Year Olds:",
+      "Signed",
       "disliked"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Movies With Ali Plumb - The Story So Far: Peter Dinklage": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers": 1,
+    "A Woman's Place?": 1,
+    "Citizen Kane": 1,
+    "Bitesize Daily: 7-9 Year Olds - English: Reading Aloud/Performing": 1,
+    "Loop - Art for a Sustainable Future": 1,
+    "Canny Cops": 1,
+    "Quiz Ball - 22/12/1966": 1,
+    "The Cruise": 1,
+    "Katie Price: Harvey and Me": 1,
+    "BBC Music Introducing - The BME Sessions: Jordan Mackampa - Warning Signs": 1,
+    "Arena - Chelsea Hotel": 1,
+    "Porridge - Christmas Special: The Desperate Hours": 1,
+    "We Are England - Mental Health: Veterans Road to Recovery\u202f\u2013 Manchester": 1,
+    "Celebrity Best Home Cook": 1,
+    "Panorama - Dirty Secrets of the Cigarette Business - Signed": 1,
+    "The Black American Fight for Freedom - Signed": 1,
+    "The Unwanted: The Secret Windrush Files - Signed": 1,
+    "Vivacious Lady": 1,
+    "Ceili\u00faradh Na F\u00e9ile P\u00e1draig - 2022": 1,
+    "America's Child Brides": 1,
+    "BBC Proms - 2021: Chineke! with Jeneba Kanneh-Mason": 1,
+    "TUNE - Shorts: The Ninth Wave: Howlin' to the Wind": 1
+  }
 }

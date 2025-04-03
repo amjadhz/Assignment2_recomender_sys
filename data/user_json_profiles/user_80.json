@@ -1,44 +1,215 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Music": -2
+    "Documentaries": 1.5,
+    "Signed": 1.5,
+    "Science & Nature": 0.0,
+    "Entertainment": 1.0,
+    "From the Archives": 0.0,
+    "Sports": 0.5,
+    "Films": -0.25
   },
   "user_interactions": [
     [
-      "EastEnders 2010 - 12/11/2009",
-      "From the Archives",
+      "Amazing Hotels: Life Beyond the Lobby",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Panorama - Hunting the Social Media Fraudsters",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Frank Skinner on Muhammad Ali",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Cristiano Ronaldo: Impossible to Ignore",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "The People v Climate Change",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Hundreds, Tens and Ones",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - English: Reading to Infer",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Dynasties - Meerkat: A Dynasties Special - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Blue Planet II",
+      "Documentaries",
       "disliked"
     ],
     [
-      "HARDtalk - Ingrid Betancourt, Colombian Presidential Candidate",
-      "From the Archives",
-      "neutral"
+      "Panorama - The Great British Staycation? - Signed",
+      "Signed",
+      "watched",
+      50
     ],
     [
-      "1Xtra - Decks Of Kin: Novelist",
+      "Modern Times - The Way of All Flesh",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Danny and Mick",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Barra on the Foyle",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "The Grand",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC Wales Investigates - Trapped Underground: The Gleision Mine Disaster",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Playground Insults - Will Smith & Margot Robbie",
       "Entertainment",
-      "neutral"
+      "liked"
     ],
     [
-      "BBC Scottish Symphony Orchestra - The Lark Ascending",
-      "Music",
+      "Origins: Hunting the Source of Covid-19",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Wild Britain - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Movies With Ali Plumb - Edgar Wright: Movies That Made Me",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The Omelette Song",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Buried Treasure - The Walls of Jericho",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Bellator MMA - 2021: Bellator 272: Main event & Prelims",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Culture in Quarantine - Aisle",
+      "Signed",
       "disliked"
     ],
     [
-      "Bitesize Daily: 7-9 Year Olds - Science 8-9 Year-Olds:",
-      "Signed",
-      "neutral"
+      "Lindisfarne\u2019s Geordie Genius: The Alan Hull Story",
+      "Documentaries",
+      "watched",
+      75
     ],
     [
-      "Rip Off Britain",
-      "Signed",
-      "neutral"
+      "The Gangster, the Cop, the Devil",
+      "Films",
+      "watched",
+      10
     ],
     [
-      "One More TUNE - Maverick Sabre",
-      "Music",
-      "disliked"
+      "We Are England - Made in England: Make Mine a 99 - Crewe",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Apprentice: You're Fired",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Countryfile - Christmas Traditions - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Yes, Prime Minister",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Isabel Allende - Writer",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - English: English - Reading to Understand",
+      "Signed",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Amazing Hotels: Life Beyond the Lobby": 1,
+    "Panorama - Hunting the Social Media Fraudsters": 1,
+    "Frank Skinner on Muhammad Ali": 1,
+    "The People v Climate Change": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Hundreds, Tens and Ones": 1,
+    "Bitesize Daily: 5-7 Year Olds - English: Reading to Infer": 1,
+    "Dynasties - Meerkat: A Dynasties Special - Signed": 1,
+    "Panorama - The Great British Staycation? - Signed": 1,
+    "Modern Times - The Way of All Flesh": 1,
+    "Danny and Mick": 1,
+    "Barra on the Foyle": 1,
+    "The Grand": 1,
+    "BBC Wales Investigates - Trapped Underground: The Gleision Mine Disaster": 1,
+    "Playground Insults - Will Smith & Margot Robbie": 1,
+    "Origins: Hunting the Source of Covid-19": 1,
+    "Hey Duggee - Top of the Pups: The Omelette Song": 1,
+    "Bellator MMA - 2021: Bellator 272: Main event & Prelims": 1,
+    "Lindisfarne\u2019s Geordie Genius: The Alan Hull Story": 1,
+    "The Gangster, the Cop, the Devil": 1,
+    "We Are England - Made in England: Make Mine a 99 - Crewe": 1,
+    "The Apprentice: You're Fired": 1,
+    "Countryfile - Christmas Traditions - Signed": 1,
+    "Yes, Prime Minister": 1,
+    "HARDtalk - Isabel Allende - Writer": 1,
+    "Bitesize Daily: 5-7 Year Olds - English: English - Reading to Understand": 1
+  }
 }

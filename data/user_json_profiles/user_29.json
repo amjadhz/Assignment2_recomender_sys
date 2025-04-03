@@ -1,39 +1,217 @@
 {
   "user_preferences": {
-    "From the Archives": -2,
-    "Signed": -2
+    "Films": 0.25,
+    "Documentaries": 1.25,
+    "From the Archives": 0.5,
+    "Signed": 0.0,
+    "Science & Nature": 0.5,
+    "Comedy": 0.5,
+    "Food": 1.0,
+    "Music": -1.5,
+    "Entertainment": -0.25,
+    "Arts": 0.5
   },
   "user_interactions": [
     [
-      "Afoot Again In The Past - Cliveden",
-      "From the Archives",
-      "disliked"
+      "The Miracle of the Bells",
+      "Films",
+      "watched",
+      10
     ],
     [
-      "Two Pints of Lager and a Packet of Crisps",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "PRU",
-      "Comedy",
-      "neutral"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Counting in Threes",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Our World - Flooded: One Night in New York City",
+      "George Best: All by Himself",
       "Documentaries",
-      "neutral"
+      "watched",
+      75
     ],
     [
-      "The Zoo",
+      "Horizon - 1977-1978: Now The Chips Are Down",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Vicar of Dibley - The Easter Bunny",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "RuPaul\u2019s Drag Race UK: Queens on Lockdown",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Britain's Best Young Artist",
       "Signed",
+      "skipped"
+    ],
+    [
+      "Andy and the Band - Songs: It\u2019s",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Rancho Notorious",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Panorama - Online Pimps Exposed",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Compton Verney - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Click - Short Edition - 30/10/2021",
+      "Science & Nature",
+      "watched",
+      75
+    ],
+    [
+      "The Scotts",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Farm to Feast: Best Menu Wins",
+      "Food",
+      "liked"
+    ],
+    [
+      "Two Doors Down - Christmas Special",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "BBC Music Introducing - The BME Sessions: Porridge Radio - Sweet",
+      "Music",
+      "skipped"
+    ],
+    [
+      "Paloma Faith: As I Am - Signed",
+      "Music",
       "disliked"
+    ],
+    [
+      "Top Gear - India Special",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "Omnibus - Makers of the Queen's Music",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Stormont: From Parliament to Power Sharing",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Mark Walters in the Footst",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Nilsen Files",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - English: Reading Aloud/Performing",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "St. Mungo's",
+      "Comedy",
+      "skipped"
+    ],
+    [
+      "Pointless Celebrities - Christmas Special 2021",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Unpopular Opinion - Niall Horan",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Joey Essex: Grief and Me",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Tree Fu Tom",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Tish Tash",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Royal Institution Christmas Lectures - 2021:",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Big Book Weekend - How To Be A Man: Russell Kane, Alex Wheatle and Guvna B",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "King Gary - Pilot",
+      "Comedy",
+      "watched",
+      25
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "The Miracle of the Bells": 1,
+    "George Best: All by Himself": 1,
+    "Horizon - 1977-1978: Now The Chips Are Down": 1,
+    "The Vicar of Dibley - The Easter Bunny": 1,
+    "RuPaul\u2019s Drag Race UK: Queens on Lockdown": 1,
+    "Andy and the Band - Songs: It\u2019s": 1,
+    "Rancho Notorious": 1,
+    "Panorama - Online Pimps Exposed": 1,
+    "Click - Short Edition - 30/10/2021": 1,
+    "The Scotts": 1,
+    "Farm to Feast: Best Menu Wins": 1,
+    "Two Doors Down - Christmas Special": 1,
+    "Omnibus - Makers of the Queen's Music": 1,
+    "Stormont: From Parliament to Power Sharing": 1,
+    "Mark Walters in the Footst": 1,
+    "The Nilsen Files": 1,
+    "Pointless Celebrities - Christmas Special 2021": 1,
+    "Unpopular Opinion - Niall Horan": 1,
+    "Tree Fu Tom": 1,
+    "Tish Tash": 1,
+    "Royal Institution Christmas Lectures - 2021:": 1,
+    "Big Book Weekend - How To Be A Man: Russell Kane, Alex Wheatle and Guvna B": 1,
+    "King Gary - Pilot": 1
+  }
 }

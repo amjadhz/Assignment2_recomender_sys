@@ -1,26 +1,229 @@
 {
   "user_preferences": {
-    "Entertainment": 0,
-    "From the Archives": -1
+    "Food": 1.5,
+    "Sports": 0.0,
+    "Arts": 0.0,
+    "From the Archives": 0.25,
+    "Films": 0.5,
+    "Entertainment": 1.5,
+    "Science & Nature": 0.5,
+    "Documentaries": -0.5,
+    "Signed": 1.5,
+    "Music": -0.25,
+    "CBBC": 0.0
   },
   "user_interactions": [
     [
-      "The Great British Sewing Bee - 2021 Specials:",
-      "Entertainment",
-      "disliked"
+      "What's Cooking Omari?",
+      "Food",
+      "watched",
+      75
     ],
     [
-      "Movies With Ali Plumb - Fast & Furious 9",
+      "Under-20s Six Nations Rugby - 2022: Wales v Italy",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - We Got It Easy",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Primrose Path",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Kids Ask Difficult Questions - Tom Hanks",
       "Entertainment",
       "liked"
     ],
     [
-      "Bates Motel",
-      "From the Archives",
+      "The Infinite Monkey Cage - UFO Special",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Greece with Simon Reeve",
+      "Documentaries",
       "disliked"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Common Factors",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Natural World - Short Versions: Penguin Post Office",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Sting: When the Last Ship Sails",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Our Family - Our Family Fun:",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "We Are England - Bossing It: Fighting for Fashion - Exeter",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Amol Rajan Interviews - Sundar Pichai - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Click - The Illegal Pet Trade",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "MasterChef: The Professionals - Rematch 2019",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Sex Map of Britain",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "50 Places To See Before You Die",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "1Xtra - Made In Britain: Jungle",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "The Power of Nightmares",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Mrs Brown's Boys - Mrs Brown's Boys Live - 10 Year Anniversary",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Carefree",
+      "Films",
+      "watched",
+      75
+    ],
+    [
+      "Ken Hom's Chinese Cookery - Meat",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Princess Diana, Martin Bashir and the BBC - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "BBC Wales Investigates - Christopher - The Boy Who Never Came Home",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Classic British Cars: Made in Coventry - Signed",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Horrible Histories - Top 5: Black History Month with Oti Mabuse",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Five Speckled Frogs",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Chris Packham: The Walk That Made Me - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - English:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Film Profile - Michael Balcon",
+      "From the Archives",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Movies With Ali Plumb - Fast & Furious 9": 1
+    "What's Cooking Omari?": 1,
+    "Under-20s Six Nations Rugby - 2022: Wales v Italy": 1,
+    "New Creatives - We Got It Easy": 1,
+    "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era": 1,
+    "Primrose Path": 1,
+    "Kids Ask Difficult Questions - Tom Hanks": 1,
+    "The Infinite Monkey Cage - UFO Special": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Common Factors": 1,
+    "Natural World - Short Versions: Penguin Post Office": 1,
+    "Sting: When the Last Ship Sails": 1,
+    "Our Family - Our Family Fun:": 1,
+    "We Are England - Bossing It: Fighting for Fashion - Exeter": 1,
+    "Amol Rajan Interviews - Sundar Pichai - Signed": 1,
+    "Click - The Illegal Pet Trade": 1,
+    "MasterChef: The Professionals - Rematch 2019": 1,
+    "Sex Map of Britain": 1,
+    "50 Places To See Before You Die": 1,
+    "1Xtra - Made In Britain: Jungle": 1,
+    "The Power of Nightmares": 1,
+    "Mrs Brown's Boys - Mrs Brown's Boys Live - 10 Year Anniversary": 1,
+    "Carefree": 1,
+    "Ken Hom's Chinese Cookery - Meat": 1,
+    "Panorama - Princess Diana, Martin Bashir and the BBC - Signed": 1,
+    "BBC Wales Investigates - Christopher - The Boy Who Never Came Home": 1,
+    "Classic British Cars: Made in Coventry - Signed": 1,
+    "Horrible Histories - Top 5: Black History Month with Oti Mabuse": 1,
+    "Hey Duggee - Top of the Pups: Five Speckled Frogs": 1,
+    "Chris Packham: The Walk That Made Me - Signed": 1,
+    "Bitesize Daily: 9-11 Year Olds - English:": 1
   }
 }

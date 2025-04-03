@@ -1,30 +1,245 @@
 {
   "user_preferences": {
-    "Comedy": 0
+    "Science & Nature": -0.5,
+    "Documentaries": 1.5,
+    "Signed": 1.5,
+    "Food": 0.0,
+    "Entertainment": 0.5,
+    "Music": -0.75,
+    "Sports": -0.25,
+    "From the Archives": 1.5,
+    "Films": -0.25
   },
   "user_interactions": [
     [
-      "Flatmates",
-      "Comedy",
-      "disliked"
+      "Snowdonia: A Year on the Farm",
+      "Science & Nature",
+      "watched",
+      75
     ],
     [
-      "Porridge 2017 - Special",
-      "Comedy",
+      "This World - Three Days of Terror: The Charlie Hebdo Attacks",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Dark Land: The Hunt for Wales' Worst Serial Killer",
+      "Documentaries",
       "liked"
     ],
     [
-      "CBeebies Presents - Stage Shows: Hansel and Gretel - Signed",
+      "Nova Jones - Songs: Be Strong",
       "Signed",
-      "neutral"
+      "watched",
+      50
     ],
     [
-      "Me, My Brother and Our Balls",
+      "Our World - Mozambique: Escape from Palma",
       "Documentaries",
-      "neutral"
+      "watched",
+      75
+    ],
+    [
+      "Stacey Dooley - Face to Face with Armageddon",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Great British Menu",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Just One Night",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Panorama - Afghanistan: Life under the Taliban - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Midnight Mass - 2021 - Midnight Mass from St Chad\u2019s Cathedral, Birmingham",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "The Women's Football Show - 2021/22: 13/03/2022",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "2 Point 4 Children - Relax-ay-voo",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Going Places - 12",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Prosecutors - The Babes in the Wood Murders - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Sounds of the Sixties - Reversions:",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Sit Down, Stand Up with Greg James",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Movies With Ali Plumb - Greatest Clips: Best Set-Steals",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Beardsley and his Work",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Tomorrow's World",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Climate Change: The Tony Blair Interview",
+      "Science & Nature",
+      "disliked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Art 7-8 Year Olds:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Radio 1's Live Lounge - Stay Home Live Lounge",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Teacher Talks: Maths - Comparing Fractions",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "The Works",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Blind Ambition - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Call the Midwife",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Omnibus - New York, New York",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Brexit: Six Months On - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Doctor Who - Revolution of the Daleks - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The Women's Football Show - 2021/22: 06/03/2022",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "The Catherine Tate Show",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "2 Tone: The Sound of Coventry",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Masked and Anonymous",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Panorama - Pandora Papers: Secrets of World Leaders Exposed - Signed",
+      "Signed",
+      "watched",
+      50
     ]
   ],
   "watch_counts": {
-    "Porridge 2017 - Special": 1
+    "Snowdonia: A Year on the Farm": 1,
+    "This World - Three Days of Terror: The Charlie Hebdo Attacks": 1,
+    "Dark Land: The Hunt for Wales' Worst Serial Killer": 1,
+    "Nova Jones - Songs: Be Strong": 1,
+    "Our World - Mozambique: Escape from Palma": 1,
+    "Stacey Dooley - Face to Face with Armageddon": 1,
+    "Great British Menu": 1,
+    "Panorama - Afghanistan: Life under the Taliban - Signed": 1,
+    "Midnight Mass - 2021 - Midnight Mass from St Chad\u2019s Cathedral, Birmingham": 1,
+    "The Women's Football Show - 2021/22: 13/03/2022": 1,
+    "2 Point 4 Children - Relax-ay-voo": 1,
+    "Going Places - 12": 1,
+    "The Prosecutors - The Babes in the Wood Murders - Signed": 1,
+    "Sounds of the Sixties - Reversions:": 1,
+    "Sit Down, Stand Up with Greg James": 1,
+    "Movies With Ali Plumb - Greatest Clips: Best Set-Steals": 1,
+    "Beardsley and his Work": 1,
+    "Tomorrow's World": 1,
+    "Bitesize Daily: 7-9 Year Olds - Art 7-8 Year Olds:": 1,
+    "Radio 1's Live Lounge - Stay Home Live Lounge": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Teacher Talks: Maths - Comparing Fractions": 1,
+    "The Works": 1,
+    "Blind Ambition - Signed": 1,
+    "Call the Midwife": 1,
+    "Omnibus - New York, New York": 1,
+    "Panorama - Brexit: Six Months On - Signed": 1,
+    "Doctor Who - Revolution of the Daleks - Signed": 1,
+    "The Women's Football Show - 2021/22: 06/03/2022": 1,
+    "The Catherine Tate Show": 1,
+    "2 Tone: The Sound of Coventry": 1,
+    "Masked and Anonymous": 1,
+    "Panorama - Pandora Papers: Secrets of World Leaders Exposed - Signed": 1
   }
 }

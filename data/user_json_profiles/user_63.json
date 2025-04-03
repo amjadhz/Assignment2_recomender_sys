@@ -1,46 +1,205 @@
 {
   "user_preferences": {
-    "Documentaries": -1,
-    "Signed": -2
+    "Science & Nature": 0.0,
+    "Films": 1.5,
+    "Comedy": 0.0,
+    "Documentaries": -1.5,
+    "Entertainment": 0.25,
+    "Signed": -1.0,
+    "Sports": -0.25,
+    "From the Archives": 0.25
   },
   "user_interactions": [
     [
-      "Chicken Man",
-      "Documentaries",
-      "disliked"
+      "Countryfile - High Weald",
+      "Science & Nature",
+      "skipped"
     ],
     [
-      "Canny Cops",
-      "Documentaries",
-      "neutral"
+      "Bringing Up Baby",
+      "Films",
+      "watched",
+      75
     ],
     [
-      "Meet the Khans: Big in Bolton",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "Hey Duggee - Top of the Pups: The Train Song",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Arctic with Bruce Parry",
-      "From the Archives",
-      "neutral"
-    ],
-    [
-      "CBeebies Presents - Ballets: The Elves and the Shoemaker: A CBeebies Ballet",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Stacey Dooley Investigates - Young Sex for Sale in Japan",
-      "Documentaries",
+      "Double Dynamite",
+      "Films",
       "liked"
+    ],
+    [
+      "Click - Ready for Arrival?",
+      "Science & Nature",
+      "watched",
+      50
+    ],
+    [
+      "Romesh: Talking to Comedians - In a Pie and Mash Shop",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Music\u2019s Dirty Secrets: Women Fight Back",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Monitor - Henry Moore",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "1Xtra - Decks Of Kin: Novelist",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds: Plant Classification",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - Wrest Park - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Down the Mighty River with Steve Backshall",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Statue Wars: One Summer in Bristol",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bellator MMA - 2021: Douglas Lima vs. Yaroslav Amosov",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "Lilies of the Field",
+      "Films",
+      "liked"
+    ],
+    [
+      "#CancelKarenDunbar",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Tournament",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "The Call of the Pipes",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Maths: Negative Numbers - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "We Are England - Made in England: A Very British Bike Factory - West London",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Porridge",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Units of Measurement",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Tonight - Dame Rebecca West",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "The Mayfair Set",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "BBC Wales Investigates - The Hidden World of Designer Dog Breeding",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Mrs Brown's Boys - Mrs Brown's Boys Live",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "EastEnders 2010 - 10/11/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Toast of London",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Inside Story - Fish Tales",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "RHS Chelsea Flower Show - 2021: Best of 2021",
+      "Signed",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Stacey Dooley Investigates - Young Sex for Sale in Japan": 1
+    "Bringing Up Baby": 1,
+    "Double Dynamite": 1,
+    "Click - Ready for Arrival?": 1,
+    "Romesh: Talking to Comedians - In a Pie and Mash Shop": 1,
+    "Monitor - Henry Moore": 1,
+    "1Xtra - Decks Of Kin: Novelist": 1,
+    "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds: Plant Classification": 1,
+    "Down the Mighty River with Steve Backshall": 1,
+    "Bellator MMA - 2021: Douglas Lima vs. Yaroslav Amosov": 1,
+    "Lilies of the Field": 1,
+    "#CancelKarenDunbar": 1,
+    "The Tournament": 1,
+    "The Call of the Pipes": 1,
+    "Bitesize Daily: 9-11 Year Olds - Maths: Negative Numbers - Signed": 1,
+    "We Are England - Made in England: A Very British Bike Factory - West London": 1,
+    "Porridge": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Units of Measurement": 1,
+    "Tonight - Dame Rebecca West": 1,
+    "The Mayfair Set": 1,
+    "BBC Wales Investigates - The Hidden World of Designer Dog Breeding": 1,
+    "Mrs Brown's Boys - Mrs Brown's Boys Live": 1,
+    "EastEnders 2010 - 10/11/2009": 1,
+    "Toast of London": 1
   }
 }

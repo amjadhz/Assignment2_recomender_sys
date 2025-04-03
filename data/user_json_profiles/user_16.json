@@ -1,40 +1,186 @@
 {
   "user_preferences": {
-    "CBBC": -2,
-    "Music": -1,
-    "Signed": -1
+    "Arts": 0.5,
+    "Sports": 0.5,
+    "Documentaries": 1.5,
+    "Food": 0.5,
+    "Signed": 0.25,
+    "Entertainment": 0.0,
+    "Music": 0.0,
+    "Films": -0.25,
+    "From the Archives": 1.5,
+    "Comedy": 0.5
   },
   "user_interactions": [
     [
-      "Scream Street",
-      "CBBC",
-      "neutral"
+      "Animated Shorts: BBC Introducing Arts",
+      "Arts",
+      "watched",
+      75
     ],
     [
-      "Nowhere Boys",
-      "CBBC",
-      "disliked"
+      "Ulster Schools' Cup Rugby Final - 2022",
+      "Sports",
+      "watched",
+      50
     ],
     [
-      "Queens of Song at the BBC",
-      "Music",
-      "disliked"
+      "Whicker's World - Conflict in Kentucky",
+      "Documentaries",
+      "liked"
     ],
     [
-      "Pok\u00e9mon: Black and White - Movies: Kyurem v The Sword of Justice",
-      "CBBC",
-      "disliked"
+      "Farm to Feast: Best Menu Wins",
+      "Food",
+      "watched",
+      50
     ],
     [
-      "Bitesize Daily: 7-9 Year Olds - Maths: Large Number Placement - Signed",
+      "The Gap Year Paedophile",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Life of a Mountain - A Year on Scafell Pike - Signed",
       "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Doctor Who - Eve of the Daleks - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Just One Night - Pilot",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Freddie Mercury: The Final Act",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "My Feral Heart",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Comic Relief - 2022: The Great Comic Relief Prizeathon",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Numberblocks - Specials: Double Back",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Doctor Who - Planet of the Dead",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Secret Life of Farm Animals",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "People Just Do Nothing",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "India with Sanjeev Bhaskar - The Longest Road",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Bridge of Lies",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "One More TUNE - BEKA",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "EastEnders 2010 - 10/12/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Womanhood",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Vic Galloway - The Van Ts",
+      "Music",
+      "skipped"
+    ],
+    [
+      "Extinction: The Facts - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Mortimer & Whitehouse: Gone Fishing",
+      "Entertainment",
       "disliked"
     ],
     [
-      "Victoria Wood: The Secret List",
-      "Entertainment",
-      "neutral"
+      "Not Going Out - Resolutions",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 19/01/2022",
+      "Signed",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Animated Shorts: BBC Introducing Arts": 1,
+    "Ulster Schools' Cup Rugby Final - 2022": 1,
+    "Whicker's World - Conflict in Kentucky": 1,
+    "Farm to Feast: Best Menu Wins": 1,
+    "The Gap Year Paedophile": 1,
+    "Life of a Mountain - A Year on Scafell Pike - Signed": 1,
+    "Doctor Who - Eve of the Daleks - Signed": 1,
+    "Just One Night - Pilot": 1,
+    "Freddie Mercury: The Final Act": 1,
+    "My Feral Heart": 1,
+    "Comic Relief - 2022: The Great Comic Relief Prizeathon": 1,
+    "Numberblocks - Specials: Double Back": 1,
+    "Doctor Who - Planet of the Dead": 1,
+    "Secret Life of Farm Animals": 1,
+    "People Just Do Nothing": 1,
+    "India with Sanjeev Bhaskar - The Longest Road": 1,
+    "Bridge of Lies": 1,
+    "One More TUNE - BEKA": 1,
+    "EastEnders 2010 - 10/12/2009": 1,
+    "Womanhood": 1,
+    "Extinction: The Facts - Signed": 1,
+    "Not Going Out - Resolutions": 1,
+    "BBC News Special - Coronavirus Update: 19/01/2022": 1
+  }
 }

@@ -1,31 +1,213 @@
 {
   "user_preferences": {
-    "Documentaries": 1,
-    "Signed": -2
+    "Music": -1.5,
+    "Signed": 1.5,
+    "Entertainment": 1.5,
+    "Food": -0.25,
+    "Documentaries": 1.5,
+    "From the Archives": -0.5,
+    "Films": 0.0
   },
   "user_interactions": [
     [
-      "Question Time - 2022: 27/01/2022 - Signed",
-      "Signed",
-      "neutral"
+      "Top of the Pops - New Year Special 2021/2022",
+      "Music",
+      "disliked"
     ],
     [
-      "Queer Britain",
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Decimals and Percentages",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The Baby Club - Songs: Twinkle, Twinkle Little Star",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Caitlyn Jenner: Honesty",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Ready Steady Cook",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "The Great British Sewing Bee",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Detained in America",
       "Documentaries",
       "liked"
     ],
     [
-      "Deadly 60",
+      "The Nilsen Files",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Countryfile - Clinton Devon Estates - Signed",
       "Signed",
+      "watched",
+      25
+    ],
+    [
+      "BBC Proms - 2021: V\u00edkingur \u00d3lafsson and the Philharmonia",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "BBC Cardiff Singer of the World - 2021: Round 4",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Phil Lynott: Songs for While I'm Away",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Adam Curtis: Shorts - The Rise and Fall of the TV Journalist",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "ear for eye",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Patagonia with Huw Edwards",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "A Life in Ten Pictures",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Rapman: Back of the Bus",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Great British Sewing Bee - Class of 2014",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "We Are England - The Night Shift: Life Blood",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Paloma Faith: As I Am - Signed",
+      "Music",
       "disliked"
     ],
     [
-      "Question Time - 2021: 17/06/2021 - Signed",
+      "6 Music Festival - 2021: Michael Kiwanuka and Laura Marling",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Kids Ask Difficult Questions - Jodie Whittaker & Mandip Gill",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Joey Essex: Grief and Me",
+      "Documentaries",
+      "watched",
+      90
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Fact and Opinion",
       "Signed",
-      "disliked"
+      "liked"
+    ],
+    [
+      "HARDtalk - Bryan Stevenson - founder and executive director Equal Justice Initiative",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Brave New World - Back Home",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Question Time - 2021: 16/09/2021 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Inspector Montalbano - The Potter's Field",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "The Black American Fight for Freedom",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Michael Palin\u2019s Himalaya: Journey of a Lifetime",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Natural World - 2015-2016:",
+      "Documentaries",
+      "liked"
     ]
   ],
   "watch_counts": {
-    "Queer Britain": 1
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Decimals and Percentages": 1,
+    "The Baby Club - Songs: Twinkle, Twinkle Little Star": 1,
+    "Caitlyn Jenner: Honesty": 1,
+    "Ready Steady Cook": 1,
+    "The Great British Sewing Bee": 1,
+    "Detained in America": 1,
+    "The Nilsen Files": 1,
+    "Countryfile - Clinton Devon Estates - Signed": 1,
+    "BBC Proms - 2021: V\u00edkingur \u00d3lafsson and the Philharmonia": 1,
+    "BBC Cardiff Singer of the World - 2021: Round 4": 1,
+    "Phil Lynott: Songs for While I'm Away": 1,
+    "ear for eye": 1,
+    "Patagonia with Huw Edwards": 1,
+    "A Life in Ten Pictures": 1,
+    "Rapman: Back of the Bus": 1,
+    "The Great British Sewing Bee - Class of 2014": 1,
+    "We Are England - The Night Shift: Life Blood": 1,
+    "6 Music Festival - 2021: Michael Kiwanuka and Laura Marling": 1,
+    "Kids Ask Difficult Questions - Jodie Whittaker & Mandip Gill": 1,
+    "Joey Essex: Grief and Me": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Fact and Opinion": 1,
+    "HARDtalk - Bryan Stevenson - founder and executive director Equal Justice Initiative": 1,
+    "Brave New World - Back Home": 1,
+    "Question Time - 2021: 16/09/2021 - Signed": 1,
+    "The Black American Fight for Freedom": 1,
+    "Michael Palin\u2019s Himalaya: Journey of a Lifetime": 1,
+    "Natural World - 2015-2016:": 1
   }
 }

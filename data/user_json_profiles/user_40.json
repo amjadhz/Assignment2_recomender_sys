@@ -1,30 +1,212 @@
 {
   "user_preferences": {
-    "Arts": -1,
-    "Signed": -1,
-    "Documentaries": -1
+    "Signed": 1.5,
+    "Documentaries": 1.25,
+    "Arts": -0.5,
+    "From the Archives": 0.25,
+    "Entertainment": 0.0,
+    "Sports": 0.0,
+    "Films": 0.5,
+    "Music": 0.5,
+    "Food": -1.0,
+    "Comedy": 1.0,
+    "CBBC": 0.0,
+    "Science & Nature": -0.75
   },
   "user_interactions": [
     [
-      "Dance Passion - 2022: Plymouth",
-      "Arts",
-      "disliked"
-    ],
-    [
-      "Rick Stein Tastes the Blues",
-      "Documentaries",
-      "neutral"
-    ],
-    [
-      "Countryfile - Best of Autumn - Signed",
+      "Nadiya: Anxiety and Me - Signed",
       "Signed",
+      "liked"
+    ],
+    [
+      "The Sky at Night - The Moon",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Panorama - Manchester Arena Bombing: Saffie\u2019s Story",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Storyville - The Night Notre-Dame Burned",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - Rerouting",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "The Misadventures of Romesh Ranganathan",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Inspector Montalbano - A Delicate Matter",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Inspector Montalbano - Treasure Hunt",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Top Gear",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Iraq's Extreme Heat and Water Shortages",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Question Time - 2022: 17/02/2022 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Inside Central Station",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The World\u2019s Most Extreme Festivals - The Festival That Never Sle",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 08/11/2021",
+      "Sports",
+      "skipped"
+    ],
+    [
+      "Apostasy",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 20/09/2021",
+      "Sports",
+      "watched",
+      50
+    ],
+    [
+      "Betty Campbell: Statue for a Heroine",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Question Time - 2021: 28/10/2021 - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Geography 8-9 Year Olds:",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Radio 1's Live Lounge - Holly Humberstone",
+      "Music",
+      "watched",
+      75
+    ],
+    [
+      "This Cultural Life",
+      "Arts",
+      "skipped"
+    ],
+    [
+      "Turkey with Simon Reeve",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "We Are England - Sporting Heroes: Bouncing Back",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Suzie Lee: Home Cook Hero - Shorts:",
+      "Food",
       "disliked"
     ],
     [
-      "Who Do You Think You Are?",
-      "Documentaries",
-      "disliked"
+      "Ladhood",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Monster Court",
+      "CBBC",
+      "watched",
+      25
+    ],
+    [
+      "Buried Treasure - King Solomon's Mines",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Music 6-7 Year Olds:",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Click - The Illegal Pet Trade",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Click - Mind-Controlled Machines",
+      "Science & Nature",
+      "skipped"
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "Nadiya: Anxiety and Me - Signed": 1,
+    "The Sky at Night - The Moon": 1,
+    "Panorama - Manchester Arena Bombing: Saffie\u2019s Story": 1,
+    "Storyville - The Night Notre-Dame Burned": 1,
+    "New Creatives - Rerouting": 1,
+    "The Misadventures of Romesh Ranganathan": 1,
+    "Inspector Montalbano - A Delicate Matter": 1,
+    "Inspector Montalbano - Treasure Hunt": 1,
+    "Top Gear": 1,
+    "Life at 50\u00b0C - Shorts: Iraq's Extreme Heat and Water Shortages": 1,
+    "Question Time - 2022: 17/02/2022 - Signed": 1,
+    "Inside Central Station": 1,
+    "Apostasy": 1,
+    "NIFL Premiership Highlights - 2021/2022: 20/09/2021": 1,
+    "Question Time - 2021: 28/10/2021 - Signed": 1,
+    "Bitesize Daily: 7-9 Year Olds - Geography 8-9 Year Olds:": 1,
+    "Radio 1's Live Lounge - Holly Humberstone": 1,
+    "Turkey with Simon Reeve": 1,
+    "We Are England - Sporting Heroes: Bouncing Back": 1,
+    "Ladhood": 1,
+    "Monster Court": 1,
+    "Buried Treasure - King Solomon's Mines": 1,
+    "Click - The Illegal Pet Trade": 1
+  }
 }

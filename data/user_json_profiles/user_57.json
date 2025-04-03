@@ -1,24 +1,216 @@
 {
   "user_preferences": {
-    "From the Archives": -1,
-    "Signed": -1
+    "From the Archives": 1.0,
+    "Music": -0.25,
+    "Documentaries": 0.5,
+    "Entertainment": 1.0,
+    "Films": 1.5,
+    "Arts": 1.0,
+    "Signed": -1.0,
+    "Science & Nature": 1.0,
+    "Sports": -0.25,
+    "Food": 0.5,
+    "Comedy": 0.5
   },
   "user_interactions": [
     [
-      "Tomorrow's World - Computers in the 60s",
+      "BBC Proms - 2021: Discovering Stravinsky\u2019s Firebird Suite",
       "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Harry Belafonte - Live at the BBC",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "Just Boys",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Festival Drugs: Meet The Dealers",
+      "Documentaries",
       "disliked"
     ],
     [
-      "9/11: Inside the President's War Room - Signed",
-      "Signed",
-      "neutral"
+      "Movies With Ali Plumb - Tom Holland: Onward",
+      "Entertainment",
+      "watched",
+      50
     ],
     [
-      "The Baby Club - Songs: Old McDonald",
+      "Ashes to Ashes",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "We Are England - Made in England: The 007 Shoe Factory - Northampton",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Rossetti - Sex, Drugs and Oil Paint",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Rock Till We Drop",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Kate Nash: Underestimate the Girl",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Barack Obama Talks to David Olusoga",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "BBC Proms - 2021: A Night at the Opera",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Our World - Myanmar: The Spring Revolution",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Life Drawing Live! - 2021: Pose Cam",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Earth's Great Rivers II",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - Last Christmas",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Paddington 2",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Doctor Who - Revolution of the Daleks - Signed",
       "Signed",
+      "skipped"
+    ],
+    [
+      "The Program",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Click - Online-only E3",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "Countryfile - One Man and His Dog 2021",
+      "Science & Nature",
+      "liked"
+    ],
+    [
+      "25 Siblings & Me",
+      "Documentaries",
       "disliked"
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Life at 50\u00b0C: The Town That Burnt Down In A Day",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Six Nations Rugby - 2022: Fifth Weekend Special",
+      "Sports",
+      "watched",
+      10
+    ],
+    [
+      "25 Siblings & Me - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Arena - B. Catling: Where Does It All Come From?",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Andy and the Band - Specials: Odd Socks Save Christmas",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Inspector Montalbano - Treasure Hunt",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Saturday Kitchen - Countdown to Christmas: 18/12/2021",
+      "Food",
+      "watched",
+      50
+    ],
+    [
+      "Jerk",
+      "Comedy",
+      "watched",
+      50
     ]
   ],
-  "watch_counts": {}
+  "watch_counts": {
+    "BBC Proms - 2021: Discovering Stravinsky\u2019s Firebird Suite": 1,
+    "Harry Belafonte - Live at the BBC": 1,
+    "Just Boys": 1,
+    "Movies With Ali Plumb - Tom Holland: Onward": 1,
+    "Ashes to Ashes": 1,
+    "We Are England - Made in England: The 007 Shoe Factory - Northampton": 1,
+    "Rossetti - Sex, Drugs and Oil Paint": 1,
+    "Rock Till We Drop": 1,
+    "Kate Nash: Underestimate the Girl": 1,
+    "Barack Obama Talks to David Olusoga": 1,
+    "BBC Proms - 2021: A Night at the Opera": 1,
+    "Our World - Myanmar: The Spring Revolution": 1,
+    "Life Drawing Live! - 2021: Pose Cam": 1,
+    "Earth's Great Rivers II": 1,
+    "Paddington 2": 1,
+    "The Program": 1,
+    "Click - Online-only E3": 1,
+    "Countryfile - One Man and His Dog 2021": 1,
+    "Life at 50\u00b0C - Shorts: Life at 50\u00b0C: The Town That Burnt Down In A Day": 1,
+    "Six Nations Rugby - 2022: Fifth Weekend Special": 1,
+    "25 Siblings & Me - Signed": 1,
+    "Arena - B. Catling: Where Does It All Come From?": 1,
+    "Inspector Montalbano - Treasure Hunt": 1,
+    "Saturday Kitchen - Countdown to Christmas: 18/12/2021": 1,
+    "Jerk": 1
+  }
 }
