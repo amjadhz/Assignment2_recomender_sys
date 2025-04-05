@@ -1,221 +1,187 @@
 {
   "user_preferences": {
-    "From the Archives": 1.0,
-    "Documentaries": 0.75,
-    "Signed": -0.5,
-    "Entertainment": 0.5,
-    "Music": 0.0,
-    "Food": -0.75,
-    "Sports": 0.0,
-    "Science & Nature": -0.25
+    "Signed": -1.25,
+    "Comedy": -0.25,
+    "Entertainment": 1.5,
+    "From the Archives": 1.5,
+    "Documentaries": 1.25,
+    "Music": 0.5,
+    "Arts": 0.5,
+    "Food": 0.0
   },
   "user_interactions": [
     [
-      "Making The Most Of The Micro",
-      "From the Archives",
-      "skipped"
-    ],
-    [
-      "Stacey Dooley - In the USA",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Louis Theroux's Weird Weekends",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Our World - The Battle for the South China Sea",
-      "Documentaries",
+      "Lily: A Transgender Story - Signed",
+      "Signed",
       "watched",
       10
     ],
     [
-      "The Solitary Billionaire: J. Paul Getty",
-      "From the Archives",
-      "watched",
-      75
-    ],
-    [
-      "Arena - Painted with My Hair",
-      "Documentaries",
+      "Enterprice",
+      "Comedy",
       "watched",
       25
     ],
     [
-      "Disclosure - Should I Tell You I'm Trans?",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "Louis Theroux - A Place for Paedophiles",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Playground Insults - Seth Rogen and Chlo\u00eb Grace Moretz",
-      "Entertainment",
-      "watched",
-      25
-    ],
-    [
-      "Radio 1's Live Lounge - Anderson .Paak",
-      "Music",
-      "watched",
-      50
-    ],
-    [
-      "Rick Stein's Spain",
-      "Food",
-      "watched",
-      25
-    ],
-    [
-      "Saturday Kitchen - 05/03/2022",
-      "Food",
-      "skipped"
-    ],
-    [
-      "NIFL Premiership Highlights - 2021/2022: 08/11/2021",
-      "Sports",
-      "watched",
-      25
-    ],
-    [
-      "Comic Relief - 2022: Rowing Home with Jordan North",
-      "Entertainment",
-      "watched",
-      75
-    ],
-    [
-      "Hey Duggee - Top of the Pups: Twelve Days of Christmas",
-      "Signed",
-      "skipped"
-    ],
-    [
-      "Arctic with Bruce Parry",
-      "From the Archives",
-      "watched",
-      50
-    ],
-    [
-      "A Musical Family Christmas with the Kanneh-Masons",
-      "Music",
-      "watched",
-      50
-    ],
-    [
-      "Nova Jones - Songs:",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Maths: Maths - Properties of Shapes",
+      "Andy and the Band - Songs: Who Dunnit?",
       "Signed",
       "disliked"
     ],
     [
-      "Click - Short Edition - 19/02/2022",
-      "Science & Nature",
-      "watched",
-      10
-    ],
-    [
-      "Animal, Vegetable, Mineral? - 01/10/1958",
+      "Movies With Ali Plumb - Becoming...: The Witcher",
       "Entertainment",
-      "watched",
-      25
+      "liked"
     ],
     [
-      "Holly Hobbie",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Thesaurus",
-      "Signed",
-      "watched",
-      10
-    ],
-    [
-      "BBC News Special - Coronavirus Update: 20/04/2021",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Panorama - Buy Now, Pay Later: The New Debt Crisis? - Signed",
-      "Signed",
-      "watched",
-      10
-    ],
-    [
-      "Choice - Holiday Camps",
+      "The Late Show - Face to Face: Lauren Bacall",
       "From the Archives",
       "watched",
       50
     ],
     [
-      "BBC Cardiff Singer of the World - 2021: Round 3",
-      "Music",
-      "disliked"
-    ],
-    [
-      "In Her Majesty's Service",
-      "Documentaries",
+      "Astaire and Rogers Sing the Great American Songbook",
+      "From the Archives",
       "watched",
       25
     ],
     [
-      "Countryfile - Flamborough Head - Signed",
+      "Best of Chewin' the Fat",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "EastEnders 2010 - 29/12/2009",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Rollermania: Britain's Biggest Boy Band",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Songs of Praise - The Duke of Edinburgh",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Micro Live",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Free Spirits",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Ashes to Ashes",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "Stacey Dooley - On the Psych Ward",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Dance Passion - 2022: Coventry",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Dirty Secrets of the Cigarette Business - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Ovie: Life after Reality TV",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Andy and the Band - Songs: Happy Birthday",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Ken Bruce - Best of Radio 2's Piano Room",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Fourteen Days in May",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Matilda and the Ramsay Bunch",
       "Signed",
       "watched",
       25
     ],
     [
-      "Kitchen Starter Pack - Totally Store Cupboard",
-      "Food",
+      "The Wonder of Animals",
+      "Documentaries",
       "watched",
       10
     ],
     [
-      "Inside the Zoo",
+      "2 Tone: The Sound of Coventry",
       "Documentaries",
       "watched",
-      50
+      10
+    ],
+    [
+      "The Sky at Night - Voyager To Uranus",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Saturday Kitchen - 30/10/2021",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Return Of The River",
+      "Documentaries",
+      "watched",
+      75
     ]
   ],
   "watch_counts": {
-    "Stacey Dooley - In the USA": 1,
-    "Our World - The Battle for the South China Sea": 1,
-    "The Solitary Billionaire: J. Paul Getty": 1,
-    "Arena - Painted with My Hair": 1,
-    "Disclosure - Should I Tell You I'm Trans?": 1,
-    "Louis Theroux - A Place for Paedophiles": 1,
-    "Playground Insults - Seth Rogen and Chlo\u00eb Grace Moretz": 1,
-    "Radio 1's Live Lounge - Anderson .Paak": 1,
-    "Rick Stein's Spain": 1,
-    "NIFL Premiership Highlights - 2021/2022: 08/11/2021": 1,
-    "Comic Relief - 2022: Rowing Home with Jordan North": 1,
-    "Arctic with Bruce Parry": 1,
-    "A Musical Family Christmas with the Kanneh-Masons": 1,
-    "Nova Jones - Songs:": 1,
-    "Click - Short Edition - 19/02/2022": 1,
-    "Animal, Vegetable, Mineral? - 01/10/1958": 1,
-    "Holly Hobbie": 1,
-    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: English - Thesaurus": 1,
-    "BBC News Special - Coronavirus Update: 20/04/2021": 1,
-    "Panorama - Buy Now, Pay Later: The New Debt Crisis? - Signed": 1,
-    "Choice - Holiday Camps": 1,
-    "In Her Majesty's Service": 1,
-    "Countryfile - Flamborough Head - Signed": 1,
-    "Kitchen Starter Pack - Totally Store Cupboard": 1,
-    "Inside the Zoo": 1
+    "Lily: A Transgender Story - Signed": 1,
+    "Enterprice": 1,
+    "Movies With Ali Plumb - Becoming...: The Witcher": 1,
+    "The Late Show - Face to Face: Lauren Bacall": 1,
+    "Astaire and Rogers Sing the Great American Songbook": 1,
+    "Best of Chewin' the Fat": 1,
+    "Rollermania: Britain's Biggest Boy Band": 1,
+    "Songs of Praise - The Duke of Edinburgh": 1,
+    "Micro Live": 1,
+    "Free Spirits": 1,
+    "Ashes to Ashes": 1,
+    "Stacey Dooley - On the Psych Ward": 1,
+    "Dance Passion - 2022: Coventry": 1,
+    "Panorama - Dirty Secrets of the Cigarette Business - Signed": 1,
+    "Ovie: Life after Reality TV": 1,
+    "Ken Bruce - Best of Radio 2's Piano Room": 1,
+    "Fourteen Days in May": 1,
+    "Matilda and the Ramsay Bunch": 1,
+    "The Wonder of Animals": 1,
+    "2 Tone: The Sound of Coventry": 1,
+    "The Sky at Night - Voyager To Uranus": 1,
+    "Saturday Kitchen - 30/10/2021": 1,
+    "Life at 50\u00b0C - Shorts: Return Of The River": 1
   }
 }

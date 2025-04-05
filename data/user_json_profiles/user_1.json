@@ -1,232 +1,210 @@
 {
   "user_preferences": {
+    "Food": -0.25,
     "Documentaries": 1.5,
-    "Food": 0.0,
-    "Films": 1.0,
-    "Signed": 0.5,
-    "Entertainment": 1.0,
-    "From the Archives": 0.0,
-    "Science & Nature": -1.0,
-    "Comedy": -1.0,
-    "CBBC": 1.0,
-    "Sports": 0.5,
-    "Music": 0.5
+    "Sports": -0.25,
+    "Comedy": 1.0,
+    "Signed": -0.75,
+    "Music": 0.5,
+    "Arts": 0.5,
+    "Entertainment": 0.0,
+    "From the Archives": 0.75,
+    "History": -1.0
   },
   "user_interactions": [
     [
-      "Measuring Mass: The Last Artefact",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Hoop Dreams",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Saturday Kitchen - 09/10/2021",
+      "Ken Hom's Chinese Cookery - Fish",
       "Food",
       "watched",
-      25
+      10
     ],
     [
-      "Secrets of an ISIS Smartphone",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Holiday Affair",
-      "Films",
-      "watched",
-      25
-    ],
-    [
-      "Saturday Kitchen - 26/02/2022",
-      "Food",
-      "watched",
-      25
-    ],
-    [
-      "Firestarter: The Story of Bangarra",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Hey Duggee - Top of the Pups: Twelve Days of Christmas",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Ar An Sliabh",
+      "Louis Theroux - The City Addicted to Crystal Meth",
       "Documentaries",
       "watched",
       75
     ],
     [
-      "Stacey Dooley - Stacey on the Frontline: Girls, Guns and Isis",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "The Joe Wicks Podcast - Melanie C: Everyone is Good Enough",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "HARDtalk - Professor Mariana Mazzucato - Economist, University College London",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "The Notebook",
-      "Films",
-      "liked"
-    ],
-    [
-      "EastEnders 2010 - 07/12/2009",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "The Secret Science of Sewage - Audio Described",
-      "Science & Nature",
-      "disliked"
-    ],
-    [
-      "Arena - Delia Derbyshire: The Myths and the Legendary Tapes",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Question Time - 2021: 29/04/2021 - Signed",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Statue Wars: One Summer in Bristol",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Gareth Thomas: HIV and Me",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Panorama - Manchester Arena Bombing: Saffie\u2019s Story - Signed",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Call the Midwife - Christmas Special 2017",
-      "From the Archives",
-      "watched",
-      75
-    ],
-    [
-      "Gold Town",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "R",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Animals with Cameras",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Election 97",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "The Disappearance of Pato",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Doctor Who - The Runaway Bride",
-      "From the Archives",
-      "watched",
-      75
-    ],
-    [
-      "Culture in Quarantine - Earth To Alice - Signed",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Silky Hotel",
-      "Comedy",
-      "disliked"
-    ],
-    [
-      "Dumping Ground Island",
-      "CBBC",
-      "liked"
-    ],
-    [
-      "Match of the Day Wales - 2021/22: Pinatar Cup - Wales v Belgium",
+      "Scottish Women's Premier League - 2021/22:",
       "Sports",
       "watched",
-      75
+      10
     ],
     [
-      "Pride Hits at the BBC",
-      "Music",
+      "Sold: Sex Slaves Next Door",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Live at the Apollo",
+      "Comedy",
+      "liked"
+    ],
+    [
+      "Arena - Miller Meets Mandela",
+      "Documentaries",
       "watched",
       75
     ],
     [
-      "Storyville - Being Evel Knievel",
+      "My Family,",
       "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "CBeebies Presents - Stage Shows: CBeebies Thumbelina",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Bellator MMA - 2022: Bellator 273: Main Event & Prelims",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "I Can Cure You: Online Mental Health Cures",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "BBC Scottish Symphony Orchestra - Sibelius Symphony No.1",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Big Book Weekend - A Big Book Chat with Val McDermid",
+      "Arts",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - English: Reading to Infer",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Teeny Tiny Creatures - Ferne and Rory:",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Late Night Line-Up - Coco the Clown",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "The People v Climate Change - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "40 Minutes - The Outcasts",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Adam Curtis: Shorts - The Rise and Fall of the TV Journalist",
+      "From the Archives",
+      "liked"
+    ],
+    [
+      "This World - Three Days of Terror: The Charlie Hebdo Attacks",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Down the Mighty River with Steve Backshall",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths \u2013 Shapes",
+      "Signed",
       "disliked"
+    ],
+    [
+      "Stacey Dooley - Migrant Kids in Crisis",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Rise of the Nazis - Origins:",
+      "History",
+      "disliked"
+    ],
+    [
+      "Olly Alexander: Growing up Gay",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Joe Wicks Podcast - Dermot Kennedy: Disconnecting from Reality",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Art of Persia",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "BBC Proms - 2021: Bach\u2019s St Matthew Passion",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "New Creatives - Staff of Life",
+      "Arts",
+      "watched",
+      25
+    ],
+    [
+      "New Creatives - Top Wavers",
+      "Arts",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Measuring Mass: The Last Artefact": 1,
-    "Hoop Dreams": 1,
-    "Saturday Kitchen - 09/10/2021": 1,
-    "Secrets of an ISIS Smartphone": 1,
-    "Holiday Affair": 1,
-    "Saturday Kitchen - 26/02/2022": 1,
-    "Firestarter: The Story of Bangarra": 1,
-    "Hey Duggee - Top of the Pups: Twelve Days of Christmas": 1,
-    "Ar An Sliabh": 1,
-    "Stacey Dooley - Stacey on the Frontline: Girls, Guns and Isis": 1,
-    "The Joe Wicks Podcast - Melanie C: Everyone is Good Enough": 1,
-    "HARDtalk - Professor Mariana Mazzucato - Economist, University College London": 1,
-    "The Notebook": 1,
-    "EastEnders 2010 - 07/12/2009": 1,
-    "Question Time - 2021: 29/04/2021 - Signed": 1,
-    "Statue Wars: One Summer in Bristol": 1,
-    "Gareth Thomas: HIV and Me": 1,
-    "Panorama - Manchester Arena Bombing: Saffie\u2019s Story - Signed": 1,
-    "Call the Midwife - Christmas Special 2017": 1,
-    "Gold Town": 1,
-    "Animals with Cameras": 1,
-    "The Disappearance of Pato": 1,
-    "Doctor Who - The Runaway Bride": 1,
-    "Culture in Quarantine - Earth To Alice - Signed": 1,
-    "Dumping Ground Island": 1,
-    "Match of the Day Wales - 2021/22: Pinatar Cup - Wales v Belgium": 1,
-    "Pride Hits at the BBC": 1
+    "Ken Hom's Chinese Cookery - Fish": 1,
+    "Louis Theroux - The City Addicted to Crystal Meth": 1,
+    "Scottish Women's Premier League - 2021/22:": 1,
+    "Sold: Sex Slaves Next Door": 1,
+    "Live at the Apollo": 1,
+    "Arena - Miller Meets Mandela": 1,
+    "My Family,": 1,
+    "CBeebies Presents - Stage Shows: CBeebies Thumbelina": 1,
+    "Bellator MMA - 2022: Bellator 273: Main Event & Prelims": 1,
+    "I Can Cure You: Online Mental Health Cures": 1,
+    "BBC Scottish Symphony Orchestra - Sibelius Symphony No.1": 1,
+    "Big Book Weekend - A Big Book Chat with Val McDermid": 1,
+    "Bitesize Daily: 9-11 Year Olds - English: Reading to Infer": 1,
+    "Teeny Tiny Creatures - Ferne and Rory:": 1,
+    "Late Night Line-Up - Coco the Clown": 1,
+    "Adam Curtis: Shorts - The Rise and Fall of the TV Journalist": 1,
+    "This World - Three Days of Terror: The Charlie Hebdo Attacks": 1,
+    "Down the Mighty River with Steve Backshall": 1,
+    "Stacey Dooley - Migrant Kids in Crisis": 1,
+    "Olly Alexander: Growing up Gay": 1,
+    "The Joe Wicks Podcast - Dermot Kennedy: Disconnecting from Reality": 1,
+    "Art of Persia": 1,
+    "BBC Proms - 2021: Bach\u2019s St Matthew Passion": 1,
+    "New Creatives - Staff of Life": 1,
+    "New Creatives - Top Wavers": 1
   }
 }

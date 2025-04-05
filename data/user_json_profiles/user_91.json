@@ -1,235 +1,178 @@
 {
   "user_preferences": {
-    "Entertainment": -1.0,
-    "Signed": -1.0,
-    "Arts": 1.0,
+    "Signed": -1.5,
+    "Music": 0.5,
+    "Entertainment": 0.75,
+    "Comedy": 1.0,
     "Documentaries": 0.25,
-    "Comedy": 1.5,
-    "Science & Nature": -0.5,
-    "From the Archives": 0.5,
     "Food": 0.0,
-    "Films": -0.5,
-    "Sports": 1.0
+    "From the Archives": -1.5,
+    "Films": 0.5,
+    "Arts": 1.0,
+    "Science & Nature": 0.0
   },
   "user_interactions": [
     [
-      "Comic Relief - 2022: The Best Bits",
-      "Entertainment",
-      "watched",
-      25
-    ],
-    [
-      "Extinction: The Facts - Signed",
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Counting",
       "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Big Book Weekend - How To Be A Man: Russell Kane, Alex Wheatle and Guvna B",
-      "Arts",
-      "watched",
-      75
-    ],
-    [
-      "Panorama - Manchester Arena Bombing: Saffie\u2019s Story",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "The Goes Wrong Show",
-      "Entertainment",
-      "watched",
-      25
-    ],
-    [
-      "Sex Map of Britain",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Romesh: Talking to Comedians - In Caffs About Growing Up",
-      "Comedy",
-      "watched",
-      50
-    ],
-    [
-      "Click - Short Edition - 12/02/2022",
-      "Science & Nature",
-      "watched",
-      50
-    ],
-    [
-      "Bitesize Daily: 5-7 Year Olds - English:",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "EastEnders 2010 - 26/12/2009",
-      "From the Archives",
-      "watched",
-      10
-    ],
-    [
-      "CBeebies Bedtime Stories - 5",
-      "Signed",
-      "watched",
-      10
-    ],
-    [
-      "The Time Of Your Life",
-      "Entertainment",
-      "disliked"
-    ],
-    [
-      "Dynasties - Meerkat: A Dynasties Special",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Royal Wedding: A Day to Remember - Signed",
-      "Signed",
-      "watched",
-      10
-    ],
-    [
-      "Horizon - 1981-1982: The Pleasure of Finding Things Out",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Measuring Mass: The Last Artefact - Signed",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Taste - Getting to the Point",
-      "From the Archives",
-      "watched",
-      50
-    ],
-    [
-      "Loop - Art for a Sustainable Future",
-      "Arts",
-      "watched",
-      75
-    ],
-    [
-      "Car Girls",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "Our Girl - Pilot",
-      "From the Archives",
-      "watched",
-      10
-    ],
-    [
-      "HARDtalk - Oleksii Reznikov - Ukraine's Defence Minister",
-      "From the Archives",
       "skipped"
     ],
     [
-      "St. Mungo's",
+      "Reel Stories - Sting",
+      "Music",
+      "watched",
+      50
+    ],
+    [
+      "Movies With Ali Plumb - Andy Samberg: The Story So Far",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "What Just Happened?",
       "Comedy",
       "liked"
     ],
     [
-      "Mach as mo Rathad/Born to Drive",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "The Witchfinder",
-      "Comedy",
-      "watched",
-      50
-    ],
-    [
-      "Click - Battling Brain Trauma",
-      "Science & Nature",
-      "disliked"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Maths: Position and Direction",
+      "Panorama - David Cameron and the Missing Billions - Signed",
       "Signed",
       "watched",
       25
     ],
     [
-      "Arctic with Bruce Parry",
-      "From the Archives",
+      "Arena - Chelsea Hotel",
+      "Documentaries",
       "watched",
-      50
+      10
     ],
     [
-      "Mammoth",
-      "Comedy",
-      "watched",
-      75
-    ],
-    [
-      "MasterChef: The Professionals - Rematch 2021",
+      "Saturday Kitchen - 28/08/2021",
       "Food",
       "watched",
-      25
+      50
     ],
     [
-      "Breakfast with Frost - Donald Rumsfeld",
+      "The Late Show - Face to Face: Lauren Bacall",
       "From the Archives",
       "watched",
-      25
+      10
     ],
     [
-      "Night of the Living Dead",
+      "El Cid",
       "Films",
+      "watched",
+      50
+    ],
+    [
+      "Saturday Kitchen - 22/01/2022",
+      "Food",
       "skipped"
     ],
     [
-      "The Christian Eriksen Interview",
-      "Sports",
+      "With God on our Side",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Doctor Who - The Christmas Invasion",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Night Before Christmas - Songs: Where There's a Wish Song",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Inspector Montalbano - Hall of Mirrors",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Almost Never",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Afoot Again In The Past - Stately Kitchens",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Almost Never",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Rock Till We Drop",
+      "Entertainment",
       "liked"
     ],
     [
-      "Silver Jubilee - Review of the British Army",
-      "From the Archives",
+      "Life Drawing Live! - 2021: The Show",
+      "Arts",
+      "liked"
+    ],
+    [
+      "Click - Online-only E3",
+      "Science & Nature",
+      "watched",
+      25
+    ],
+    [
+      "The People v Climate Change",
+      "Documentaries",
       "watched",
       50
+    ],
+    [
+      "Antiques Road Trip",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Alphabet Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Nadiya's American Adventure",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Numberblocks - Numbersongs: Hen House Hop",
+      "Signed",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Comic Relief - 2022: The Best Bits": 1,
-    "Extinction: The Facts - Signed": 1,
-    "Big Book Weekend - How To Be A Man: Russell Kane, Alex Wheatle and Guvna B": 1,
-    "The Goes Wrong Show": 1,
-    "Sex Map of Britain": 1,
-    "Romesh: Talking to Comedians - In Caffs About Growing Up": 1,
-    "Click - Short Edition - 12/02/2022": 1,
-    "EastEnders 2010 - 26/12/2009": 1,
-    "CBeebies Bedtime Stories - 5": 1,
-    "Dynasties - Meerkat: A Dynasties Special": 1,
-    "Royal Wedding: A Day to Remember - Signed": 1,
-    "Horizon - 1981-1982: The Pleasure of Finding Things Out": 1,
-    "Measuring Mass: The Last Artefact - Signed": 1,
-    "Taste - Getting to the Point": 1,
-    "Loop - Art for a Sustainable Future": 1,
-    "Car Girls": 1,
-    "Our Girl - Pilot": 1,
-    "St. Mungo's": 1,
-    "Mach as mo Rathad/Born to Drive": 1,
-    "The Witchfinder": 1,
-    "Bitesize Daily: 7-9 Year Olds - Maths: Position and Direction": 1,
-    "Arctic with Bruce Parry": 1,
-    "Mammoth": 1,
-    "MasterChef: The Professionals - Rematch 2021": 1,
-    "Breakfast with Frost - Donald Rumsfeld": 1,
-    "The Christian Eriksen Interview": 1,
-    "Silver Jubilee - Review of the British Army": 1
+    "Reel Stories - Sting": 1,
+    "Movies With Ali Plumb - Andy Samberg: The Story So Far": 1,
+    "What Just Happened?": 1,
+    "Panorama - David Cameron and the Missing Billions - Signed": 1,
+    "Arena - Chelsea Hotel": 1,
+    "Saturday Kitchen - 28/08/2021": 1,
+    "The Late Show - Face to Face: Lauren Bacall": 1,
+    "El Cid": 1,
+    "With God on our Side": 1,
+    "Doctor Who - The Christmas Invasion": 1,
+    "The Night Before Christmas - Songs: Where There's a Wish Song": 1,
+    "Almost Never": 1,
+    "Rock Till We Drop": 1,
+    "Life Drawing Live! - 2021: The Show": 1,
+    "Click - Online-only E3": 1,
+    "The People v Climate Change": 1,
+    "Antiques Road Trip": 1,
+    "Hey Duggee - Top of the Pups: Alphabet Song": 1,
+    "Nadiya's American Adventure": 1
   }
 }

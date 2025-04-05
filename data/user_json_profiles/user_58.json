@@ -1,203 +1,218 @@
 {
   "user_preferences": {
+    "Entertainment": 1.5,
+    "From the Archives": -1.0,
     "Documentaries": 1.5,
-    "Music": 0.0,
     "Signed": 1.5,
-    "From the Archives": 0.0,
-    "Films": -1.0,
-    "Arts": -1.5,
-    "CBBC": 0.0
+    "Food": 0.75,
+    "Music": -1.0,
+    "Science & Nature": -0.25,
+    "Comedy": 0.5
   },
   "user_interactions": [
     [
-      "The Devil's Music",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "The A to Z of TV Gardening - Shorts: Letter I",
-      "Documentaries",
+      "The Great British Sewing Bee - Christmas Special",
+      "Entertainment",
       "liked"
     ],
     [
-      "CMA Summer Jam",
-      "Music",
-      "disliked"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Organising Writing",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "Glastonbury - Fela Kuti at Glastonbury 1984",
-      "Music",
-      "disliked"
-    ],
-    [
-      "Panorama - NHS: Wait or Pay?",
-      "Documentaries",
-      "watched",
-      95
-    ],
-    [
-      "Andy and the Band - Songs: Let\u2019s Jump",
-      "Signed",
-      "liked"
-    ],
-    [
-      "Buried Treasure - The Peat Bog Murder Mystery",
+      "Going Places - 12",
       "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Andy and the Band - Songs: Hey There Chicken!",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Panorama - NHS: Wait or Pay?",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Teacher Talks: English - Pronouns and Pr",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "R.E.M. at the BBC",
-      "Music",
-      "liked"
-    ],
-    [
-      "Festival Drugs: Meet The Dealers",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Horizon - 1967-1968: Investigating Murder",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Vic Galloway - Man Of Moon",
-      "Music",
-      "watched",
-      50
-    ],
-    [
-      "Let the Right One In",
-      "Films",
-      "disliked"
-    ],
-    [
-      "Alaska: Earth's Frozen Kingdom",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Trooping the Colour - Silver Jubilee",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Attenborough: 60 Years in the Wild",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Spiral",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "BBC News Special - Coronavirus Update: 05/04/2021 - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "New Creatives - Rerouting",
-      "Arts",
       "watched",
       10
     ],
     [
-      "Wayfaring Stranger with Phil Cunningham",
-      "Music",
+      "Universe",
+      "Documentaries",
       "watched",
       50
     ],
     [
-      "Sondheim \u2013 A Tribute from Andrew Lloyd Webber",
-      "Arts",
-      "disliked"
+      "Our Family",
+      "Signed",
+      "watched",
+      25
     ],
     [
-      "When Nirvana Came to Britain",
+      "Nigella: At My Table - Christmas",
+      "Food",
+      "watched",
+      10
+    ],
+    [
+      "The Birth of British Music",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Trump Show - Downfall - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Neutrino: Hunting the Ghost",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Saturday Kitchen - Holi Special",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English \u2013 Sentences",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Jay Blades: Learning to Read at 51",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Crock of Gold: A Few Rounds with Shane MacGowan",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Forensics: The Real CSI",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Breakfast with Frost - Dominique de Vill",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Inside Story - The Market",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Andy and the Band - Songs: Showdown",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Hey Duggee - Green Planet:",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Nigeria Burning",
       "Documentaries",
       "liked"
     ],
     [
-      "Cher at the BBC",
+      "BBC Proms - 2021: Nubya Garcia",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Mastermind - 2020/21:",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "John Cage Live at the Barbican",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Top of the Pops - Kylie Minogue",
       "Music",
-      "watched",
-      25
-    ],
-    [
-      "Millie Inbetween - Specials:",
-      "CBBC",
-      "watched",
-      25
-    ],
-    [
-      "Our World - Barbados: Road to a R",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Big Book Weekend - Greg Davies Tries Bibliotherapy",
-      "Arts",
       "disliked"
     ],
     [
-      "Britain's Forgotten Men",
-      "Documentaries",
+      "Call the Midwife - Christmas Special 2021",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Climate Change - The Facts",
+      "Science & Nature",
+      "watched",
+      10
+    ],
+    [
+      "Nadiya Bakes",
+      "Food",
+      "watched",
+      75
+    ],
+    [
+      "The Secret Science of Sewage - Signed",
+      "Signed",
       "liked"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - English: Punctuation - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Brotherhood: The Inner Life of Monks",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Live at the Apollo",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Soul America",
+      "Documentaries",
+      "watched",
+      75
     ]
   ],
   "watch_counts": {
-    "The Devil's Music": 1,
-    "The A to Z of TV Gardening - Shorts: Letter I": 1,
-    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Organising Writing": 1,
-    "Panorama - NHS: Wait or Pay?": 2,
-    "Andy and the Band - Songs: Let\u2019s Jump": 1,
-    "Buried Treasure - The Peat Bog Murder Mystery": 1,
-    "Andy and the Band - Songs: Hey There Chicken!": 1,
-    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Teacher Talks: English - Pronouns and Pr": 1,
-    "R.E.M. at the BBC": 1,
-    "Festival Drugs: Meet The Dealers": 1,
-    "Horizon - 1967-1968: Investigating Murder": 1,
-    "Vic Galloway - Man Of Moon": 1,
-    "Alaska: Earth's Frozen Kingdom": 1,
-    "Trooping the Colour - Silver Jubilee": 1,
-    "Attenborough: 60 Years in the Wild": 1,
-    "Spiral": 1,
-    "BBC News Special - Coronavirus Update: 05/04/2021 - Signed": 1,
-    "New Creatives - Rerouting": 1,
-    "Wayfaring Stranger with Phil Cunningham": 1,
-    "When Nirvana Came to Britain": 1,
-    "Cher at the BBC": 1,
-    "Millie Inbetween - Specials:": 1,
-    "Our World - Barbados: Road to a R": 1,
-    "Britain's Forgotten Men": 1
+    "The Great British Sewing Bee - Christmas Special": 1,
+    "Going Places - 12": 1,
+    "Universe": 1,
+    "Our Family": 1,
+    "Nigella: At My Table - Christmas": 1,
+    "The Birth of British Music": 1,
+    "The Trump Show - Downfall - Signed": 1,
+    "Neutrino: Hunting the Ghost": 1,
+    "Saturday Kitchen - Holi Special": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English \u2013 Sentences": 1,
+    "Jay Blades: Learning to Read at 51": 1,
+    "Crock of Gold: A Few Rounds with Shane MacGowan": 1,
+    "Forensics: The Real CSI": 1,
+    "Breakfast with Frost - Dominique de Vill": 1,
+    "Inside Story - The Market": 1,
+    "Andy and the Band - Songs: Showdown": 1,
+    "Hey Duggee - Green Planet:": 1,
+    "Life at 50\u00b0C - Shorts: Nigeria Burning": 1,
+    "BBC Proms - 2021: Nubya Garcia": 1,
+    "Mastermind - 2020/21:": 1,
+    "Call the Midwife - Christmas Special 2021": 1,
+    "Climate Change - The Facts": 1,
+    "Nadiya Bakes": 1,
+    "The Secret Science of Sewage - Signed": 1,
+    "Bitesize Daily: 7-9 Year Olds - English: Punctuation - Signed": 1,
+    "Brotherhood: The Inner Life of Monks": 1,
+    "Live at the Apollo": 1,
+    "Soul America": 1
   }
 }

@@ -1,241 +1,209 @@
 {
   "user_preferences": {
-    "Documentaries": 1.5,
-    "Films": 0.5,
-    "From the Archives": 0.75,
-    "Entertainment": 1.5,
+    "Films": 0.0,
     "CBBC": 0.5,
-    "Music": 1.5,
-    "Sports": 0.0,
-    "Signed": 0.5,
-    "Comedy": 1.0,
-    "Science & Nature": 0.0,
-    "Food": 0.5,
-    "Arts": 0.0
+    "Documentaries": 1.5,
+    "Entertainment": 1.0,
+    "Signed": 0.25,
+    "Music": 0.5,
+    "From the Archives": -0.5,
+    "Science & Nature": 0.5,
+    "Sports": 0.5,
+    "Arts": -0.75
   },
   "user_interactions": [
     [
-      "Stacey Dooley - The Blame Game",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Versus - The Life and Films of Ken Loach",
+      "My Feral Heart",
       "Films",
-      "watched",
-      50
+      "disliked"
     ],
     [
-      "Adam Curtis: Shorts - Living in an Unreal World",
-      "From the Archives",
-      "watched",
-      50
-    ],
-    [
-      "The Seven Ages of Man",
-      "From the Archives",
-      "watched",
-      50
-    ],
-    [
-      "Upload Festival - WATCH: Upload Festival 2021 - The Comedy Tent",
-      "Entertainment",
+      "Our Black History Heroes",
+      "CBBC",
       "liked"
     ],
     [
-      "Arena - The Everly Brothers Reunion Concert",
+      "Stacey Dooley - Hate and Pride in Orlando",
       "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Blue Peter - Blue Peter: Red Nose Day Spectacular!",
-      "CBBC",
       "watched",
       50
     ],
     [
-      "Man Alive - Top Class People",
+      "Lightning",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Omnibus - Makers of the Queen's Music",
       "Documentaries",
       "watched",
       25
     ],
     [
-      "Northern Ireland Onscreen",
-      "Music",
-      "watched",
-      75
-    ],
-    [
-      "Bellator MMA - 2022: Ryan Bader vs. Valentin Moldavsky",
-      "Sports",
-      "watched",
-      50
-    ],
-    [
-      "Life of a Mountain - A Year on Blencathra",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "4 O'Clock Club",
+      "A Killing in Tiger Bay",
       "Signed",
       "watched",
-      75
+      10
     ],
     [
-      "Behind the Filter",
-      "Comedy",
-      "liked"
-    ],
-    [
-      "Natural World - 2008-2009:",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Panorama - Buy Now, Pay Later: The New Debt Crisis?",
-      "Documentaries",
+      "Vic Galloway - The Van Ts",
+      "Music",
       "watched",
       50
     ],
     [
-      "Festival Drugs: Meet The Dealers",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Unbeatable",
-      "Entertainment",
-      "watched",
-      50
-    ],
-    [
-      "Click - Short Edition - 25/09/2021",
-      "Science & Nature",
-      "watched",
-      25
-    ],
-    [
-      "Pranked by Superfan Steve - Charli XCX",
-      "Entertainment",
-      "watched",
-      50
-    ],
-    [
-      "Thrifty Cooking in the Doctor\u2019s Kitchen",
-      "Food",
-      "watched",
-      75
-    ],
-    [
-      "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine",
+      "The Late Show - Face to Face: Jeanette Winterson",
       "From the Archives",
       "watched",
-      25
+      50
     ],
     [
-      "The Perfect Morecambe & Wise",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "New Creatives - Radio Silence",
-      "Arts",
-      "watched",
-      25
-    ],
-    [
-      "Laugh Lessons",
-      "Comedy",
+      "Countryfile - Cumbria",
+      "Science & Nature",
       "watched",
       50
     ],
     [
-      "NIFL Premiership Highlights - 2021/2022: 15/11/2021",
-      "Sports",
+      "The Fast and the Farmer-ish",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Avicii: True Stories",
+      "Documentaries",
       "watched",
       25
     ],
     [
-      "Harry Hill's Lonely Island",
-      "Comedy",
-      "skipped"
+      "Panorama - Who\u2019s Protecting Our Kids?",
+      "Documentaries",
+      "watched",
+      50
     ],
     [
-      "BBC Cardiff Singer of the World - 2021: Round 3",
-      "Music",
-      "liked"
-    ],
-    [
-      "Bellator MMA - 2022: Bellator 273: Main Event & Prelims",
+      "Legends of Welsh Sport - Steve Robinson",
       "Sports",
-      "skipped"
+      "watched",
+      50
     ],
     [
-      "Atlantis",
+      "The Vicar of Dibley - Christmas Specials 2004:",
       "From the Archives",
       "watched",
       10
     ],
     [
-      "Dog Loves Books",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Inspector Montalbano - The Other End of the Thread",
+      "EastEnders 2010 - 17/11/2009",
       "From the Archives",
       "skipped"
     ],
     [
-      "HARDtalk - Neil deGrasse Tyson - Director, Hayden Planetarium, New York",
-      "From the Archives",
-      "watched",
-      50
+      "Untouchable: The Rise and Fall of Harvey Weinstein - Signed",
+      "Signed",
+      "skipped"
     ],
     [
-      "Our World - Return of the Taliban",
+      "EastEnders 2010 - 18/12/2009",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "The Living Dead",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Idiot Prayer - Nick Cave Alone at Alexandra Palace",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Afghanistan - Back to the Future",
       "Documentaries",
       "watched",
       50
     ],
     [
-      "Bargain Hunt",
-      "Entertainment",
+      "Election 97",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "CBBC Book Club \u2013 World Book Day Edition",
+      "CBBC",
+      "skipped"
+    ],
+    [
+      "New Creatives - In Bloom",
+      "Arts",
+      "skipped"
+    ],
+    [
+      "Life on the Bay",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Professor Branestawm - The Incredible Adventures of Professor Branestawm",
+      "Films",
       "liked"
+    ],
+    [
+      "Odd Squad",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "15 Storeys High",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "Ireland's Treasures Uncovered - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Loop - The Last Train",
+      "Arts",
+      "watched",
+      10
     ]
   ],
   "watch_counts": {
-    "Versus - The Life and Films of Ken Loach": 1,
-    "Adam Curtis: Shorts - Living in an Unreal World": 1,
-    "The Seven Ages of Man": 1,
-    "Upload Festival - WATCH: Upload Festival 2021 - The Comedy Tent": 1,
-    "Arena - The Everly Brothers Reunion Concert": 1,
-    "Blue Peter - Blue Peter: Red Nose Day Spectacular!": 1,
-    "Man Alive - Top Class People": 1,
-    "Northern Ireland Onscreen": 1,
-    "Bellator MMA - 2022: Ryan Bader vs. Valentin Moldavsky": 1,
-    "Life of a Mountain - A Year on Blencathra": 1,
-    "4 O'Clock Club": 1,
-    "Behind the Filter": 1,
-    "Panorama - Buy Now, Pay Later: The New Debt Crisis?": 1,
-    "Festival Drugs: Meet The Dealers": 1,
-    "Unbeatable": 1,
-    "Click - Short Edition - 25/09/2021": 1,
-    "Pranked by Superfan Steve - Charli XCX": 1,
-    "Thrifty Cooking in the Doctor\u2019s Kitchen": 1,
-    "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine": 1,
-    "The Perfect Morecambe & Wise": 1,
-    "New Creatives - Radio Silence": 1,
-    "Laugh Lessons": 1,
-    "NIFL Premiership Highlights - 2021/2022: 15/11/2021": 1,
-    "BBC Cardiff Singer of the World - 2021: Round 3": 1,
-    "Atlantis": 1,
-    "Dog Loves Books": 1,
-    "HARDtalk - Neil deGrasse Tyson - Director, Hayden Planetarium, New York": 1,
-    "Our World - Return of the Taliban": 1,
-    "Bargain Hunt": 1
+    "Our Black History Heroes": 1,
+    "Stacey Dooley - Hate and Pride in Orlando": 1,
+    "Lightning": 1,
+    "Omnibus - Makers of the Queen's Music": 1,
+    "A Killing in Tiger Bay": 1,
+    "Vic Galloway - The Van Ts": 1,
+    "The Late Show - Face to Face: Jeanette Winterson": 1,
+    "Countryfile - Cumbria": 1,
+    "The Fast and the Farmer-ish": 1,
+    "Avicii: True Stories": 1,
+    "Panorama - Who\u2019s Protecting Our Kids?": 1,
+    "Legends of Welsh Sport - Steve Robinson": 1,
+    "The Vicar of Dibley - Christmas Specials 2004:": 1,
+    "EastEnders 2010 - 18/12/2009": 1,
+    "The Living Dead": 1,
+    "Idiot Prayer - Nick Cave Alone at Alexandra Palace": 1,
+    "Afghanistan - Back to the Future": 1,
+    "Election 97": 1,
+    "Life on the Bay": 1,
+    "Professor Branestawm - The Incredible Adventures of Professor Branestawm": 1,
+    "Odd Squad": 1,
+    "15 Storeys High": 1,
+    "Ireland's Treasures Uncovered - Signed": 1,
+    "Loop - The Last Train": 1
   }
 }

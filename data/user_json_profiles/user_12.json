@@ -1,250 +1,206 @@
 {
   "user_preferences": {
-    "Food": 1.5,
-    "From the Archives": 0.0,
-    "Sports": 0.5,
-    "Documentaries": -0.25,
-    "Entertainment": 0.75,
-    "Signed": 0.75,
-    "Comedy": 0.5,
+    "Signed": 1.5,
+    "Documentaries": -1.25,
+    "From the Archives": 0.75,
+    "CBBC": 0.5,
+    "Comedy": 0.25,
     "Science & Nature": 0.5,
-    "Films": 0.5
+    "Films": -0.5,
+    "History": 0.0,
+    "Arts": 0.0
   },
   "user_interactions": [
     [
-      "Lon le Linda",
-      "Food",
+      "Bitesize Daily: 5-7 Year Olds - Art 6-7 Year Olds:",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Rick Stein's Seafood Odyssey",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Talking Pictures - Noel Coward",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Ireland's Rugby Number 10",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Quentin Blake \u2013 The Drawing of My Life - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 08/12/2021 - Signed",
+      "Signed",
       "liked"
     ],
     [
-      "Wogan - 25/12/1984",
+      "Artists on Film: Scenes from Working Lives",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Billionaire Boy",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "HARDtalk - Tobias Ellwood, Chair, UK Defence Select Committee",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "A Garden in Snowdonia",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Lights Up - Pale Sister",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Doctor Who - The Next Doctor",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Finding Jack Charlton",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "This Country - The Aftermath",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Coventry Cathedral: Building for a New Britain - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Louis Theroux - Selling Sex",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Waking the Dead",
       "From the Archives",
       "watched",
       25
     ],
     [
-      "The FA Cup - 2021/22: Fifth Round: Luton Town v Chelsea",
-      "Sports",
-      "liked"
-    ],
-    [
-      "Talent",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Stacey Dooley - Face to Face with Isis",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "I'm Not Driving That With Ali-A",
-      "Entertainment",
+      "Inside No. 9 - Live: Dead Line",
+      "Comedy",
       "watched",
       10
     ],
     [
-      "Molly and Mack - Songs: Come on In",
-      "Signed",
-      "liked"
+      "Man Alive - Consenting Adults 2: The Women",
+      "Documentaries",
+      "disliked"
     ],
     [
-      "Happy New Year Live! - 2022",
-      "Entertainment",
-      "watched",
-      50
-    ],
-    [
-      "This Country",
-      "Comedy",
-      "watched",
-      75
-    ],
-    [
-      "Countryfile - Highlands Rewilding",
+      "Click - 20/11/2021",
       "Science & Nature",
       "watched",
       75
     ],
     [
-      "Daydreams - Little Daydreams:",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Odd Squad: The Movie",
+      "The Fall of the Roman Empire",
       "Films",
-      "watched",
-      25
-    ],
-    [
-      "Bates Motel",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers",
-      "Signed",
-      "watched",
-      10
-    ],
-    [
-      "Arena - Chelsea Hotel",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Life at 50\u00b0C - Shorts: Iraq's Extreme Heat and Water Shortages",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Top Gear - N",
-      "Entertainment",
-      "watched",
-      25
-    ],
-    [
-      "Dementia & Us",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "Rory's Way",
-      "Films",
-      "watched",
-      50
-    ],
-    [
-      "Almost Never - Story So Far",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Waiting For Work",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Saturday Kitchen - Countdown to Christmas: 18/12/2021",
-      "Food",
-      "watched",
-      10
-    ],
-    [
-      "Scrum V - Six Nations 2022: 27/02/2022",
-      "Sports",
-      "watched",
-      50
-    ],
-    [
-      "Horizon - 2012-2013:",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Malory Towers",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "A Countryside Christmas",
-      "Food",
-      "liked"
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Apostrophes",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "The Fires that Foretold Grenfell - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "Siya Kolisi: The Journey of a Champion",
-      "Sports",
-      "disliked"
-    ],
-    [
-      "Man Alive - Marriage Under Stress 2: Breaking Point",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Hot Property",
-      "Entertainment",
-      "watched",
-      50
-    ],
-    [
-      "Almost Never - Access All Areas:",
-      "Signed",
       "skipped"
     ],
     [
-      "BBC News Special - Coronavirus Update: 29/03/2021 - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "TikTok Queen at 16",
+      "Inside Chernobyl's Mega Tomb",
       "Documentaries",
       "watched",
+      10
+    ],
+    [
+      "The Boleyns: A Scandalous Family",
+      "History",
+      "watched",
       25
     ],
     [
-      "Super League Show - 2022: 21/03/2022",
-      "Sports",
+      "Louis Theroux - Mothers on the Edge",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Dom Digs In",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Gareth Thomas: HIV and Me",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Loop - Shorts: Plastic Waste Motivated Me To Create Sustainable Furniture",
+      "Arts",
       "watched",
       25
+    ],
+    [
+      "Inside Dubai: Playground of the Rich",
+      "Documentaries",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Lon le Linda": 1,
-    "Wogan - 25/12/1984": 1,
-    "The FA Cup - 2021/22: Fifth Round: Luton Town v Chelsea": 1,
-    "Talent": 1,
-    "I'm Not Driving That With Ali-A": 1,
-    "Molly and Mack - Songs: Come on In": 1,
-    "Happy New Year Live! - 2022": 1,
-    "This Country": 1,
-    "Countryfile - Highlands Rewilding": 1,
-    "Daydreams - Little Daydreams:": 1,
-    "Odd Squad: The Movie": 1,
-    "Bates Motel": 1,
-    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers": 1,
-    "Arena - Chelsea Hotel": 1,
-    "Life at 50\u00b0C - Shorts: Iraq's Extreme Heat and Water Shortages": 1,
-    "Top Gear - N": 1,
-    "Dementia & Us": 1,
-    "Rory's Way": 1,
-    "Waiting For Work": 1,
-    "Saturday Kitchen - Countdown to Christmas: 18/12/2021": 1,
-    "Scrum V - Six Nations 2022: 27/02/2022": 1,
-    "Horizon - 2012-2013:": 1,
-    "Malory Towers": 1,
-    "A Countryside Christmas": 1,
-    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Apostrophes": 1,
-    "The Fires that Foretold Grenfell - Signed": 1,
-    "Man Alive - Marriage Under Stress 2: Breaking Point": 1,
-    "Hot Property": 1,
-    "BBC News Special - Coronavirus Update: 29/03/2021 - Signed": 1,
-    "TikTok Queen at 16": 1,
-    "Super League Show - 2022: 21/03/2022": 1
+    "Bitesize Daily: 5-7 Year Olds - Art 6-7 Year Olds:": 1,
+    "Talking Pictures - Noel Coward": 1,
+    "Ireland's Rugby Number 10": 1,
+    "Quentin Blake \u2013 The Drawing of My Life - Signed": 1,
+    "BBC News Special - Coronavirus Update: 08/12/2021 - Signed": 1,
+    "Artists on Film: Scenes from Working Lives": 1,
+    "Billionaire Boy": 1,
+    "HARDtalk - Tobias Ellwood, Chair, UK Defence Select Committee": 1,
+    "A Garden in Snowdonia": 1,
+    "Doctor Who - The Next Doctor": 1,
+    "Finding Jack Charlton": 1,
+    "This Country - The Aftermath": 1,
+    "Coventry Cathedral: Building for a New Britain - Signed": 1,
+    "Louis Theroux - Selling Sex": 1,
+    "Bitesize Daily: 5-7 Year Olds - Science 5-6 Year-Olds:": 1,
+    "Waking the Dead": 1,
+    "Inside No. 9 - Live: Dead Line": 1,
+    "Click - 20/11/2021": 1,
+    "Inside Chernobyl's Mega Tomb": 1,
+    "The Boleyns: A Scandalous Family": 1,
+    "Louis Theroux - Mothers on the Edge": 1,
+    "Gareth Thomas: HIV and Me": 1,
+    "Loop - Shorts: Plastic Waste Motivated Me To Create Sustainable Furniture": 1
   }
 }

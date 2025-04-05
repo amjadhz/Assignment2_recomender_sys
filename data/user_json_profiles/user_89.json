@@ -1,241 +1,204 @@
 {
   "user_preferences": {
-    "Signed": 1.25,
-    "Entertainment": 1.5,
+    "Signed": -0.75,
+    "Entertainment": -1.0,
     "Documentaries": 1.5,
-    "From the Archives": 1.5,
-    "Sports": 0.0,
-    "Comedy": 1.0,
-    "Films": 1.0,
-    "Arts": -0.25,
-    "Science & Nature": 0.0
+    "From the Archives": 0.5,
+    "Sports": 0.5,
+    "Comedy": -0.5,
+    "Music": -0.5,
+    "Food": 1.0,
+    "Films": 0.25
   },
   "user_interactions": [
     [
-      "The Baby Club - Songs: The Grand Old Duke of York",
+      "Andy and the Band",
       "Signed",
-      "watched",
-      10
-    ],
-    [
-      "Tudur's TV Flashback",
-      "Entertainment",
-      "watched",
-      30
-    ],
-    [
-      "Inside Out: Ticking With the Crow/The Officers' Mess",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Louis Theroux - Life on the Edge:",
-      "Documentaries",
       "skipped"
     ],
     [
-      "2 Point 4 Children - Two Years Before the Mast",
-      "From the Archives",
-      "liked"
+      "Scotland's People - 2021",
+      "Entertainment",
+      "watched",
+      25
     ],
     [
-      "Ulster Rugby - United Rugby Championship: Ulster v Cardiff",
+      "Our World - Barbados: Road to a R",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bodies - Finale",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "NIFL Premiership Highlights - 2021/2022: 20/09/2021",
       "Sports",
       "watched",
+      50
+    ],
+    [
+      "Louis Theroux - Mothers on the Edge",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Late Night Line-Up - 16/10/1965",
+      "Entertainment",
+      "watched",
       25
     ],
     [
-      "Prince Philip: The Royal Family Remembers",
-      "Documentaries",
-      "disliked"
+      "Shrill",
+      "Comedy",
+      "skipped"
     ],
     [
-      "A Passion For Churches",
+      "Hey Duggee - Top of the Pups: Hey Duggee\u2019s Valentine\u2019s Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Slipknot Unmasked: All Out Life",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "The Vicar of Dibley - Christmas Specials 2004:",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Music 7-8 Year Olds:",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "George Best: All by Himself",
       "Documentaries",
       "watched",
-      75
+      10
     ],
     [
-      "Comedy Shorts - Lazy Susan",
-      "Comedy",
+      "Parkinson at 50",
+      "Entertainment",
+      "skipped"
+    ],
+    [
+      "St Patrick's Day at the BBC",
+      "Music",
+      "watched",
+      10
+    ],
+    [
+      "The Sky at Night - Unveiling Titan",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Area",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Further Back in Time for Dinner",
+      "Food",
       "liked"
     ],
     [
-      "Hey Duggee - Top of the Pups: Dinosaur Song",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Bitesize Daily: 9-11 Year Olds - Wellbeing: Well-being - Sle",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Lady Macbeth",
+      "Everything, Everything",
       "Films",
-      "liked"
+      "watched",
+      10
     ],
     [
-      "Storyville - The Rise and Fall of a Porn Superstar",
+      "20th Century Women",
+      "Films",
+      "watched",
+      50
+    ],
+    [
+      "Bridget Riley - Painting the Line",
       "Documentaries",
       "watched",
-      75
+      50
     ],
     [
-      "Film Profile - Dirk Bogarde",
-      "From the Archives",
+      "Arena - The Everly Brothers Reunion Concert",
+      "Documentaries",
       "disliked"
     ],
     [
-      "Film Profile - Michael Balcon",
-      "From the Archives",
-      "watched",
-      10
-    ],
-    [
-      "Rigs of Nigg",
+      "Radio 1 Stories - Broken Heart Beats",
       "Documentaries",
-      "watched",
-      25
+      "liked"
     ],
     [
-      "Hey Duggee - Top of the Pups: Twelve Days of Christmas",
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Homophones",
       "Signed",
-      "watched",
-      75
+      "skipped"
     ],
     [
-      "Panorama - Delivering Christmas: What\u2019s in Store?",
-      "Documentaries",
+      "More Dawn French's Boys Who Do: Comedy",
+      "From the Archives",
       "watched",
       50
     ],
     [
-      "Romesh: Talking to Comedians - In Caffs About Growing Up",
-      "Comedy",
-      "watched",
-      25
+      "Unpopular Opinion - Will Smith",
+      "Entertainment",
+      "skipped"
     ],
     [
-      "Love and Hate Crime",
+      "This World - Terror at the Mall",
       "Documentaries",
       "watched",
       75
     ],
     [
-      "Tagged - Women on Tag:",
+      "Ethiopia: Caught in the Crossfire",
       "Documentaries",
       "watched",
       50
     ],
     [
-      "Stacey Dooley Investigates - Sex in Strange Places:",
+      "Omnibus - Patricia Cornwell: Stalking the Ripper",
       "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "100 Women in Conversation: Chimamanda Ngozi Adichie",
-      "Arts",
       "watched",
       10
-    ],
-    [
-      "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Inspector Montalbano - The Scent of the Night",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "Finding Jack Charlton",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Angels of the North",
-      "Entertainment",
-      "watched",
-      95
-    ],
-    [
-      "Our Girl - Pilot",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Just Boys",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Kurupting the Industry: The People Just Do Nothing Story",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Deadstock: Ultimate Resellers",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "The Great Railway Cavalcade: Rocket 150 at Rainhill",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "Click - Short Edition - 30/10/2021",
-      "Science & Nature",
-      "watched",
-      25
-    ],
-    [
-      "Caitlyn Jenner: Honesty",
-      "Entertainment",
-      "watched",
-      90
     ]
   ],
   "watch_counts": {
-    "The Baby Club - Songs: The Grand Old Duke of York": 1,
-    "Tudur's TV Flashback": 1,
-    "Inside Out: Ticking With the Crow/The Officers' Mess": 1,
-    "2 Point 4 Children - Two Years Before the Mast": 1,
-    "Ulster Rugby - United Rugby Championship: Ulster v Cardiff": 1,
-    "A Passion For Churches": 1,
-    "Comedy Shorts - Lazy Susan": 1,
-    "Hey Duggee - Top of the Pups: Dinosaur Song": 1,
-    "Bitesize Daily: 9-11 Year Olds - Wellbeing: Well-being - Sle": 1,
-    "Lady Macbeth": 1,
-    "Storyville - The Rise and Fall of a Porn Superstar": 1,
-    "Film Profile - Michael Balcon": 1,
-    "Rigs of Nigg": 1,
-    "Hey Duggee - Top of the Pups: Twelve Days of Christmas": 1,
-    "Panorama - Delivering Christmas: What\u2019s in Store?": 1,
-    "Romesh: Talking to Comedians - In Caffs About Growing Up": 1,
-    "Love and Hate Crime": 1,
-    "Tagged - Women on Tag:": 1,
-    "Stacey Dooley Investigates - Sex in Strange Places:": 1,
-    "100 Women in Conversation: Chimamanda Ngozi Adichie": 1,
-    "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed": 1,
-    "Inspector Montalbano - The Scent of the Night": 1,
-    "Finding Jack Charlton": 1,
-    "Angels of the North": 1,
-    "Our Girl - Pilot": 1,
-    "Just Boys": 1,
-    "Kurupting the Industry: The People Just Do Nothing Story": 1,
-    "Deadstock: Ultimate Resellers": 1,
-    "The Great Railway Cavalcade: Rocket 150 at Rainhill": 1,
-    "Click - Short Edition - 30/10/2021": 1,
-    "Caitlyn Jenner: Honesty": 1
+    "Scotland's People - 2021": 1,
+    "Our World - Barbados: Road to a R": 1,
+    "Bodies - Finale": 1,
+    "NIFL Premiership Highlights - 2021/2022: 20/09/2021": 1,
+    "Louis Theroux - Mothers on the Edge": 1,
+    "Late Night Line-Up - 16/10/1965": 1,
+    "Hey Duggee - Top of the Pups: Hey Duggee\u2019s Valentine\u2019s Song": 1,
+    "Slipknot Unmasked: All Out Life": 1,
+    "Bitesize Daily: 7-9 Year Olds - Music 7-8 Year Olds:": 1,
+    "George Best: All by Himself": 1,
+    "St Patrick's Day at the BBC": 1,
+    "The Sky at Night - Unveiling Titan": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Area": 1,
+    "Further Back in Time for Dinner": 1,
+    "Everything, Everything": 1,
+    "20th Century Women": 1,
+    "Bridget Riley - Painting the Line": 1,
+    "Radio 1 Stories - Broken Heart Beats": 1,
+    "More Dawn French's Boys Who Do: Comedy": 1,
+    "This World - Terror at the Mall": 1,
+    "Ethiopia: Caught in the Crossfire": 1,
+    "Omnibus - Patricia Cornwell: Stalking the Ripper": 1
   }
 }

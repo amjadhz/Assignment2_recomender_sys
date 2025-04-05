@@ -1,215 +1,185 @@
 {
   "user_preferences": {
+    "Music": 0.0,
+    "Entertainment": 1.5,
     "Documentaries": 1.5,
-    "Signed": 1.5,
-    "Science & Nature": 0.0,
-    "Entertainment": 1.0,
-    "From the Archives": 0.0,
-    "Sports": 0.5,
-    "Films": -0.25
+    "Science & Nature": -0.25,
+    "Signed": 0.25,
+    "Food": 0.25,
+    "Comedy": 0.0,
+    "From the Archives": -0.25,
+    "CBBC": -0.5,
+    "Sports": 1.0,
+    "Films": -1.0
   },
   "user_interactions": [
     [
-      "Amazing Hotels: Life Beyond the Lobby",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Panorama - Hunting the Social Media Fraudsters",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Frank Skinner on Muhammad Ali",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Cristiano Ronaldo: Impossible to Ignore",
-      "Documentaries",
+      "The Live Lounge Show - BTS @ Radio 1",
+      "Music",
       "skipped"
     ],
     [
-      "The People v Climate Change",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Hundreds, Tens and Ones",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Bitesize Daily: 5-7 Year Olds - English: Reading to Infer",
-      "Signed",
-      "liked"
-    ],
-    [
-      "Dynasties - Meerkat: A Dynasties Special - Signed",
-      "Signed",
+      "Best Home Cook",
+      "Entertainment",
       "watched",
       10
     ],
     [
-      "Blue Planet II",
+      "The Birth of British Music",
       "Documentaries",
-      "disliked"
+      "liked"
     ],
     [
-      "Panorama - The Great British Staycation? - Signed",
-      "Signed",
-      "watched",
-      50
+      "Unpopular Opinion - Justin Timberlake and Anna Kendrick",
+      "Entertainment",
+      "liked"
     ],
     [
-      "Modern Times - The Way of All Flesh",
+      "Elizabeth & Philip: Love and Duty",
       "Documentaries",
-      "watched",
-      10
+      "liked"
     ],
     [
-      "Danny and Mick",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Barra on the Foyle",
+      "Countryfile - Bromyard Hops",
       "Science & Nature",
       "watched",
-      25
+      10
     ],
     [
-      "The Grand",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "BBC Wales Investigates - Trapped Underground: The Gleision Mine Disaster",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Playground Insults - Will Smith & Margot Robbie",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "Origins: Hunting the Source of Covid-19",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Countryfile - Wild Britain - Signed",
-      "Signed",
-      "skipped"
-    ],
-    [
-      "Movies With Ali Plumb - Edgar Wright: Movies That Made Me",
-      "Entertainment",
-      "skipped"
-    ],
-    [
-      "Hey Duggee - Top of the Pups: The Omelette Song",
+      "Andy and the Band - Songs: We're All Together at Christmas Time",
       "Signed",
       "watched",
       10
     ],
     [
-      "Buried Treasure - The Walls of Jericho",
-      "From the Archives",
-      "skipped"
-    ],
-    [
-      "Bellator MMA - 2021: Bellator 272: Main event & Prelims",
-      "Sports",
+      "@Radio1 - @Radio1: Miley Cyrus",
+      "Music",
       "watched",
       50
     ],
     [
-      "Culture in Quarantine - Aisle",
-      "Signed",
-      "disliked"
+      "Suzie Lee: Home Cook Hero - Shorts: Chocolate Tart",
+      "Food",
+      "watched",
+      75
     ],
     [
-      "Lindisfarne\u2019s Geordie Genius: The Alan Hull Story",
+      "Scot Squad",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "EastEnders 2010 - 06/11/2009",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Inspector Montalbano - The Shape of Water",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Kids Ask Difficult Questions - Tom Holland",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Mimi and Co",
+      "CBBC",
+      "skipped"
+    ],
+    [
+      "Eggheads",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Life at 50\u00b0C - Shorts: Life at 50\u00b0C: The Town That Burnt Down In A Day",
       "Documentaries",
       "watched",
       75
     ],
     [
-      "The Gangster, the Cop, the Devil",
-      "Films",
+      "The Women's Football Show - 2021/22: 13/03/2022",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Horizon - 2012-2013:",
+      "Documentaries",
       "watched",
       10
     ],
     [
-      "We Are England - Made in England: Make Mine a 99 - Crewe",
+      "Up Periscope",
+      "Films",
+      "disliked"
+    ],
+    [
+      "We Are England - The Night Shift: Our Bin Lorry Life - Peterborough",
       "Documentaries",
       "watched",
       25
     ],
     [
-      "The Apprentice: You're Fired",
-      "Entertainment",
-      "watched",
-      50
-    ],
-    [
-      "Countryfile - Christmas Traditions - Signed",
+      "Hey Duggee - Top of the Pups: Five Speckled Frogs",
       "Signed",
-      "liked"
+      "skipped"
     ],
     [
-      "Yes, Prime Minister",
-      "From the Archives",
+      "Great British Menu",
+      "Food",
       "watched",
-      50
+      10
     ],
     [
-      "HARDtalk - Isabel Allende - Writer",
-      "From the Archives",
+      "Scottish Women's Premier League - 2021/22:",
+      "Sports",
       "watched",
       25
     ],
     [
-      "Bitesize Daily: 5-7 Year Olds - English: English - Reading to Understand",
+      "The People Detective",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "The Pets Factor",
       "Signed",
+      "liked"
+    ],
+    [
+      "Taste - Chinese Whispers",
+      "From the Archives",
       "watched",
       25
     ]
   ],
   "watch_counts": {
-    "Amazing Hotels: Life Beyond the Lobby": 1,
-    "Panorama - Hunting the Social Media Fraudsters": 1,
-    "Frank Skinner on Muhammad Ali": 1,
-    "The People v Climate Change": 1,
-    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: Maths - Hundreds, Tens and Ones": 1,
-    "Bitesize Daily: 5-7 Year Olds - English: Reading to Infer": 1,
-    "Dynasties - Meerkat: A Dynasties Special - Signed": 1,
-    "Panorama - The Great British Staycation? - Signed": 1,
-    "Modern Times - The Way of All Flesh": 1,
-    "Danny and Mick": 1,
-    "Barra on the Foyle": 1,
-    "The Grand": 1,
-    "BBC Wales Investigates - Trapped Underground: The Gleision Mine Disaster": 1,
-    "Playground Insults - Will Smith & Margot Robbie": 1,
-    "Origins: Hunting the Source of Covid-19": 1,
-    "Hey Duggee - Top of the Pups: The Omelette Song": 1,
-    "Bellator MMA - 2021: Bellator 272: Main event & Prelims": 1,
-    "Lindisfarne\u2019s Geordie Genius: The Alan Hull Story": 1,
-    "The Gangster, the Cop, the Devil": 1,
-    "We Are England - Made in England: Make Mine a 99 - Crewe": 1,
-    "The Apprentice: You're Fired": 1,
-    "Countryfile - Christmas Traditions - Signed": 1,
-    "Yes, Prime Minister": 1,
-    "HARDtalk - Isabel Allende - Writer": 1,
-    "Bitesize Daily: 5-7 Year Olds - English: English - Reading to Understand": 1
+    "Best Home Cook": 1,
+    "The Birth of British Music": 1,
+    "Unpopular Opinion - Justin Timberlake and Anna Kendrick": 1,
+    "Elizabeth & Philip: Love and Duty": 1,
+    "Countryfile - Bromyard Hops": 1,
+    "Andy and the Band - Songs: We're All Together at Christmas Time": 1,
+    "@Radio1 - @Radio1: Miley Cyrus": 1,
+    "Suzie Lee: Home Cook Hero - Shorts: Chocolate Tart": 1,
+    "Scot Squad": 1,
+    "EastEnders 2010 - 06/11/2009": 1,
+    "Inspector Montalbano - The Shape of Water": 1,
+    "Kids Ask Difficult Questions - Tom Holland": 1,
+    "Eggheads": 1,
+    "Life at 50\u00b0C - Shorts: Life at 50\u00b0C: The Town That Burnt Down In A Day": 1,
+    "The Women's Football Show - 2021/22: 13/03/2022": 1,
+    "Horizon - 2012-2013:": 1,
+    "We Are England - The Night Shift: Our Bin Lorry Life - Peterborough": 1,
+    "Great British Menu": 1,
+    "Scottish Women's Premier League - 2021/22:": 1,
+    "The Pets Factor": 1,
+    "Taste - Chinese Whispers": 1
   }
 }

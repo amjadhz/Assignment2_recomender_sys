@@ -1,196 +1,208 @@
 {
   "user_preferences": {
+    "From the Archives": -0.5,
+    "Films": -0.75,
+    "Documentaries": 0.25,
+    "Signed": 0.0,
+    "CBBC": 0.5,
     "Entertainment": 0.5,
-    "Signed": -1.25,
-    "From the Archives": -0.25,
-    "Music": -0.5,
-    "Films": 0.5,
-    "Arts": 0.5,
-    "Documentaries": 1.5,
-    "Comedy": -0.5
+    "Food": -0.25,
+    "Music": 0.5,
+    "Science & Nature": -1.0
   },
   "user_interactions": [
     [
-      "Movies With Ali Plumb - The Story So Far: Peter Dinklage",
-      "Entertainment",
+      "Buried Treasure - The Walls of Jericho",
+      "From the Archives",
       "watched",
-      25
+      10
     ],
     [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers",
+      "The Gay Divorce",
+      "Films",
+      "watched",
+      10
+    ],
+    [
+      "Cr\u00edochdheighilt:",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Maths: 1",
       "Signed",
       "watched",
       25
     ],
     [
-      "A Woman's Place?",
-      "From the Archives",
+      "Our CBBC",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "Horizon - 2012-2013:",
+      "Documentaries",
       "watched",
       25
     ],
     [
-      "Pavarotti",
-      "Music",
-      "disliked"
+      "BBC News Special - Coronavirus Update: 19/01/2022",
+      "Signed",
+      "skipped"
     ],
     [
-      "Citizen Kane",
+      "Is Uni Racist?",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Tuesday Documentary - Barry Norman in Celebrity City",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Panorama - Putin\u2019s War in Ukraine",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Railway Man",
       "Films",
+      "skipped"
+    ],
+    [
+      "Katie Price: Harvey and Me - Signed",
+      "Signed",
       "watched",
       75
     ],
     [
-      "Bitesize Daily: 7-9 Year Olds - English: Reading Aloud/Performing",
+      "Love Monster",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The Rapper Who Chopped His Penis Off",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Countryfile - Compton Verney - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Countryfile - Manifold Valley Agricultural Show - Signed",
+      "Signed",
+      "disliked"
+    ],
+    [
+      "Subnormal: A British Scandal - Signed",
       "Signed",
       "watched",
       10
     ],
     [
-      "Loop - Art for a Sustainable Future",
-      "Arts",
+      "Countryfile - High Weald - Signed",
+      "Signed",
       "watched",
-      75
+      50
     ],
     [
-      "Canny Cops",
+      "Louis Theroux - Surviving America's Most Hated Family",
       "Documentaries",
       "watched",
-      75
+      50
     ],
     [
-      "Quiz Ball - 22/12/1966",
+      "Eurovision Song Contest - 2021: Grand Final",
       "Entertainment",
       "watched",
       50
     ],
     [
-      "Roman Kemp: Our Silent Emergency",
-      "Documentaries",
-      "disliked"
-    ],
-    [
-      "The Cruise",
-      "Documentaries",
+      "4 O'Clock Club",
+      "Signed",
       "watched",
-      75
+      10
     ],
     [
-      "Katie Price: Harvey and Me",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "BBC Music Introducing - The BME Sessions: Jordan Mackampa - Warning Signs",
-      "Music",
+      "Rick Stein's Far Eastern Odyssey",
+      "Food",
       "watched",
-      25
+      10
     ],
     [
-      "Arena - Chelsea Hotel",
+      "Forces of Nature with Brian Cox",
       "Documentaries",
       "watched",
       25
     ],
     [
-      "Porridge - Christmas Special: The Desperate Hours",
+      "EastEnders 2010 - 04/12/2009",
       "From the Archives",
       "watched",
       25
     ],
     [
-      "We Are England - Mental Health: Veterans Road to Recovery\u202f\u2013 Manchester",
+      "Amazing Hotels: Life Beyond the Lobby",
       "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Celebrity Best Home Cook",
-      "Entertainment",
-      "watched",
-      25
-    ],
-    [
-      "Panorama - Dirty Secrets of the Cigarette Business - Signed",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "The Black American Fight for Freedom - Signed",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Comedy Threesomes - Oi, Pussy!:",
-      "Comedy",
       "skipped"
     ],
     [
-      "The Unwanted: The Secret Windrush Files - Signed",
-      "Signed",
+      "Arlo Parks: A Popstar in a Pandemic",
+      "Music",
       "watched",
-      25
+      50
     ],
     [
-      "Vivacious Lady",
+      "Kate Nash: Underestimate the Girl",
       "Films",
       "watched",
       25
     ],
     [
-      "Ceili\u00faradh Na F\u00e9ile P\u00e1draig - 2022",
-      "Music",
-      "watched",
-      25
+      "Countryfile - Snowdonia",
+      "Science & Nature",
+      "disliked"
     ],
     [
-      "America's Child Brides",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "BBC Proms - 2021: Chineke! with Jeneba Kanneh-Mason",
+      "John Buchan: Master of Suspense",
       "From the Archives",
       "watched",
       10
-    ],
-    [
-      "TUNE - Shorts: The Ninth Wave: Howlin' to the Wind",
-      "Music",
-      "watched",
-      75
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Geography 7-8 Year Olds:",
-      "Signed",
-      "disliked"
     ]
   ],
   "watch_counts": {
-    "Movies With Ali Plumb - The Story So Far: Peter Dinklage": 1,
-    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Add Three One-Digit Numbers": 1,
-    "A Woman's Place?": 1,
-    "Citizen Kane": 1,
-    "Bitesize Daily: 7-9 Year Olds - English: Reading Aloud/Performing": 1,
-    "Loop - Art for a Sustainable Future": 1,
-    "Canny Cops": 1,
-    "Quiz Ball - 22/12/1966": 1,
-    "The Cruise": 1,
-    "Katie Price: Harvey and Me": 1,
-    "BBC Music Introducing - The BME Sessions: Jordan Mackampa - Warning Signs": 1,
-    "Arena - Chelsea Hotel": 1,
-    "Porridge - Christmas Special: The Desperate Hours": 1,
-    "We Are England - Mental Health: Veterans Road to Recovery\u202f\u2013 Manchester": 1,
-    "Celebrity Best Home Cook": 1,
-    "Panorama - Dirty Secrets of the Cigarette Business - Signed": 1,
-    "The Black American Fight for Freedom - Signed": 1,
-    "The Unwanted: The Secret Windrush Files - Signed": 1,
-    "Vivacious Lady": 1,
-    "Ceili\u00faradh Na F\u00e9ile P\u00e1draig - 2022": 1,
-    "America's Child Brides": 1,
-    "BBC Proms - 2021: Chineke! with Jeneba Kanneh-Mason": 1,
-    "TUNE - Shorts: The Ninth Wave: Howlin' to the Wind": 1
+    "Buried Treasure - The Walls of Jericho": 1,
+    "The Gay Divorce": 1,
+    "Cr\u00edochdheighilt:": 1,
+    "Bitesize Daily: 7-9 Year Olds - Maths: 1": 1,
+    "Our CBBC": 1,
+    "Horizon - 2012-2013:": 1,
+    "Is Uni Racist?": 1,
+    "Tuesday Documentary - Barry Norman in Celebrity City": 1,
+    "Panorama - Putin\u2019s War in Ukraine": 1,
+    "Katie Price: Harvey and Me - Signed": 1,
+    "Love Monster": 1,
+    "Countryfile - Compton Verney - Signed": 1,
+    "Subnormal: A British Scandal - Signed": 1,
+    "Countryfile - High Weald - Signed": 1,
+    "Louis Theroux - Surviving America's Most Hated Family": 1,
+    "Eurovision Song Contest - 2021: Grand Final": 1,
+    "4 O'Clock Club": 1,
+    "Rick Stein's Far Eastern Odyssey": 1,
+    "Forces of Nature with Brian Cox": 1,
+    "EastEnders 2010 - 04/12/2009": 1,
+    "Arlo Parks: A Popstar in a Pandemic": 1,
+    "Kate Nash: Underestimate the Girl": 1,
+    "John Buchan: Master of Suspense": 1
   }
 }

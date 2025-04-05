@@ -1,180 +1,200 @@
 {
   "user_preferences": {
-    "Science & Nature": -1.0,
-    "Documentaries": 1.0,
-    "Music": 0.5,
-    "Signed": 1.5,
-    "Food": 0.25,
+    "Science & Nature": 0.5,
+    "Documentaries": -1.25,
+    "Signed": 0.0,
+    "Entertainment": 1.5,
     "Comedy": 0.5,
-    "From the Archives": 1.5,
-    "CBBC": -0.5,
-    "Entertainment": 0.5,
-    "Arts": 0.0
+    "Sports": 0.0,
+    "From the Archives": -1.25,
+    "Music": 0.0
   },
   "user_interactions": [
     [
-      "Click - Short Edition - 11/09/2021",
+      "Climate Change - The Facts",
       "Science & Nature",
-      "disliked"
-    ],
-    [
-      "Nature's Weirdest Events",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Freddie Mercury: The Final Act",
-      "Music",
-      "liked"
-    ],
-    [
-      "Grace's Amazing Machines",
-      "Signed",
-      "liked"
-    ],
-    [
-      "Saturday Kitchen - Countdown to Christmas: 04/12/2021",
-      "Food",
       "watched",
       50
     ],
     [
-      "Britney",
+      "Panorama - Afghanistan: Life under the Taliban",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Amol Rajan Interviews - Ian McKellen",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Unpopular Opinion - Elton John & Dua Lipa",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 08/12/2021 - Signed",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Disclosure - Should I Delete Instagram?",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Wellbeing: Thinking Positively",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Chronicle - The Roman Goose March: The Holy Sailors",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Wild Gardener",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "We Are England - Farming England: When the Boats Come In - Falmouth",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Countryfile - The Cairngorms - Signed",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Bravo Two Charlies",
       "Comedy",
       "watched",
       75
     ],
     [
-      "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "Ready Steady Cook",
-      "Food",
-      "watched",
-      10
-    ],
-    [
-      "Question Time - 2021: 10/06/2021 - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "Nova Jones - Songs: Troll Me",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "Inside the Secret World of Incels",
+      "Louis Theroux - Twilight of the Porn Stars",
       "Documentaries",
       "watched",
-      50
-    ],
-    [
-      "Princess Mirror-Belle",
-      "CBBC",
-      "skipped"
-    ],
-    [
-      "Climate Tales - The Final",
-      "Science & Nature",
-      "watched",
-      25
-    ],
-    [
-      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Teacher Talks: Maths - Averages: The Mean",
-      "Signed",
-      "liked"
-    ],
-    [
-      "HARDtalk - Jamie Raskin \u2013 Democrat Congressman, House Committee to Investigate January 6th Attack",
-      "From the Archives",
-      "watched",
       10
     ],
     [
-      "Atlantis",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "A Comic Relief Pantomime for Christmas - Beauty and the Beast",
+      "Ken Bruce - Best of Radio 2's Piano Room",
       "Entertainment",
-      "watched",
-      50
+      "liked"
     ],
     [
-      "Whitney at the BBC",
+      "We Are England - A Place Called Home: Van Life - Bristol",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Scottish Women's Premier League 2021-22 - Glasgow City v",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Louis Theroux - Selling Sex",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Sky at Night - Dark Skies",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Bellator MMA - 2021: Vadim Nemkov vs. Julius Anglickas",
+      "Sports",
+      "disliked"
+    ],
+    [
+      "Porridge",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Trad Ar Fad!",
       "Music",
-      "skipped"
+      "watched",
+      25
     ],
     [
-      "Racism in the Ranks",
+      "The Live Lounge Show - BTS @ Radio 1",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "God Shave the Queens",
+      "Entertainment",
+      "liked"
+    ],
+    [
+      "Worzel Gummidge",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Arena - Agatha Christie - Unfinished Portrait",
       "Documentaries",
-      "watched",
-      50
+      "liked"
     ],
     [
-      "The Late Show - Face to Face: Ken Dodd",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Inspector Montalbano - The Sense of Touch",
-      "From the Archives",
-      "watched",
-      50
-    ],
-    [
-      "New Creatives - It\u2019s Raining, It\u2019s Pouring",
-      "Arts",
+      "Bitesize Daily: 9-11 Year Olds - Wellbeing: Relationships and Connections - Signed",
+      "Signed",
       "watched",
       25
     ],
     [
-      "Groundbreakers - Rebel Heart - The Life of Mary Ann McCracken",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "The Killing",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Amol Rajan Interviews - Sundar Pichai - Signed",
+      "Bitesize Daily: 7-9 Year Olds - Science 7-8 Year-Olds: Flowering Plants",
       "Signed",
       "skipped"
+    ],
+    [
+      "Limmy's Show",
+      "From the Archives",
+      "watched",
+      10
+    ],
+    [
+      "Lights Up - J'Ouvert",
+      "Signed",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Nature's Weirdest Events": 1,
-    "Freddie Mercury: The Final Act": 1,
-    "Grace's Amazing Machines": 1,
-    "Saturday Kitchen - Countdown to Christmas: 04/12/2021": 1,
-    "Britney": 1,
-    "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era": 1,
-    "Ready Steady Cook": 1,
-    "Question Time - 2021: 10/06/2021 - Signed": 1,
-    "Nova Jones - Songs: Troll Me": 1,
-    "Inside the Secret World of Incels": 1,
-    "Climate Tales - The Final": 1,
-    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Teacher Talks: Maths - Averages: The Mean": 1,
-    "HARDtalk - Jamie Raskin \u2013 Democrat Congressman, House Committee to Investigate January 6th Attack": 1,
-    "Atlantis": 1,
-    "A Comic Relief Pantomime for Christmas - Beauty and the Beast": 1,
-    "Racism in the Ranks": 1,
-    "The Late Show - Face to Face: Ken Dodd": 1,
-    "Inspector Montalbano - The Sense of Touch": 1,
-    "New Creatives - It\u2019s Raining, It\u2019s Pouring": 1,
-    "Groundbreakers - Rebel Heart - The Life of Mary Ann McCracken": 1,
-    "The Killing": 1
+    "Climate Change - The Facts": 1,
+    "Panorama - Afghanistan: Life under the Taliban": 1,
+    "Amol Rajan Interviews - Ian McKellen": 1,
+    "Unpopular Opinion - Elton John & Dua Lipa": 1,
+    "Disclosure - Should I Delete Instagram?": 1,
+    "Bitesize Daily: 9-11 Year Olds - Wellbeing: Thinking Positively": 1,
+    "Chronicle - The Roman Goose March: The Holy Sailors": 1,
+    "Countryfile - The Cairngorms - Signed": 1,
+    "Bravo Two Charlies": 1,
+    "Louis Theroux - Twilight of the Porn Stars": 1,
+    "Ken Bruce - Best of Radio 2's Piano Room": 1,
+    "We Are England - A Place Called Home: Van Life - Bristol": 1,
+    "Scottish Women's Premier League 2021-22 - Glasgow City v": 1,
+    "Louis Theroux - Selling Sex": 1,
+    "Trad Ar Fad!": 1,
+    "The Live Lounge Show - BTS @ Radio 1": 1,
+    "God Shave the Queens": 1,
+    "Worzel Gummidge": 1,
+    "Arena - Agatha Christie - Unfinished Portrait": 1,
+    "Bitesize Daily: 9-11 Year Olds - Wellbeing: Relationships and Connections - Signed": 1,
+    "Limmy's Show": 1,
+    "Lights Up - J'Ouvert": 1
   }
 }

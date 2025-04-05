@@ -1,189 +1,175 @@
 {
   "user_preferences": {
+    "Comedy": 0.0,
+    "Signed": 0.75,
     "Documentaries": 1.5,
-    "Arts": -0.25,
-    "Signed": 1.5,
-    "Science & Nature": -0.25,
-    "Films": 1.5,
-    "Entertainment": 0.5,
-    "From the Archives": 1.5,
-    "Music": 0.0,
-    "Sports": 0.5,
-    "Comedy": -0.5,
-    "History": 1.0,
-    "CBBC": -1.0
+    "Entertainment": 0.0,
+    "Music": -1.25,
+    "Films": -0.5,
+    "Sports": 1.0,
+    "From the Archives": -0.25
   },
   "user_interactions": [
     [
-      "Da Vinci: The Lost Treasure",
-      "Documentaries",
+      "Starstruck",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "GiggleQuiz",
+      "Signed",
       "watched",
       75
     ],
     [
-      "New Creatives - Black Fish",
-      "Arts",
-      "watched",
-      10
-    ],
-    [
-      "Danger Mouse",
-      "Signed",
+      "Our Cops in the North",
+      "Documentaries",
       "watched",
       50
     ],
     [
-      "Dhan Uisge",
-      "Science & Nature",
-      "watched",
-      10
-    ],
-    [
-      "Bitesize Daily: 9-11 Year Olds - Maths: Negative Numbers - Signed",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "The Miracle of the Bells",
-      "Films",
-      "watched",
-      50
-    ],
-    [
-      "Susan Calman's Happy Space",
+      "Ken Bruce - Best of Radio 2's Piano Room",
       "Entertainment",
-      "watched",
-      50
+      "liked"
     ],
     [
-      "HARDtalk - Oleksii Reznikov - Ukraine's Defence Minister",
-      "From the Archives",
-      "watched",
-      50
-    ],
-    [
-      "The Live Lounge Show - BTS @ Radio 1",
+      "Top of the Pops - 1992 Biggest Hits",
       "Music",
       "watched",
-      25
-    ],
-    [
-      "Andy Warhol's America",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Legends of Welsh Sport - Steve Robinson",
-      "Sports",
-      "watched",
-      50
-    ],
-    [
-      "HEIST",
-      "Comedy",
-      "skipped"
-    ],
-    [
-      "BBC Wales Investigates - Mayhill Riot",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "The Young Offenders film",
-      "Films",
-      "watched",
-      50
-    ],
-    [
-      "Chicken Man",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Battlefield Britain - Hastings",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Loop - Shorts:",
-      "Arts",
-      "watched",
-      25
-    ],
-    [
-      "Different League: The Derry City Story - Signed",
-      "Signed",
-      "liked"
-    ],
-    [
-      "Prime Properties - The Duke of Wellington",
-      "History",
-      "liked"
-    ],
-    [
-      "Pulling",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "Six Nations Rugby - 2022: Third Weekend Special",
-      "Sports",
-      "watched",
-      25
-    ],
-    [
-      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Counting in 50s",
-      "Signed",
-      "watched",
       10
     ],
     [
-      "Class Dismissed",
-      "CBBC",
+      "Mortimer & Whitehouse: Gone Fishing",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Our World - The Battle for the South China Sea",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Pranked by Superfan Steve - Charli XCX",
+      "Entertainment",
       "disliked"
     ],
     [
-      "My Friend from a Care Home",
+      "BBC News Special - Coronavirus Update: 05/04/2021 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley - Inside the Convent",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Mr Blandings Builds His Dream House",
+      "Films",
+      "watched",
+      25
+    ],
+    [
+      "Louis Theroux - Altered States:",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Gemma: My Murder",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The FA Cup - 2021/22: Quarter-Final Highlights",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing: Thinking Positively",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Earth's Great Rivers II",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Stacey Dooley Investigates - Shot by My Neighbour",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Best Of British - Barbara Windsor",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Empire of the Tsars: Romanov Russia with Lucy Worsley",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Violence Paradox",
       "Documentaries",
       "watched",
       25
     ],
     [
-      "Andy and the Band - Songs: Showdown",
-      "Signed",
+      "Him & Her",
+      "From the Archives",
       "watched",
-      75
+      10
     ],
     [
-      "The Fall of the Roman Empire",
+      "Equals",
       "Films",
-      "liked"
+      "skipped"
+    ],
+    [
+      "Spotlight on the Troubles: A Secret History",
+      "Documentaries",
+      "disliked"
+    ],
+    [
+      "Hip Hop: The Songs That Shook America",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Jazz Voice 2021 - from the EFG London Jazz Festival",
+      "Music",
+      "disliked"
     ]
   ],
   "watch_counts": {
-    "Da Vinci: The Lost Treasure": 1,
-    "New Creatives - Black Fish": 1,
-    "Danger Mouse": 1,
-    "Dhan Uisge": 1,
-    "Bitesize Daily: 9-11 Year Olds - Maths: Negative Numbers - Signed": 1,
-    "The Miracle of the Bells": 1,
-    "Susan Calman's Happy Space": 1,
-    "HARDtalk - Oleksii Reznikov - Ukraine's Defence Minister": 1,
-    "The Live Lounge Show - BTS @ Radio 1": 1,
-    "Andy Warhol's America": 1,
-    "Legends of Welsh Sport - Steve Robinson": 1,
-    "BBC Wales Investigates - Mayhill Riot": 1,
-    "The Young Offenders film": 1,
-    "Chicken Man": 1,
-    "Loop - Shorts:": 1,
-    "Different League: The Derry City Story - Signed": 1,
-    "Prime Properties - The Duke of Wellington": 1,
-    "Pulling": 1,
-    "Six Nations Rugby - 2022: Third Weekend Special": 1,
-    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths - Counting in 50s": 1,
-    "My Friend from a Care Home": 1,
-    "Andy and the Band - Songs: Showdown": 1,
-    "The Fall of the Roman Empire": 1
+    "Starstruck": 1,
+    "GiggleQuiz": 1,
+    "Our Cops in the North": 1,
+    "Ken Bruce - Best of Radio 2's Piano Room": 1,
+    "Top of the Pops - 1992 Biggest Hits": 1,
+    "Mortimer & Whitehouse: Gone Fishing": 1,
+    "Our World - The Battle for the South China Sea": 1,
+    "BBC News Special - Coronavirus Update: 05/04/2021 - Signed": 1,
+    "Stacey Dooley - Inside the Convent": 1,
+    "Mr Blandings Builds His Dream House": 1,
+    "Louis Theroux - Altered States:": 1,
+    "Gemma: My Murder": 1,
+    "The FA Cup - 2021/22: Quarter-Final Highlights": 1,
+    "Bitesize Daily: 5-7 Year Olds - Wellbeing: Thinking Positively": 1,
+    "Earth's Great Rivers II": 1,
+    "Best Of British - Barbara Windsor": 1,
+    "Empire of the Tsars: Romanov Russia with Lucy Worsley": 1,
+    "The Violence Paradox": 1,
+    "Him & Her": 1,
+    "Hip Hop: The Songs That Shook America": 1
   }
 }

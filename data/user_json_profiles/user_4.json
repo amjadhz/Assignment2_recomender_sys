@@ -1,226 +1,215 @@
 {
   "user_preferences": {
-    "CBBC": 0.5,
+    "Signed": 1.5,
     "Documentaries": 1.5,
-    "From the Archives": 0.5,
-    "Signed": 1.25,
-    "Science & Nature": 0.5,
-    "Entertainment": 1.5,
-    "Comedy": 0.25,
-    "Films": 0.5,
-    "Food": 0.0,
+    "From the Archives": 1.5,
+    "CBBC": 0.5,
+    "Entertainment": -1.25,
+    "Comedy": 0.0,
+    "Films": 1.0,
     "Sports": 0.0,
-    "Music": 0.5
+    "Food": 0.0
   },
   "user_interactions": [
     [
-      "Millie Inbetween - Specials:",
+      "Hetty Feather",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Ireland's Treasures Uncovered",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "The Regiment",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Earth's Great Rivers II",
+      "Documentaries",
+      "watched",
+      50
+    ],
+    [
+      "Rewind - 1980s:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Call the Midwife - Christmas Special 2016",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Colombia with Simon Reeve",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Gossip Girl 2007-12",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Big Fat Like",
       "CBBC",
       "watched",
       50
     ],
     [
-      "Project Children: Defusing the Troubles",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Rigs of Nigg",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Spiral",
-      "From the Archives",
-      "watched",
-      75
-    ],
-    [
-      "What We Were Watching - Christmas 1991 - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "Love and Death in City Hall",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Click - Swingin' Satellites",
-      "Science & Nature",
-      "watched",
-      50
-    ],
-    [
-      "CBeebies Bedtime Stories - 6",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Numberblocks - Numbersongs: Hen House Hop",
-      "Signed",
-      "watched",
-      10
-    ],
-    [
-      "Stacey Dooley - Face To Face with the Bounty Hunters",
+      "Tuesday Documentary - 24 Hours at Le Mans",
       "Documentaries",
       "watched",
       25
     ],
     [
-      "Bitesize Daily: 7-9 Year Olds - Maths: Addition and Subtraction - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "Movies With Ali Plumb - Becoming... Captain America",
+      "Parkinson - Parkinson Meets Muhammad Ali",
       "Entertainment",
-      "liked"
+      "disliked"
     ],
     [
-      "Meet the Red Devils: Parachute Regiment",
-      "From the Archives",
+      "Pls Like",
+      "Comedy",
+      "watched",
+      25
+    ],
+    [
+      "Man Alive - What's the Truth About Hells Angels and Skinheads?",
+      "Documentaries",
       "watched",
       10
     ],
     [
-      "Shrill",
-      "Comedy",
-      "watched",
-      75
-    ],
-    [
-      "Sylvia Scarlett",
+      "The Jackal",
       "Films",
-      "watched",
-      75
-    ],
-    [
-      "James Wong and the Malaysian Garden",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Chronicle - The Roman Goose March: The Holy Sailors",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "Beardsley and his Work",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "My First Festivals",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Unpopular Opinion - Will Smith",
-      "Entertainment",
       "liked"
     ],
     [
-      "Stevens & McCarthy",
-      "Comedy",
-      "watched",
-      10
-    ],
-    [
-      "Signs of the Times - That Little Bit Different",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "Last Tango in Halifax",
-      "From the Archives",
-      "watched",
-      10
-    ],
-    [
-      "Paula McIntyre's Burns Night Banquet",
-      "Food",
-      "watched",
-      25
-    ],
-    [
-      "After the Battle",
-      "From the Archives",
-      "skipped"
-    ],
-    [
-      "Chronicle - The Roman Goose March: The Holy Sailors",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Rick Stein Tastes the Blues",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Miriam\u2019s Big Fat Adventure",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Bellator MMA - 2021: Ryan Bader vs. Corey Anderson",
+      "NIFL Premiership Highlights - 2021/2022: 11/10/2021",
       "Sports",
       "watched",
       25
     ],
     [
-      "Sir Simon Rattle at the BBC",
-      "Music",
+      "1Xtra - Made In Britain: Jungle",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Adam Curtis: Shorts - Paranoia and Moral Panics",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Operation Ouch! - Do Try This at Home",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Taste - A Touch of Class",
+      "From the Archives",
       "watched",
       50
     ],
     [
-      "Movies With Ali Plumb - Eddie Murphy: Coming 2 America",
+      "The Baby Club - At Home:",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Man Alive - Marriage Under Stress 3: 'Put Asunder'",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Dangerous Curves: Get Thicc, Get Sick?",
+      "Documentaries",
+      "skipped"
+    ],
+    [
+      "Movies With Ali Plumb - James McAvoy: Movies That Made Me",
+      "Entertainment",
+      "disliked"
+    ],
+    [
+      "Your Home Made Perfect",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Andy and the Band - Songs: Merry Christmas Everyone",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Eurovision Song Contest - Grand Final: 1974",
       "Entertainment",
       "watched",
-      75
+      10
+    ],
+    [
+      "Playground Insults - Seth Rogen and Chlo\u00eb Grace Moretz",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Shop Well for the Planet?",
+      "Food",
+      "watched",
+      25
+    ],
+    [
+      "HARDtalk - Michael McCaul - R",
+      "From the Archives",
+      "watched",
+      50
     ]
   ],
   "watch_counts": {
-    "Millie Inbetween - Specials:": 1,
-    "Project Children: Defusing the Troubles": 1,
-    "Rigs of Nigg": 1,
-    "Spiral": 1,
-    "What We Were Watching - Christmas 1991 - Signed": 1,
-    "Click - Swingin' Satellites": 1,
-    "CBeebies Bedtime Stories - 6": 1,
-    "Numberblocks - Numbersongs: Hen House Hop": 1,
-    "Stacey Dooley - Face To Face with the Bounty Hunters": 1,
-    "Bitesize Daily: 7-9 Year Olds - Maths: Addition and Subtraction - Signed": 1,
-    "Movies With Ali Plumb - Becoming... Captain America": 1,
-    "Meet the Red Devils: Parachute Regiment": 1,
-    "Shrill": 1,
-    "Sylvia Scarlett": 1,
-    "James Wong and the Malaysian Garden": 1,
-    "Chronicle - The Roman Goose March: The Holy Sailors": 2,
-    "Beardsley and his Work": 1,
-    "My First Festivals": 1,
-    "Unpopular Opinion - Will Smith": 1,
-    "Stevens & McCarthy": 1,
-    "Signs of the Times - That Little Bit Different": 1,
-    "Last Tango in Halifax": 1,
-    "Paula McIntyre's Burns Night Banquet": 1,
-    "Miriam\u2019s Big Fat Adventure": 1,
-    "Bellator MMA - 2021: Ryan Bader vs. Corey Anderson": 1,
-    "Sir Simon Rattle at the BBC": 1,
-    "Movies With Ali Plumb - Eddie Murphy: Coming 2 America": 1
+    "Hetty Feather": 1,
+    "Ireland's Treasures Uncovered": 1,
+    "The Regiment": 1,
+    "Earth's Great Rivers II": 1,
+    "Rewind - 1980s:": 1,
+    "Call the Midwife - Christmas Special 2016": 1,
+    "Bitesize Daily: 5-7 Year Olds - Maths: Addition and Subtraction - Signed": 1,
+    "Colombia with Simon Reeve": 1,
+    "Gossip Girl 2007-12": 1,
+    "Big Fat Like": 1,
+    "Tuesday Documentary - 24 Hours at Le Mans": 1,
+    "Pls Like": 1,
+    "Man Alive - What's the Truth About Hells Angels and Skinheads?": 1,
+    "The Jackal": 1,
+    "NIFL Premiership Highlights - 2021/2022: 11/10/2021": 1,
+    "1Xtra - Made In Britain: Jungle": 1,
+    "Operation Ouch! - Do Try This at Home": 1,
+    "Taste - A Touch of Class": 1,
+    "The Baby Club - At Home:": 1,
+    "Man Alive - Marriage Under Stress 3: 'Put Asunder'": 1,
+    "Your Home Made Perfect": 1,
+    "Andy and the Band - Songs: Merry Christmas Everyone": 1,
+    "Eurovision Song Contest - Grand Final: 1974": 1,
+    "Playground Insults - Seth Rogen and Chlo\u00eb Grace Moretz": 1,
+    "Shop Well for the Planet?": 1,
+    "HARDtalk - Michael McCaul - R": 1
   }
 }

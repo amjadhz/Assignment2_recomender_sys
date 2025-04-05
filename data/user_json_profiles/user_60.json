@@ -1,238 +1,186 @@
 {
   "user_preferences": {
-    "Sports": -0.25,
+    "Comedy": 0.25,
     "Signed": 1.5,
-    "Music": 0.25,
-    "Documentaries": 1.5,
-    "Science & Nature": -0.25,
-    "Entertainment": 1.0,
-    "From the Archives": 0.0,
+    "From the Archives": -0.5,
+    "Documentaries": -1.0,
+    "Sports": 0.0,
+    "Entertainment": 0.0,
+    "Science & Nature": 0.0,
+    "Films": 0.5,
     "Food": 0.0
   },
   "user_interactions": [
     [
-      "Irish League Football Live - Glentoran v Cliftonville",
-      "Sports",
+      "People Just Do Nothing",
+      "Comedy",
       "watched",
       10
     ],
     [
-      "Culture in Quarantine - Louder Is Not Always Clearer",
+      "Countryfile - Newlyn - Signed",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Living Legends",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "Between the Covers",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Planet Earth: A Celebration - Signed",
       "Signed",
       "watched",
       10
     ],
     [
-      "Ireland\u2019s Greatest Small Music Festival: Other Voices",
-      "Music",
+      "Bitesize Daily: 9-11 Year Olds - Geography: 9-10 Year Olds:",
+      "Signed",
       "watched",
       75
     ],
     [
-      "Britain's Puppy Boom: Counting the Cost",
+      "Four Hours at the Capitol",
       "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Badminton - All England Open Championships 2022: Semi-finals",
+      "Sports",
+      "watched",
+      25
+    ],
+    [
+      "BBC News Special - Coronavirus Update: 19/01/2022",
+      "Signed",
       "liked"
     ],
     [
-      "Click - Online-only E3",
-      "Science & Nature",
+      "Movies With Ali Plumb - Jodie Comer: The Story So Far",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Silky Hotel",
+      "Comedy",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths \u2013 Fronted Adverbials",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Our World - Killing Hope: Targeted Attacks in Afghanistan",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "Movies With Ali Plumb - Becoming...: Hawkeye",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Cegin Bryn - Cyfres 1: Rhaglen 1",
+      "From the Archives",
       "skipped"
     ],
     [
-      "Storyville - Misha and the Wolves",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Pele, Argentina and the Dictators",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "Why Dad Killed Mum: My Family's Secret",
-      "Documentaries",
-      "liked"
-    ],
-    [
-      "Movies With Ali Plumb - Fast & Furious 9",
-      "Entertainment",
-      "watched",
-      75
-    ],
-    [
-      "Crouchy's Year-Late Euros: Live",
-      "Entertainment",
-      "watched",
-      50
-    ],
-    [
-      "Climate Change - The Facts",
+      "Climate Change: Countdown to COP26",
       "Science & Nature",
       "watched",
       25
     ],
     [
-      "Arena - Six Days in S",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Our World - A Mother's Choice: Birth in the Balkans",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "NIFL Premiership Highlights - 2021/2022: 03/01/2022",
-      "Sports",
-      "watched",
-      25
-    ],
-    [
-      "Stacey Dooley Investigates - The Whale Hunters",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine",
-      "From the Archives",
+      "Anne of Windy Poplars",
+      "Films",
       "watched",
       50
     ],
     [
-      "Question Time - 2021: 22/04/2021 - Signed",
-      "Signed",
+      "Moment of Truth",
+      "Documentaries",
       "watched",
       50
     ],
     [
-      "Wogan - 18/02/1984",
-      "From the Archives",
-      "watched",
-      75
-    ],
-    [
-      "Race Across the World",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "BBC Music Introducing - The BME Sessions: Arlo Parks - Cola",
-      "Music",
-      "watched",
-      10
-    ],
-    [
-      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Question Marks",
-      "Signed",
-      "liked"
-    ],
-    [
-      "Doctor Who - Revolution of the Daleks",
-      "From the Archives",
+      "Transitioning Teens",
+      "Documentaries",
       "disliked"
     ],
     [
-      "Hometown: A Killing",
+      "BBC Wales Investigates - The Hidden World of Designer Dog Breeding",
       "Documentaries",
-      "watched",
-      50
+      "liked"
     ],
     [
-      "John Denver: Country Boy",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Countryfile - Countryfile Ramble for BBC Children in Need 2021",
-      "Science & Nature",
-      "watched",
-      10
-    ],
-    [
-      "HARDtalk - Tobias Ellwood, Chair, UK Defence Select Committee",
-      "From the Archives",
-      "watched",
-      75
-    ],
-    [
-      "Inspector Montalbano - Beloved Salvo, My Livia",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "The Prosecutors - The Babes in the Wood Murders - Signed",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Click - Short Edition - 11/09/2021",
-      "Science & Nature",
-      "watched",
-      50
-    ],
-    [
-      "Inspector Montalbano - Love",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Africa - The Greatest Show on Earth",
-      "From the Archives",
-      "skipped"
-    ],
-    [
-      "MasterChef: The Professionals",
+      "Saturday Kitchen - Countdown to Christmas: 04/12/2021",
       "Food",
       "watched",
       25
     ],
     [
-      "Raul Jimenez: Code Red",
+      "Fever Pitch: The Rise of the Premier League",
       "Documentaries",
+      "disliked"
+    ],
+    [
+      "Julian Bream Masterclass",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Question Time - 2021: 06/05/2021 - Signed",
+      "Signed",
       "watched",
       50
+    ],
+    [
+      "HARDtalk - Kathleen Stock, Philosopher and Author",
+      "From the Archives",
+      "watched",
+      25
+    ],
+    [
+      "BBC Children in Need - 2021: The Great Rickshaw Relay Challenge",
+      "Entertainment",
+      "skipped"
     ]
   ],
   "watch_counts": {
-    "Irish League Football Live - Glentoran v Cliftonville": 1,
-    "Culture in Quarantine - Louder Is Not Always Clearer": 1,
-    "Ireland\u2019s Greatest Small Music Festival: Other Voices": 1,
-    "Britain's Puppy Boom: Counting the Cost": 1,
-    "Storyville - Misha and the Wolves": 1,
-    "Pele, Argentina and the Dictators": 1,
-    "Why Dad Killed Mum: My Family's Secret": 1,
-    "Movies With Ali Plumb - Fast & Furious 9": 1,
-    "Crouchy's Year-Late Euros: Live": 1,
-    "Climate Change - The Facts": 1,
-    "Arena - Six Days in S": 1,
-    "Our World - A Mother's Choice: Birth in the Balkans": 1,
-    "NIFL Premiership Highlights - 2021/2022: 03/01/2022": 1,
-    "Stacey Dooley Investigates - The Whale Hunters": 1,
-    "HARDtalk - Arseniy Yatsenyuk, Former Prime Minister of Ukraine": 1,
-    "Question Time - 2021: 22/04/2021 - Signed": 1,
-    "Wogan - 18/02/1984": 1,
-    "Race Across the World": 1,
-    "BBC Music Introducing - The BME Sessions: Arlo Parks - Cola": 1,
-    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Question Marks": 1,
-    "Hometown: A Killing": 1,
-    "John Denver: Country Boy": 1,
-    "Countryfile - Countryfile Ramble for BBC Children in Need 2021": 1,
-    "HARDtalk - Tobias Ellwood, Chair, UK Defence Select Committee": 1,
-    "Inspector Montalbano - Beloved Salvo, My Livia": 1,
-    "The Prosecutors - The Babes in the Wood Murders - Signed": 1,
-    "Click - Short Edition - 11/09/2021": 1,
-    "Inspector Montalbano - Love": 1,
-    "MasterChef: The Professionals": 1,
-    "Raul Jimenez: Code Red": 1
+    "People Just Do Nothing": 1,
+    "Countryfile - Newlyn - Signed": 1,
+    "Living Legends": 1,
+    "Between the Covers": 1,
+    "Planet Earth: A Celebration - Signed": 1,
+    "Bitesize Daily: 9-11 Year Olds - Geography: 9-10 Year Olds:": 1,
+    "Four Hours at the Capitol": 1,
+    "Badminton - All England Open Championships 2022: Semi-finals": 1,
+    "BBC News Special - Coronavirus Update: 19/01/2022": 1,
+    "Movies With Ali Plumb - Jodie Comer: The Story So Far": 1,
+    "Silky Hotel": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: Maths \u2013 Fronted Adverbials": 1,
+    "Our World - Killing Hope: Targeted Attacks in Afghanistan": 1,
+    "Movies With Ali Plumb - Becoming...: Hawkeye": 1,
+    "Climate Change: Countdown to COP26": 1,
+    "Anne of Windy Poplars": 1,
+    "Moment of Truth": 1,
+    "BBC Wales Investigates - The Hidden World of Designer Dog Breeding": 1,
+    "Saturday Kitchen - Countdown to Christmas: 04/12/2021": 1,
+    "Question Time - 2021: 06/05/2021 - Signed": 1,
+    "HARDtalk - Kathleen Stock, Philosopher and Author": 1
   }
 }

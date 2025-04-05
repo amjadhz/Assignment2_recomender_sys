@@ -1,251 +1,183 @@
 {
   "user_preferences": {
-    "Sports": -0.25,
-    "From the Archives": 1.25,
-    "Entertainment": -1.0,
-    "Films": -0.5,
-    "Signed": -0.5,
-    "Documentaries": 1.25,
     "Music": 1.0,
-    "Arts": -0.25,
-    "Science & Nature": 1.0,
-    "Food": 0.5
+    "Documentaries": 1.5,
+    "Comedy": -0.25,
+    "Entertainment": 0.75,
+    "Arts": 0.5,
+    "Signed": 1.5,
+    "From the Archives": 1.0,
+    "Sports": 1.0
   },
   "user_interactions": [
     [
-      "NIFL Premiership Highlights - 2021/2022: 06/12/2021",
-      "Sports",
-      "watched",
-      10
-    ],
-    [
-      "Gavin & Stacey",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "Inspector Montalbano - As Per Procedure",
-      "From the Archives",
-      "watched",
-      25
-    ],
-    [
-      "Movies With Ali Plumb - Becoming... Captain America",
-      "Entertainment",
-      "disliked"
-    ],
-    [
-      "Not Going Out - Ding Dong Merrily on Live",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "The Velvet Touch",
-      "Films",
-      "watched",
-      10
-    ],
-    [
-      "Numberblocks - Specials: The Twelve Days of Christmas",
-      "Signed",
-      "skipped"
-    ],
-    [
-      "Doctor Who - Planet of the Dead",
-      "From the Archives",
-      "watched",
-      75
-    ],
-    [
-      "Stacey Dooley - Back on the Psych Ward",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "CBeebies Presents - Songs: Hansel and Gretel: Gathered Round The Christmas Tree",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "A Perfect Planet",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Annie Lennox - Diva",
+      "Country Music Awards - 2021",
       "Music",
       "watched",
       50
     ],
     [
-      "Stacey Dooley Investigates - World's Worst Place to Be a Woman?",
+      "Stacey Dooley - Face to Face with Armageddon",
       "Documentaries",
       "watched",
       25
     ],
     [
-      "Mrs Brown's Boys - 2012 Specials:",
-      "From the Archives",
+      "Josh",
+      "Comedy",
+      "watched",
+      10
+    ],
+    [
+      "The One Show - 07/03/2022",
+      "Entertainment",
+      "watched",
+      10
+    ],
+    [
+      "RuPaul\u2019s Drag Race UK: Queens on Lockdown",
+      "Documentaries",
       "watched",
       25
     ],
     [
-      "Numberblocks - Numbersongs: Zoom Zoom Zoom!",
-      "Signed",
+      "Glastonbury - Live at Worthy Farm: Backstage",
+      "Music",
       "watched",
-      25
+      50
     ],
     [
-      "New Creatives - Stitching, Kneeling",
+      "Loop - The Last Train",
       "Arts",
       "watched",
-      10
+      25
     ],
     [
-      "Him & Her - The Wedding:",
-      "From the Archives",
+      "Loop - Shorts: Rediscovering My Black Body through Photography",
+      "Arts",
       "watched",
-      10
+      75
     ],
     [
-      "Celebrity LOLs - Kate Winslet: Wronguns with Greg James",
-      "Entertainment",
-      "skipped"
-    ],
-    [
-      "Click - The Greatest Show, Man!",
-      "Science & Nature",
+      "BBC Wales Investigates - Christopher - The Boy Who Never Came Home",
+      "Documentaries",
       "liked"
     ],
     [
-      "Gareth Thomas: HIV and Me",
-      "Documentaries",
+      "A Killing in Tiger Bay",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Mrs Brown's Boys - Christmas Specials 2017:",
+      "From the Archives",
       "watched",
       50
     ],
     [
-      "ABBA at the BBC",
+      "Bitesize Daily: 5-7 Year Olds - Maths: 1",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Later... with Jools Holland - Later Presents... The Beautiful South in Concert",
       "Music",
       "watched",
-      50
+      25
     ],
     [
-      "esports - League of Legends - UK League Championship 2021 Spring",
+      "The Planets",
+      "Documentaries",
+      "watched",
+      75
+    ],
+    [
+      "Comic Roots",
+      "From the Archives",
+      "skipped"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: The A Cappella Song",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Unpopular Opinion - Ed Sheeran",
       "Entertainment",
       "watched",
-      50
+      25
     ],
     [
-      "Katie Price: What Harvey Did Next",
+      "Royal Wedding: A Day to Remember",
       "Documentaries",
       "watched",
       25
-    ],
-    [
-      "The Brexit Storm - Laura Kuenssberg\u2019s Inside Story",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Afoot Again In The Past - Stately Kitchens",
-      "From the Archives",
-      "watched",
-      50
-    ],
-    [
-      "The Hostel For Homeless Young Mums",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Arnold Schwarzenegger on Climate Change",
-      "Science & Nature",
-      "watched",
-      25
-    ],
-    [
-      "Women in Film: BBC Introducing Arts",
-      "Films",
-      "watched",
-      10
-    ],
-    [
-      "Nadiya's Summer Feasts",
-      "Food",
-      "watched",
-      50
-    ],
-    [
-      "The Misadventures of Romesh Ranganathan - Christmas - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "Hairy Bikers' Best of British",
-      "Food",
-      "watched",
-      25
-    ],
-    [
-      "Question Time - 2021: 22/04/2021 - Signed",
-      "Signed",
-      "watched",
-      75
-    ],
-    [
-      "HARDtalk - Damian Collins, Conservative MP - Online Safety Bill Committee Chair",
-      "From the Archives",
-      "watched",
-      75
     ],
     [
       "Adventure - Quest under Capricorn:",
       "From the Archives",
-      "watched",
-      25
+      "liked"
     ],
     [
-      "Africa - The Greatest Show on Earth",
-      "From the Archives",
+      "Mandy",
+      "Signed",
       "watched",
-      25
+      50
+    ],
+    [
+      "Bellator MMA - 2022: Adam Borics vs. Mads Burnell",
+      "Sports",
+      "liked"
+    ],
+    [
+      "Disclosure - Should I Tell You I'm Trans?",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Pranked by Superfan Steve - Cheryl",
+      "Entertainment",
+      "watched",
+      75
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing: Well-being - Sle",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "The One Show - 15/03/2022",
+      "Entertainment",
+      "watched",
+      75
     ]
   ],
   "watch_counts": {
-    "NIFL Premiership Highlights - 2021/2022: 06/12/2021": 1,
-    "Inspector Montalbano - As Per Procedure": 1,
-    "Not Going Out - Ding Dong Merrily on Live": 1,
-    "The Velvet Touch": 1,
-    "Doctor Who - Planet of the Dead": 1,
-    "Stacey Dooley - Back on the Psych Ward": 1,
-    "A Perfect Planet": 1,
-    "Annie Lennox - Diva": 1,
-    "Stacey Dooley Investigates - World's Worst Place to Be a Woman?": 1,
-    "Mrs Brown's Boys - 2012 Specials:": 1,
-    "Numberblocks - Numbersongs: Zoom Zoom Zoom!": 1,
-    "New Creatives - Stitching, Kneeling": 1,
-    "Him & Her - The Wedding:": 1,
-    "Click - The Greatest Show, Man!": 1,
-    "Gareth Thomas: HIV and Me": 1,
-    "ABBA at the BBC": 1,
-    "esports - League of Legends - UK League Championship 2021 Spring": 1,
-    "Katie Price: What Harvey Did Next": 1,
-    "The Brexit Storm - Laura Kuenssberg\u2019s Inside Story": 1,
-    "Afoot Again In The Past - Stately Kitchens": 1,
-    "The Hostel For Homeless Young Mums": 1,
-    "Arnold Schwarzenegger on Climate Change": 1,
-    "Women in Film: BBC Introducing Arts": 1,
-    "Nadiya's Summer Feasts": 1,
-    "The Misadventures of Romesh Ranganathan - Christmas - Signed": 1,
-    "Hairy Bikers' Best of British": 1,
-    "Question Time - 2021: 22/04/2021 - Signed": 1,
-    "HARDtalk - Damian Collins, Conservative MP - Online Safety Bill Committee Chair": 1,
+    "Country Music Awards - 2021": 1,
+    "Stacey Dooley - Face to Face with Armageddon": 1,
+    "Josh": 1,
+    "The One Show - 07/03/2022": 1,
+    "RuPaul\u2019s Drag Race UK: Queens on Lockdown": 1,
+    "Glastonbury - Live at Worthy Farm: Backstage": 1,
+    "Loop - The Last Train": 1,
+    "Loop - Shorts: Rediscovering My Black Body through Photography": 1,
+    "BBC Wales Investigates - Christopher - The Boy Who Never Came Home": 1,
+    "A Killing in Tiger Bay": 1,
+    "Mrs Brown's Boys - Christmas Specials 2017:": 1,
+    "Bitesize Daily: 5-7 Year Olds - Maths: 1": 1,
+    "Later... with Jools Holland - Later Presents... The Beautiful South in Concert": 1,
+    "The Planets": 1,
+    "Unpopular Opinion - Ed Sheeran": 1,
+    "Royal Wedding: A Day to Remember": 1,
     "Adventure - Quest under Capricorn:": 1,
-    "Africa - The Greatest Show on Earth": 1
+    "Mandy": 1,
+    "Bellator MMA - 2022: Adam Borics vs. Mads Burnell": 1,
+    "Disclosure - Should I Tell You I'm Trans?": 1,
+    "Pranked by Superfan Steve - Cheryl": 1,
+    "Bitesize Daily: 5-7 Year Olds - Wellbeing: Well-being - Sle": 1,
+    "The One Show - 15/03/2022": 1
   }
 }

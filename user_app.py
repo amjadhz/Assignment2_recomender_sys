@@ -5,22 +5,69 @@ import os
 import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from datetime import datetime, timedelta
 
-#LAYOUT
+# -------------------------------
+# Lay-out
+# -------------------------------
 st.set_page_config(layout="wide", page_title="BBC Recommender System")
 
 st.markdown(
     """
     <style>
+        /* Widen the main container and soften spacing */
         .main .block-container {
             max-width: 1800px;
-            padding-left: 2rem;
-            padding-right: 2rem;
+            padding-left: 1.5rem;
+            padding-right: 1.5rem;
+            padding-top: 1rem;
+        }
+
+        /* Shrink top padding for a tighter UI */
+        header[data-testid="stHeader"] {
+            margin-bottom: 0.5rem;
+        }
+
+        /* Make images sleek with rounded corners and shadows */
+        img {
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            object-fit: cover;
+        }
+
+        /* Headings - bold and spaced out */
+        h1, h2, h3 {
+            font-weight: 700;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Button spacing uniformity */
+        button[kind="primary"] {
+            margin-top: 0.5rem;
+        }
+
+        /* Tighter layout on recommendation tiles */
+        .element-container {
+            padding: 0.3rem !important;
+        }
+
+        /* Make selectboxes and buttons look clean */
+        .stSelectbox > div {
+            border-radius: 10px;
+        }
+
+        /* Divider styling */
+        hr {
+            border-top: 1px solid #eaeaea;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
         }
     </style>
     """,
     unsafe_allow_html=True
 )
+
 
 # -------------------------------
 # Load BBC Dataset
@@ -32,7 +79,7 @@ def clear_user_data():
     with open(USER_DATA_FILE, "w") as f:
         json.dump({"user_preferences": {}, "user_interactions": [], "watch_counts": {}}, f)
 
-# ✅ Clear user data ONLY once at start of fresh session
+# Clear user data ONLY once at start of fresh session
 if "initialized" not in st.session_state:
     clear_user_data()
     st.session_state.initialized = True
@@ -151,17 +198,32 @@ def get_fair_recommendations(data):
 # Get Recommendations based on interested categories
 # -------------------------------
 
-def get_interest_based_recommendations(data):
-    liked_categories = set()
-    for interaction in st.session_state.user_interactions:
-        if len(interaction) > 2 and interaction[2] == "liked":  
-            liked_categories.add(interaction[1]) 
-    
-    if liked_categories:
-        interest_recommendations = data[data["category"].isin(liked_categories)]
-    else:
-        interest_recommendations = data.sample(10, replace=True)
-    return interest_recommendations
+def get_interest_based_recommendations(data, min_items=10):
+    liked_categories = set(
+        interaction[1]
+        for interaction in st.session_state.user_interactions
+        if len(interaction) > 2 and interaction[2] == "liked"
+    )
+
+    # Filter collaborative data by liked categories
+    interest_recommendations = data[data["category"].isin(liked_categories)].drop_duplicates(subset="title")
+
+    # If not enough, fill with content-based recs
+    if len(interest_recommendations) < min_items:
+        needed = min_items - len(interest_recommendations)
+        content_based = get_content_based_recommendations(
+            data=data,
+            user_interactions={"user_interactions": st.session_state.user_interactions}
+        ).drop_duplicates(subset="title")
+
+        # Remove already included ones
+        content_based = content_based[~content_based["title"].isin(interest_recommendations["title"])]
+        filler = content_based.head(needed)
+
+        interest_recommendations = pd.concat([interest_recommendations, filler], ignore_index=True)
+
+    return interest_recommendations.head(min_items)
+
 
 # -------------------------------
 # Collaborative Filtering Functions
@@ -177,95 +239,64 @@ def load_similarity_model():
 
 similarity_model = load_similarity_model()
 
-def get_similar_items(user_likes, user_watches, model, n=10):
+import random
+
+def get_similar_items(user_likes, user_watches, model, n=10, overgenerate=30):
     if model.empty or (not user_likes and not user_watches):
         return []  # Return empty list if no data
 
     similarity_scores = pd.Series(0.0, index=model.columns)
 
-    # Process liked titles (weight = 1.0)
+    # Add scores for liked items
     for title in user_likes:
         if title in model.index:
             similarity_scores = similarity_scores.add(model[title] * 1.0, fill_value=0)
 
-    # Process watched titles (weight = 0.5 per watch count)
+    # Add scores for watched items
     for title, count in user_watches.items():
         if title in model.index:
             similarity_scores = similarity_scores.add(model[title] * (0.5 * count), fill_value=0)
 
-    # Remove already liked/watched titles
-    for title in user_likes + list(user_watches.keys()):
-        if title in similarity_scores:
-            similarity_scores = similarity_scores.drop(title)
+    # Remove already interacted titles
+    titles_to_remove = user_likes + list(user_watches.keys())
+    similarity_scores = similarity_scores.drop(labels=titles_to_remove, errors="ignore")
 
-    # If we have no scores left, return empty list
-    if len(similarity_scores) == 0:
+
+    # If nothing left
+    if similarity_scores.empty:
         return []
-        
-    return similarity_scores.sort_values(ascending=False).head(n).index.tolist()
+
+    # Get top `overgenerate` similar items
+    top_candidates = similarity_scores.sort_values(ascending=False).head(overgenerate).index.tolist()
+
+    # Sample `n` unique items randomly from those top candidates
+    return random.sample(top_candidates, min(n, len(top_candidates)))
+
 
 # -------------------------------
 # Trending Items Functions
 # -------------------------------
 
-# Load trending from all synthetic users
-def load_all_user_jsons(path="data/user_json_profiles"):
-    interaction_counts = {}
+@st.cache_data
+def load_synthetic_interactions(path="data/synthetic_user_interactions.csv"):
     try:
-        for filename in os.listdir(path):
-            if filename.endswith(".json"):
-                with open(os.path.join(path, filename), "r") as f:
-                    user_data = json.load(f)
-
-                    # Loop through interactions
-                    for i in user_data.get("user_interactions", []):
-                        title = i[0]
-                        feedback = i[2]
-                        if feedback == "liked":
-                            interaction_counts[title] = interaction_counts.get(title, 0) + 1
-
-                    # Loop through watch counts
-                    for title, count in user_data.get("watch_counts", {}).items():
-                        interaction_counts[title] = interaction_counts.get(title, 0) + count
+        df = pd.read_csv(path)
+        df["Timestamp"] = pd.to_datetime(df["Timestamp"], errors="coerce")
+        return df
     except Exception as e:
-        st.warning(f"Could not load user JSONs: {e}")
-    return interaction_counts
+        st.warning(f"Failed to load synthetic interactions: {e}")
+        return pd.DataFrame()
 
+# Function to compute trending titles based on recent watch behavior
+def get_recent_trending_titles(df, days=7):
+    cutoff = datetime.now() - timedelta(days=days)
+    recent_df = df[(df["Watch %"] > 0) & (df["Timestamp"] >= cutoff)]
+    title_counts = recent_df["Title"].value_counts()
+    return title_counts.head(20).index.tolist()
 
-@st.cache_data
-def load_all_user_jsons_cached(path="data/user_json_profiles"):
-    interaction_counts = {}
-    for filename in os.listdir(path):
-        if filename.endswith(".json"):
-            with open(os.path.join(path, filename), "r") as f:
-                user_data = json.load(f)
-                for i in user_data.get("user_interactions", []):
-                    title = i[0]
-                    feedback = i[2]
-                    if feedback == "liked":
-                        interaction_counts[title] = interaction_counts.get(title, 0) + 1
-                for title, count in user_data.get("watch_counts", {}).items():
-                    interaction_counts[title] = interaction_counts.get(title, 0) + count
-    return interaction_counts
-
-
-@st.cache_data
-def load_all_user_watch_counts_cached(path="data/user_json_profiles"):
-    watch_counts = {}
-    for filename in os.listdir(path):
-        if filename.endswith(".json"):
-            with open(os.path.join(path, filename), "r") as f:
-                user_data = json.load(f)
-                for title, count in user_data.get("watch_counts", {}).items():
-                    watch_counts[title] = watch_counts.get(title, 0) + count
-    return watch_counts
-
-trending_scores = load_all_user_jsons_cached()
-watch_counts_data = load_all_user_watch_counts_cached()
-
-
-top_trending_titles = sorted(trending_scores.items(), key=lambda x: x[1], reverse=True)
-top_trending_titles = [title for title, _ in top_trending_titles]
+# Load the data once
+synthetic_df = load_synthetic_interactions()
+top_trending_titles = get_recent_trending_titles(synthetic_df)
 
 # -------------------------------
 # Most Watched Items Function
@@ -302,68 +333,72 @@ def build_similarity_matrix(data):
 
 # Function to get content based recommendations using matrix from function above - based on 'description' column
 def get_content_based_recommendations(data, user_interactions):
-    # Ensure user_interactions is properly formatted
+    # Normalize and extract interactions
     if isinstance(user_interactions, dict) and "user_interactions" in user_interactions:
-        # Convert user_interactions list to DataFrame
-        user_interactions_df = pd.DataFrame(
-            user_interactions["user_interactions"], 
-            columns=["title", "category", "interaction"] 
-            if len(user_interactions["user_interactions"]) > 0 and len(user_interactions["user_interactions"][0]) == 3
-            else ["title", "category", "section", "interaction"]
-        )
+        interactions_list = user_interactions["user_interactions"]
     else:
-        user_interactions_df = pd.DataFrame(user_interactions, columns=["title", "category", "interaction"])
-    
-    # Ensure the interaction column exists
-    if "interaction" not in user_interactions_df.columns:
-        user_interactions_df["interaction"] = "viewed"
-        
+        interactions_list = user_interactions
+
+    # Ensure uniform 4-column format
+    def normalize_interactions(interactions):
+        return [list(i) if len(i) == 4 else list(i) + [None] for i in interactions]
+
+    normalized = normalize_interactions(interactions_list)
+
+    user_interactions_df = pd.DataFrame(
+        normalized,
+        columns=["title", "category", "interaction", "watch_percent"]
+    )
+
     # Get liked, disliked, and skipped items
     liked_items = user_interactions_df[user_interactions_df["interaction"] == "liked"]["title"].tolist()
     disliked_items = user_interactions_df[user_interactions_df["interaction"] == "disliked"]["title"].tolist()
     skipped_items = user_interactions_df[user_interactions_df["interaction"] == "skipped"]["title"].tolist()
-    
+
     # Get watched items and their watch counts
-    watch_counts = user_interactions.get("watch_counts", {}) if isinstance(user_interactions, dict) else {}
-    watched_items = list(watch_counts.keys())
+    watch_counts = {
+        row["title"]: row["watch_percent"] or 0
+        for _, row in user_interactions_df.iterrows()
+        if row["interaction"] == "watched"
+    }
 
     # Build similarity matrix using the description column
     similarity_matrix = build_similarity_matrix(data)
 
-    # Items to recommend
     recommended_items = set()
-    # Items to exclude from recommendations - disliked + skipped
     excluded_items = set(disliked_items + skipped_items)
 
-    # Find items similar to disliked items and exclude them
+    # Exclude items similar to disliked ones
     for title in disliked_items:
         if title in data['title'].values:
             item_index = data[data['title'] == title].index[0]
-            similar_indices = similarity_matrix[item_index].argsort()[-11:-1]  # Top 10 similar items
+            similar_indices = similarity_matrix[item_index].argsort()[-11:-1]
             excluded_items.update(data.iloc[similar_indices]['title'].values)
 
-    # Find similar items to liked movies (higher weight)
+    # Find similar items to liked titles
     for title in liked_items:
         if title in data['title'].values:
             item_index = data[data['title'] == title].index[0]
-            similar_indices = similarity_matrix[item_index].argsort()[-11:-1]  # Top 10 similar items
+            similar_indices = similarity_matrix[item_index].argsort()[-11:-1]
             recommended_items.update(data.iloc[similar_indices]['title'].values)
 
-    # Find similar items to watched movies (lower weight)
-    for title in watched_items:
+    # Find similar items to watched titles
+    for title in watch_counts.keys():
         if title in data['title'].values:
             item_index = data[data['title'] == title].index[0]
-            similar_indices = similarity_matrix[item_index].argsort()[-6:-1]  # Top 5 similar items (lower weight)
+            similar_indices = similarity_matrix[item_index].argsort()[-6:-1]
             recommended_items.update(data.iloc[similar_indices]['title'].values)
 
-    # Remove any items that the user disliked, skipped, or are similar to disliked items
+    # Remove any disliked/skipped or similar-to-disliked items
     recommended_items -= excluded_items
-    
-    # If no recommendations, return empty DataFrame with correct structure
+
+    # Return empty DataFrame if nothing left
     if not recommended_items:
         return data.head(0)
 
     return data[data['title'].isin(recommended_items)]
+
+
 
 # -------------------------------
 # Refresh Button Function
@@ -378,7 +413,7 @@ def refresh_section(section_name):
     if 'sections' not in st.session_state:
         st.session_state.sections = {
             "For You": filtered_recommendations.head(10),
-            "Interested": filtered_recommendations.head(10),
+            "Based on genres you like!": filtered_recommendations.head(10),
             "Trending Now": data[data["title"].isin(top_trending_titles)].head(10),
             "Most Watched": data[data["title"].isin(top_watched_titles)].head(10),
             "Random Selection": data.sample(10, replace=True),
@@ -386,10 +421,10 @@ def refresh_section(section_name):
         }
 
     if 'recommendation_offsets' not in st.session_state:
-        st.session_state.recommendation_offsets = {"For You": 0, "Interested": 0}
+        st.session_state.recommendation_offsets = {"For You": 0, "Based on genres you like!": 0}
 
     # Skip refreshing static sections
-    if section_name in ["Trending Now", "Most Watched", "Diversity Spotlight"]:
+    if section_name in ["Trending Now", "Most Watched"]:
         return
 
     try:
@@ -400,10 +435,10 @@ def refresh_section(section_name):
 
     save_user_data()
 
-    if section_name in ["For You", "Interested"]:
+    if section_name in ["For You", "Based on genres you like!"]:
         full_recommendations = generate_recommendations(current_rec_type, data, st.session_state.user_interactions).drop_duplicates()
 
-        if section_name == "Interested":
+        if section_name == "Based on genres you like!":
             full_recommendations = get_interest_based_recommendations(full_recommendations)
 
         offset = st.session_state.recommendation_offsets.get(section_name, 0)
@@ -413,11 +448,14 @@ def refresh_section(section_name):
         end_offset = min(offset + 10, len(full_recommendations))
         new_recommendations = full_recommendations.iloc[offset:end_offset]
         st.session_state.recommendation_offsets[section_name] = offset + 10
+
+    elif section_name ==  "Diversity Spotlight":
+        new_recommendations = diverse_data.sample(10, replace = False)
+
     else:
         new_recommendations = data.sample(10, replace=True)
 
     st.session_state.sections[section_name] = new_recommendations
-
 
 # -------------------------------
 # Generate Recommendations Based on Type of Filtering User Selects
@@ -661,21 +699,22 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
         # Update session_state with the new recommendations
         st.session_state.sections = {
             "For You": filtered_recommendations.head(10),
-            "Interested": get_interest_based_recommendations(filtered_recommendations).head(10),
+            "Based on genres you like!": get_interest_based_recommendations(filtered_recommendations).head(10),
             "Trending Now": data[data["title"].isin(top_trending_titles)].head(10),
             "Most Watched": data[data["title"].isin(top_watched_titles)].head(10),
             "Random Selection": data.sample(10, replace=True),
             "Diversity Spotlight": diverse_data.sample(10, replace=False)
         }
 
-    if st.session_state.current_rec_type == "Recommendations based on what people like me watch":
-        filtered_recommendations = generate_recommendations(st.session_state.current_rec_type, data, st.session_state.user_interactions)
-        refresh_section("For You")  
-        refresh_section("Interested")  
+    # Always update before refreshing
+    filtered_recommendations = generate_recommendations(
+        st.session_state.current_rec_type, data, st.session_state.user_interactions
+    )
 
-    if "sections" not in st.session_state:
-        refresh_section("For You")
-        refresh_section("Interested")
+    if st.session_state.current_rec_type == "Recommendations based on what people like me watch":
+        refresh_section("For You")  
+        refresh_section("Based on genres you like!")
+
 
    
     for section_name, content in st.session_state.sections.items():
@@ -695,7 +734,9 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
         # Iterate through content in chunks of 5 for better alignment
         content_list = list(content.iterrows()) 
         for row_start in range(0, len(content_list), 5):
-            cols = st.columns(5)  
+            cols = st.columns(5)
+
+
             
             # Populate each column with a recommendation (up to 5 per row)
             for i in range(5):

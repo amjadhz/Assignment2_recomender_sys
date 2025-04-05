@@ -1,242 +1,197 @@
 {
   "user_preferences": {
-    "Entertainment": 1.5,
-    "Documentaries": 1.25,
-    "From the Archives": 0.0,
-    "Science & Nature": 1.5,
-    "Signed": 0.0,
-    "Comedy": -0.5,
-    "Arts": 0.0,
-    "Films": 0.25,
-    "Food": 0.0,
-    "Sports": 0.5
+    "Documentaries": 1.5,
+    "Signed": 1.0,
+    "Comedy": 0.75,
+    "From the Archives": 0.5,
+    "Entertainment": 0.0,
+    "CBBC": 0.5,
+    "Science & Nature": -0.25,
+    "Music": 0.0
   },
   "user_interactions": [
     [
-      "esports - CS:GO - BLAST Premier 2020: CS:GO - BLAST Premier Fall Final - Day Two",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "The Perfect Morecambe & Wise",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "We Are England - Mental Health: Becoming Dad - Watford",
+      "The Man Who Used HIV As a Weapon",
       "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "University Challenge - Christmas 2021:",
-      "Entertainment",
       "liked"
     ],
     [
-      "Him & Her - The Wedding:",
-      "From the Archives",
-      "disliked"
-    ],
-    [
-      "Our Wild Adventures",
-      "Science & Nature",
-      "watched",
-      50
-    ],
-    [
-      "Rossetti - Sex, Drugs and Oil Paint",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "Royal Wedding: A Day to Remember - Signed",
+      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Letter Writing",
       "Signed",
       "watched",
+      10
+    ],
+    [
+      "Harry Hill's Lonely Island",
+      "Comedy",
+      "watched",
       50
     ],
     [
-      "Man Alive - Marriage Under Stress 3: 'Put Asunder'",
+      "The Late Show - Face to Face: Lauren Bacall",
+      "From the Archives",
+      "watched",
+      50
+    ],
+    [
+      "H2O: The Molecule That Made Us",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "Style Fixers",
+      "Entertainment",
+      "watched",
+      25
+    ],
+    [
+      "Stacey Dooley: Costa del Narcos",
+      "Documentaries",
+      "watched",
+      25
+    ],
+    [
+      "The Demon Headmaster",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Don't Exclude Me",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Celebrity Supply Teacher",
+      "CBBC",
+      "watched",
+      50
+    ],
+    [
+      "Dregs",
+      "Comedy",
+      "watched",
+      50
+    ],
+    [
+      "Who Believes in Psychics?",
       "Documentaries",
       "watched",
       75
     ],
     [
-      "Click - Short Edition - 20/11/2021",
-      "Science & Nature",
+      "Our World - Harvesting Turkey's Tea",
+      "Documentaries",
       "watched",
-      50
+      75
     ],
     [
-      "Some Girls",
-      "From the Archives",
+      "Starstruck",
+      "Comedy",
       "watched",
-      25
+      10
     ],
     [
-      "Innuendo Bingo - Peter Crouch",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "The Misadventures of Romesh Ranganathan - Christmas",
+      "Stacey Dooley - On the Psych Ward",
       "Documentaries",
       "watched",
       10
     ],
     [
-      "Dani's Castle",
+      "4 O'Clock Club",
       "Signed",
       "watched",
       50
     ],
     [
-      "Breaking the News - Breaking the Year",
-      "Comedy",
-      "watched",
-      25
-    ],
-    [
-      "New Creatives - Rerouting",
-      "Arts",
-      "watched",
-      25
-    ],
-    [
-      "Lucky Jim",
-      "Films",
-      "watched",
-      50
-    ],
-    [
-      "BBC Children in Need - 2021: Northern Ireland's Best Bits",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "Fleabag",
-      "Comedy",
-      "disliked"
-    ],
-    [
-      "The Joe Wicks Podcast - Sir Tom Jones: Don\u2019t Hold Back",
-      "Entertainment",
-      "liked"
-    ],
-    [
-      "Click - The Future of Video Calls",
+      "Countryfile - Flamborough Head",
       "Science & Nature",
-      "liked"
-    ],
-    [
-      "Click - Short Edition - 24/07/2021",
-      "Science & Nature",
-      "watched",
-      75
-    ],
-    [
-      "Paula McIntyre's Burns Night Banquet",
-      "Food",
-      "watched",
-      25
-    ],
-    [
-      "Panorama - A Cow's Life: The True Cost of Milk? - Signed",
-      "Signed",
-      "disliked"
-    ],
-    [
-      "Ken Hom's Chinese Cookery - Snacks",
-      "Food",
-      "watched",
-      25
-    ],
-    [
-      "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Adding Description",
-      "Signed",
-      "watched",
-      25
-    ],
-    [
-      "The Iraq War",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Sylvia Scarlett",
-      "Films",
       "watched",
       10
     ],
     [
-      "Stevens & McCarthy",
-      "Comedy",
+      "Inside Europe: Ten Years of Turmoil",
+      "Documentaries",
       "watched",
-      50
+      10
     ],
     [
-      "Super League Show - 2022: 07/03/2022",
-      "Sports",
+      "Stacey Dooley - Migrant Kids in Crisis",
+      "Documentaries",
+      "watched",
+      10
+    ],
+    [
+      "The Psychedelic Drug Trial - Signed",
+      "Signed",
+      "watched",
+      10
+    ],
+    [
+      "Countryfile - Islands - Signed",
+      "Signed",
       "watched",
       75
     ],
     [
-      "BBC Trailers - This is Our BBC",
+      "Interior Design Masters with Alan Carr",
       "Signed",
       "watched",
       25
     ],
     [
-      "Click - Short Edition - 01/01/2022",
-      "Science & Nature",
-      "watched",
-      75
-    ],
-    [
-      "HARDtalk - Kathleen Stock, Philosopher and Author",
-      "From the Archives",
+      "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Types of Words",
+      "Signed",
       "watched",
       25
     ],
     [
-      "The Fear of God: 25 Years of the Exorcist",
+      "CBeebies Bedtime Stories - 5",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Sir Simon Rattle at the BBC",
+      "Music",
+      "watched",
+      25
+    ],
+    [
+      "Go Domhain san Fhuil",
       "Documentaries",
       "watched",
       50
     ]
   ],
   "watch_counts": {
-    "esports - CS:GO - BLAST Premier 2020: CS:GO - BLAST Premier Fall Final - Day Two": 1,
-    "The Perfect Morecambe & Wise": 1,
-    "We Are England - Mental Health: Becoming Dad - Watford": 1,
-    "University Challenge - Christmas 2021:": 1,
-    "Our Wild Adventures": 1,
-    "Rossetti - Sex, Drugs and Oil Paint": 1,
-    "Royal Wedding: A Day to Remember - Signed": 1,
-    "Man Alive - Marriage Under Stress 3: 'Put Asunder'": 1,
-    "Click - Short Edition - 20/11/2021": 1,
-    "Some Girls": 1,
-    "Innuendo Bingo - Peter Crouch": 1,
-    "The Misadventures of Romesh Ranganathan - Christmas": 1,
-    "Dani's Castle": 1,
-    "Breaking the News - Breaking the Year": 1,
-    "New Creatives - Rerouting": 1,
-    "Lucky Jim": 1,
-    "BBC Children in Need - 2021: Northern Ireland's Best Bits": 1,
-    "The Joe Wicks Podcast - Sir Tom Jones: Don\u2019t Hold Back": 1,
-    "Click - The Future of Video Calls": 1,
-    "Click - Short Edition - 24/07/2021": 1,
-    "Paula McIntyre's Burns Night Banquet": 1,
-    "Ken Hom's Chinese Cookery - Snacks": 1,
-    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Adding Description": 1,
-    "The Iraq War": 1,
-    "Sylvia Scarlett": 1,
-    "Stevens & McCarthy": 1,
-    "Super League Show - 2022: 07/03/2022": 1,
-    "BBC Trailers - This is Our BBC": 1,
-    "Click - Short Edition - 01/01/2022": 1,
-    "HARDtalk - Kathleen Stock, Philosopher and Author": 1,
-    "The Fear of God: 25 Years of the Exorcist": 1
+    "The Man Who Used HIV As a Weapon": 1,
+    "Bitesize Daily: 5-7 Year Olds - Teacher Talks: English - Letter Writing": 1,
+    "Harry Hill's Lonely Island": 1,
+    "The Late Show - Face to Face: Lauren Bacall": 1,
+    "H2O: The Molecule That Made Us": 1,
+    "Style Fixers": 1,
+    "Stacey Dooley: Costa del Narcos": 1,
+    "The Demon Headmaster": 1,
+    "Don't Exclude Me": 1,
+    "Celebrity Supply Teacher": 1,
+    "Dregs": 1,
+    "Who Believes in Psychics?": 1,
+    "Our World - Harvesting Turkey's Tea": 1,
+    "Starstruck": 1,
+    "Stacey Dooley - On the Psych Ward": 1,
+    "4 O'Clock Club": 1,
+    "Countryfile - Flamborough Head": 1,
+    "Inside Europe: Ten Years of Turmoil": 1,
+    "Stacey Dooley - Migrant Kids in Crisis": 1,
+    "The Psychedelic Drug Trial - Signed": 1,
+    "Countryfile - Islands - Signed": 1,
+    "Interior Design Masters with Alan Carr": 1,
+    "Bitesize Daily: 7-9 Year Olds - Teacher Talks: English - Types of Words": 1,
+    "CBeebies Bedtime Stories - 5": 1,
+    "Sir Simon Rattle at the BBC": 1,
+    "Go Domhain san Fhuil": 1
   }
 }

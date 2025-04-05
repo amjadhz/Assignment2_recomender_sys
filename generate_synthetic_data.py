@@ -33,7 +33,7 @@ def synthesize_user_data(path_to_dataset="data/bbc_recommender_dataset_clean.csv
         for user_id in range(1, n_users + 1):
             persona = random.choice(list(bbc_personas.keys()))
             preferences = bbc_personas[persona]
-            num_interactions = random.randint(25, 35)
+            num_interactions = random.randint(25, 30)
 
             for _ in range(num_interactions):
                 title = random.choice(real_titles)

@@ -1,235 +1,179 @@
 {
   "user_preferences": {
-    "Entertainment": 0.5,
-    "Films": 0.5,
     "Documentaries": 1.5,
-    "CBBC": -0.25,
-    "Science & Nature": 0.5,
-    "From the Archives": 0.25,
-    "Comedy": -0.5,
-    "Signed": 1.0,
-    "Arts": -0.25,
-    "Sports": 1.0,
-    "Music": -0.5
+    "Music": 1.5,
+    "Signed": 1.5,
+    "From the Archives": -0.5,
+    "Entertainment": 0.5
   },
   "user_interactions": [
     [
-      "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special",
-      "Entertainment",
-      "watched",
-      50
-    ],
-    [
-      "Blind Ambition",
-      "Films",
-      "skipped"
-    ],
-    [
-      "My Family, the Holocaust and Me",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "Bruce Springsteen: A Secret History",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Racism in the Ranks",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "My Mum Tracy Beaker - Movie:",
-      "CBBC",
-      "watched",
-      25
-    ],
-    [
-      "Incredible Journeys with Simon Reeve",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Raiders of the Lost Past with Janina Ramirez",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Click - Short Edition - 22/01/2022",
-      "Science & Nature",
-      "watched",
-      75
-    ],
-    [
-      "Pointless",
-      "Entertainment",
-      "watched",
-      25
-    ],
-    [
-      "Mrs Brown's Boys - Christmas Specials 2015:",
-      "From the Archives",
-      "skipped"
-    ],
-    [
-      "Our World - Australia's Wildlife: After the Fires",
+      "Jonas Kaufmann: Tenor for the Ages",
       "Documentaries",
       "liked"
     ],
     [
-      "Serengeti II",
-      "Documentaries",
-      "watched",
-      75
-    ],
-    [
-      "Emma",
-      "Films",
-      "watched",
-      75
-    ],
-    [
-      "Two Doors Down",
-      "Comedy",
-      "skipped"
-    ],
-    [
-      "Death in Paradise - Christmas Special",
-      "From the Archives",
-      "liked"
-    ],
-    [
-      "BBC Children in Need - 2021: Northern Ireland's Best Bits",
-      "Entertainment",
-      "watched",
-      25
-    ],
-    [
-      "Dementia & Us",
-      "Documentaries",
-      "watched",
-      10
-    ],
-    [
-      "Greetings from Scotland",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Gloria: My Life on TV",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "We Are England - Belonging: The Real Vicars of Dibley",
-      "Documentaries",
-      "skipped"
-    ],
-    [
-      "We Are England - A Place Called Home: Students in Suburbia - Newcastle",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era",
-      "From the Archives",
-      "watched",
-      10
-    ],
-    [
-      "The Sun Is Also a Star",
-      "Films",
-      "watched",
-      50
-    ],
-    [
-      "CBeebies Presents - Ballets: Three Little Pigs: A CBeebies Ballet",
-      "Signed",
-      "watched",
-      50
-    ],
-    [
-      "Whiskey Talkin'",
-      "Documentaries",
-      "watched",
-      50
-    ],
-    [
-      "Loop - Shorts: Loop - Creating Classical Portraiture for the Next Generation",
-      "Arts",
-      "watched",
-      10
-    ],
-    [
-      "Match of the Day Top 10",
-      "Sports",
-      "liked"
-    ],
-    [
-      "Arena - The Burger and the King",
-      "Documentaries",
-      "watched",
-      25
-    ],
-    [
-      "Ireland\u2019s Greatest Small Music Festival: Other Voices",
+      "Northern Ireland Onscreen",
       "Music",
-      "skipped"
-    ],
-    [
-      "My Mum Tracy Beaker",
-      "CBBC",
       "watched",
-      10
+      50
     ],
     [
-      "Question Time - 2022: 27/01/2022 - Signed",
+      "Ugly Me: My Life with Body Dysmorphia",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles",
+      "Signed",
+      "watched",
+      25
+    ],
+    [
+      "Culture in Quarantine - Get Creative at Home Masterclasses: Clare Twomey",
       "Signed",
       "watched",
       50
     ],
     [
-      "Kicked Out: From Care to Chaos",
+      "Inspector Montalbano - Carousel",
+      "From the Archives",
+      "watched",
+      75
+    ],
+    [
+      "Mrs Brown's Boys - Christmas Special: Mammy's Ass",
+      "From the Archives",
+      "disliked"
+    ],
+    [
+      "Da Vinci: The Lost Treasure",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "The Sky at Night - Mission To Jupiter",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Hey Duggee - Top of the Pups: Potty Song",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "HyperNormalisation",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Bitesize Daily: 5-7 Year Olds - Wellbeing: Well-being - Sle",
+      "Signed",
+      "watched",
+      75
+    ],
+    [
+      "Louis Theroux - Altered States:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Sing! An Irish Christmas",
+      "Music",
+      "liked"
+    ],
+    [
+      "Miss World 1970: Beauty Queens and Bedlam",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Forensics: The Real CSI",
       "Documentaries",
       "watched",
-      10
+      90
+    ],
+    [
+      "Question Time - 2022: 13/01/2022 - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Kids Ask Difficult Questions - Jim Carrey",
+      "Entertainment",
+      "watched",
+      50
+    ],
+    [
+      "Empire of the Tsars: Romanov Russia with Lucy Worsley",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "At Home with the Gettys",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "Life of a Mountain - A Year on Scafell Pike - Signed",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths \u2013 Calculating Area and Perimeter Using Algebra.",
+      "Signed",
+      "skipped"
+    ],
+    [
+      "Numberblocks - Numbersongs: Counting Cars",
+      "Signed",
+      "liked"
+    ],
+    [
+      "Biggleton",
+      "Signed",
+      "watched",
+      50
+    ],
+    [
+      "Stacey Dooley Investigates - Sex in Strange Places:",
+      "Documentaries",
+      "liked"
+    ],
+    [
+      "CBeebies Presents - Stage Shows: The Snow Queen",
+      "Signed",
+      "watched",
+      25
     ]
   ],
   "watch_counts": {
-    "Movies With Ali Plumb - Becoming... Tommy Shelby: A Peaky Blinders Special": 1,
-    "Bruce Springsteen: A Secret History": 1,
-    "Racism in the Ranks": 1,
-    "My Mum Tracy Beaker - Movie:": 1,
-    "Incredible Journeys with Simon Reeve": 1,
-    "Raiders of the Lost Past with Janina Ramirez": 1,
-    "Click - Short Edition - 22/01/2022": 1,
-    "Pointless": 1,
-    "Our World - Australia's Wildlife: After the Fires": 1,
-    "Serengeti II": 1,
-    "Emma": 1,
-    "Death in Paradise - Christmas Special": 1,
-    "BBC Children in Need - 2021: Northern Ireland's Best Bits": 1,
-    "Dementia & Us": 1,
-    "Greetings from Scotland": 1,
-    "Gloria: My Life on TV": 1,
-    "We Are England - A Place Called Home: Students in Suburbia - Newcastle": 1,
-    "Panorama - The Real War in Space: We Are Entering the Post-Nuclear Era": 1,
-    "The Sun Is Also a Star": 1,
-    "CBeebies Presents - Ballets: Three Little Pigs: A CBeebies Ballet": 1,
-    "Whiskey Talkin'": 1,
-    "Loop - Shorts: Loop - Creating Classical Portraiture for the Next Generation": 1,
-    "Match of the Day Top 10": 1,
-    "Arena - The Burger and the King": 1,
-    "My Mum Tracy Beaker": 1,
-    "Question Time - 2022: 27/01/2022 - Signed": 1,
-    "Kicked Out: From Care to Chaos": 1
+    "Jonas Kaufmann: Tenor for the Ages": 1,
+    "Northern Ireland Onscreen": 1,
+    "Ugly Me: My Life with Body Dysmorphia": 1,
+    "Bitesize Daily: 9-11 Year Olds - Teacher Talks: Maths - Angles": 1,
+    "Culture in Quarantine - Get Creative at Home Masterclasses: Clare Twomey": 1,
+    "Inspector Montalbano - Carousel": 1,
+    "Da Vinci: The Lost Treasure": 1,
+    "The Sky at Night - Mission To Jupiter": 1,
+    "Hey Duggee - Top of the Pups: Potty Song": 1,
+    "HyperNormalisation": 1,
+    "Bitesize Daily: 5-7 Year Olds - Wellbeing: Well-being - Sle": 1,
+    "Louis Theroux - Altered States:": 1,
+    "Sing! An Irish Christmas": 1,
+    "Miss World 1970: Beauty Queens and Bedlam": 1,
+    "Forensics: The Real CSI": 1,
+    "Question Time - 2022: 13/01/2022 - Signed": 1,
+    "Kids Ask Difficult Questions - Jim Carrey": 1,
+    "Empire of the Tsars: Romanov Russia with Lucy Worsley": 1,
+    "At Home with the Gettys": 1,
+    "Life of a Mountain - A Year on Scafell Pike - Signed": 1,
+    "Numberblocks - Numbersongs: Counting Cars": 1,
+    "Biggleton": 1,
+    "Stacey Dooley Investigates - Sex in Strange Places:": 1,
+    "CBeebies Presents - Stage Shows: The Snow Queen": 1
   }
 }
