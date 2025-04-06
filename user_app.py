@@ -198,31 +198,49 @@ def get_fair_recommendations(data):
 # Get Recommendations based on interested categories
 # -------------------------------
 
-def get_interest_based_recommendations(data, min_items=10):
-    liked_categories = set(
-        interaction[1]
-        for interaction in st.session_state.user_interactions
-        if len(interaction) > 2 and interaction[2] == "liked"
+def generate_interest_based_recommendations(data, user_interactions, min_items=10, overgenerate=40):
+    # Step 1: Get user-preferred genres
+    liked_categories = {
+        inter[1] for inter in user_interactions
+        if len(inter) > 2 and inter[2] == "liked"
+    }
+
+    # Step 2: Get more than needed collaborative recommendations
+    def normalize_interactions(interactions):
+        return [list(i) if len(i) == 4 else list(i) + [None] for i in interactions]
+
+    df = pd.DataFrame(
+        normalize_interactions(user_interactions),
+        columns=["title", "category", "interaction", "watch_percent"]
     )
 
-    # Filter collaborative data by liked categories
-    interest_recommendations = data[data["category"].isin(liked_categories)].drop_duplicates(subset="title")
+    liked_titles = df[df["interaction"] == "liked"]["title"].tolist()
+    watched_titles = {
+        row["title"]: row["watch_percent"] or 0
+        for _, row in df.iterrows() if row["interaction"] == "watched"
+    }
 
-    # If not enough, fill with content-based recs
+    similar_titles = get_similar_items(liked_titles, watched_titles, similarity_model, n=overgenerate)
+    collab_df = data[data["title"].isin(similar_titles)]
+
+    # Step 3: Filter by liked genres
+    interest_recommendations = collab_df[collab_df["category"].isin(liked_categories)]
+
+    # Step 4: Fill with content-based if fewer than needed
     if len(interest_recommendations) < min_items:
         needed = min_items - len(interest_recommendations)
-        content_based = get_content_based_recommendations(
-            data=data,
-            user_interactions={"user_interactions": st.session_state.user_interactions}
-        ).drop_duplicates(subset="title")
+        filler = get_content_based_recommendations(data, {"user_interactions": user_interactions})
+        filler = filler[filler["category"].isin(liked_categories)]
+        filler = filler[~filler["title"].isin(interest_recommendations["title"])]
+        interest_recommendations = pd.concat([interest_recommendations, filler]).drop_duplicates(subset="title")
 
-        # Remove already included ones
-        content_based = content_based[~content_based["title"].isin(interest_recommendations["title"])]
-        filler = content_based.head(needed)
-
-        interest_recommendations = pd.concat([interest_recommendations, filler], ignore_index=True)
+    # Step 5: Fairness re-ranking
+    if "relevance_score" not in interest_recommendations.columns:
+        interest_recommendations["relevance_score"] = 1.0
+    interest_recommendations = get_fair_recommendations(interest_recommendations)
 
     return interest_recommendations.head(min_items)
+
 
 
 # -------------------------------
@@ -241,7 +259,7 @@ similarity_model = load_similarity_model()
 
 import random
 
-def get_similar_items(user_likes, user_watches, model, n=10, overgenerate=30):
+def get_similar_items(user_likes, user_watches, model, n=10, overgenerate=40):
     if model.empty or (not user_likes and not user_watches):
         return []  # Return empty list if no data
 
@@ -407,9 +425,10 @@ def get_content_based_recommendations(data, user_interactions):
 def refresh_section(section_name):
     if 'current_rec_type' not in st.session_state:
         st.session_state.current_rec_type = "Recommendations based on what people like me watch"
-    
+
     current_rec_type = st.session_state.current_rec_type
-    
+
+    # Init sections if missing
     if 'sections' not in st.session_state:
         st.session_state.sections = {
             "For You": filtered_recommendations.head(10),
@@ -420,42 +439,54 @@ def refresh_section(section_name):
             "Diversity Spotlight": diverse_data.sample(10, replace=False)
         }
 
+    # Init offsets
     if 'recommendation_offsets' not in st.session_state:
-        st.session_state.recommendation_offsets = {"For You": 0, "Based on genres you like!": 0}
+        st.session_state.recommendation_offsets = {
+            "For You": 0,
+            "Based on genres you like!": 0
+        }
 
-    # Skip refreshing static sections
-    if section_name in ["Trending Now", "Most Watched"]:
-        return
-
+    # Log interaction as skipped for items in this section
     try:
         for _, row in st.session_state.sections[section_name].iterrows():
-            st.session_state.user_interactions.append((row['interaction'], "skipped"))
+            st.session_state.user_interactions.append((row['title'], row['category'], "skipped"))
     except:
         pass
 
     save_user_data()
 
-    if section_name in ["For You", "Based on genres you like!"]:
-        full_recommendations = generate_recommendations(current_rec_type, data, st.session_state.user_interactions).drop_duplicates()
+    # Handle dynamic sections
+    if section_name == "For You":
+        full_recommendations = generate_recommendations(
+            current_rec_type, data, st.session_state.user_interactions
+        ).drop_duplicates()
+    elif section_name == "Based on genres you like!":
+        # Always refresh the genre-based pool (instead of caching it)
+        st.session_state.genre_rec_pool = generate_interest_based_recommendations(
+            data, st.session_state.user_interactions, min_items=30
+        )
+        full_recommendations = st.session_state.genre_rec_pool
 
-        if section_name == "Based on genres you like!":
-            full_recommendations = get_interest_based_recommendations(full_recommendations)
-
-        offset = st.session_state.recommendation_offsets.get(section_name, 0)
-        if offset + 10 >= len(full_recommendations):
-            offset = 0
-
-        end_offset = min(offset + 10, len(full_recommendations))
-        new_recommendations = full_recommendations.iloc[offset:end_offset]
-        st.session_state.recommendation_offsets[section_name] = offset + 10
-
-    elif section_name ==  "Diversity Spotlight":
-        new_recommendations = diverse_data.sample(10, replace = False)
-
+    elif section_name == "Diversity Spotlight":
+        new_recommendations = diverse_data.sample(10, replace=False)
+        st.session_state.sections[section_name] = new_recommendations
+        return
     else:
         new_recommendations = data.sample(10, replace=True)
+        st.session_state.sections[section_name] = new_recommendations
+        return
 
+    # Paging logic
+    offset = st.session_state.recommendation_offsets.get(section_name, 0)
+    if offset + 10 >= len(full_recommendations):
+        offset = 0
+    end_offset = min(offset + 10, len(full_recommendations))
+    new_recommendations = full_recommendations.iloc[offset:end_offset].copy()
+    st.session_state.recommendation_offsets[section_name] = offset + 10
+
+    # Save result
     st.session_state.sections[section_name] = new_recommendations
+
 
 # -------------------------------
 # Generate Recommendations Based on Type of Filtering User Selects
@@ -699,7 +730,7 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
         # Update session_state with the new recommendations
         st.session_state.sections = {
             "For You": filtered_recommendations.head(10),
-            "Based on genres you like!": get_interest_based_recommendations(filtered_recommendations).head(10),
+            "Based on genres you like!": generate_interest_based_recommendations(data, st.session_state.user_interactions),
             "Trending Now": data[data["title"].isin(top_trending_titles)].head(10),
             "Most Watched": data[data["title"].isin(top_watched_titles)].head(10),
             "Random Selection": data.sample(10, replace=True),
@@ -718,6 +749,10 @@ elif st.session_state.recommendations_ready and st.session_state.selected_broadc
 
    
     for section_name, content in st.session_state.sections.items():
+        # ⚠️ Show warning if too few results in the genre section
+        if section_name == "Based on genres you like!" and len(content) < 3:
+            st.warning("Not enough items found for your liked genres — try exploring more content!")
+
         # Create a row with section title and refresh button
         col1, col2 = st.columns([0.8, 0.2])
         with col1:
