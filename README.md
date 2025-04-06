@@ -1,4 +1,11 @@
 # Assignment2_recomender_sys
+Repository can be found in - [link](https://github.com/amjadhz/Assignment2_recomender_sys) 
+## ✍️ Authors
+
+- Amjad Hwidy – [GitHub](https://github.com/amjadhz)
+- David Verboom – [GitHub](https://github.com/davidverboom)
+- Lena Verwilghen – [GitHub](https://github.com/Verwilghen)
+- Anna Grabowska – [GitHub](https://github.com/Ania2901)
 
 This repository contains the code for creating a recommender system as part of Assignment 2 in the Personalization course.
 

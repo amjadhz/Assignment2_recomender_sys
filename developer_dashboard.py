@@ -1,4 +1,6 @@
 import streamlit as st
+st.set_page_config(page_title="BBC Recommender Dashboard")
+
 import pandas as pd
 import json
 import os
@@ -74,7 +76,6 @@ st.session_state.synthetic_interactions = syn_interactions
 # -------------------------------
 # Streamlit Page Setup
 # -------------------------------
-st.set_page_config(page_title="BBC Recommender Dashboard")
 st.title("📊 BBC Recommender System - Developer Dashboard")
 
 # -------------------------------
@@ -93,7 +94,6 @@ with tab1:
     preferred_categories = [cat for cat, score in live_prefs.items() if score > 0]
     if preferred_categories:
         st.subheader("🔥Preferred Categories: ")
-        # st.success("🔥Preferred Categories: ")
         st.subheader("" + ", ".join(preferred_categories))
     else:
         st.info("No preferred categories found for the live user.")
@@ -108,6 +108,7 @@ with tab1:
 
     interaction_likes = sum(1 for i in live_interactions if len(i) > 2 and i[2] == "liked")
     interaction_dislikes = sum(1 for i in live_interactions if len(i) > 2 and i[2] == "disliked")
+    interaction_skipped = sum(1 for i in live_interactions if len(i) > 2 and i[2] == "skipped")
 
     live_likes = interaction_likes
     live_dislikes = interaction_dislikes
@@ -125,6 +126,7 @@ with tab1:
         st.metric("❌ Not Prefered Category", not_prefered_cata)
     with col3:
         st.metric("👁️ Watched (Live)", live_watched)
+        st.metric("⏭️ Skipped", interaction_skipped)
         
     # -------------------------------
     # Preferences Table
@@ -155,6 +157,7 @@ with tab1:
 ], columns=["Title", "Category", "Action", "Extra"] if any(len(i) > 3 for i in live_interactions) else ["Title", "Category", "Action"])
         like_df = df_live[df_live["Action"] == "liked"]
         dislike_df = df_live[df_live["Action"] == "disliked"]
+        skipped_df = df_live[df_live["Action"] == "skipped"] 
 
         st.subheader("👍 Likes per Category")
         if not like_df.empty:
@@ -181,6 +184,19 @@ with tab1:
             st.pyplot(fig)
         else:
             st.info("No dislikes yet.")
+        # ⏭️ Skipped Chart
+        st.subheader("⏭️ Skipped per Category")
+        if not skipped_df.empty:
+            skipped_counts = skipped_df["Category"].value_counts().sort_index()
+            fig, ax = plt.subplots()
+            sns.barplot(x=skipped_counts.index, y=skipped_counts.values, palette="pastel", ax=ax)
+            ax.set_title("Skipped Categories")
+            ax.set_xlabel("Category")
+            ax.set_ylabel("Count")
+            ax.tick_params(axis='x', rotation=45)
+            st.pyplot(fig)
+        else:
+            st.info("No skipped interactions yet.")
     else:
         st.warning("No interactions yet to analyze.")
 
