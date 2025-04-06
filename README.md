@@ -1,6 +1,6 @@
 # Assignment2_recomender_sys
 Repository can be found in - [link](https://github.com/amjadhz/Assignment2_recomender_sys) 
-## ✍️ Authors
+## ✍️ Contributors
 
 - Amjad Hwidy – [GitHub](https://github.com/amjadhz)
 - David Verboom – [GitHub](https://github.com/davidverboom)
